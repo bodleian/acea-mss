@@ -60,7 +60,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>169 ff.<dimensions type="photograph" unit="cm">
+                        <extent>169 ff. <dimensions type="photograph" unit="cm">
                               <height>16</height>
                               <width>10</width>
                            </dimensions>
@@ -81,12 +81,12 @@
                      <origDate calendar="#Gregorian" when="1804">1804</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1910-10-04">1910-10-04</date>don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1910-10-04">1910-10-04</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

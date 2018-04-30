@@ -42,7 +42,7 @@
                   <idno>MS. Wardr. e. 3</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Treatise on rhetoric by<persName>Mkhit'ar</persName>translated into Georgian by<persName>Antoni I</persName>in<date calendar="#Gregorian" when="1764">1764</date>
+                  <summary>Treatise on rhetoric by <persName>Mkhit'ar</persName> translated into Georgian by <persName>Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_3-item1" n="1">
                      
@@ -61,7 +61,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>105 ff.<dimensions type="leaf" unit="cm">
+                        <extent>105 ff. <dimensions type="leaf" unit="cm">
                               <height>21</height>
                               <width>16</width>
                            </dimensions>
@@ -81,16 +81,16 @@
                   <origin>
                      <origDate calendar="#Gregorian">19th c.</origDate>
                   </origin>
-                  <provenance>Bought from<persName>Areshidze, G.</persName>by<persName>Wardrop, J.O.</persName>in<name type="place">Tiflis</name>in<date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
+                  <provenance>Bought from <persName>Areshidze, G.</persName> by <persName>Wardrop, J.O.</persName> in <name type="place">Tiflis</name> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
                   </provenance>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1894-11-26">1894-11-26</date>by<persName>Wardrop, J.O.</persName>
+                     <date calendar="#Gregorian" when="1894-11-26">1894-11-26</date> by <persName>Wardrop, J.O.</persName>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

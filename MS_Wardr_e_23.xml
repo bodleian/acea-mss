@@ -43,7 +43,7 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>'Bezhaniani'</title>an episode from Firdausi's Shahnameh, tr. into Georgian quatrains by<persName>Turmanidze, Xosro</persName>
+                     <title>'Bezhaniani'</title> an episode from Firdausi's Shahnameh, tr. into Georgian quatrains by <persName>Turmanidze, Xosro</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_23-item1" n="1">
                      <author><persName>Turmanidze, Xosro</persName><persName>თურმანიძე, ხოსრო</persName></author>
@@ -60,7 +60,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>26 ff.<dimensions type="leaf" unit="cm">
+                        <extent>26 ff. <dimensions type="leaf" unit="cm">
                               <height>17</height>
                               <width>21</width>
                            </dimensions>
@@ -81,12 +81,12 @@
                      <origDate calendar="#Gregorian">19th c.</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1911-01-03">1911-01-03</date>Don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1911-01-03">1911-01-03</date> Don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

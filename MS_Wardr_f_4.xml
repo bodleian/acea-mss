@@ -42,7 +42,7 @@
                   <idno>MS. Wardr. f. 4</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Treatise on rhetoric by<persName>Mxit'ar</persName>tr. into Georgian by<persName>Archbishop Antoni I</persName>in<date calendar="#Gregorian" when="1764">1764</date>
+                  <summary>Treatise on rhetoric by <persName>Mxit'ar</persName> tr. into Georgian by <persName>Archbishop Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
                   </summary>
                   <msItem xml:id="MS_Wardr_f_4-item1" n="1">
                      <author><persName>Mxit'ar</persName></author>
@@ -65,7 +65,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>XX+362<dimensions type="photograph" unit="cm">
+                        <extent>XX+362 <dimensions type="photograph" unit="cm">
                               <height>16</height>
                               <width>11</width>
                            </dimensions>
@@ -86,12 +86,12 @@
                      <origDate calendar="#Gregorian" when="1804">1804</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1913-03-01">1913-03-01</date>don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1913-03-01">1913-03-01</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

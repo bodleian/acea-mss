@@ -59,7 +59,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>61 ff.<dimensions type="leaf" unit="cm">
+                        <extent>61 ff. <dimensions type="leaf" unit="cm">
                               <height>20</height>
                               <width>16</width>
                            </dimensions>
@@ -84,7 +84,7 @@
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

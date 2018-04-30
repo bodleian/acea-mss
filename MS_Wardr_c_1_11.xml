@@ -43,7 +43,7 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>'Dogovori Gruzii s Rossiei?'</title>Article by Prince<persName>Č'erk'ezišvili, Varlam</persName>
+                     <title>'Dogovori Gruzii s Rossiei?'</title> Article by Prince <persName>Č'erk'ezišvili, Varlam</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_c_1_11-item1" n="1">
                      <author><persName>Č'erk'ezišvili, Varlam</persName><persName>ჩერქეზიშვილი, ვარლამ</persName></author>
@@ -59,7 +59,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>58 ff.<dimensions type="leaf" unit="cm">
+                        <extent>58 ff. <dimensions type="leaf" unit="cm">
                               <height>20</height>
                               <width>16</width>
                            </dimensions>
@@ -80,12 +80,12 @@
                      <origDate calendar="#Gregorian">1894?-</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1914-11-10">1914-11-10</date>don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1914-11-10">1914-11-10</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

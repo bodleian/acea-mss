@@ -43,7 +43,7 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>Saomari</title>6 quatrains of a folk poem</summary>
+                     <title>Saomari</title> 6 quatrains of a folk poem</summary>
                   <msItem xml:id="MS_Wardr_c_1_4-item1" n="1">
                      
                      <editor role="copyist">
@@ -62,7 +62,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>1 f.<dimensions type="leaf" unit="cm">
+                        <extent>1 f. <dimensions type="leaf" unit="cm">
                               <height>25</height>
                               <width>20</width>
                            </dimensions>
@@ -83,12 +83,12 @@
                      <origDate calendar="#Gregorian">1894?</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1914-10-11">1914-10-11</date>don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1914-10-11">1914-10-11</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

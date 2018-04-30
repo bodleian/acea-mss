@@ -42,7 +42,7 @@
                   <idno>MS. Wardr. d. 26/4-</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Drafts of letters written by<persName>Wardrop, Marjory</persName>
+                  <summary>Drafts of letters written by <persName>Wardrop, Marjory</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_d_26.4--item1" n="1">
                      
@@ -84,7 +84,7 @@
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

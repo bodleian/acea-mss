@@ -42,7 +42,7 @@
                   <idno>MS. Wardr. d. 32-</idno>
                </msIdentifier>
                <msContents>
-                  <summary>'The Man in the Panther's Skin', a romantic epic by<persName>Shota Rustaveli</persName>a close rendering from the Georgian attempted by<persName>Wardrop, Marjory</persName>
+                  <summary>'The Man in the Panther's Skin', a romantic epic by <persName>Shota Rustaveli</persName> a close rendering from the Georgian attempted by <persName>Wardrop, Marjory</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_d_32--item1" n="1">
                      
@@ -88,7 +88,7 @@
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

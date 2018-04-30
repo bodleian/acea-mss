@@ -42,7 +42,7 @@
                   <idno>MS. Georg. b. I</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Menologion for March-August, followed by biographies of saintly women. Includes the Georgian version of the account of the sack of Jerusalem by the Persians in A.D. 614, composed by the monk<persName>Antiochus Strategus</persName>
+                  <summary>Menologion for March-August, followed by biographies of saintly women. Includes the Georgian version of the account of the sack of Jerusalem by the Persians in A.D. 614, composed by the monk <persName>Antiochus Strategus</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_b_I-item1" n="1">
                      <author><persName>Proxore</persName><persName>პროხორე</persName></author>
@@ -59,7 +59,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <extent>500 ff.<dimensions type="leaf" unit="cm">
+                        <extent>500 ff. <dimensions type="leaf" unit="cm">
                               <height>39</height>
                               <width>25</width>
                            </dimensions>
@@ -81,12 +81,12 @@
                   </origin>
                   <provenance>Bought by Wardrop Fund from Church Missionary Society</provenance>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1911-11-25">1911-11-25</date>don. Wardrop Fund</acquisition>
+                     <date calendar="#Gregorian" when="1911-11-25">1911-11-25</date> don. Wardrop Fund</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

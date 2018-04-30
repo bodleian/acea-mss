@@ -58,7 +58,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <extent>19 ff.<dimensions type="leaf" unit="cm">
+                        <extent>19 ff. <dimensions type="leaf" unit="cm">
                               <height>17</height>
                               <width>27</width>
                            </dimensions>
@@ -78,13 +78,13 @@
                   <origin>
                      <origDate calendar="#Gregorian">Gregorian</origDate>
                   </origin>
-                  <acquisition>Don<date calendar="#Gregorian" when="1894-10-19">1894-10-19</date>
+                  <acquisition>Don <date calendar="#Gregorian" when="1894-10-19">1894-10-19</date>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

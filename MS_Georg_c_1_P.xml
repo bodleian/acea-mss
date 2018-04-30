@@ -50,7 +50,7 @@
                      
                      <listBibl>
                         <bibl>
-                           <persName>Blake R.P</persName>in 'Khanmeti palimpsest fragments of the Old Georgian version of Jeremiah [Wardr.2.100]</bibl>
+                           <persName>Blake R.P</persName> in 'Khanmeti palimpsest fragments of the Old Georgian version of Jeremiah [Wardr.2.100]</bibl>
                         <bibl>CWC, 305</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
@@ -60,7 +60,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <extent>1 f.<dimensions type="leaf" unit="cm"/>
+                        <extent>1 f. <dimensions type="leaf" unit="cm"/>
                         </extent>
                      </supportDesc>
                      <layoutDesc>
@@ -77,12 +77,12 @@
                   <origin>
                      <origDate calendar="#Gregorian">Gregorian</origDate>
                   </origin>
-                  <acquisition>Acquired in<date calendar="#Gregorian">1894</date>from<persName>Rabbi S. Wertheimer</persName>in<placeName>Jerusalem</placeName>almost certainly from Genizah in Cairo</acquisition>
+                  <acquisition>Acquired in <date calendar="#Gregorian">1894</date> from <persName>Rabbi S. Wertheimer</persName> in <placeName>Jerusalem</placeName> almost certainly from Genizah in Cairo</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

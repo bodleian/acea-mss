@@ -42,7 +42,7 @@
                   <idno>MS. Wardr. f. 2</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Geography<title>Mokled gamochineba garemos kveqnisa</title>
+                  <summary>Geography <title>Mokled gamochineba garemos kveqnisa</title>
                   </summary>
                   <msItem xml:id="MS_Wardr_f_2-item1" n="1">
                      
@@ -60,7 +60,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>83 ff.<dimensions type="photograph" unit="cm">
+                        <extent>83 ff. <dimensions type="photograph" unit="cm">
                               <height>16</height>
                               <width>10</width>
                            </dimensions>
@@ -80,16 +80,16 @@
                   <origin>
                      <origDate calendar="#Gregorian">1775</origDate>
                   </origin>
-                  <provenance>Bought by J.O. Wardrop from<persName>Medjid-il-Saltane</persName>
+                  <provenance>Bought by J.O. Wardrop from <persName>Medjid-il-Saltane</persName>
                      <date calendar="#Gregorian" when="1911-06-02">1911-06-02</date>
                   </provenance>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

@@ -42,7 +42,7 @@
                   <idno>MS. Wardr. f. 6</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Chronicle of the Monastery of St. John the Baptist at Gareja<title>Jvaršemosili</title>
+                  <summary>Chronicle of the Monastery of St. John the Baptist at Gareja <title>Jvaršemosili</title>
                   </summary>
                   <msItem xml:id="MS_Wardr_f_6-item1" n="1">
                      <author><persName>Gabriel Garejeli</persName><persName>გაბრიელ გარეჯელი</persName></author>
@@ -60,7 +60,7 @@
                <physDesc>
                   <objectDesc form="leaf">
                      <supportDesc material="chart">
-                        <extent>248 ff.<dimensions type="leaf" unit="cm">
+                        <extent>248 ff. <dimensions type="leaf" unit="cm">
                               <height>16</height>
                               <width>10</width>
                            </dimensions>
@@ -81,12 +81,12 @@
                      <origDate calendar="#Gregorian" when="1798">1798</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1910-10-10">1910-10-10</date>don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1910-10-10">1910-10-10</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>
