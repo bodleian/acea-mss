@@ -75,7 +75,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">11/12th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1000" notAfter="1200">11/12th c.</origDate>
                   </origin>
                   <provenance>
                      <persName>Wardrop, J.O.</persName> from <persName>Haarrassowitz, O.</persName> in <name type="place">Leipzig</name> in 1909</provenance>

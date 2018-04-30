@@ -81,7 +81,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">17th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th c.</origDate>
                   </origin>
                   <acquisition>8.10.1911; presented to the library by <persName>Prince Giorgi Ceret'eli</persName> through <persName>Princess Venera Ceret'eli</persName>
                   </acquisition>

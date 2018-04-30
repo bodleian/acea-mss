@@ -81,7 +81,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">2nd half od the 17th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1650" notAfter="1700">2nd half of the 17th c.</origDate>
                   </origin>
                   <acquisition>21.2.1949, purchased from the executors of Sir Bernard Eckstein, the Marjory Wardrop Fund contributed half the cost</acquisition>
                </history>

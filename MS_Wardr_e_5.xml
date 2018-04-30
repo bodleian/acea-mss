@@ -80,7 +80,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">19th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
                   <provenance>Bought from J.O. Wardrop on <date calendar="#Gregorian" when="1911-01-31">1911-01-31</date> from <persName>Merkviladze, Sosiko</persName>
                   </provenance>

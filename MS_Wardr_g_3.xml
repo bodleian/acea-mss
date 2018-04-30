@@ -79,10 +79,10 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">18th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1700" notAfter="1800">18th c.</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1913-01-03">Gregorian</date> don. J.O. Wardrop</acquisition>
+                     <date calendar="#Gregorian" when="1913-01-03">1913</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>
                   <adminInfo>

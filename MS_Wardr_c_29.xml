@@ -85,9 +85,7 @@
                   </handDesc>
                </physDesc>
                <history>
-                  <origin>
-                     <origDate calendar="#Gregorian">Gregorian</origDate>
-                  </origin>
+                  <origin>Undated</origin>
                   <acquisition>
                      <date calendar="#Gregorian" when="1929-02">1929-02</date>
                      <persName>Wardrop, John Oliver, Sir.</persName>

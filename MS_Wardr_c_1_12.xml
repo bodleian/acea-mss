@@ -82,7 +82,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1894</origDate>
+                     <origDate calendar="#Gregorian" when="1894">1894</origDate>
                   </origin>
                   <acquisition>
                      <date calendar="#Gregorian" when="1914-11-10">1914-11-10</date> don. J.O. Wardrop</acquisition>

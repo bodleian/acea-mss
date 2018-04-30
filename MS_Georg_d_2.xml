@@ -77,7 +77,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">14th century</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1300" notAfter="1400">14th century</origDate>
                   </origin>
                   <provenance>Bought from the Church Missionary Society by the Wardrop Fund</provenance>
                   <acquisition>

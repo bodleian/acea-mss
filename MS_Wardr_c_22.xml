@@ -82,7 +82,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1893-1895</origDate>
+                     <origDate calendar="#Gregorian" from="1893" to="1895">1893-1895</origDate>
                   </origin>
                   <acquisition>13.08.32 Don. J. O. Wardrop</acquisition>
                </history>

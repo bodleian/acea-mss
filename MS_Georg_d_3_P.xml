@@ -70,7 +70,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">11th/12th c.?</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1000" notAfter="1200">11th/12th c.?</origDate>
                   </origin>
                </history>
                <additional>

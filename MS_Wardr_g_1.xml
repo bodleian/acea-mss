@@ -100,9 +100,7 @@
                   </handDesc>
                </physDesc>
                <history>
-                  <origin>
-                     <origDate calendar="#Gregorian">Gregorian</origDate>
-                  </origin>
+                  <origin>Undated</origin>
                   <acquisition>
                      <date calendar="#Gregorian" when="1913-03-01">1913-03-01</date> don. J.O. Wardrop</acquisition>
                </history>

@@ -76,7 +76,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">20 May, 1931</origDate>
+                     <origDate calendar="#Gregorian" when="1931-05-20">20 May, 1931</origDate>
                   </origin>
                   <acquisition>22.7.1931, don J.O. Wardrop</acquisition>
                </history>

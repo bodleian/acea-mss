@@ -75,9 +75,7 @@
                   </handDesc>
                </physDesc>
                <history>
-                  <origin>
-                     <origDate calendar="#Gregorian">Gregorian</origDate>
-                  </origin>
+                  <origin>Undated</origin>
                   <acquisition>Don <date calendar="#Gregorian" when="1894-10-19">1894-10-19</date>
                   </acquisition>
                </history>

@@ -74,10 +74,8 @@
                   </handDesc>
                </physDesc>
                <history>
-                  <origin>
-                     <origDate calendar="#Gregorian">Gregorian</origDate>
-                  </origin>
-                  <acquisition>Acquired in <date calendar="#Gregorian">1894</date> from <persName>Rabbi S. Wertheimer</persName> in <placeName>Jerusalem</placeName> almost certainly from Genizah in Cairo</acquisition>
+                  <origin>Undated</origin>
+                  <acquisition>Acquired in <date calendar="#Gregorian" when="1894">1894</date> from <persName>Rabbi S. Wertheimer</persName> in <placeName>Jerusalem</placeName> almost certainly from Genizah in Cairo</acquisition>
                </history>
                <additional>
                   <adminInfo>

@@ -77,10 +77,10 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">13th c.?</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1200" notAfter="1300">13th c.?</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian">1970</date> don. <persName>Lloyd W.Daly</persName>
+                     <date calendar="#Gregorian" when="1970">1970</date> don. <persName>Lloyd W.Daly</persName>
                   </acquisition>
                </history>
                <additional>

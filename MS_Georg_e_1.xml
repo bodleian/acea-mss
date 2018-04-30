@@ -81,7 +81,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1784</origDate>
+                     <origDate calendar="#Gregorian" when="1784">1784</origDate>
                   </origin>
                </history>
                <additional>

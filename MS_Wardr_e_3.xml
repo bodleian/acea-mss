@@ -79,7 +79,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">19th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
                   <provenance>Bought from <persName>Areshidze, G.</persName> by <persName>Wardrop, J.O.</persName> in <name type="place">Tiflis</name> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
                   </provenance>

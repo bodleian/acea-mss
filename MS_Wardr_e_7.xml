@@ -80,7 +80,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">19th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
                   <acquisition>
                      <date calendar="#Gregorian" when="1910-04-10">1910-04-10</date> by <persName>Wardrop, J.O.</persName>
