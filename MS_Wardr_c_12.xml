@@ -47,9 +47,7 @@
                   <msItem xml:id="MS_Wardr_c_12-item1" n="1">
                      <locus>ff. 3(18)-25(40)</locus>
                      <author><persName>Arč'il I</persName><persName>არჩილ I</persName></author>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
                      <title xml:lang="ka-Latn-x-lc">Arč'iliani</title>
                      <title xml:lang="ka">არჩილიანი</title>
                      <listBibl>
@@ -60,12 +58,10 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_c_12-item2" n="2">
                      <locus>ff. 26-32</locus>
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Miscellaneous verses</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 311</bibl>
                      </listBibl>

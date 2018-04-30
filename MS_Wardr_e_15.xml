@@ -44,10 +44,8 @@
                <msContents>
                   <summary>Tales from 'Gvirgvini'</summary>
                   <msItem xml:id="MS_Wardr_e_15-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Gvirgvini</title>
                      <title xml:lang="ka">გვირგვინი</title>
                      <listBibl>

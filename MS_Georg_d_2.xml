@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Typicon of the Georgian Monastery of the Holy Cross Near Jerusalem</summary>
                   <msItem xml:id="MS_Georg_d_2-item1" n="1">
-                     <author/>
-                     <editor role="translator">
-                        <persName xml:lang="ar"/>
-                     </editor>
-                     <title xml:lang="ka-Latn-x-lc"/>
-                     <title xml:lang="ka"/>
+                     
+                     
+                     
+                     
                      <listBibl>
                         <bibl>G. Peradze, "Georgian manuscripts in England", in Georgica, vol. 1, no. 1, 1935 [Wardr.15.211/1]</bibl>
                         <bibl>CWC, 305</bibl>

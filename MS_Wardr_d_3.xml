@@ -48,10 +48,10 @@
                      <author><persName>Vaxtang VI</persName><persName>ვახტანგ VI</persName></author>
                      <editor role="standard">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of King Vaxtang</title>
-                     <title xml:lang="en"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>
@@ -62,10 +62,10 @@
                      <author><persName>Vaxtang VI</persName></author>
                      <editor role="translated">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of King Vaxtang</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>
@@ -73,13 +73,13 @@
                      <note>Translated from the Russian version by A.S. Frenkel, [Wardr.10.49]</note>
                   </msItem>
                   <msItem xml:id="MS_Wardr_d_3-item3" n="3">
-                     <author/>
+                     
                      <editor role="standard">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of King Giorgi</title>
-                     <title xml:lang="en"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>
@@ -87,13 +87,13 @@
                      <note>Transcription of MS. Wardr. c. 13, pp. 634-656</note>
                   </msItem>
                   <msItem xml:id="MS_Wardr_d_3-item4" n="4">
-                     <author/>
+                     
                      <editor role="translator">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of King Giorgi</title>
-                     <title xml:lang="en"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>
@@ -104,10 +104,10 @@
                      <author><persName>Aġbuġa I Jaqeli</persName><persName>აღბუღა I ჯაყელი</persName></author>
                      <editor role="standard">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of Aġbuġa</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>
@@ -118,10 +118,10 @@
                      <author><persName>Aġbuġa I Jaqeli</persName><persName>აღბუღა ჯაყელი</persName></author>
                      <editor role="translator">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of Aġbuġa</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>
@@ -129,13 +129,13 @@
                      <note>English translation of the 'Laws of Aġbuġa'</note>
                   </msItem>
                   <msItem xml:id="MS_Wardr_d_3-item7" n="7">
-                     <author/>
+                     
                      <editor role="standard">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of the Catholicos</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>
@@ -143,13 +143,13 @@
                      <note>Transcription of MS. Wardr. c. 13</note>
                   </msItem>
                   <msItem xml:id="MS_Wardr_d_3-item8" n="8">
-                     <author/>
+                     
                      <editor role="translator">
                         <persName>Wardrop, John Oliver, Sir</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Laws of the Catholicos</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>

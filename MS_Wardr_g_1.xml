@@ -46,10 +46,8 @@
                   <msItem xml:id="MS_Wardr_g_1-item1" n="1">
                      <locus from="2" to="21">2-21 ff</locus>
                      <locus from="28" to="30">28-30 ff</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
                      <title xml:lang="ka">დაუჯდომელი</title>
                      <listBibl>
@@ -60,10 +58,8 @@
                   <msItem xml:id="MS_Wardr_g_1-item2" n="2">
                      <locus from="22" to="26">22-26 ff</locus>
                      <locus from="31" to="35">31-35 ff</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Paraklisi</title>
                      <title xml:lang="ka">პარაკლისი</title>
                      <incipit>პარაკლისი ახლად თარგმნილი ბერძულისაგან</incipit>
@@ -74,10 +70,8 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_g_1-item3" n="3">
                      <locus from="27" to="27">27</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Prayer</title>
                      <title xml:lang="ka">ლოცვა</title>
                      <listBibl>

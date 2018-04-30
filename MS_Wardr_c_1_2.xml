@@ -45,11 +45,9 @@
                   <summary>Poem by<persName>Ceretʻeli, Akaki</persName>seven 4-line stanzas</summary>
                   <msItem xml:id="MS_Wardr_c_1_2-item1" n="1">
                      <author><persName>Ceretʻeli Akaki</persName></author>
-                     <editor role="unknown">
-                        <persName xml:lang="ar"/>
-                     </editor>
-                     <title xml:lang="ka-Latn-x-lc"/>
-                     <title xml:lang="ka"/>
+                     
+                     
+                     
                      <incipit>Zvarit, culdit da matraxit locvit da dedis ginebit...'</incipit>
                      <listBibl>
                         <bibl>CWC, 306</bibl>

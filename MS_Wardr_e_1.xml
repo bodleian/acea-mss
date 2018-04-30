@@ -44,22 +44,18 @@
                <msContents>
                   <summary>Life of St. Nisime</summary>
                   <msItem xml:id="MS_Wardr_e_1-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="en-Latn-x-lc">Life of St. Nisime</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_1-item2" n="2">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">c'xovreba da mok'alak'eoba evp'emianesi da żisa misisa alek'sisa kac'isa ġvt'isa</title>
                      <title xml:lang="ka">ცხოვრება და მოქალაქეობა ევფემიანესი და ძისა მისისა ალექსისა კაცისა ღვთისა</title>
                      <listBibl>
@@ -68,22 +64,18 @@
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_1-item3" n="3">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="en-Latn-x-lc">Acrostic on the name Aleksi, followed by a prayer for the scribe Zirak'i</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_1-item4" n="4">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">galoba moc'ik'ulisa</title>
                      <title xml:lang="ka">გალობა მოციქულისა</title>
                      <listBibl>

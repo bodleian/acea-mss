@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Part of a Gospel Lectionary</summary>
                   <msItem xml:id="MS_Georg_d_4-item1" n="1">
-                     <author/>
-                     <editor role="translator">
-                        <persName xml:lang="ar"/>
-                     </editor>
-                     <title xml:lang="ka-Latn-x-lc"/>
-                     <title xml:lang="ka"/>
+                     
+                     
+                     
+                     
                      <incipit>'-rulos tkmli igi esaia ccqlisay rlsa itqws'</incipit>
                      <listBibl>
                         <bibl>CWC. 305-6</bibl>

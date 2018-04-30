@@ -50,7 +50,7 @@
                         <persName xml:lang="ar">ყორღანოვი, მოსე</persName>
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Code of King Vaxtang VI</title>
-                     <title xml:lang="ka"/>
+                     
                      <incipit>თქმული და ნაღუაწი და ნასიბრძნი მეფის ვახტანგისა...</incipit>
                      <listBibl>
                         <bibl>CWC, 342</bibl>
@@ -58,13 +58,13 @@
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_8-item2" n="2">
-                     <author/>
+                     
                      <editor role="scribe">
                         <persName>Qorganovi, Mose</persName>
                         <persName xml:lang="ar">ყორღანოვი, მოსე</persName>
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Fragment of medical information for women</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 342</bibl>
                      </listBibl>

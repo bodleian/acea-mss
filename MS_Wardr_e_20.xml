@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Part of a catechism</summary>
                   <msItem xml:id="MS_Wardr_e_20-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="en-Latn-x-lc">Catechism</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 343</bibl>
                      </listBibl>

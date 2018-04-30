@@ -46,42 +46,34 @@
                   <msItem xml:id="MS_Wardr_g_5-item1" n="1">
                      <locus from="2" to="18r">2-18r ff</locus>
                      <locus from="19v" to="30v">19v-30v ff</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
                      <title xml:lang="ka">დაუჯდომელი</title>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_g_5-item2" n="2">
                      <locus from="33" to="55">33-55 ff</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Paraklisi</title>
                      <title xml:lang="ge">პარაკლისი</title>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_g_5-item3" n="3">
                      <locus from="18v" to="19r">18v-19r</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Russian-Georgian word-list</title>
-                     <title xml:lang="ge"/>
+                     
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_g_5-item4" n="4">
                      <locus from="31" to="32">31-32 ff</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">The Lord's Prayer and other prayers</title>
-                     <title xml:lang="ge"/>
+                     
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                </msContents>

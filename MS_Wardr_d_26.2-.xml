@@ -46,12 +46,10 @@
                   </summary>
                   <msItem xml:id="MS_Wardr_d_26.2--item1" n="1">
                      <author><persName>Beridze, Venera</persName><persName>ბერიძე, ვენერა</persName></author>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
                      <title xml:lang="en-Latn-x-lc">Correspondance of M. Wardrop. Letters and postcards from<persName>Beridze, Venera</persName>
                      </title>
-                     <title xml:lang="en"/>
+                     
                      <listBibl>
                         <bibl>CWC, 325</bibl>
                      </listBibl>

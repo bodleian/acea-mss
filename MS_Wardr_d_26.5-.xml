@@ -46,11 +46,9 @@
                   </summary>
                   <msItem xml:id="MS_Wardr_d_26.5--item1" n="1">
                      <author><persName>Wardrop, Marjory</persName></author>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
-                     <title xml:lang="en-Latn-x-lc"/>
-                     <title xml:lang="en"/>
+                     
+                     
+                     
                      <listBibl>
                         <bibl>CWC, 326</bibl>
                      </listBibl>

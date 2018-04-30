@@ -44,14 +44,14 @@
                <msContents>
                   <summary>Translations, drafts and notes by<persName>Wardrop, John Oliver, Sir</persName>and<persName>Wardrop, Marjory</persName>33 items</summary>
                   <msItem xml:id="MS_Wardr_c_26-item1" n="1">
-                     <author/>
+                     
                      <editor role="standard">
                         <persName>Wardrop, John Oliver, Sir</persName>
                         <persName>Wardrop, Marjory</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
-                     <title xml:lang="en-Latn-x-lc"/>
-                     <title xml:lang="en"/>
+                     
+                     
                      <listBibl>
                         <bibl>CWC. 314-15</bibl>
                      </listBibl>

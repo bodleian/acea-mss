@@ -45,12 +45,10 @@
                   <summary>
                      <title>Omaian Cabuki</title>(incomplete)</summary>
                   <msItem xml:id="MS_Wardr_c_1_7-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Omaian Cabuki</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 307</bibl>
                      </listBibl>

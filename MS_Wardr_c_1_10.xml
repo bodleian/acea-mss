@@ -46,11 +46,9 @@
                   <summary>Georgian-English word-list(unfinished)</summary>
                   <msItem xml:id="MS_Wardr_c_1_10-item1" n="1">
                      <author><persName>Wardrop, Marjory</persName></author>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
                      <title xml:lang="en-Latn-x-lc">Georgian-English word-list</title>
-                     <title xml:lang="en"/>
+                     
                      <listBibl>
                         <bibl>CWC, 307</bibl>
                      </listBibl>

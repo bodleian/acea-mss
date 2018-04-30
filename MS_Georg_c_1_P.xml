@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Fragment of a palimsest leaf, the under-writing [c. 8th cent.] comprising Old Georgian version of Jeremiah xvii. 26 - xviii.8.</summary>
                   <msItem xml:id="MS_Georg_c_1_P-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
-                     <title xml:lang="ka-Latn-x-lc"/>
-                     <title xml:lang="ka"/>
+                     
+                     
+                     
+                     
                      <listBibl>
                         <bibl>
                            <persName>Blake R.P</persName>in 'Khanmeti palimpsest fragments of the Old Georgian version of Jeremiah [Wardr.2.100]</bibl>

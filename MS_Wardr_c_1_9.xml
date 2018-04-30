@@ -44,13 +44,13 @@
                <msContents>
                   <summary>Petition of the Georgian Church presented to the Viceroy of the Caucasus</summary>
                   <msItem xml:id="MS_Wardr_c_1_9-item1" n="1">
-                     <author/>
+                     
                      <editor role="translator">
                         <persName>Wardrop, Marjory</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Petition of the Georgian Church presented to the Viceroy of the Caucasus</title>
-                     <title xml:lang="en"/>
+                     
                      <listBibl>
                         <bibl>CWC, 307</bibl>
                      </listBibl>

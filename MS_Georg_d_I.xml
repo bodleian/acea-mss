@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Writing exersises</summary>
                   <msItem xml:id="MS_Georg_d_I-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Minusi kartulisa enisa</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 305</bibl>
                      </listBibl>

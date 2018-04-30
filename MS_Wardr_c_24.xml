@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Papers related to the Marjory Wardrop Collection: letters, inventories of books, newspapers and mss, bookbinder's bills</summary>
                   <msItem xml:id="MS_Wardr_c_24-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
-                     <title xml:lang="en-Latn-x-lc"/>
-                     <title xml:lang="en"/>
+                     
+                     
+                     
+                     
                      <listBibl>
                         <bibl>CWC, 313</bibl>
                      </listBibl>

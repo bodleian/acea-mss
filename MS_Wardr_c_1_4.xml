@@ -45,13 +45,13 @@
                   <summary>
                      <title>Saomari</title>6 quatrains of a folk poem</summary>
                   <msItem xml:id="MS_Wardr_c_1_4-item1" n="1">
-                     <author/>
+                     
                      <editor role="copyist">
                         <persName>Wardrop, Marjory</persName>
-                        <persName xml:lang="ar"/>
+                        
                      </editor>
                      <title xml:lang="ka-Latn-x-lc">Saomari (mtiuri leksi XVIII saukunis)'</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 306</bibl>
                      </listBibl>

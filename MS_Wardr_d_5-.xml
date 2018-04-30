@@ -45,12 +45,10 @@
                <msContents>
                   <summary>'Oppozicia' No. 4, Dec. 1894. Journal secretly prepared by and circulated amongst the boys of Kutais grammar school: copy specially written for M. and O. Wardrop when they visited Kutais in Dec. 1894</summary>
                   <msItem xml:id="MS_Wardr_d_5--item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">'Oppozicia' 4 (1894)</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 320</bibl>
                      </listBibl>

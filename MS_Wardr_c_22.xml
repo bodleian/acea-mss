@@ -44,13 +44,13 @@
                <msContents>
                   <summary>Translation of the Georgian folk tales</summary>
                   <msItem xml:id="MS_Wardr_c_22-item1" n="1">
-                     <author/>
+                     
                      <editor role="standard">
                         <persName>J. O. Wadrop</persName>
                         <persName xml:lang="ar">J. O. Wardrop</persName>
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Georgian folk tales</title>
-                     <title xml:lang="en"/>
+                     
                      <listBibl>
                         <bibl>CWC, 312</bibl>
                      </listBibl>

@@ -45,10 +45,8 @@
                   <summary>Life of Aesop, followed by 40 fables</summary>
                   <msItem xml:id="MS_Wardr_f_3-item1" n="1">
                      <locus>f. 1-52</locus>
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">C'xovreba modgmit'i da goneba maxvilisa esopesni</title>
                      <title xml:lang="ka">ცხოვრება მოდგმითი გონება მახვილისა ესოპესნი</title>
                      <listBibl>
@@ -58,10 +56,8 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_f_3-item2" n="2">
                      <locus>f. 53-75</locus>
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">igavni esope brżnisani</title>
                      <title xml:lang="ka">იგავნი ესოპე ბრძნისანი</title>
                      <listBibl>

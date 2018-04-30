@@ -46,9 +46,7 @@
                   </summary>
                   <msItem xml:id="MS_Wardr_e_18-item1" n="1">
                      <author><persName>Pseudo-Callisthenes</persName></author>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
                      <title xml:lang="ka-Latn-x-lc">Istoria Alek'sandres mep'isa Makedoniisa</title>
                      <title xml:lang="ka">ისტორია ალექსანდრეს მეფისა მაკედონიისა</title>
                      <textLang mainLang="ka">Georgian</textLang>

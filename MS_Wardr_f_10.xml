@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Photographic plates of unidentified Georgian MSS</summary>
                   <msItem xml:id="MS_Wardr_f_10-item1" n="1">
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
-                     <title xml:lang="ka-Latn-x-lc"/>
-                     <title xml:lang="ka"/>
+                     
+                     
+                     
+                     
                      <listBibl>
                         <bibl>CWC, 346</bibl>
                      </listBibl>

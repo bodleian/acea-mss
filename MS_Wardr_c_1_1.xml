@@ -45,12 +45,10 @@
                   <summary>
                      <title>Mcevris shvili</title>A Georgian fol-tale</summary>
                   <msItem xml:id="MS_Wardr_c_1_1-item1" n="1">
-                     <author/>
-                     <editor role="unknown">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Mcevris Shvili</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 306</bibl>
                      </listBibl>

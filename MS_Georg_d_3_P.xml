@@ -44,12 +44,10 @@
                <msContents>
                   <summary>Fragments from a binding. Two half-sheets from a Georgian liturgical manuscript, comprising portions of the commemoration of the martyr<persName>St. Babylas</persName>bishop of Antioch</summary>
                   <msItem xml:id="MS_Georg_d_3_P-item1" n="1">
-                     <author/>
-                     <editor role="translator">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="en-Latn-x-lc">Martyrdom of St. Babylas</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 305</bibl>
                      </listBibl>

@@ -47,11 +47,9 @@
                   </summary>
                   <msItem xml:id="MS_Wardr_c_1_11-item1" n="1">
                      <author><persName>Č'erk'ezišvili, Varlam</persName><persName>ჩერქეზიშვილი, ვარლამ</persName></author>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
                      <title xml:lang="ru-Latn-x-lc">'Dogovori Gruzii s Rossiei?'</title>
-                     <title xml:lang="ru"/>
+                     
                      <listBibl>
                         <bibl>CWC, 307</bibl>
                      </listBibl>

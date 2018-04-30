@@ -46,11 +46,9 @@
                   <summary>Notebook of<persName>Wardrop, Marjory</persName>with Georgian wordlist, fragments of translation</summary>
                   <msItem xml:id="MS_Wardr_f_11-item1" n="1">
                      <author><persName>Wardrop, Marjory</persName></author>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
                      <title xml:lang="ka-Latn-x-lc">Georgian wordlist</title>
-                     <title xml:lang="ka"/>
+                     
                      <textLang mainLang="en">Georgian, English</textLang>
                   </msItem>
                </msContents>

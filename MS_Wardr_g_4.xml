@@ -44,10 +44,8 @@
                <msContents>
                   <summary>Hymns</summary>
                   <msItem xml:id="MS_Wardr_g_4-item1" n="1">
-                     <author/>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
                      <title xml:lang="ka">დაუჯდომელი</title>
                      <listBibl>

@@ -47,10 +47,8 @@
                   </summary>
                   <msItem xml:id="MS_Wardr_g_2-item1" n="1">
                      <locus from="1" to="42"/>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Kalvažiani</title>
                      <title xml:lang="ka">ქალვაჟიანი</title>
                      <listBibl>
@@ -61,12 +59,10 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_g_2-item2" n="2">
                      <locus from="43">43</locus>
-                     <author/>
-                     <editor role="scribe">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
+                     
                      <title xml:lang="ka-Latn-x-lc">Hymn</title>
-                     <title xml:lang="ka"/>
+                     
                      <incipit>ასო სამღერალი და ჭეშმარიტი დანიელისაგან და იმონისაგან და ალექსანდრესაგან</incipit>
                      <listBibl>
                         <bibl>CWC, 347</bibl>

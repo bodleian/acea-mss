@@ -46,11 +46,9 @@
                   <summary>'Georgia of the Caucasus': article by A. R. Dryhurst</summary>
                   <msItem xml:id="MS_Wardr_c_1_35-item1" n="1">
                      <author><persName>A. R. Dryhurst</persName></author>
-                     <editor role="standard">
-                        <persName xml:lang="ar"/>
-                     </editor>
+                     
                      <title xml:lang="en-Latn-x-lc">Georgia of the Caucasus</title>
-                     <title xml:lang="en"/>
+                     
                      <textLang mainLang="en">English</textLang>
                      <note>This article was published in The Women's Tribune, 24 July 1906</note>
                   </msItem>

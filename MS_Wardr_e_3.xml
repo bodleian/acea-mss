@@ -45,13 +45,13 @@
                   <summary>Treatise on rhetoric by<persName>Mkhit'ar</persName>translated into Georgian by<persName>Antoni I</persName>in<date calendar="#Gregorian" when="1764">1764</date>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_3-item1" n="1">
-                     <author/>
+                     
                      <editor role="translator">
                         <persName>Antoni I</persName>
                         <persName xml:lang="ar">ანტონი I</persName>
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Treatise on Rhetoric</title>
-                     <title xml:lang="ka"/>
+                     
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>
