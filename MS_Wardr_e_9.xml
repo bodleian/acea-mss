@@ -46,7 +46,7 @@
                      <title>Life of St. Andrew Salus</title>by the presbyter<persName>Nicephorus of Constantinople</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_9-item1" n="1">
-                     <author>Nicephorus of Constantinople</author>
+                     <author><persName>Nicephorus of Constantinople</persName></author>
                      <editor role="scribe">
                         <persName>Ilarion</persName>
                         <persName xml:lang="ka">ილარიონ</persName>

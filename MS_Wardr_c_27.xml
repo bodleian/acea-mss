@@ -44,7 +44,7 @@
                <msContents>
                   <summary>Correspondances of<persName>Wardrop, John Oliver, Sir</persName>relating to Georgia</summary>
                   <msItem xml:id="MS_Wardr_c_27-item1" n="1">
-                     <author>Wardrop, John Oliver, Sir</author>
+                     <author><persName>Wardrop, John Oliver, Sir</persName></author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>

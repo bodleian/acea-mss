@@ -45,7 +45,7 @@
                   <summary>Account of travels in Europe, 1713-15, by<persName>Orbeliani, Sulxan-Saba</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_14-item1" n="1">
-                     <author>Orbeliani, Sulxan-Sabaორბელიანი, სულხან-საბა</author>
+                     <author><persName>Orbeliani, Sulxan-Saba</persName><persName>ორბელიანი, სულხან-საბა</persName></author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>

@@ -44,7 +44,11 @@
                <msContents>
                   <summary>The Knight in the Panther's Skin</summary>
                   <msItem xml:id="MS_Wardr_d_17-item1" n="1">
-                     <author key="n 80032198" ref="http://viaf.org/viaf/267123512">Rustaveli, Shota, active 12th century-13th centuryŠot'a Rust'aveliშოთა რუსთაველი</author>
+                     <author ref="http://viaf.org/viaf/267123512">
+                        <persName>Rustaveli, Shota, active 12th century-13th century</persName>
+                        <persName>Šot'a Rust'aveli</persName>
+                        <persName>შოთა რუსთაველი</persName>
+                     </author>
                      <editor role="copyist">
                         <persName xml:lang="ar"/>
                      </editor>

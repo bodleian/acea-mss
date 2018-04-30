@@ -46,7 +46,7 @@
                      <title>'Bezhaniani'</title>an episode from Firdausi's Shahnameh, tr. into Georgian quatrains by<persName>Turmanidze, Xosro</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_23-item1" n="1">
-                     <author>Turmanidze, Xosroთურმანიძე, ხოსრო</author>
+                     <author><persName>Turmanidze, Xosro</persName><persName>თურმანიძე, ხოსრო</persName></author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>

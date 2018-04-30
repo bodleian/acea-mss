@@ -45,7 +45,7 @@
                   <summary>Chronicle of the Monastery of St. John the Baptist at Gareja<title>Jvaršemosili</title>
                   </summary>
                   <msItem xml:id="MS_Wardr_f_6-item1" n="1">
-                     <author>Gabriel Garejeliგაბრიელ გარეჯელი</author>
+                     <author><persName>Gabriel Garejeli</persName><persName>გაბრიელ გარეჯელი</persName></author>
                      <editor role="scribe">
                         <persName xml:lang="ar"/>
                      </editor>

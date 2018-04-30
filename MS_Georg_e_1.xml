@@ -45,7 +45,7 @@
                   <summary>Georgian grammar book by<persName>Catholicos Anthony II</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_e_1-item1" n="1">
-                     <author>Catholicos Anthony II</author>
+                     <author><persName>Catholicos Anthony II</persName></author>
                      <editor role="Copyist">
                         <persName>Mikheil</persName>
                         <persName xml:lang="ar"/>

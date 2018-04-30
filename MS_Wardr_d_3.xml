@@ -45,7 +45,7 @@
                   <summary>
                      <persName>King Vaxtang VI</persName>transcriptions and English translations</summary>
                   <msItem xml:id="MS_Wardr_d_3-item1" n="1">
-                     <author>Vaxtang VIვახტანგ VI</author>
+                     <author><persName>Vaxtang VI</persName><persName>ვახტანგ VI</persName></author>
                      <editor role="standard">
                         <persName>Wardrop, John Oliver, Sir</persName>
                         <persName xml:lang="ar"/>
@@ -59,7 +59,7 @@
                      <note>Transcription of MS. Wardr. c. 13</note>
                   </msItem>
                   <msItem xml:id="MS_Wardr_d_3-item2" n="2">
-                     <author>Vaxtang VI</author>
+                     <author><persName>Vaxtang VI</persName></author>
                      <editor role="translated">
                         <persName>Wardrop, John Oliver, Sir</persName>
                         <persName xml:lang="ar"/>
@@ -101,7 +101,7 @@
                      <note>English translation by J.O. Wardrop of the Laws of King Giorgi, from MS. Wardr. c. 13. Final fair copy as printed in the Journal of the Royal Asiatic Society, 1914</note>
                   </msItem>
                   <msItem xml:id="MS_Wardr_d_3-item5" n="5">
-                     <author>Aġbuġa I Jaqeliაღბუღა I ჯაყელი</author>
+                     <author><persName>Aġbuġa I Jaqeli</persName><persName>აღბუღა I ჯაყელი</persName></author>
                      <editor role="standard">
                         <persName>Wardrop, John Oliver, Sir</persName>
                         <persName xml:lang="ar"/>
@@ -115,7 +115,7 @@
                      <note>Transcription of MS. Wardr. c. 13, pp. 658-711, with critical notes</note>
                   </msItem>
                   <msItem xml:id="MS_Wardr_d_3-item6" n="6">
-                     <author>Aġbuġa I Jaqeliაღბუღა ჯაყელი</author>
+                     <author><persName>Aġbuġa I Jaqeli</persName><persName>აღბუღა ჯაყელი</persName></author>
                      <editor role="translator">
                         <persName>Wardrop, John Oliver, Sir</persName>
                         <persName xml:lang="ar"/>

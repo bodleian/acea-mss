@@ -42,13 +42,22 @@
                   <idno>MS. Wardr. c. 29</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Translations of articles on the Georgian Church by<persName>Tsagareli, Alexandre,</persName>
-                     <persName>Dadiani, G.,</persName>
-                     <persName>Xaxanov, A.,</persName>
-                     <persName>Mousvenaridze, G.,</persName>
+                  <summary>
+                      Translations of articles on the Georgian Church by <persName>Tsagareli, Alexandre</persName>, <persName>Dadiani, G.</persName>, <persName>Xaxanov, A.</persName>, and <persName>Mousvenaridze, G.</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_c_29-item1" n="1">
-                     <author>Tsagareli, AlexandreDadiani, G.,Dadiani, G.Xaxanov, A.Mousvenaridze, G.</author>
+                     <author>
+                         <persName>Tsagareli, Alexandre</persName>
+                     </author>
+                     <author>
+                         <persName>Dadiani, G.</persName>
+                     </author>
+                     <author>
+                         <persName>Xaxanov, A.</persName>
+                     </author>
+                     <author>
+                         <persName>Mousvenaridze, G.</persName>
+                     </author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>

@@ -45,7 +45,7 @@
                   <summary>Georgian version of<persName>Pseudo-Callisthenes</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_18-item1" n="1">
-                     <author>Pseudo-Callisthenes</author>
+                     <author><persName>Pseudo-Callisthenes</persName></author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>

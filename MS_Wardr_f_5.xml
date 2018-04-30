@@ -45,7 +45,7 @@
                   <summary>Georgian translation of the<title>'Girk' Sahmanac'</title>of<persName>David the Invincible</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_f_5-item1" n="1">
-                     <author>დავით უძლეველი</author>
+                     <author><persName>დავით უძლეველი</persName></author>
                      <editor role="standard">
                         <persName>Egnate Ioseliani</persName>
                         <persName xml:lang="ar">ეგნატე იოსელიანი</persName>

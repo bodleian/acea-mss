@@ -44,7 +44,7 @@
                <msContents>
                   <summary>Poem by<persName>Ceretʻeli, Akaki</persName>entitled<title>'Xanjali'</title>Eight 4-line stanzas</summary>
                   <msItem xml:id="MS_Wardr_c_1_3-item1" n="1">
-                     <author>Ceret'eli Akaki</author>
+                     <author><persName>Ceret'eli Akaki</persName></author>
                      <editor role="unknown">
                         <persName xml:lang="ar"/>
                      </editor>

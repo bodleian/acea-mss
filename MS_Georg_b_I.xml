@@ -45,7 +45,7 @@
                   <summary>Menologion for March-August, followed by biographies of saintly women. Includes the Georgian version of the account of the sack of Jerusalem by the Persians in A.D. 614, composed by the monk<persName>Antiochus Strategus</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_b_I-item1" n="1">
-                     <author>Proxoreპროხორე</author>
+                     <author><persName>Proxore</persName><persName>პროხორე</persName></author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>

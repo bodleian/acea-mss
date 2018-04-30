@@ -44,7 +44,7 @@
                <msContents>
                   <summary>First draft of lecture by Eka Cerkezisvili, delivered at Oxford, 21st November, 1934, under the auspices of the Marjory Wardrop Fund (on Georgian history and culture)</summary>
                   <msItem xml:id="MS_Wardr_c_20-item1" n="1">
-                     <author>Cerkezisvili, Eka</author>
+                     <author><persName>Cerkezisvili, Eka</persName></author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>

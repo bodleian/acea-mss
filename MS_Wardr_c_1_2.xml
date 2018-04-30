@@ -44,7 +44,7 @@
                <msContents>
                   <summary>Poem by<persName>Ceretʻeli, Akaki</persName>seven 4-line stanzas</summary>
                   <msItem xml:id="MS_Wardr_c_1_2-item1" n="1">
-                     <author>Ceretʻeli Akaki</author>
+                     <author><persName>Ceretʻeli Akaki</persName></author>
                      <editor role="unknown">
                         <persName xml:lang="ar"/>
                      </editor>

@@ -44,7 +44,7 @@
                <msContents>
                   <summary>Hagiographica</summary>
                   <msItem xml:id="MS_Wardr_e_2-item1" n="1">
-                     <author>Basil of Caesareaბასილი კესარიელი</author>
+                     <author><persName>Basil of Caesarea</persName><persName>ბასილი კესარიელი</persName></author>
                      <editor role="scribe">
                         <persName>Atanase</persName>
                         <persName xml:lang="ar">ათანასე</persName>

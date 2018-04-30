@@ -45,7 +45,7 @@
                   <summary>Treatise on rhetoric by<persName>Mxit'ar</persName>tr. into Georgian by<persName>Archbishop Antoni I</persName>in<date calendar="#Gregorian" when="1764">1764</date>
                   </summary>
                   <msItem xml:id="MS_Wardr_f_4-item1" n="1">
-                     <author>Mxit'ar</author>
+                     <author><persName>Mxit'ar</persName></author>
                      <editor role="translator">
                         <persName>Antoni I</persName>
                         <persName xml:lang="ar">ანტონი I</persName>

@@ -44,7 +44,7 @@
                <msContents>
                   <summary>Code of King Vaxtang VI: a page-by-page trasncript of pp. 739-762 of MS. Wardr.c.13.</summary>
                   <msItem xml:id="MS_Wardr_c_21-item1" n="1">
-                     <author>King Vaxtang VIვახტანგ VI</author>
+                     <author><persName>King Vaxtang VI</persName><persName>ვახტანგ VI</persName></author>
                      <editor role="standard">
                         <persName>J. O. Wardrop</persName>
                         <persName xml:lang="ar">J. O. Wardrop</persName>

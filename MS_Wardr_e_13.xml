@@ -45,7 +45,7 @@
                   <summary>Georgian dictionary by<persName>Orbeliani, Sulxan-Saba</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_13-item1" n="1">
-                     <author>Orbeliani, Sulxan-Sabaორბელიანი, სულხან-საბა</author>
+                     <author><persName>Orbeliani, Sulxan-Saba</persName><persName>ორბელიანი, სულხან-საბა</persName></author>
                      <editor role="scribe">
                         <persName>monk Ep'rem</persName>
                         <persName xml:lang="ar">ეფრემ</persName>

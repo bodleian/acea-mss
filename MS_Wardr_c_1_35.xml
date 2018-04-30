@@ -45,7 +45,7 @@
                <msContents>
                   <summary>'Georgia of the Caucasus': article by A. R. Dryhurst</summary>
                   <msItem xml:id="MS_Wardr_c_1_35-item1" n="1">
-                     <author>A. R. DryhurstA. R. Dryhurst</author>
+                     <author><persName>A. R. Dryhurst</persName></author>
                      <editor role="standard">
                         <persName xml:lang="ar"/>
                      </editor>
