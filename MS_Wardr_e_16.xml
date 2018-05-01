@@ -155,10 +155,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh85054247.html">Georgian prose literature</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh85054247.html" key="subject_6">Georgian prose literature</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh85044283.html">Epic literature, Georgian</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh85044283.html" key="subject_21">Epic literature, Georgian</term>
                   </item>
                </list>
             </keywords>

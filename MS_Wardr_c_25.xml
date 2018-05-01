@@ -152,10 +152,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="Georgia (Republic)--History--1801-1917">Georgia (Republic)--History--1801-1917</term>
+                     <term target="Georgia (Republic)--History--1801-1917" key="subject_13">Georgia (Republic)--History--1801-1917</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh85054254">Georgia (Republic)--History--1917-1991</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh85054254" key="subject_1">Georgia (Republic)--History--1917-1991</term>
                   </item>
                </list>
             </keywords>

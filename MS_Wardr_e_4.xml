@@ -42,7 +42,7 @@
                   <idno>MS. Wardr. e. 4</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Georgian folk tales recorded in <placeName ref="http://id.loc.gov/authorities/subjects/sh97009128.html">Guria</placeName> by <persName key="person_77">Mgeladze, Anna</persName> ten tales</summary>
+                  <summary>Georgian folk tales recorded in <placeName ref="http://id.loc.gov/authorities/subjects/sh97009128.html" key="subject_30">Guria</placeName> by <persName key="person_77">Mgeladze, Anna</persName> ten tales</summary>
                   <msItem xml:id="MS_Wardr_e_4-item1" n="1">
                      
                      <editor role="standard" key="person_77">
@@ -55,7 +55,7 @@
                         <bibl>CWC, 341</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
-                     <note>Presented to <persName key="person_1">Wardrop, Marjory</persName> in <placeName ref="http://id.loc.gov/authorities/names/n82024438.html">Kutaisi</placeName> in <date calendar="#Gregorian" when="1895">1895</date> by <persName key="person_77">Mgeladze, Anna</persName> wife of <persName key="person_79">Chqonia, Ilia</persName>
+                     <note>Presented to <persName key="person_1">Wardrop, Marjory</persName> in <placeName ref="http://id.loc.gov/authorities/names/n82024438.html" key="subject_31">Kutaisi</placeName> in <date calendar="#Gregorian" when="1895">1895</date> by <persName key="person_77">Mgeladze, Anna</persName> wife of <persName key="person_79">Chqonia, Ilia</persName>
                      </note>
                   </msItem>
                </msContents>
@@ -156,7 +156,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh88005779.html">Georgian folk literature</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh88005779.html" key="subject_8">Georgian folk literature</term>
                   </item>
                </list>
             </keywords>

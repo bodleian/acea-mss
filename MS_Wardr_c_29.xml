@@ -165,7 +165,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh2008115135.html">Georgia, Church history</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh2008115135.html" key="subject_20">Georgia, Church history</term>
                   </item>
                </list>
             </keywords>

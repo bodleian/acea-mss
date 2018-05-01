@@ -158,7 +158,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh96007310.html">Diplomatic and consular service, Georgian</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh96007310.html" key="subject_2">Diplomatic and consular service, Georgian</term>
                   </item>
                </list>
             </keywords>

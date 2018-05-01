@@ -160,7 +160,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh88005779">Folk literature, Georgian</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh88005779" key="subject_8">Folk literature, Georgian</term>
                   </item>
                </list>
             </keywords>

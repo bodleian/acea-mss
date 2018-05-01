@@ -175,10 +175,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/no88004540.html">Vaxtang VI, King of the Georgians, 1675-1737</term>
+                     <term target="http://id.loc.gov/authorities/names/no88004540.html" key="subject_11">Vaxtang VI, King of the Georgians, 1675-1737</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh98006071.html">Georgian literature - 1500-1800</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh98006071.html" key="subject_12">Georgian literature - 1500-1800</term>
                   </item>
                </list>
             </keywords>

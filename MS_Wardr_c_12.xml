@@ -169,10 +169,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh98003673.html">Historical poetry, Georgian</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh98003673.html" key="subject_38">Historical poetry, Georgian</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n98032911.html">Arč'ili, 1647-1713</term>
+                     <term target="http://id.loc.gov/authorities/names/n98032911.html" key="subject_39">Arč'ili, 1647-1713</term>
                   </item>
                </list>
             </keywords>

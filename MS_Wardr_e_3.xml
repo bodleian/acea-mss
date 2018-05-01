@@ -81,7 +81,7 @@
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
-                   <provenance>Bought from <persName key="person_74">Areshidze, G.</persName> by <persName key="person_7">Wardrop, J.O.</persName> in <placeName ref="http://id.loc.gov/authorities/names/n79104307.html">Tiflis</placeName> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
+                   <provenance>Bought from <persName key="person_74">Areshidze, G.</persName> by <persName key="person_7">Wardrop, J.O.</persName> in <placeName ref="http://id.loc.gov/authorities/names/n79104307.html" key="subject_28">Tiflis</placeName> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
                   </provenance>
                   <acquisition>
                      <date calendar="#Gregorian" when="1894-11-26">1894-11-26</date> by <persName key="person_7">Wardrop, J.O.</persName>
@@ -161,7 +161,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n97066165.html">Anton I, Catholicos of Georgia, 1720-1788</term>
+                     <term target="http://id.loc.gov/authorities/names/n97066165.html" key="subject_29">Anton I, Catholicos of Georgia, 1720-1788</term>
                   </item>
                </list>
             </keywords>
