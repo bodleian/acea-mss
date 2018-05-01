@@ -43,12 +43,12 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>Sapolitiko T'eatroni</title> Georgian translation of <persName>Mavrogordato, Nicholas</persName> Greek version</summary>
+                     <title>Sapolitiko T'eatroni</title> Georgian translation of <persName key="person_29">Mavrogordato, Nicholas</persName> Greek version</summary>
                   <msItem xml:id="MS_Wardr_e_6-item1" n="1">
-                     <author><persName>Mavrogordato, Nicholas</persName></author>
-                     <editor role="translator">
+                     <author key="person_29"><persName>Mavrogordato, Nicholas</persName></author>
+                     <editor role="translator" key="person_30">
                         <persName>Serap'im Pisidieli</persName>
-                        <persName xml:lang="ar">სერაფიმ პისიდიელი</persName>
+                         (<persName xml:lang="ar">სერაფიმ პისიდიელი</persName>)
                      </editor>
                      <title xml:lang="ka-Latn-x-lc">sapolitiko t'eatroni</title>
                      <title xml:lang="ka">საპოლიტიკო თეატრონი</title>
@@ -81,10 +81,10 @@
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
-                  <provenance>Bought by <persName>Wardrop, J.O.</persName> on <date calendar="#Gregorian" when="1911-01-05">1911-01-05</date> from <persName>Merkviladze, Sosiko</persName>
+                  <provenance>Bought by <persName key="person_7">Wardrop, J.O.</persName> on <date calendar="#Gregorian" when="1911-01-05">1911-01-05</date> from <persName key="person_33">Merkviladze, Sosiko</persName>
                   </provenance>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1911-09-28">1911</date> don <persName>Wardrop, J.O.</persName>
+                     <date calendar="#Gregorian" when="1911-09-28">1911</date> don <persName key="person_7">Wardrop, J.O.</persName>
                   </acquisition>
                </history>
                <additional>

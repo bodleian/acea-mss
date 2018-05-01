@@ -44,10 +44,10 @@
                <msContents>
                   <summary>The Knight in the Panther's Skin</summary>
                   <msItem xml:id="MS_Wardr_d_17-item1" n="1">
-                     <author ref="http://viaf.org/viaf/267123512">
+                     <author ref="http://viaf.org/viaf/267123512" key="person_5">
                         <persName>Rustaveli, Shota, active 12th century-13th century</persName>
-                        <persName>Šot'a Rust'aveli</persName>
-                        <persName>შოთა რუსთაველი</persName>
+                         (<persName>Šot'a Rust'aveli</persName>)
+                         (<persName>შოთა რუსთაველი</persName>)
                      </author>
                      
                      <title xml:lang="ka-Latn-x-lc">Vep'xistqaosani</title>
@@ -83,7 +83,7 @@
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th c.</origDate>
                   </origin>
-                  <acquisition>8.10.1911; presented to the library by <persName>Prince Giorgi Ceret'eli</persName> through <persName>Princess Venera Ceret'eli</persName>
+                  <acquisition>8.10.1911; presented to the library by <persName key="person_17">Prince Giorgi Ceret'eli</persName> through <persName key="person_18">Princess Venera Ceret'eli</persName>
                   </acquisition>
                </history>
                <additional>

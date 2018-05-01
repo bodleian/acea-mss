@@ -44,8 +44,8 @@
                <msContents>
                   <summary>N. Marr, 'Grammar of Old Literary Georgian'</summary>
                   <msItem xml:id="MS_Wardr_e_2637-item1" n="1">
-                     <author><persName>Marr, Nikolai</persName></author>
-                     <editor role="translator">
+                     <author key="person_43"><persName>Marr, Nikolai</persName></author>
+                     <editor role="translator" key="person_7">
                         <persName>Wardrop, John, Oliver, Sir</persName>
                         
                      </editor>

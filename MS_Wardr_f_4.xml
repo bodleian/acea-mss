@@ -42,17 +42,17 @@
                   <idno>MS. Wardr. f. 4</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Treatise on rhetoric by <persName>Mxit'ar</persName> tr. into Georgian by <persName>Archbishop Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
+                  <summary>Treatise on rhetoric by <persName key="person_94">Mxit'ar</persName> tr. into Georgian by <persName key="person_95">Archbishop Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
                   </summary>
                   <msItem xml:id="MS_Wardr_f_4-item1" n="1">
-                     <author><persName>Mxit'ar</persName></author>
-                     <editor role="translator">
+                     <author key="person_94"><persName>Mxit'ar</persName></author>
+                     <editor role="translator" key="person_72">
                         <persName>Antoni I</persName>
-                        <persName xml:lang="ar">ანტონი I</persName>
+                         (<persName xml:lang="ar">ანტონი I</persName>)
                      </editor>
-                     <editor role="copyist">
+                     <editor role="copyist" key="person_96">
                         <persName>Geronti</persName>
-                        <persName xml:lang="ar">გერონტი</persName>
+                         (<persName xml:lang="ar">გერონტი</persName>)
                      </editor>
                      
                      

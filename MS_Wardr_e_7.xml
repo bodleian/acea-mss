@@ -47,9 +47,9 @@
                   </summary>
                   <msItem xml:id="MS_Wardr_e_7-item1" n="1">
                      
-                     <editor role="translator">
+                     <editor role="translator" key="person_49">
                         <persName>King T'eimuraz II</persName>
-                        <persName xml:lang="ar">თეიმურაზ II</persName>
+                         (<persName xml:lang="ar">თეიმურაზ II</persName>)
                      </editor>
                      <title xml:lang="ka-Latn-x-lc">Ioseb-Zilixaniani</title>
                      <title xml:lang="ka">იოსებ-ზილიხანიანი</title>
@@ -83,7 +83,7 @@
                      <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1910-04-10">1910-04-10</date> by <persName>Wardrop, J.O.</persName>
+                     <date calendar="#Gregorian" when="1910-04-10">1910-04-10</date> by <persName key="person_7">Wardrop, J.O.</persName>
                   </acquisition>
                </history>
                <additional>

@@ -50,7 +50,7 @@
                      
                      <listBibl>
                         <bibl>
-                           <persName>Blake R.P</persName> in 'Khanmeti palimpsest fragments of the Old Georgian version of Jeremiah [Wardr.2.100]</bibl>
+                           <persName key="person_37">Blake R.P</persName> in 'Khanmeti palimpsest fragments of the Old Georgian version of Jeremiah [Wardr.2.100]</bibl>
                         <bibl>CWC, 305</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
@@ -75,7 +75,7 @@
                </physDesc>
                <history>
                   <origin>Undated</origin>
-                  <acquisition>Acquired in <date calendar="#Gregorian" when="1894">1894</date> from <persName>Rabbi S. Wertheimer</persName> in <placeName>Jerusalem</placeName> almost certainly from Genizah in Cairo</acquisition>
+                  <acquisition>Acquired in <date calendar="#Gregorian" when="1894">1894</date> from <persName key="person_38">Rabbi S. Wertheimer</persName> in <placeName>Jerusalem</placeName> almost certainly from Genizah in Cairo</acquisition>
                </history>
                <additional>
                   <adminInfo>

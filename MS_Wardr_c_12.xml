@@ -46,7 +46,7 @@
                   <summary>Arč'iliani (incomplete)</summary>
                   <msItem xml:id="MS_Wardr_c_12-item1" n="1">
                      <locus>ff. 3(18)-25(40)</locus>
-                     <author><persName>Arč'il I</persName><persName>არჩილ I</persName></author>
+                     <author key="person_98"><persName>Arč'il I</persName> (<persName>არჩილ I</persName>)</author>
                      
                      <title xml:lang="ka-Latn-x-lc">Arč'iliani</title>
                      <title xml:lang="ka">არჩილიანი</title>

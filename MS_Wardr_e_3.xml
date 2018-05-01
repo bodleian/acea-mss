@@ -42,13 +42,13 @@
                   <idno>MS. Wardr. e. 3</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Treatise on rhetoric by <persName>Mkhit'ar</persName> translated into Georgian by <persName>Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
+                  <summary>Treatise on rhetoric by <persName key="person_71">Mkhit'ar</persName> translated into Georgian by <persName key="person_72">Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_3-item1" n="1">
                      
-                     <editor role="translator">
+                     <editor role="translator" key="person_72">
                         <persName>Antoni I</persName>
-                        <persName xml:lang="ar">ანტონი I</persName>
+                         (<persName xml:lang="ar">ანტონი I</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Treatise on Rhetoric</title>
                      
@@ -81,10 +81,10 @@
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
-                  <provenance>Bought from <persName>Areshidze, G.</persName> by <persName>Wardrop, J.O.</persName> in <name type="place">Tiflis</name> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
+                  <provenance>Bought from <persName key="person_74">Areshidze, G.</persName> by <persName key="person_7">Wardrop, J.O.</persName> in <name type="place">Tiflis</name> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
                   </provenance>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1894-11-26">1894-11-26</date> by <persName>Wardrop, J.O.</persName>
+                     <date calendar="#Gregorian" when="1894-11-26">1894-11-26</date> by <persName key="person_7">Wardrop, J.O.</persName>
                   </acquisition>
                </history>
                <additional>

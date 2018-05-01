@@ -42,9 +42,9 @@
                   <idno>MS. Wardr. c. 1 (3)</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Poem by <persName>Ceretʻeli, Akaki</persName> entitled <title>'Xanjali'</title> Eight 4-line stanzas</summary>
+                  <summary>Poem by <persName key="person_40">Ceretʻeli, Akaki</persName> entitled <title>'Xanjali'</title> Eight 4-line stanzas</summary>
                   <msItem xml:id="MS_Wardr_c_1_3-item1" n="1">
-                     <author><persName>Ceret'eli Akaki</persName></author>
+                     <author key="person_40"><persName>Ceret'eli Akaki</persName></author>
                      
                      <title xml:lang="ka-Latn-x-lc">Xanjali</title>
                      

@@ -42,10 +42,10 @@
                   <idno>MS. Georg. b. I</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Menologion for March-August, followed by biographies of saintly women. Includes the Georgian version of the account of the sack of Jerusalem by the Persians in A.D. 614, composed by the monk <persName>Antiochus Strategus</persName>
+                  <summary>Menologion for March-August, followed by biographies of saintly women. Includes the Georgian version of the account of the sack of Jerusalem by the Persians in A.D. 614, composed by the monk <persName key="person_81">Antiochus Strategus</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_b_I-item1" n="1">
-                     <author><persName>Proxore</persName><persName>პროხორე</persName></author>
+                     <author key="person_82"><persName>Proxore</persName> (<persName>პროხორე</persName>)</author>
                      
                      
                      

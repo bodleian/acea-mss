@@ -75,7 +75,7 @@
                <history>
                   <origin>Undated</origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1929-02">1929-02</date> donated <persName>Wardrop, John Oliver, Sir.</persName>
+                     <date calendar="#Gregorian" when="1929-02">1929-02</date> donated <persName key="person_7">Wardrop, John Oliver, Sir.</persName>
                   </acquisition>
                </history>
                <additional>

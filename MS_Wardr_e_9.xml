@@ -43,13 +43,13 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>Life of St. Andrew Salus</title> by the presbyter <persName>Nicephorus of Constantinople</persName>
+                     <title>Life of St. Andrew Salus</title> by the presbyter <persName key="person_20">Nicephorus of Constantinople</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_9-item1" n="1">
-                     <author><persName>Nicephorus of Constantinople</persName></author>
-                     <editor role="scribe">
+                     <author key="person_20"><persName>Nicephorus of Constantinople</persName></author>
+                     <editor role="scribe" key="person_21">
                         <persName>Ilarion</persName>
-                        <persName xml:lang="ka">ილარიონ</persName>
+                         (<persName xml:lang="ka">ილარიონ</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Life of St. Andrew Salus</title>
                      

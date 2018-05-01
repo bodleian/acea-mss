@@ -42,10 +42,10 @@
                   <idno>MS. Wardr. e. 14</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Account of travels in Europe, 1713-15, by <persName>Orbeliani, Sulxan-Saba</persName>
+                  <summary>Account of travels in Europe, 1713-15, by <persName key="person_52">Orbeliani, Sulxan-Saba</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_14-item1" n="1">
-                     <author><persName>Orbeliani, Sulxan-Saba</persName><persName>ორბელიანი, სულხან-საბა</persName></author>
+                     <author key="person_52"><persName>Orbeliani, Sulxan-Saba</persName> (<persName>ორბელიანი, სულხან-საბა</persName>)</author>
                      
                      
                      
@@ -55,7 +55,7 @@
                         <bibl>descr. Taqaishvili</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
-                     <note>Bought from <persName>Merkviladze, S</persName> in Tiflis <date calendar="#Gregorian" when="1911-02-04">1911-02-04</date>
+                     <note>Bought from <persName key="person_33">Merkviladze, S</persName> in Tiflis <date calendar="#Gregorian" when="1911-02-04">1911-02-04</date>
                      </note>
                   </msItem>
                </msContents>

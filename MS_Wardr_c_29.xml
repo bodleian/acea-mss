@@ -43,19 +43,19 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                      Translations of articles on the Georgian Church by <persName>Tsagareli, Alexandre</persName>, <persName>Dadiani, G.</persName>, <persName>Xaxanov, A.</persName>, and <persName>Mousvenaridze, G.</persName>
+                      Translations of articles on the Georgian Church by <persName key="person_45">Tsagareli, Alexandre</persName>, <persName key="person_46">Dadiani, G.</persName>, <persName key="person_47">Xaxanov, A.</persName>, and <persName key="person_48">Mousvenaridze, G.</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_c_29-item1" n="1">
-                     <author>
+                     <author key="person_45">
                          <persName>Tsagareli, Alexandre</persName>
                      </author>
-                     <author>
+                     <author key="person_46">
                          <persName>Dadiani, G.</persName>
                      </author>
-                     <author>
+                     <author key="person_47">
                          <persName>Xaxanov, A.</persName>
                      </author>
-                     <author>
+                     <author key="person_48">
                          <persName>Mousvenaridze, G.</persName>
                      </author>
                      
@@ -88,7 +88,7 @@
                   <origin>Undated</origin>
                   <acquisition>
                      <date calendar="#Gregorian" when="1929-02">1929-02</date>
-                     <persName>Wardrop, John Oliver, Sir.</persName>
+                     <persName key="person_7">Wardrop, John Oliver, Sir.</persName>
                   </acquisition>
                </history>
                <additional>

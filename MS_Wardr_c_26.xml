@@ -42,13 +42,13 @@
                   <idno>MS. Wardr. c. 26</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Translations, drafts and notes by <persName>Wardrop, John Oliver, Sir</persName> and <persName>Wardrop, Marjory</persName> 33 items</summary>
+                  <summary>Translations, drafts and notes by <persName key="person_7">Wardrop, John Oliver, Sir</persName> and <persName key="person_1">Wardrop, Marjory</persName> 33 items</summary>
                   <msItem xml:id="MS_Wardr_c_26-item1" n="1">
                      
-                     <editor role="standard">
+                     <editor role="standard" key="person_7">
                         <persName>Wardrop, John Oliver, Sir</persName>
                      </editor>
-                     <editor role="standard">
+                     <editor role="standard" key="person_1">
                          <persName>Wardrop, Marjory</persName>
                      </editor>
                      

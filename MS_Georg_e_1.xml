@@ -42,11 +42,11 @@
                   <idno>MS. Georg. e. 1</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Georgian grammar book by <persName>Catholicos Anthony II</persName>
+                  <summary>Georgian grammar book by <persName key="person_34">Catholicos Anthony II</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_e_1-item1" n="1">
-                     <author><persName>Catholicos Anthony II</persName></author>
-                     <editor role="Copyist">
+                     <author key="person_34"><persName>Catholicos Anthony II</persName></author>
+                     <editor role="Copyist" key="person_35">
                         <persName>Mikheil</persName>
                         
                      </editor>

@@ -45,9 +45,9 @@
                   <summary>Translation of the Georgian folk tales</summary>
                   <msItem xml:id="MS_Wardr_c_22-item1" n="1">
                      
-                     <editor role="standard">
+                     <editor role="standard" key="person_7">
                         <persName>J. O. Wadrop</persName>
-                        <persName xml:lang="ar">J. O. Wardrop</persName>
+                         (<persName xml:lang="ar">J. O. Wardrop</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Georgian folk tales</title>
                      

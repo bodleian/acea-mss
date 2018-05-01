@@ -43,7 +43,7 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <persName>'Sirinoziani'</persName> a romance in prose tr. from the Persian</summary>
+                     <persName key="person_88">'Sirinoziani'</persName> a romance in prose tr. from the Persian</summary>
                   <msItem xml:id="MS_Wardr_b_1-item1" n="1">
                      
                      <title xml:lang="ka-Latn-x-lc">Sirinoziani</title>
@@ -78,7 +78,7 @@
                   <origin>
                      <origDate calendar="#Gregorian" when="1840">1840</origDate>
                   </origin>
-                  <acquisition>Bought by J.O. Wardrop from <persName>Medjid-il-Saltane</persName>
+                  <acquisition>Bought by J.O. Wardrop from <persName key="person_8">Medjid-il-Saltane</persName>
                      <date calendar="#Gregorian" when="1911-03-20">20-03-1911</date> don. J.O. Wardrop</acquisition>
                </history>
                <additional>

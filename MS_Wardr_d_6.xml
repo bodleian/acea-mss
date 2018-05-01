@@ -43,15 +43,15 @@
                   <idno>MS. Wardr. d. 6</idno>
                </msIdentifier>
                <msContents>
-                  <summary>'The Man in the Leupard's Skin', by <persName>Šot'a Rust'aveli</persName>
+                  <summary>'The Man in the Leupard's Skin', by <persName key="person_5">Šot'a Rust'aveli</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_d_6-item1" n="1">
-                     <author ref="http://viaf.org/viaf/267123512">
+                     <author ref="http://viaf.org/viaf/267123512" key="person_5">
                         <persName>Rustaveli, Shota, active 12th century-13th century</persName>
-                        <persName>Šot'a Rust'aveli</persName>
-                        <persName>შოთა რუსთაველი</persName>
+                         (<persName>Šot'a Rust'aveli</persName>)
+                         (<persName>შოთა რუსთაველი</persName>)
                      </author>
-                     <editor role="translator">
+                     <editor role="translator" key="person_1">
                         <persName>Wardrop, Marjory</persName>
                         
                      </editor>

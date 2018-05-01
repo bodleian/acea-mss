@@ -44,7 +44,7 @@
                <msContents>
                   <summary>Manual of Veterinary medicine: incomplete</summary>
                   <msItem xml:id="MS_Wardr_e_10-item1" n="1">
-                     <author><persName>Batonišvili, Bagrat</persName><persName>ბატონიშვილი, ბაგრატ</persName></author>
+                     <author key="person_56"><persName>Batonišvili, Bagrat</persName> (<persName>ბატონიშვილი, ბაგრატ</persName>)</author>
                      
                      
                      

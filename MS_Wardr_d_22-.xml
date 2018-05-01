@@ -43,13 +43,13 @@
                   <idno>MS. Wardr. d. 22-</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Translations from Georgian, by Marjory Wardrop of poems by <persName>Orbeliani, Grigol</persName>, <persName>Chavchavadze, Ilia</persName>
-                     <persName>Eristavi, Rapiel</persName>
-                     <persName>Volsky, Giorgi</persName>
+                  <summary>Translations from Georgian, by Marjory Wardrop of poems by <persName key="person_67">Orbeliani, Grigol</persName>, <persName key="person_68">Chavchavadze, Ilia</persName>
+                     <persName key="person_69">Eristavi, Rapiel</persName>
+                     <persName key="person_70">Volsky, Giorgi</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_d_22--item1" n="1">
                      
-                     <editor role="translator">
+                     <editor role="translator" key="person_1">
                         <persName>Wardrop, Marjory</persName>
                         
                      </editor>

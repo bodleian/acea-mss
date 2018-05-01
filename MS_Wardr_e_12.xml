@@ -42,9 +42,9 @@
                   <idno>MS. Wardr. e. 12</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Code of <persName>King Vaxtang VI</persName>.256 articles</summary>
+                  <summary>Code of <persName key="person_63">King Vaxtang VI</persName>.256 articles</summary>
                   <msItem xml:id="MS_Wardr_e_12-item1" n="1">
-                     <author><persName>Vaxtang VI</persName><persName>ვახტანგ VI</persName></author>
+                     <author key="person_63"><persName>Vaxtang VI</persName> (<persName>ვახტანგ VI</persName>)</author>
                      
                      
                      

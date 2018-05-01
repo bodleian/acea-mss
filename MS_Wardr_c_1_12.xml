@@ -44,10 +44,10 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>'Georgian treaties with Russia'</title> article by <persName>Č'erk'ezišvili, Varlam</persName> tr. by <persName>Wardrop, John Oliver, Sir</persName> for publication in The Nineteenth Century.</summary>
+                     <title>'Georgian treaties with Russia'</title> article by <persName key="person_13">Č'erk'ezišvili, Varlam</persName> tr. by <persName key="person_7">Wardrop, John Oliver, Sir</persName> for publication in The Nineteenth Century.</summary>
                   <msItem xml:id="MS_Wardr_c_1_12-item1" n="1">
-                     <author><persName>Č'erk'ezišvili, Varlam</persName></author>
-                     <editor role="translator">
+                     <author key="person_13"><persName>Č'erk'ezišvili, Varlam</persName></author>
+                     <editor role="translator" key="person_7">
                         <persName>Wardrop, John Oliver, Sir</persName>
                         
                      </editor>

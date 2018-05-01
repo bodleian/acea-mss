@@ -43,10 +43,10 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>'Dogovori Gruzii s Rossiei?'</title> Article by Prince <persName>Č'erk'ezišvili, Varlam</persName>
+                     <title>'Dogovori Gruzii s Rossiei?'</title> Article by Prince <persName key="person_13">Č'erk'ezišvili, Varlam</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_c_1_11-item1" n="1">
-                     <author><persName>Č'erk'ezišvili, Varlam</persName><persName>ჩერქეზიშვილი, ვარლამ</persName></author>
+                     <author key="person_13"><persName>Č'erk'ezišvili, Varlam</persName> (<persName>ჩერქეზიშვილი, ვარლამ</persName>)</author>
                      
                      <title xml:lang="ru-Latn-x-lc">'Dogovori Gruzii s Rossiei?'</title>
                      

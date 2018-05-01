@@ -42,9 +42,9 @@
                   <idno>MS. Wardr. c. 27</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Correspondances of <persName>Wardrop, John Oliver, Sir</persName> relating to Georgia</summary>
+                  <summary>Correspondances of <persName key="person_7">Wardrop, John Oliver, Sir</persName> relating to Georgia</summary>
                   <msItem xml:id="MS_Wardr_c_27-item1" n="1">
-                     <author><persName>Wardrop, John Oliver, Sir</persName></author>
+                     <author key="person_7"><persName>Wardrop, John Oliver, Sir</persName></author>
                      
                      
                      
@@ -75,7 +75,7 @@
                <history>
                   <origin>Undated</origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1931-10">1931-10</date> don <persName>Wardrop, John Oliver, Sir.</persName>
+                     <date calendar="#Gregorian" when="1931-10">1931-10</date> don <persName key="person_7">Wardrop, John Oliver, Sir.</persName>
                   </acquisition>
                </history>
                <additional>

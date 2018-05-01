@@ -80,7 +80,7 @@
                   <origin>
                      <origDate calendar="#Gregorian" when="1775">1775</origDate>
                   </origin>
-                  <provenance>Bought by J.O. Wardrop from <persName>Medjid-il-Saltane</persName>
+                  <provenance>Bought by J.O. Wardrop from <persName key="person_8">Medjid-il-Saltane</persName>
                      <date calendar="#Gregorian" when="1911-06-02">1911-06-02</date>
                   </provenance>
                   <acquisition>

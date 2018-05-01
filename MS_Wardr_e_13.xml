@@ -42,13 +42,13 @@
                   <idno>MS. Wardr. e. 13</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Georgian dictionary by <persName>Orbeliani, Sulxan-Saba</persName>
+                  <summary>Georgian dictionary by <persName key="person_52">Orbeliani, Sulxan-Saba</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_13-item1" n="1">
-                     <author><persName>Orbeliani, Sulxan-Saba</persName><persName>ორბელიანი, სულხან-საბა</persName></author>
-                     <editor role="scribe">
+                     <author key="person_52"><persName>Orbeliani, Sulxan-Saba</persName> (<persName>ორბელიანი, სულხან-საბა</persName>)</author>
+                     <editor role="scribe" key="person_85">
                         <persName>monk Ep'rem</persName>
-                        <persName xml:lang="ar">ეფრემ</persName>
+                         (<persName xml:lang="ar">ეფრემ</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Georgian dictionary</title>
                      

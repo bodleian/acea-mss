@@ -44,10 +44,10 @@
                <msContents>
                   <summary>Code of King Vaxtang VI: a page-by-page trasncript of pp. 739-762 of MS. Wardr.c.13.</summary>
                   <msItem xml:id="MS_Wardr_c_21-item1" n="1">
-                     <author><persName>King Vaxtang VI</persName><persName>ვახტანგ VI</persName></author>
-                     <editor role="standard">
+                     <author key="person_63"><persName>King Vaxtang VI</persName> (<persName>ვახტანგ VI</persName>)</author>
+                     <editor role="standard" key="person_7">
                         <persName>J. O. Wardrop</persName>
-                        <persName xml:lang="ar">J. O. Wardrop</persName>
+                         (<persName xml:lang="ar">J. O. Wardrop</persName>)
                      </editor>
                      <title xml:lang="ka-Latn-x-lc">Code of King Vaxtang VI</title>
                      

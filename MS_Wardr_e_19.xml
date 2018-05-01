@@ -43,10 +43,10 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <title>Life of St. Andrew Salus</title> by <persName>Presbyter Nicephorus</persName>
+                     <title>Life of St. Andrew Salus</title> by <persName key="person_80">Presbyter Nicephorus</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_19-item1" n="1">
-                     <author><persName>Presbyter Nicephorus</persName></author>
+                     <author key="person_80"><persName>Presbyter Nicephorus</persName></author>
                      
                      <title xml:lang="en-Latn-x-lc">Life of St. Andrew Salus</title>
                      

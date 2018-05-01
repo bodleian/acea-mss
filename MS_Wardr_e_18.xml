@@ -42,10 +42,10 @@
                   <idno>MS. Wardr. e. 18</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Georgian version of <persName>Pseudo-Callisthenes</persName>
+                  <summary>Georgian version of <persName key="person_93">Pseudo-Callisthenes</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_18-item1" n="1">
-                     <author><persName>Pseudo-Callisthenes</persName></author>
+                     <author key="person_93"><persName>Pseudo-Callisthenes</persName></author>
                      
                      <title xml:lang="ka-Latn-x-lc">Istoria Alek'sandres mep'isa Makedoniisa</title>
                      <title xml:lang="ka">ისტორია ალექსანდრეს მეფისა მაკედონიისა</title>

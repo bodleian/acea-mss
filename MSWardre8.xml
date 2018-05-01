@@ -45,10 +45,10 @@
                <msContents>
                   <summary>Code of King Vaxtang VI and a fragment containing medical information for women</summary>
                   <msItem xml:id="MSWardre8-item1" n="1">
-                     <author><persName>Vaxtang VI</persName><persName>ვახტანგ VI</persName></author>
-                     <editor role="scribe">
+                     <author key="person_63"><persName>Vaxtang VI</persName> (<persName>ვახტანგ VI</persName>)</author>
+                     <editor role="scribe" key="person_11">
                         <persName>Qorganovi, Mose</persName>
-                        <persName xml:lang="ar">ყორღანოვი, მოსე</persName>
+                         (<persName xml:lang="ar">ყორღანოვი, მოსე</persName>)
                      </editor>
                      
                      
@@ -60,9 +60,9 @@
                   </msItem>
                   <msItem xml:id="MSWardre8-item2" n="2">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_11">
                         <persName>Qorganovi, Mose</persName>
-                        <persName xml:lang="ar">ყორღანოვი, მოსე</persName>
+                         (<persName xml:lang="ar">ყორღანოვი, მოსე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">Fragment of medical information for women</title>
                      

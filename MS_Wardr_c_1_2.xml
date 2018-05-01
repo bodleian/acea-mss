@@ -42,9 +42,9 @@
                   <idno>MS. Wardr. c. 1 (2)</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Poem by <persName>Ceretʻeli, Akaki</persName> seven 4-line stanzas</summary>
+                  <summary>Poem by <persName key="person_40">Ceretʻeli, Akaki</persName> seven 4-line stanzas</summary>
                   <msItem xml:id="MS_Wardr_c_1_2-item1" n="1">
-                     <author><persName>Ceretʻeli Akaki</persName></author>
+                     <author key="person_40"><persName>Ceretʻeli Akaki</persName></author>
                      
                      
                      

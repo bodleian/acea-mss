@@ -45,9 +45,9 @@
                   <summary>Hymns</summary>
                   <msItem xml:id="MS_Wardr_g_3-item1" n="1">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_23">
                         <persName>Deacon Paul</persName>
-                        <persName xml:lang="ar">პავლე დიაკვანი</persName>
+                         (<persName xml:lang="ar">პავლე დიაკვანი</persName>)
                      </editor>
                      <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
                      <title xml:lang="ka">დაუჯდომელი</title>

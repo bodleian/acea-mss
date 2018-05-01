@@ -44,10 +44,10 @@
                <msContents>
                   <summary>Hagiographica</summary>
                   <msItem xml:id="MS_Wardr_e_2-item1" n="1">
-                     <author><persName>Basil of Caesarea</persName><persName>ბასილი კესარიელი</persName></author>
-                     <editor role="scribe">
+                     <author key="person_89"><persName>Basil of Caesarea</persName> (<persName>ბასილი კესარიელი</persName>)</author>
+                     <editor role="scribe" key="person_91">
                         <persName>Atanase</persName>
-                        <persName xml:lang="ar">ათანასე</persName>
+                         (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">The Assumption of the Holy Virgin</title>
                      
@@ -58,9 +58,9 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item2" n="2">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_91">
                         <persName>Atanase</persName>
-                        <persName xml:lang="ka">ათანასე</persName>
+                         (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">The Conversion of King Mirian by St. Nino</title>
                      
@@ -71,9 +71,9 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item3" n="3">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_91">
                         <persName>Atanase</persName>
-                        <persName xml:lang="ar">ათანასე</persName>
+                         (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">The Martyrdom of St. Euphemia</title>
                      
@@ -84,9 +84,9 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item4" n="4">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_91">
                         <persName>Atanase</persName>
-                        <persName xml:lang="ka">ათანასე</persName>
+                         (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">The Martyrdom of St. Catherine</title>
                      
@@ -97,9 +97,9 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item5" n="5">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_91">
                         <persName>Atanase</persName>
-                        <persName xml:lang="ka">ათანასე</persName>
+                         (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">The Life of St. Canonice</title>
                      
@@ -110,9 +110,9 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item6" n="6">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_91">
                         <persName>Atanase</persName>
-                        <persName xml:lang="ar">ათანასე</persName>
+                         (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">The Ten Commandments</title>
                      
@@ -123,9 +123,9 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item7" n="7">
                      
-                     <editor role="scribe">
+                     <editor role="scribe" key="person_91">
                         <persName>Atanase</persName>
-                        <persName xml:lang="ar">ათანასე</persName>
+                         (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
                      <title xml:lang="en-Latn-x-lc">The Life of St. Nisime of Egypt</title>
                      

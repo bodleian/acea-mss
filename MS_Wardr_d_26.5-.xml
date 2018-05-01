@@ -42,10 +42,10 @@
                   <idno>MS. Wardr. d. 26/5-</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Correspondence of <persName>Wardrop, Marjory</persName>
+                  <summary>Correspondence of <persName key="person_1">Wardrop, Marjory</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_d_26.5--item1" n="1">
-                     <author><persName>Wardrop, Marjory</persName></author>
+                     <author key="person_1"><persName>Wardrop, Marjory</persName></author>
                      
                      
                      

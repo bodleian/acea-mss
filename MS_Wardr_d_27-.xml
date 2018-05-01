@@ -44,10 +44,10 @@
                <msContents>
                   <summary>The Knight in the Leupard's Skin</summary>
                   <msItem xml:id="MS_Wardr_d_27--item1" n="1">
-                     <author ref="http://viaf.org/viaf/267123512">
+                     <author ref="http://viaf.org/viaf/267123512" key="person_5">
                         <persName>Rustaveli, Shota, active 12th century-13th century</persName>
-                        <persName>Šot'a Rust'aveli</persName>
-                        <persName>შოთა რუსთაველი</persName>
+                         (<persName>Šot'a Rust'aveli</persName>)
+                         (<persName>შოთა რუსთაველი</persName>)
                      </author>
                      
                      <title xml:lang="ka-Latn-x-lc">Vepxistqaosani</title>

@@ -43,9 +43,9 @@
                   <idno>MS. Wardr. f. 11</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Notebook of <persName>Wardrop, Marjory</persName> with Georgian wordlist, fragments of translation</summary>
+                  <summary>Notebook of <persName key="person_1">Wardrop, Marjory</persName> with Georgian wordlist, fragments of translation</summary>
                   <msItem xml:id="MS_Wardr_f_11-item1" n="1">
-                     <author><persName>Wardrop, Marjory</persName></author>
+                     <author key="person_1"><persName>Wardrop, Marjory</persName></author>
                      
                      <title xml:lang="ka-Latn-x-lc">Georgian wordlist</title>
                      
