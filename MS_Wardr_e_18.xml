@@ -152,8 +152,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/n50032188.html">Pseudo-Callisthenes</ref>
-                     <ref target="http://id.loc.gov/authorities/subjects/sh85054247.html">Georgian prose literature</ref>
+                     <term target="http://id.loc.gov/authorities/names/n50032188.html">Pseudo-Callisthenes</term>
+                  </item>
+                  <item>
+                     <term target="http://id.loc.gov/authorities/subjects/sh85054247.html">Georgian prose literature</term>
                   </item>
                </list>
             </keywords>

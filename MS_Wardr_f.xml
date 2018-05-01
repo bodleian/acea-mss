@@ -158,8 +158,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/subjects/sh98006071.html">Georgian literature, 1500-1800</ref>
-                     <ref target="http://id.loc.gov/authorities/names/n80015904">David Invincible</ref>
+                     <term target="http://id.loc.gov/authorities/subjects/sh98006071.html">Georgian literature, 1500-1800</term>
+                  </item>
+                  <item>
+                     <term target="http://id.loc.gov/authorities/names/n80015904">David Invincible</term>
                   </item>
                </list>
             </keywords>

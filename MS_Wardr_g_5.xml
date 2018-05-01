@@ -174,8 +174,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/subjects/sh2006003480.html">Christian Literature, Georgian</ref>
-                     <ref target="http://id.loc.gov/authorities/subjects/sh2009125844.html">Georgian language-dictionaries-Russian</ref>
+                     <term target="http://id.loc.gov/authorities/subjects/sh2006003480.html">Christian Literature, Georgian</term>
+                  </item>
+                  <item>
+                     <term target="http://id.loc.gov/authorities/subjects/sh2009125844.html">Georgian language-dictionaries-Russian</term>
                   </item>
                </list>
             </keywords>

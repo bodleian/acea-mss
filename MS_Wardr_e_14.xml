@@ -158,8 +158,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/subjects/sh98006071.html">Georgian Literature, 1500-1800</ref>
-                     <ref target="http://id.loc.gov/authorities/names/n86142338.html">Orbeliani, Sulxan-Saba, 1658-1725</ref>
+                     <term target="http://id.loc.gov/authorities/subjects/sh98006071.html">Georgian Literature, 1500-1800</term>
+                  </item>
+                  <item>
+                     <term target="http://id.loc.gov/authorities/names/n86142338.html">Orbeliani, Sulxan-Saba, 1658-1725</term>
                   </item>
                </list>
             </keywords>

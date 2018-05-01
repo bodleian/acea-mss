@@ -159,10 +159,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/subjects/sh85044325.html"/>
+                     <term target="http://id.loc.gov/authorities/subjects/sh85044325.html"/>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/n80032198.html">Rust'aveli, Šot'a, 12th/13th cent.</ref>
+                     <term target="http://id.loc.gov/authorities/names/n80032198.html">Rust'aveli, Šot'a, 12th/13th cent.</term>
                   </item>
                </list>
             </keywords>
