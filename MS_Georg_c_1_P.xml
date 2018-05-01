@@ -75,7 +75,7 @@
                </physDesc>
                <history>
                   <origin>Undated</origin>
-                  <acquisition>Acquired in <date calendar="#Gregorian" when="1894">1894</date> from <persName key="person_38">Rabbi S. Wertheimer</persName> in <placeName>Jerusalem</placeName> almost certainly from Genizah in Cairo</acquisition>
+                  <acquisition>Acquired in <date calendar="#Gregorian" when="1894">1894</date> from <persName key="person_38">Rabbi S. Wertheimer</persName> in <placeName ref="http://id.loc.gov/authorities/names/n81126877.html">Jerusalem</placeName> almost certainly from Genizah in Cairo</acquisition>
                </history>
                <additional>
                   <adminInfo>

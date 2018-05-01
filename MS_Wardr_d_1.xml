@@ -78,7 +78,7 @@
                      <origDate calendar="#Gregorian" notBefore="1000" notAfter="1200">11/12th c.</origDate>
                   </origin>
                   <provenance>
-                     <persName key="person_7">Wardrop, J.O.</persName> from <persName key="person_36">Haarrassowitz, O.</persName> in <placeName>Leipzig</placeName> in 1909</provenance>
+                     <persName key="person_7">Wardrop, J.O.</persName> from <persName key="person_36">Haarrassowitz, O.</persName> in <placeName ref="http://id.loc.gov/authorities/names/n79125883.html">Leipzig</placeName> in 1909</provenance>
                   <acquisition>
                      <date calendar="#Gregorian" when="1910-10-04">1910-10-04</date> don <persName key="person_7">Wardrop, J.O.</persName>
                   </acquisition>
