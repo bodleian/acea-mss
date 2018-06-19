@@ -91,6 +91,14 @@
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-fascimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/5c2cf1ca-3055-485e-86a3-a1ce5eda68e9">
+                           <title>Digital Bodleian</title>
+                           <note>(full digital facsimile)</note>
+                        </ref>
+                     </bibl>
+                  </surrogates>
                </additional>
             </msDesc>
          </sourceDesc>
