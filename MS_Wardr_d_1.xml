@@ -46,7 +46,7 @@
                   <msItem xml:id="MS_Wardr_d_1-item1" n="1">
                      
                      
-                     <title xml:lang="en-Latn-x-lc">Book of Hours</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_51">Book of Hours</title>
                      
                      <listBibl>
                         <bibl>CWC, 319-320</bibl>

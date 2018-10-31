@@ -49,7 +49,7 @@
                         <persName>Qorganovi, Mose</persName>
                          (<persName xml:lang="ar">ყორღანოვი, მოსე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">Code of King Vaxtang VI</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_25">Code of King Vaxtang VI</title>
                      
                      <incipit>თქმული და ნაღუაწი და ნასიბრძნი მეფის ვახტანგისა...</incipit>
                      <listBibl>
@@ -63,7 +63,7 @@
                         <persName>Qorganovi, Mose</persName>
                          (<persName xml:lang="ar">ყორღანოვი, მოსე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">Fragment of medical information for women</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_26">Fragment of medical information for women</title>
                      
                      <listBibl>
                         <bibl>CWC, 342</bibl>

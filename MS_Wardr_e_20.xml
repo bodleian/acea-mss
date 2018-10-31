@@ -46,7 +46,7 @@
                   <msItem xml:id="MS_Wardr_e_20-item1" n="1">
                      
                      
-                     <title xml:lang="en-Latn-x-lc">Catechism</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_42">Catechism</title>
                      
                      <listBibl>
                         <bibl>CWC, 343</bibl>

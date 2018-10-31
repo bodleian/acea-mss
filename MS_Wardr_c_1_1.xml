@@ -47,7 +47,7 @@
                   <msItem xml:id="MS_Wardr_c_1_1-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Mcevris Shvili</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_88">Mcevris Shvili</title>
                      
                      <listBibl>
                         <bibl>CWC, 306</bibl>

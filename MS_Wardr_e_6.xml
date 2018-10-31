@@ -50,8 +50,8 @@
                         <persName>Serap'im Pisidieli</persName>
                          (<persName xml:lang="ar">სერაფიმ პისიდიელი</persName>)
                      </editor>
-                     <title xml:lang="ka-Latn-x-lc">sapolitiko t'eatroni</title>
-                     <title xml:lang="ka">საპოლიტიკო თეატრონი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_45">sapolitiko t'eatroni</title>
+                     <title xml:lang="ka" key="work_45">საპოლიტიკო თეატრონი</title>
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>

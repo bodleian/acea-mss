@@ -48,8 +48,8 @@
                      <locus from="28" to="30">28-30 ff</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
-                     <title xml:lang="ka">დაუჯდომელი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_36">Daujdomeli</title>
+                     <title xml:lang="ka" key="work_36">დაუჯდომელი</title>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
                      </listBibl>
@@ -60,8 +60,8 @@
                      <locus from="31" to="35">31-35 ff</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Paraklisi</title>
-                     <title xml:lang="ka">პარაკლისი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_38">Paraklisi</title>
+                     <title xml:lang="ka" key="work_38">პარაკლისი</title>
                      <incipit>პარაკლისი ახლად თარგმნილი ბერძულისაგან</incipit>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
@@ -72,8 +72,8 @@
                      <locus from="27" to="27">27</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Prayer</title>
-                     <title xml:lang="ka">ლოცვა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_40">Prayer</title>
+                     <title xml:lang="ka" key="work_40">ლოცვა</title>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
                      </listBibl>

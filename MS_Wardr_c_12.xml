@@ -48,8 +48,8 @@
                      <locus>ff. 3(18)-25(40)</locus>
                      <author key="person_98"><persName>Arč'il I</persName> (<persName>არჩილ I</persName>)</author>
                      
-                     <title xml:lang="ka-Latn-x-lc">Arč'iliani</title>
-                     <title xml:lang="ka">არჩილიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_106">Arč'iliani</title>
+                     <title xml:lang="ka" key="work_106">არჩილიანი</title>
                      <listBibl>
                         <bibl>CWC, 311</bibl>
                         <bibl>Printed editions, Tiflis, 1867, 1895</bibl>
@@ -60,7 +60,7 @@
                      <locus>ff. 26-32</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Miscellaneous verses</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_108">Miscellaneous verses</title>
                      
                      <listBibl>
                         <bibl>CWC, 311</bibl>

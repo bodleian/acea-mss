@@ -48,8 +48,8 @@
                   <msItem xml:id="MS_Wardr_e_16-item1" n="1">
                      
                      
-                     <title xml:lang="en-Latn-x-lc">Qaramaniani and K'učuk'-Qaramaniani</title>
-                     <title xml:lang="ka">ყარამანიანი, ქუჩუკ-ყარამანიანი</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_83">Qaramaniani and K'učuk'-Qaramaniani</title>
+                     <title xml:lang="ka" key="work_83">ყარამანიანი, ქუჩუკ-ყარამანიანი</title>
                      <listBibl>
                         <bibl>CWC, 343</bibl>
                      </listBibl>

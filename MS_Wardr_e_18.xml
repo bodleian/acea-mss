@@ -47,8 +47,8 @@
                   <msItem xml:id="MS_Wardr_e_18-item1" n="1">
                      <author key="person_93"><persName>Pseudo-Callisthenes</persName></author>
                      
-                     <title xml:lang="ka-Latn-x-lc">Istoria Alek'sandres mep'isa Makedoniisa</title>
-                     <title xml:lang="ka">ისტორია ალექსანდრეს მეფისა მაკედონიისა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_103">Istoria Alek'sandres mep'isa Makedoniisa</title>
+                     <title xml:lang="ka" key="work_103">ისტორია ალექსანდრეს მეფისა მაკედონიისა</title>
                      <textLang mainLang="ka">Georgian</textLang>
                      <note>Bought by J.O. Wardrop in Tiflis from Mejdid il-Saltane, 6. Feb. 1911</note>
                   </msItem>

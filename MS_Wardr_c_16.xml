@@ -44,14 +44,12 @@
                <msContents>
                   <summary>Signatures to a document entitled 'Sakartvelos xalxis memorandumi cardgenili 1907 clis saertašoriso kongreszed haagši</summary>
                   <msItem xml:id="MS_Wardr_c_16-item1" n="1">
-                     
-                     
-                     <title xml:lang="ka-Latn-x-lc">Sakartvelos xalxis memorandumi cardgenili 1907 clis saertasoriso kongreszed haagsi</title>
-                     <title xml:lang="ka">საქართველოს ხალხის მემორანდუმი წარდგენილი 1907 წლის საერთაშორისო კონგრესზედ ჰააგში</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_47">Sakartvelos xalxis memorandumi cardgenili 1907 clis saertasoriso kongreszed haagsi</title>
+                     <title xml:lang="ka" key="work_47">საქართველოს ხალხის მემორანდუმი წარდგენილი 1907 წლის საერთაშორისო კონგრესზედ ჰააგში</title>
                      <listBibl>
                         <bibl>CWC, 312</bibl>
                      </listBibl>
-                     <textLang mainLang="ka"/>
+                     <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                </msContents>
                <physDesc>

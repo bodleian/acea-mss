@@ -50,8 +50,8 @@
                          (<persName>შოთა რუსთაველი</persName>)
                      </author>
                      
-                     <title xml:lang="ka-Latn-x-lc">Vep'xistqaosani</title>
-                     <title xml:lang="ka">ვეფხისტყაოსანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_33">Vep'xistqaosani</title>
+                     <title xml:lang="ka" key="work_33">ვეფხისტყაოსანი</title>
                      <listBibl>
                         <bibl>CWC, 322</bibl>
                         <bibl>For commentary on the text see: S. Caishvili, 'Vefxistqaosnis tek'stis istoria' (Georg. e. 507)</bibl>

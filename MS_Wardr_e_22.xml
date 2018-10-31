@@ -46,8 +46,8 @@
                   <msItem xml:id="MS_Wardr_e_22-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Melis cigni</title>
-                     <title xml:lang="ka">მელის წიგნი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_16">Melis cigni</title>
+                     <title xml:lang="ka" key="work_16">მელის წიგნი</title>
                      <listBibl>
                         <bibl>CWC. 343</bibl>
                         <bibl>Cf. MS. Wardr. d. 15 and Taqaishvili's edition of 1900 Wardr. 11. 62 (1)</bibl>

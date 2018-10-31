@@ -45,9 +45,7 @@
                   <summary>Code of <persName key="person_63">King Vaxtang VI</persName>.256 articles</summary>
                   <msItem xml:id="MS_Wardr_e_12-item1" n="1">
                      <author key="person_63"><persName>Vaxtang VI</persName> (<persName>ვახტანგ VI</persName>)</author>
-                     
-                     
-                     
+                     <title type="desc" key="work_31">Untitled</title>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                </msContents>

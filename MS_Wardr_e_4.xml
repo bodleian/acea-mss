@@ -49,8 +49,8 @@
                         <persName>Mgeladze, Anna</persName>
                          (<persName xml:lang="ar">მგელაძე, ანა</persName>)
                      </editor>
-                     <title xml:lang="ka-Latn-x-lc">K'art'uli zġaprebi guriaši čacerili ana bežanis asuli mgelażisagan</title>
-                     <title xml:lang="ka">ქართული ზღაპრები, გურიაში ჩაწერილი ანა ბეჟანის ასული მგელაძისაგან</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_81">K'art'uli zġaprebi guriaši čacerili ana bežanis asuli mgelażisagan</title>
+                     <title xml:lang="ka" key="work_81">ქართული ზღაპრები, გურიაში ჩაწერილი ანა ბეჟანის ასული მგელაძისაგან</title>
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>

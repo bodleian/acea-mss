@@ -46,8 +46,8 @@
                   <msItem xml:id="MS_Wardr_e_15-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Gvirgvini</title>
-                     <title xml:lang="ka">გვირგვინი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_23">Gvirgvini</title>
+                     <title xml:lang="ka" key="work_23">გვირგვინი</title>
                      <listBibl>
                         <bibl>CWC. 342-43</bibl>
                         <bibl>For printed edition cf. Wardr. 2. 43</bibl>

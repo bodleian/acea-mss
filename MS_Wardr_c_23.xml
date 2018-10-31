@@ -46,7 +46,7 @@
                   <msItem xml:id="MS_Wardr_c_23-item1" n="1">
                      
                      
-                     <title xml:lang="fr-Latn-x-lc">Acte de l’indépendance de la Géorgie</title>
+                     <title xml:lang="fr-Latn-x-lc" key="work_28">Acte de l’indépendance de la Géorgie</title>
                      
                      <listBibl>
                         <bibl>CWC, 312-313</bibl>

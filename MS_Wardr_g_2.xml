@@ -49,8 +49,8 @@
                      <locus from="1" to="42"/>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Kalvažiani</title>
-                     <title xml:lang="ka">ქალვაჟიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_78">Kalvažiani</title>
+                     <title xml:lang="ka" key="work_78">ქალვაჟიანი</title>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
                         <bibl>Cf. the printed versions, e.g. Wardr. 11. 25 (7)</bibl>
@@ -61,7 +61,7 @@
                      <locus from="43">43</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Hymn</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_13">Hymn</title>
                      
                      <incipit>ასო სამღერალი და ჭეშმარიტი დანიელისაგან და იმონისაგან და ალექსანდრესაგან</incipit>
                      <listBibl>

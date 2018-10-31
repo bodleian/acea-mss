@@ -46,8 +46,8 @@
                   <msItem xml:id="MS_Wardr_e_17-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Manana</title>
-                     <title xml:lang="ka">მანანა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_14">Manana</title>
+                     <title xml:lang="ka" key="work_14">მანანა</title>
                      <listBibl>
                         <bibl>CWC, 343</bibl>
                         <bibl>Cf. printed edition Wardr. 2.37, pp. 71-180</bibl>

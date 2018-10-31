@@ -45,9 +45,7 @@
                   <summary>Manual of Veterinary medicine: incomplete</summary>
                   <msItem xml:id="MS_Wardr_e_10-item1" n="1">
                      <author key="person_56"><persName>Batonišvili, Bagrat</persName> (<persName>ბატონიშვილი, ბაგრატ</persName>)</author>
-                     
-                     
-                     
+                     <title type="desc" key="work_65">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 342</bibl>
                         <bibl>Cf. Prince Bagrat's 'Karabadini', publ. at St. Petersburg in 1818</bibl>

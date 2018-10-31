@@ -48,23 +48,23 @@
                      <locus from="19v" to="30v">19v-30v ff</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
-                     <title xml:lang="ka">დაუჯდომელი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_36">Daujdomeli</title>
+                     <title xml:lang="ka" key="work_36">დაუჯდომელი</title>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_g_5-item2" n="2">
                      <locus from="33" to="55">33-55 ff</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Paraklisi</title>
-                     <title xml:lang="ge">პარაკლისი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_38">Paraklisi</title>
+                     <title xml:lang="ge" key="work_38">პარაკლისი</title>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Wardr_g_5-item3" n="3">
                      <locus from="18v" to="19r">18v-19r</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Russian-Georgian word-list</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_53">Russian-Georgian word-list</title>
                      
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
@@ -72,7 +72,7 @@
                      <locus from="31" to="32">31-32 ff</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">The Lord's Prayer and other prayers</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_54">The Lord's Prayer and other prayers</title>
                      
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>

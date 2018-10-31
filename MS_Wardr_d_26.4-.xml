@@ -44,15 +44,12 @@
                <msContents>
                   <summary>Drafts of letters written by <persName key="person_1">Wardrop, Marjory</persName>
                   </summary>
-                  <msItem xml:id="MS_Wardr_d_26.4--item1" n="1">
-                     
-                     
-                     
-                     
+                  <msItem xml:id="MS_Wardr_d_26.4-item1" n="1">
+                     <title key="work_20" type="desc">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 325-26</bibl>
                      </listBibl>
-                     <textLang mainLang="en"/>
+                     <textLang mainLang="en">English</textLang>
                   </msItem>
                </msContents>
                <physDesc>

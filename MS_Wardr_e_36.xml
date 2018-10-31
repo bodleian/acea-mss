@@ -44,14 +44,10 @@
                <msContents>
                   <summary>Photographs of Georgian MSS</summary>
                   <msItem xml:id="MS_Wardr_e_36-item1" n="1">
-                     
-                     
-                     
-                     
                      <listBibl>
                         <bibl>CWC, 345</bibl>
                      </listBibl>
-                     <textLang mainLang="ka"/>
+                     <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
                </msContents>
                <physDesc>

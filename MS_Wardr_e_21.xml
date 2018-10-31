@@ -46,8 +46,8 @@
                   <msItem xml:id="MS_Wardr_e_21-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Kalvazhiani</title>
-                     <title xml:lang="ka">ქალვაჟიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_78">Kalvazhiani</title>
+                     <title xml:lang="ka" key="work_78">ქალვაჟიანი</title>
                      <listBibl>
                         <bibl>CWC, 343</bibl>
                         <bibl>Cf. printed versions at Wardr.11.25 (7) and 13.77 (8,9)</bibl>

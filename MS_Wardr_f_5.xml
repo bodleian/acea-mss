@@ -50,8 +50,8 @@
                         <persName>Egnate Ioseliani</persName>
                          (<persName xml:lang="ar">ეგნატე იოსელიანი</persName>)
                      </editor>
-                     <title xml:lang="ka-Latn-x-lc">Cigni sazġuvart'a Davit'isa użlevelisa p'ilosop'osisa</title>
-                     <title xml:lang="ka">წიგნი საზღუვართა დავითისა უძლეველისა ფილოსოფოსისა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_66">Cigni sazġuvart'a Davit'isa użlevelisa p'ilosop'osisa</title>
+                     <title xml:lang="ka" key="work_66">წიგნი საზღუვართა დავითისა უძლეველისა ფილოსოფოსისა</title>
                      <listBibl>
                         <bibl>CWC, 346</bibl>
                      </listBibl>

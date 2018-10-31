@@ -44,15 +44,13 @@
                <msContents>
                   <summary>Correspondence of <persName key="person_1">Wardrop, Marjory</persName>
                   </summary>
-                  <msItem xml:id="MS_Wardr_d_26.5--item1" n="1">
-                     <author key="person_1"><persName>Wardrop, Marjory</persName></author>
-                     
-                     
-                     
+                  <msItem xml:id="MS_Wardr_d_26.5-item1" n="1">
+                     <author key="person_1">Wardrop, Marjory</author>
+                     <title type="desc" key="work_20">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 326</bibl>
                      </listBibl>
-                     <textLang mainLang="xcl"/>
+                     <textLang mainLang="xcl">Classical Armenian</textLang>
                   </msItem>
                </msContents>
                <physDesc>

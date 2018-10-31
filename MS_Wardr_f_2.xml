@@ -47,8 +47,8 @@
                   <msItem xml:id="MS_Wardr_f_2-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Mokled gamoč'ineba garemos kveqnisa</title>
-                     <title xml:lang="ka">მოკლედ გამოჩინება გარემოს ქვეყნისა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_21">Mokled gamoč'ineba garemos kveqnisa</title>
+                     <title xml:lang="ka" key="work_21">მოკლედ გამოჩინება გარემოს ქვეყნისა</title>
                      <listBibl>
                         <bibl>CWC, 345</bibl>
                         <bibl>Cf. 'Geografia, ili kratkoe zemnago kruga opisanie', Moskva, 1710</bibl>

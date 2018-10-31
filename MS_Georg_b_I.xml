@@ -46,9 +46,7 @@
                   </summary>
                   <msItem xml:id="MS_Georg_b_I-item1" n="1">
                      <author key="person_82"><persName>Proxore</persName> (<persName>პროხორე</persName>)</author>
-                     
-                     
-                     
+                     <title type="desc" key="work_85">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 305</bibl>
                         <bibl>Fully described by P. Peeters, 'De codice Hiberico Bibliothecase Bodleianae Oxoniensis' [Georg.d.14], text by Antiochus Strategus edited by G. Garitte and published in 1960 ['La prise de Jérusalem par les Perses', Corpus Scriptorum Christianorum Orientalium, 202, 203, Georg. d. 57/11, 12]</bibl>

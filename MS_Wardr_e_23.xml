@@ -48,8 +48,8 @@
                   <msItem xml:id="MS_Wardr_e_23-item1" n="1">
                      <author key="person_41"><persName>Turmanidze, Xosro</persName> (<persName>თურმანიძე, ხოსრო</persName>)</author>
                      
-                     <title xml:lang="ka-Latn-x-lc">Bezhaniani</title>
-                     <title xml:lang="ka">ბეჟანიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_55">Bezhaniani</title>
+                     <title xml:lang="ka" key="work_55">ბეჟანიანი</title>
                      <listBibl>
                         <bibl>CWC, 343-344</bibl>
                         <bibl>Cf. printed eidtions at Wardr. 11. 25 (4) and 13.77 (10)</bibl>

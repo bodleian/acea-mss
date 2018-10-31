@@ -49,8 +49,8 @@
                         <persName>Deacon Paul</persName>
                          (<persName xml:lang="ar">პავლე დიაკვანი</persName>)
                      </editor>
-                     <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
-                     <title xml:lang="ka">დაუჯდომელი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_36">Daujdomeli</title>
+                     <title xml:lang="ka" key="work_36">დაუჯდომელი</title>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
                         <bibl>Cf. printed texs of the hymn, e.g. Wardr. 2. 8, pp. 109-152</bibl>

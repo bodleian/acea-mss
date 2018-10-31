@@ -44,14 +44,11 @@
                <msContents>
                   <summary>Signatures to a petition to the British Government arising out of an 'Appeal from the Women of Georgia'</summary>
                   <msItem xml:id="MS_Wardr_c_17-item1" n="1">
-                     
-                     
-                     <title xml:lang="en-Latn-x-lc">Appeal from the Women of Georgia</title>
-                     
+                     <title xml:lang="en-Latn-x-lc" key="work_109">Appeal from the Women of Georgia</title>
                      <listBibl>
                         <bibl>CWC. 312</bibl>
                      </listBibl>
-                     <textLang mainLang="en"/>
+                     <textLang mainLang="en">English</textLang>
                      <note>Signatures and addresses on printed forms bearing the text of the Georgian women's appeal, followed by the petition beginning 'We, the undersigned women of England...'</note>
                   </msItem>
                </msContents>

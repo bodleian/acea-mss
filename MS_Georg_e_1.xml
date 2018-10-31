@@ -50,8 +50,8 @@
                         <persName>Mikheil</persName>
                         
                      </editor>
-                     <title xml:lang="ka-Latn-x-lc">Cigni grammatikay kartulisamebr enisa</title>
-                     <title xml:lang="ka">წიგნი გრამმატიკაი ქართულისამებრ ენისა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_49">Cigni grammatikay kartulisamebr enisa</title>
+                     <title xml:lang="ka" key="work_49">წიგნი გრამმატიკაი ქართულისამებრ ენისა</title>
                      <listBibl>
                         <bibl>CWC, 306</bibl>
                         <bibl>Printed version ed. by Prince R. Eristavi, 1885 [Wardr.5.30]</bibl>

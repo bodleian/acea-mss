@@ -47,8 +47,8 @@
                   <msItem xml:id="MS_Wardr_f_6-item1" n="1">
                      <author key="person_25"><persName>Gabriel Garejeli</persName> (<persName>გაბრიელ გარეჯელი</persName>)</author>
                      
-                     <title xml:lang="ka-Latn-x-lc">Jvaršemosili</title>
-                     <title xml:lang="ka">ჯვარშემოსილი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_43">Jvaršemosili</title>
+                     <title xml:lang="ka" key="work_43">ჯვარშემოსილი</title>
                      <incipit>ღვთივ სულიერი წიგნაკი რომელსა ეწოდების ჯვარ-შემოსილი, აღწერილი უღირსის იერომონახის გაბრიელის მიერ რომელი იყო უდაბნოსა გარესჯისა მონასტერსა ნათლის-მცემლისასა</incipit>
                      <listBibl>
                         <bibl>CWC, 347</bibl>

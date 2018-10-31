@@ -51,8 +51,8 @@
                         <persName>King T'eimuraz II</persName>
                          (<persName xml:lang="ar">თეიმურაზ II</persName>)
                      </editor>
-                     <title xml:lang="ka-Latn-x-lc">Ioseb-Zilixaniani</title>
-                     <title xml:lang="ka">იოსებ-ზილიხანიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_60">Ioseb-Zilixaniani</title>
+                     <title xml:lang="ka" key="work_60">იოსებ-ზილიხანიანი</title>
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>

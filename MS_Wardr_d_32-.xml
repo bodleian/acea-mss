@@ -44,10 +44,10 @@
                <msContents>
                   <summary>'The Man in the Panther's Skin', a romantic epic by <persName key="person_5">Shota Rustaveli</persName> a close rendering from the Georgian attempted by <persName key="person_1">Wardrop, Marjory</persName>
                   </summary>
-                  <msItem xml:id="MS_Wardr_d_32--item1" n="1">
+                  <msItem xml:id="MS_Wardr_d_32-item1" n="1">
                      
                      
-                     <title xml:lang="en-Latn-x-lc">The Man in the Panther's Skin</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_89">The Man in the Panther's Skin</title>
                      
                      <listBibl>
                         <bibl>CWC, 332</bibl>

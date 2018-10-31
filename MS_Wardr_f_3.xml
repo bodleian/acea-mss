@@ -47,8 +47,8 @@
                      <locus>f. 1-52</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">C'xovreba modgmit'i da goneba maxvilisa esopesni</title>
-                     <title xml:lang="ka">ცხოვრება მოდგმითი გონება მახვილისა ესოპესნი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_69">C'xovreba modgmit'i da goneba maxvilisa esopesni</title>
+                     <title xml:lang="ka" key="work_69">ცხოვრება მოდგმითი გონება მახვილისა ესოპესნი</title>
                      <listBibl>
                         <bibl>CWC, 345</bibl>
                      </listBibl>
@@ -58,8 +58,8 @@
                      <locus>f. 53-75</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">igavni esope brżnisani</title>
-                     <title xml:lang="ka">იგავნი ესოპე ბრძნისანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_71">igavni esope brżnisani</title>
+                     <title xml:lang="ka" key="work_71">იგავნი ესოპე ბრძნისანი</title>
                      <listBibl>
                         <bibl>CWC, 345</bibl>
                      </listBibl>

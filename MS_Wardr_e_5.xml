@@ -50,8 +50,8 @@
                         <persName>Orbeliani, Davit</persName>
                          (<persName xml:lang="ar">ორბელიანი, დავით</persName>)
                      </editor>
-                     <title xml:lang="ka-Latn-x-lc">Qaramaniani</title>
-                     <title xml:lang="ka">ყარამანიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_110">Qaramaniani</title>
+                     <title xml:lang="ka" key="work_110">ყარამანიანი</title>
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>

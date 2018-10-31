@@ -47,7 +47,7 @@
                   <msItem xml:id="MS_Wardr_f_11-item1" n="1">
                      <author key="person_1"><persName>Wardrop, Marjory</persName></author>
                      
-                     <title xml:lang="ka-Latn-x-lc">Georgian wordlist</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_57">Georgian wordlist</title>
                      
                      <textLang mainLang="en">Georgian, English</textLang>
                   </msItem>

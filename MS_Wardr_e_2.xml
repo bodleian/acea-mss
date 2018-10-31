@@ -49,7 +49,7 @@
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">The Assumption of the Holy Virgin</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_96">The Assumption of the Holy Virgin</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -62,7 +62,7 @@
                         <persName>Atanase</persName>
                          (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">The Conversion of King Mirian by St. Nino</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_97">The Conversion of King Mirian by St. Nino</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -75,7 +75,7 @@
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">The Martyrdom of St. Euphemia</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_98">The Martyrdom of St. Euphemia</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -88,7 +88,7 @@
                         <persName>Atanase</persName>
                          (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">The Martyrdom of St. Catherine</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_99">The Martyrdom of St. Catherine</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -101,7 +101,7 @@
                         <persName>Atanase</persName>
                          (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">The Life of St. Canonice</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_100">The Life of St. Canonice</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -114,7 +114,7 @@
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">The Ten Commandments</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_101">The Ten Commandments</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -127,7 +127,7 @@
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc">The Life of St. Nisime of Egypt</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_102">The Life of St. Nisime of Egypt</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>

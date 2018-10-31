@@ -46,8 +46,8 @@
                   <msItem xml:id="MS_Wardr_g_4-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc">Daujdomeli</title>
-                     <title xml:lang="ka">დაუჯდომელი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_36">Daujdomeli</title>
+                     <title xml:lang="ka" key="work_36">დაუჯდომელი</title>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
                      </listBibl>

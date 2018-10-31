@@ -46,8 +46,8 @@
                      <persName key="person_88">'Sirinoziani'</persName> a romance in prose tr. from the Persian</summary>
                   <msItem xml:id="MS_Wardr_b_1-item1" n="1">
                      
-                     <title xml:lang="ka-Latn-x-lc">Sirinoziani</title>
-                     <title xml:lang="ka">სირინოზიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_93">Sirinoziani</title>
+                     <title xml:lang="ka" key="work_93">სირინოზიანი</title>
                      <incipit>'კარი პირველი მაშრიყის ხელმწიფის არდაპის და ძის მისისა სირინოზისა ამბავი...'</incipit>
                      <listBibl>
                         <bibl>CWC. 306</bibl>
