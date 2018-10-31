@@ -160,10 +160,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh2008118018.html" key="subject_14">Georgian language-grammar</term>
+                     <term key="subject_sh2008118018">Georgian language-grammar</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n00050856.html" key="subject_34">Orbeliani, Sulxan-Saba, 1658-1725. Lek'sikoni k'art'uli</term>
+                     <term key="subject_n00050856">Orbeliani, Sulxan-Saba, 1658-1725. Lek'sikoni k'art'uli</term>
                   </item>
                </list>
             </keywords>

@@ -157,10 +157,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh98006071.html" key="subject_12">Georgian literature, 1500-1800</term>
+                     <term key="subject_sh98006071">Georgian literature, 1500-1800</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n80015904" key="subject_24">David Invincible</term>
+                     <term key="subject_n80015904">David Invincible</term>
                   </item>
                </list>
             </keywords>
