@@ -27,11 +27,11 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <idno type="msID">MS_Georg_b_I</idno>
+            <idno type="msID">MS_Georg_b_1</idno>
             <idno type="catalogue">Georgian</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Georg_b_I" xml:lang="en">
+            <msDesc xml:id="MS_Georg_b_1" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -39,12 +39,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Georg. b. I</idno>
+                  <idno>MS. Georg. b. 1</idno>
                </msIdentifier>
                <msContents>
                   <summary>Menologion for March-August, followed by biographies of saintly women. Includes the Georgian version of the account of the sack of Jerusalem by the Persians in A.D. 614, composed by the monk <persName key="person_81">Antiochus Strategus</persName>
                   </summary>
-                  <msItem xml:id="MS_Georg_b_I-item1" n="1">
+                  <msItem xml:id="MS_Georg_b_1-item1" n="1">
                      <author key="person_82"><persName>Proxore</persName> (<persName>პროხორე</persName>)</author>
                      <title type="desc" key="work_85">Untitled</title>
                      <listBibl>
