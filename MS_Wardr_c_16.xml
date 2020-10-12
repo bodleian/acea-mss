@@ -82,11 +82,11 @@
                      </availability>
                   </adminInfo>
                   <surrogates>
-                     <bibl type="digital-fascimile" subtype="full">
-                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/e67b75d7-536b-4451-a9f1-74a3e6d65f95">
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/cde9473f-af5a-4afb-b93d-304f5c250fc4">
                            <title>Digital Bodleian</title>
-                           <note>(full digital facsimile)</note>
-                        </ref>
+                        </ref> 
+                        <note>(full digital facsimile)</note>
                      </bibl>
                   </surrogates>
                </additional>
