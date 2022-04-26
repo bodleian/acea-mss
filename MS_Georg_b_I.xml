@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -42,14 +43,22 @@
                   <idno>MS. Georg. b. 1</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Menologion for March-August, followed by biographies of saintly women. Includes the Georgian version of the account of the sack of Jerusalem by the Persians in A.D. 614, composed by the monk <persName key="person_81">Antiochus Strategus</persName>
+                  <summary>Menologion for March-August, followed by biographies of saintly women.
+                     Includes the Georgian version of the account of the sack of Jerusalem by the
+                     Persians in A.D. 614, composed by the monk <persName key="person_81">Antiochus
+                        Strategus</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_b_1-item1" n="1">
-                     <author key="person_82"><persName>Proxore</persName> (<persName>პროხორე</persName>)</author>
+                     <author key="person_82"><persName>Proxore</persName>
+                           (<persName>პროხორე</persName>)</author>
                      <title type="desc" key="work_85">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 305</bibl>
-                        <bibl>Fully described by P. Peeters, 'De codice Hiberico Bibliothecase Bodleianae Oxoniensis' [Georg.d.14], text by Antiochus Strategus edited by G. Garitte and published in 1960 ['La prise de Jérusalem par les Perses', Corpus Scriptorum Christianorum Orientalium, 202, 203, Georg. d. 57/11, 12]</bibl>
+                        <bibl>Fully described by P. Peeters, 'De codice Hiberico Bibliothecase
+                           Bodleianae Oxoniensis' [Georg.d.14], text by Antiochus Strategus edited
+                           by G. Garitte and published in 1960 ['La prise de Jérusalem par les
+                           Perses', Corpus Scriptorum Christianorum Orientalium, 202, 203, Georg. d.
+                           57/11, 12]</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
                   </msItem>
@@ -77,29 +86,32 @@
                   <origin>Undated</origin>
                   <provenance>Bought by Wardrop Fund from Church Missionary Society</provenance>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1911-11-25">1911-11-25</date> don. Wardrop Fund</acquisition>
+                     <date calendar="#Gregorian" when="1911-11-25">1911-11-25</date> don. Wardrop
+                     Fund</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>In order to preserve this rare and fragile artefact, access to it is
+                        <p>In order to protect and preserve this artefact, access to it is
                            restricted, and readers are asked to work from reproductions and
-                           published descriptions as far as possible. To apply to see the original,
-                           please send a message to
-                           <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>,
-                           outlining the subject of your research, the importance of this item to
-                           that research, and the resources you have already consulted. Entry to
-                           read in the Library is permitted only on presentation of a valid reader's
-                           card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
-                              Admissions</ref>).</p>
+                           published descriptions as far as possible. If you require access to the
+                           original, please submit your request through the Bodleian Archives and
+                           Manuscript Request service. When your request is received, you will be
+                           asked to provide further information outlining the subject of your
+                           research, the importance of this item to that research, and the resources
+                           you have already consulted. Your application will then be considered by
+                           our curatorial staff. Entry to read in the Library is permitted only on
+                           presentation of a valid reader's card (for admissions procedures contact
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                              >Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl type="digital-facsimile" subtype="full">
-                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/e4c98007-81c8-4670-ad42-777faa2987e5">
+                        <ref
+                           target="https://digital.bodleian.ox.ac.uk/inquire/p/e4c98007-81c8-4670-ad42-777faa2987e5">
                            <title>Digital Bodleian</title>
-                        </ref> 
+                        </ref>
                         <note>(full digital facsimile)</note>
                      </bibl>
                   </surrogates>
@@ -111,7 +123,8 @@
          <classDecl>
             <taxonomy xml:id="LCSH">
                <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
                </bibl>
             </taxonomy>
             <taxonomy xml:id="local_class">
@@ -179,7 +192,9 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl">https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref
+               target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl"
+               >https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
          </change>
          <change when="2011-05-12">
             <persName>Nikoloz Aleksidze</persName>

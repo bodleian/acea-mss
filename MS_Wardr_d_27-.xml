@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -46,18 +47,20 @@
                   <msItem xml:id="MS_Wardr_d_27-item1" n="1">
                      <author ref="http://viaf.org/viaf/267123512" key="person_5">
                         <persName>Rustaveli, Shota, active 12th century-13th century</persName>
-                         (<persName>Šot'a Rust'aveli</persName>)
-                         (<persName>შოთა რუსთაველი</persName>)
-                     </author>
-                     
+                           (<persName>Šot'a Rust'aveli</persName>) (<persName>შოთა
+                           რუსთაველი</persName>) </author>
+
                      <title xml:lang="ka-Latn-x-lc" key="work_33">Vepxistqaosani</title>
                      <title xml:lang="ka" key="work_33">ვეფხისტყაოსანი</title>
                      <listBibl>
                         <bibl>CWC, 327</bibl>
-                        <bibl>Caishvili, S., "Vefxistqaosnis tek'stis istoria" vol. 2, p. 79 [Georg. e. 507]</bibl>
+                        <bibl>Caishvili, S., "Vefxistqaosnis tek'stis istoria" vol. 2, p. 79 [Georg.
+                           e. 507]</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
-                     <note>For description see article by Basil Gray, Bodleian Library Record, vol. 3, no. 32, Aug. 1951; S. Caishvili, Vepxistqaosnis tekstis istoria (Georg.e.507), vol. 2, p. 79</note>
+                     <note>For description see article by Basil Gray, Bodleian Library Record, vol.
+                        3, no. 32, Aug. 1951; S. Caishvili, Vepxistqaosnis tekstis istoria
+                        (Georg.e.507), vol. 2, p. 79</note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -81,19 +84,33 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" notBefore="1650" notAfter="1700">2nd half of the 17th c.</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1650" notAfter="1700">2nd half of
+                        the 17th c.</origDate>
                   </origin>
-                  <acquisition>21.2.1949, purchased from the executors of Sir Bernard Eckstein, the Marjory Wardrop Fund contributed half the cost</acquisition>
+                  <acquisition>21.2.1949, purchased from the executors of Sir Bernard Eckstein, the
+                     Marjory Wardrop Fund contributed half the cost</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
+                        <p>In order to protect and preserve this artefact, access to it is
+                           restricted, and readers are asked to work from reproductions and
+                           published descriptions as far as possible. If you require access to the
+                           original, please submit your request through the Bodleian Archives and
+                           Manuscript Request service. When your request is received, you will be
+                           asked to provide further information outlining the subject of your
+                           research, the importance of this item to that research, and the resources
+                           you have already consulted. Your application will then be considered by
+                           our curatorial staff. Entry to read in the Library is permitted only on
+                           presentation of a valid reader's card (for admissions procedures contact
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                              >Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl type="digital-facsimile" subtype="full">
-                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/e854c131-0499-468d-bccc-87e3a4c06ec7">
+                        <ref
+                           target="https://digital.bodleian.ox.ac.uk/inquire/p/e854c131-0499-468d-bccc-87e3a4c06ec7">
                            <title>Digital Bodleian</title>
                            <note>(full digital facsimile)</note>
                         </ref>
@@ -107,7 +124,8 @@
          <classDecl>
             <taxonomy xml:id="LCSH">
                <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
                </bibl>
             </taxonomy>
             <taxonomy xml:id="local_class">
@@ -178,7 +196,9 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl">https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref
+               target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl"
+               >https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
          </change>
          <change when="2011-05-12">
             <persName>Nikoloz Aleksidze</persName>
