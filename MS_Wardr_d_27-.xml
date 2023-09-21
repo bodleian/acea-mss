@@ -39,28 +39,29 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
+                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection>Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 27-</idno>
                </msIdentifier>
                <msContents>
-                  <summary>The Knight in the Leupard's Skin</summary>
+                  <summary>The Knight in the Leopard's Skin</summary>
                   <msItem xml:id="MS_Wardr_d_27-item1" n="1">
                      <author ref="http://viaf.org/viaf/267123512" key="person_5">
                         <persName>Rustaveli, Shota, active 12th century-13th century</persName>
                            (<persName>Šot'a Rust'aveli</persName>) (<persName>შოთა
                            რუსთაველი</persName>) </author>
 
-                     <title xml:lang="ka-Latn-x-lc" key="work_33">Vepxistqaosani</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_33">Vep'xistqaosani</title>
                      <title xml:lang="ka" key="work_33">ვეფხისტყაოსანი</title>
                      <listBibl>
                         <bibl>CWC, 327</bibl>
-                        <bibl>Caishvili, S., "Vefxistqaosnis tek'stis istoria" vol. 2, p. 79 [Georg.
+                        <bibl>ცაიშვილი, ს. <title>ვეფხისტყაოსნის ტექსტის ისტორია</title>, ტ. 2, გვ. 79 (C'aišvili, S. <title>Vep'xistqaosnis tek'stis istoria</title>, vol. 2, p. 79) [Georg.
                            e. 507]</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
-                     <note>For description see article by Basil Gray, Bodleian Library Record, vol.
-                        3, no. 32, Aug. 1951; S. Caishvili, Vepxistqaosnis tekstis istoria
-                        (Georg.e.507), vol. 2, p. 79</note>
+                     <note>For description see <bibl>Gray, Basil. <title>Bodleian Library Record</title>, vol.
+                        3, no. 32 (Aug. 1951)</bibl>; <bibl>ცაიშვილი, ს. <title>ვეფხისტყაოსნის ტექსტის ისტორია</title>, ტ. 2, გვ. 79 (C'aišvili, S. <title>Vep'xistqaosnis tek'stis istoria</title>, vol. 2, p. 79) [Georg.
+                           e. 507]</bibl></note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -81,6 +82,30 @@
                   <handDesc>
                      <handNote scope="major" script="unknown"/>
                   </handDesc>
+                  <decoDesc>
+                     <decoNote type="miniature">
+                        <locus from="8a">folio 8a</locus>: Illuminated miniature with caption: აქა ავთანდილისაგან ტარიელის ამბვის ცოდნა "Here is the knowledge of Tariel's story about Avt'andil."
+                        <locus from="10b">folio 10b</locus>: Illuminated miniature with caption: აქა ავთანდილ ხეზე ასულა და ტარიელის და ასმათის ნახვა "Here is Avt'andil climbing a tree and seeing Tariel and Asmat'."
+                        <locus from="14a">folio 14a</locus>: Illuminated miniature with no caption.
+                        <locus from="15b">folio 15b</locus>: Illuminated miniature with caption: აქა ტარიელისა და ავთანდილისა ნახვა და შეხვჱ[დრა] "Here is Tariel and Avt'andil seeing [one another] and meeting."
+                        <locus from="21a">folio 21a</locus>: Illuminated miniature with caption: ტარიელისაგან თავის ამბის მბობა ავთანდილის წინაშე "Tariel recounting of his own story before Avt'andil"
+                        <locus from="26b">folio 26b</locus>: Illuminated miniature with caption: აქა ტარიელისაგან ნესტან დარეჯანის ნახვა და ნე[...]დ[...] "Here is the seeing and [...] of Nestan Darejan by T'ariel."
+                        <locus from="29b">folio 29b</locus>: Illuminated miniature with caption: [წი]გნი ნესტან დარეჯანისა თავის საყუარელთან მიწერილი "The letter written to Nestan Darejan's beloved"
+                        <locus from="39a">folio 39a</locus>: Illuminated miniature with caption: აქა ტ[არიელისა] [...]ნდ[...]ს მისულა და რ[ამ]აზის [...] "Here is T[ariel's ...] arrival and [...] of Ramaz"
+                        <locus from="55b">folio 55b</locus>: Illuminated miniature with caption: [...მ]ა [...]მჱლა ტარიელისაგან ფრიდონის მჱფის ზენ[...]ნ "[...] from Tariel [to?] King P'ridon's [...]"
+                        <locus from="62a">folio 62a</locus>: Illuminated miniature with caption: აქა ავთანდილისაგან ტარიელის ამბვის მბობა მეფჱს წინ "Here is Tariel's recounting of the story of Aft'andil before the king."
+                        <locus from="78b">folio 78b</locus>: Illuminated miniature with caption: [...]ნი ავთანდილიგნ [...]შის შერმადინის ჱანიშინათ დაწდე[...] "[...] Avt'andil's [...] Shermandin's [...]"
+                        <locus from="88a">folio 88a</locus>: Illuminated miniature with caption: აქა ტარიელის ლომვჱფხთ მოკულა და დაბნედა ავთანდილის ტირილი "Here is Tariel fighting the lion and panther and fainting and Avt'andil crying."
+                        <locus from="97a">folio 97a</locus>: Illuminated miniature with caption: აქა ავთანდილისაგან ფრიდონის ნახვა და შეყრა "Here is Avt'andil and P'ridon seeing one another and coming together."
+                        <locus from="104b">folio 104b</locus>: Illuminated miniature with caption: აქა ავთანდილისაგან ზღუაში ომი და გამარჯავებ "Here Avt'andil is winning a battle on the sea."
+                        <locus from="129a">folio 129a</locus>: Illuminated miniature with caption: აქა ფატმანის მანისაგან ნესტან დარეჯანის ნახვა [და წიგნებსა] მირთმევა "Here is P'atman seeing Nestan Darejan and [her] receiving the letters."
+                        <locus from="137b">folio 137b</locus>: Illuminated miniature with caption: აქა ავთანდილისაგან ამბვის მიტანა და ტარიელის დაბნედა "Here is the relating of the story of Avt'andil and the fainting of Tariel."
+                        <locus from="145a">folio 145a</locus>: Illuminated miniature with caption: აქა ტარიელის ავთანდილისა და ფრიდონისა ომი ქაჯეთს "Here is Tariel, Avt'andil and P'ridon's war on K'ajet'i."
+                        <locus from="151a">folio 151a</locus>: Illuminated miniature with caption: აქა ქორწილი ტარიელისა და ნესტანდარეჯანის "Here is the wedding of Tariel and Nestan Darejan."
+                        <locus from="161a">folio 161a</locus>: Illuminated miniature with caption: აქა ქორწილი ავთანდილისა და მზე თინათინისა "Here is the wedding of Avt'andil and the radiant T'inat'in."
+                        <locus from="168a">folio 168a</locus>: Illuminated miniature with caption: ტარიელისაგან რამადან მეფის სიკდილი "King Ramadan's [sic!] death by Tariel" 
+                     </decoNote>
+                  </decoDesc>
                </physDesc>
                <history>
                   <origin>
