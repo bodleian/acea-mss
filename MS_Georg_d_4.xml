@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Georg. d. 4</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0m613mw92w8</idno><idno type="ieArk">ark:29072/x0m900ns766g</idno></msIdentifier>
                <msContents>
                   <summary>Part of a Gospel Lectionary</summary>
                   <msItem xml:id="MS_Georg_d_4-item1" n="1">

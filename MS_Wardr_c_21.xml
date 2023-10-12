@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 21</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0r494vj259b</idno><idno type="ieArk">ark:29072/x0r781wf08m6</idno></msIdentifier>
                <msContents>
                   <summary>Code of King Vaxtang VI: a page-by-page trasncript of pp. 739-762 of MS. Wardr.c.13.</summary>
                   <msItem xml:id="MS_Wardr_c_21-item1" n="1">

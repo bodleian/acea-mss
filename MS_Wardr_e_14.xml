@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 14</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0zp38wb23s5</idno><idno type="ieArk">ark:29072/x0zs25x7073c</idno></msIdentifier>
                <msContents>
                   <summary>Account of travels in Europe, 1713-15, by <persName key="person_52">Orbeliani, Sulxan-Saba</persName>
                   </summary>

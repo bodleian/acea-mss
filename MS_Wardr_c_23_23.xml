@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 23 (2,3)</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0rr171w255h</idno><idno type="ieArk">ark:29072/x0rv042s08gc</idno></msIdentifier>
                <msContents>
                   <summary>Memorandum of the Delegation of the Georgian Republic, presented to the Peace Conference</summary>
                   <msItem xml:id="MS_Wardr_c_23_23-item1" n="1">

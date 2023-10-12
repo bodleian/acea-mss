@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 1 (9)</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0qr46qz9223</idno><idno type="ieArk">ark:29072/x0qv33rv75cz</idno></msIdentifier>
                <msContents>
                   <summary>Petition of the Georgian Church presented to the Viceroy of the Caucasus</summary>
                   <msItem xml:id="MS_Wardr_c_1_9-item1" n="1">

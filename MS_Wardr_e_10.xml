@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 10</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0xw42n65791</idno><idno type="ieArk">ark:29072/x0z029p340mr</idno></msIdentifier>
                <msContents>
                   <summary>Manual of Veterinary medicine: incomplete</summary>
                   <msItem xml:id="MS_Wardr_e_10-item1" n="1">

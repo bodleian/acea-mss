@@ -41,7 +41,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 6</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0xg94hn242n</idno><idno type="ieArk">ark:29072/x0xk81jj07ch</idno></msIdentifier>
                <msContents>
                   <summary>'The Man in the Leupard's Skin', by <persName key="person_5">Šot'a Rust'aveli</persName>
                   </summary>

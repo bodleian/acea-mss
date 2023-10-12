@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 3</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0ww72b92460</idno><idno type="ieArk">ark:29072/x0x059c607hv</idno></msIdentifier>
                <msContents>
                   <summary>
                      <persName key="person_63">King Vaxtang VI</persName> transcriptions and English translations</summary>

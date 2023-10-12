@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. f. 4</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x04f16c312sr</idno><idno type="ieArk">ark:29072/x04j03cz963j</idno></msIdentifier>
                <msContents>
                   <summary>Treatise on rhetoric by <persName key="person_94">Mxit'ar</persName> tr. into Georgian by <persName key="person_95">Archbishop Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
                   </summary>

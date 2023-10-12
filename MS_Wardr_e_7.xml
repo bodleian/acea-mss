@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 7</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x03197xm46f3</idno><idno type="ieArk">ark:29072/x03484zh29rz</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>Ioseb-Zilixaniani</title>

@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 26,37</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x01v53jx46qj</idno><idno type="ieArk">ark:29072/x01z40kt301m</idno></msIdentifier>
                <msContents>
                   <summary>N. Marr, 'Grammar of Old Literary Georgian'</summary>
                   <msItem xml:id="MS_Wardr_e_2637-item1" n="1">

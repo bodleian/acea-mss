@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 1 (11)</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0p5547q593n</idno><idno type="ieArk">ark:29072/x0p8418m42dc</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>'Dogovori Gruzii s Rossiei?'</title> Article by Prince <persName key="person_13">Č'erk'ezišvili, Varlam</persName>

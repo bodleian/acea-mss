@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 28</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0sx61dk24wq</idno><idno type="ieArk">ark:29072/x0t148fg086x</idno></msIdentifier>
                <msContents>
                   <summary>Papers relating to Georgian books and MSS.</summary>
                   <msItem xml:id="MS_Wardr_c_28-item1" n="1">

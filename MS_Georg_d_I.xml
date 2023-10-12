@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Georg. d. I</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0mc87pp59ht</idno><idno type="ieArk">ark:29072/x0mg74qk42tj</idno></msIdentifier>
                <msContents>
                   <summary>Writing exercises</summary>
                   <msItem xml:id="MS_Georg_d_I-item1" n="1">

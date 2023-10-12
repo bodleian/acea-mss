@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 1</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0xp68kd90pz</idno><idno type="ieArk">ark:29072/x0xs55m97405</idno></msIdentifier>
                <msContents>
                   <summary>Life of St. Nisime</summary>
                   <msItem xml:id="MS_Wardr_e_1-item1" n="1">

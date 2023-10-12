@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. g. 3</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x06108vb45rf</idno><idno type="ieArk">ark:29072/x06395w72927</idno></msIdentifier>
                <msContents>
                   <summary>Hymns</summary>
                   <msItem xml:id="MS_Wardr_g_3-item1" n="1">

@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 16</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x002870w474c</idno><idno type="ieArk">ark:29072/x005741s30f3</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>Qaramaniani</title> and <title>K'učuk'-Qaramaniani</title>

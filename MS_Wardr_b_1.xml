@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. b. 1</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0ms35t792r2</idno><idno type="ieArk">ark:29072/x0mw22v47628</idno></msIdentifier>
                <msContents>
                   <summary>
                      <persName key="person_88">'Sirinoziani'</persName> a romance in prose tr. from the Persian</summary>

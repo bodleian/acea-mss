@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. f. 5</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x04m90dv79d0</idno><idno type="ieArk">ark:29072/x04q77fr62qm</idno></msIdentifier>
                <msContents>
                   <summary>Georgian translation of the <title>'Girk' Sahmanac'</title> of <persName key="person_58">David the Invincible</persName>
                   </summary>

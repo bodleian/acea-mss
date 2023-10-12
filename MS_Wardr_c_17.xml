@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 17</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0nc580k92mx</idno><idno type="ieArk">ark:29072/x0ng451g75xs</idno></msIdentifier>
                <msContents>
                   <summary>Signatures to a petition to the British Government arising out of an 'Appeal from the Women of Georgia'</summary>
                   <msItem xml:id="MS_Wardr_c_17-item1" n="1">

@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 12-</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0tq57np91c1</idno><idno type="ieArk">ark:29072/x0tt44pk74pw</idno></msIdentifier>
                <msContents>
                   <summary>Gospels [Matthew ix. 27 - John vii. 53]</summary>
                   <msItem xml:id="MS_Wardr_d_12--item1" n="1">

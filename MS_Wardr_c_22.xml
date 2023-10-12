@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 22</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0rb68x991xn</idno><idno type="ieArk">ark:29072/x0rf55z6757v</idno></msIdentifier>
                <msContents>
                   <summary>Translation of the Georgian folk tales</summary>
                   <msItem xml:id="MS_Wardr_c_22-item1" n="1">

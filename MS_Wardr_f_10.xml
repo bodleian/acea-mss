@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. f. 10</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x03n203z469c</idno><idno type="ieArk">ark:29072/x03r074v29m4</idno></msIdentifier>
                <msContents>
                   <summary>Photographic plates of unidentified Georgian MSS</summary>
                   <msItem xml:id="MS_Wardr_f_10-item1" n="1">

@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 17</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0tx31qg5803</idno><idno type="ieArk">ark:29072/x0v118rc419t</idno></msIdentifier>
                <msContents>
                   <summary>The Knight in the Panther's Skin</summary>
                   <msItem xml:id="MS_Wardr_d_17-item1" n="1">

@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 23</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x01n79h48032</idno><idno type="ieArk">ark:29072/x01r66j163dx</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>'Bezhaniani'</title> an episode from Firdausi's Shahnameh, tr. into Georgian quatrains by <persName key="person_41">Turmanidze, Xosro</persName>

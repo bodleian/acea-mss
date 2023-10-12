@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 26/2-</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0vx021c9136</idno><idno type="ieArk">ark:29072/x0w0892874dn</idno></msIdentifier>
                <msContents>
                   <summary>Correspondence of <persName key="person_1">Wardrop, Marjory</persName> letters from <persName key="person_2">Beridze, Venera</persName>
                   </summary>

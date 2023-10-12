@@ -41,7 +41,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 22-</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0v979v1917x</idno><idno type="ieArk">ark:29072/x0vd66vx74jj</idno></msIdentifier>
                <msContents>
                   <summary>Translations from Georgian, by Marjory Wardrop of poems by <persName key="person_67">Orbeliani, Grigol</persName>, <persName key="person_68">Chavchavadze, Ilia</persName>
                      <persName key="person_69">Eristavi, Rapiel</persName>

@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. f. 3</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x04742994658</idno><idno type="ieArk">ark:29072/x04b29b629g1</idno></msIdentifier>
                <msContents>
                   <summary>Life of Aesop, followed by 40 fables</summary>
                   <msItem xml:id="MS_Wardr_f_3-item1" n="1">

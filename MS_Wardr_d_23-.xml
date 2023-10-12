@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 23-</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0vh53wt57vd</idno><idno type="ieArk">ark:29072/x0vm40xq415g</idno></msIdentifier>
                <msContents>
                   <summary>Documents connected with <persName key="person_7">Wardrop, John Oliver, Sir</persName> visit to Signakhi</summary>
                   <msItem xml:id="MS_Wardr_d_23--item1" n="1">

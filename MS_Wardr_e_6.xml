@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 6</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x02v23vt79tk</idno><idno type="ieArk">ark:29072/x02z10wq634n</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>Sapolitiko T'eatroni</title> Georgian translation of <persName key="person_29">Mavrogordato, Nicholas</persName> Greek version</summary>

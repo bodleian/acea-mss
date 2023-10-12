@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 2</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x00v838113mr</idno><idno type="ieArk">ark:29072/x00z708w96x6</idno></msIdentifier>
                <msContents>
                   <summary>Hagiographica</summary>
                   <msItem xml:id="MS_Wardr_e_2-item1" n="1">

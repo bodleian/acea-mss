@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 25</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0sb3977251d</idno><idno type="ieArk">ark:29072/x0sf268408b8</idno></msIdentifier>
                <msContents>
                   <summary>Papers relating to Georgia, 1916-31: letters, translations of newspaper articles, reports</summary>
                   <msItem xml:id="MS_Wardr_c_25-item1" n="1">

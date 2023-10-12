@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 27</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0sq87bs5884</idno><idno type="ieArk">ark:29072/x0st74cp41kv</idno></msIdentifier>
                <msContents>
                   <summary>Correspondances of <persName key="person_7">Wardrop, John Oliver, Sir</persName> relating to Georgia</summary>
                   <msItem xml:id="MS_Wardr_c_27-item1" n="1">

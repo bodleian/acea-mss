@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 16</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0n583xt260d</idno><idno type="ieArk">ark:29072/x0n870zq0998</idno></msIdentifier>
                <msContents>
                   <summary>Signatures to a document entitled 'Sakartvelos xalxis memorandumi cardgenili 1907 clis saertašoriso kongreszed haagši</summary>
                   <msItem xml:id="MS_Wardr_c_16-item1" n="1">

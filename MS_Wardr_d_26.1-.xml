@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 26/1-</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0vq27zm24g7</idno><idno type="ieArk">ark:29072/x0vt150h07s9</idno></msIdentifier>
                <msContents>
                   <summary>Correspondence of <persName key="person_1">Wardrop, Marjory</persName> letters [in Georgian] from <persName key="person_28">Princess Chavchavadze, Olga</persName></summary>
                   <msItem xml:id="MS_Wardr_d_26.1--item1" n="1">

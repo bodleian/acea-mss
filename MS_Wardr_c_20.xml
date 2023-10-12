@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 20</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0qz20sr58pt</idno><idno type="ieArk">ark:29072/x0r207tn420w</idno></msIdentifier>
                <msContents>
                   <summary>First draft of lecture by Eka Cerkezisvili, delivered at Oxford, 21st November, 1934, under the auspices of the Marjory Wardrop Fund (on Georgian history and culture)</summary>
                   <msItem xml:id="MS_Wardr_c_20-item1" n="1">

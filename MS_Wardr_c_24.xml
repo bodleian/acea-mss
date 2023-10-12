@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 24</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0s4655f58dk</idno><idno type="ieArk">ark:29072/x0s7526b41q9</idno></msIdentifier>
                <msContents>
                   <summary>Papers related to the Marjory Wardrop Collection: letters, inventories of books, newspapers and mss, bookbinder's bills</summary>
                   <msItem xml:id="MS_Wardr_c_24-item1" n="1">

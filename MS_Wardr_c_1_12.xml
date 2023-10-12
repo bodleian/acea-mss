@@ -41,7 +41,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 1 (12)</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0pc289h25q4</idno><idno type="ieArk">ark:29072/x0pg15bd091b</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>'Georgian treaties with Russia'</title> article by <persName key="person_13">Č'erk'ezišvili, Varlam</persName> tr. by <persName key="person_7">Wardrop, John Oliver, Sir</persName> for publication in The Nineteenth Century.</summary>

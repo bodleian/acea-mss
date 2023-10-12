@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. f. 7</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x05138jf12nd</idno><idno type="ieArk">ark:29072/x05425k995z3</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>Gvirgvini</title>

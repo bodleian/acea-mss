@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. d. 32-</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0x346d290td</idno><idno type="ieArk">ark:29072/x0x633dz744c</idno></msIdentifier>
                <msContents>
                   <summary>'The Man in the Panther's Skin', a romantic epic by <persName key="person_5">Shota Rustaveli</persName> a close rendering from the Georgian attempted by <persName key="person_1">Wardrop, Marjory</persName>
                   </summary>

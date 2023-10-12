@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 1 (3)</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0pr76f258z3</idno><idno type="ieArk">ark:29072/x0pv63fz428x</idno></msIdentifier>
                <msContents>
                   <summary>Poem by <persName key="person_40">Ceretʻeli, Akaki</persName> entitled <title>'Xanjali'</title> Eight 4-line stanzas</summary>
                   <msItem xml:id="MS_Wardr_c_1_3-item1" n="1">

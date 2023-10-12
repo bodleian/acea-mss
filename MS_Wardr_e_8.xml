@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 8</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x037720d1327</idno><idno type="ieArk">ark:29072/x03b591896ct</idno></msIdentifier>
                <msContents>
                   <summary>Code of King Vaxtang VI and a fragment containing medical information for women</summary>
                   <msItem xml:id="MS_Wardr_e_8-item1" n="1">

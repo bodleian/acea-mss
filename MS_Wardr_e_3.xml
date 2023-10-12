@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 3</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x02227mq13bg</idno><idno type="ieArk">ark:29072/x02514nk96n5</idno></msIdentifier>
                <msContents>
                   <summary>Treatise on rhetoric by <persName key="person_71">Mkhit'ar</persName> translated into Georgian by <persName key="person_72">Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
                   </summary>

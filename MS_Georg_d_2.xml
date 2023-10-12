@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Georg. d. 2</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0ks65hb59n5</idno><idno type="ieArk">ark:29072/x0kw52j742zw</idno></msIdentifier>
                <msContents>
                   <summary>Typicon of the Georgian Monastery of the Holy Cross Near Jerusalem</summary>
                   <msItem xml:id="MS_Georg_d_2-item1" n="1">

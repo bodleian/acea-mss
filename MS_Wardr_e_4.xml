@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. e. 4</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x02f75r846kf</idno><idno type="ieArk">ark:29072/x02j62s529w9</idno></msIdentifier>
                <msContents>
                   <summary>Georgian folk tales recorded in <placeName key="subject_sh97009128">Guria</placeName> by <persName key="person_77">Mgeladze, Anna</persName> ten tales</summary>
                   <msItem xml:id="MS_Wardr_e_4-item1" n="1">

@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 23 (4-6)</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0rx913n91sh</idno><idno type="ieArk">ark:29072/x0s1784j753q</idno></msIdentifier>
                <msContents>
                   <summary>Appendices to the Memorandum of the Delegation of the Georgian Republic, presented to the Peace Conference. A survey of the economic resources of Georgia</summary>
                   <msItem xml:id="MS_Wardr_c_23_4-6-item1" n="1">

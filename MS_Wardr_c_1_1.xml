@@ -40,7 +40,7 @@
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
                   <idno>MS. Wardr. c. 1 (1)</idno>
-               </msIdentifier>
+               <idno type="crArk">ark:29072/x0ns064525vg</idno><idno type="ieArk">ark:29072/x0nv93520958</idno></msIdentifier>
                <msContents>
                   <summary>
                      <title>Mcevris shvili</title> A Georgian folk-tale</summary>
