@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_212">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">MS. Copt. d. 135(a-f) (P)</idno>
+               <altIdentifier type="external"><idno type="TM">85543</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85574</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85592</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85651</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85715</idno></altIdentifier><altIdentifier type="external"><idno type="TM">77990</idno></altIdentifier></msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="papyrus">
+                        <support>papyrus</support>
+
+                     </supportDesc>
+                  </objectDesc>
+
+
+               </physDesc>
+               <history><acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Summary description abbreviated from the following sources: <listBibl>
+                           <bibl xml:id="TM_85543"><ref target="http://www.trismegistos.org/text/85543"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85574"><ref target="http://www.trismegistos.org/text/85574"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85592"><ref target="http://www.trismegistos.org/text/85592"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85651"><ref target="http://www.trismegistos.org/text/85651"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85715"><ref target="http://www.trismegistos.org/text/85715"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_77990"><ref target="http://www.trismegistos.org/text/77990"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                        </source>
+                     </recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To
+                           make an application, please click the request button above. When your
+                           request is received, you will be asked to contact the relevant
+                           person.</p>
+                     </availability>
+                  </adminInfo>
+                  
+               </additional>
+
+            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 135 a</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85543">letter</summary><textLang mainLang="cop" source="#TM_85543">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85543" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85543" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85543">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85543">P. Bala'izah 2 197</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85543"><ref target="http://www.trismegistos.org/text/85543"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 135 b</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85574">letter</summary><textLang mainLang="cop" source="#TM_85574">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85574" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85574" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85574">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85574">P. Bala'izah 2 230</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85574"><ref target="http://www.trismegistos.org/text/85574"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 135 c</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85592">letter</summary><textLang mainLang="cop" source="#TM_85592">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85592" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85592" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85592">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85592">P. Bala'izah 2 248</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85592"><ref target="http://www.trismegistos.org/text/85592"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 135 d</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85651">Ordre de paiement de vin? Bergers</summary><textLang mainLang="cop" source="#TM_85651">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85651" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85651" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85651">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85651">P. Bala'izah 2 307</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85651"><ref target="http://www.trismegistos.org/text/85651"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 135 e</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85715">letter</summary><textLang mainLang="cop" source="#TM_85715">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85715" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85715" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85715">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85715">P. Bala'izah 2 372</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85715"><ref target="http://www.trismegistos.org/text/85715"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 135 f</idno></altIdentifier></msIdentifier><msContents><summary source="TM_77990">Fragment, Liste, Namen</summary></msContents><history><origin><origPlace source="#TM_77990" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_77990">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_77990">P. Bala'izah 2 394</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_77990"><ref target="http://www.trismegistos.org/text/77990"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_480">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">MS. Copt. e. 172 (P)</idno>
+                  <altIdentifier type="external">
+                     <idno type="TM">108957</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+
+               </head>
+               <msContents>
+                  <summary source="#TM">New Testament, Mattheus, Marcus, Lucas, Johannes evang.: gospel Mt 2-10; 26.41-60; Mc 5-6, 11-14; Lc 3-6, 11-12; Joh 11-12, 16-17; 21 passim</summary><summary source="#allegro">Fragment (Mark xii.31-33,35-37)</summary>
+                  <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
+                                    
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="papyrus">
+                        <support>papyrus</support>
+                        
+                     </supportDesc>
+                  </objectDesc>
+                  
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" notBefore="0700" notAfter="0999" source="#TM">700-999</origDate>
+                  <origPlace source="#TM_108957" key="org_3121">White Monastery (Deir el-Abiad)</origPlace></origin><provenance source="#TM_108957">Found in <placeName key="org_3121">White Monastery (Deir el-Abiad)</placeName></provenance>
+               <acquisition>Given by Rev. A.C.Headlam, Aug. 1895; ex box of fragments MS. Copt. c. 31; moved here Dec. 1970</acquisition></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Summary description abbreviated from the following sources:
+                           <listBibl>
+                              <bibl/>
+                           <bibl><ref target="http://www.trismegistos.org/text/108957"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                        </source>
+                     </recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+                  <listBibl type="WRAPPER">
+                     <listBibl type="PRINT">
+                        <head>Printed descriptions:</head>
+                     <bibl>Recueil de travaux égyptiennes et assyriennes 5 (1884), p. 118</bibl><bibl>Bulletin de l'Académie Impériale des Sciences de St.-Petersbourg, 5e série 25.4 (1906), p. 95 &amp; 121-126</bibl><bibl>P. Lond. Copt. 1 61</bibl><bibl>Biblica 20 (1939), p. 249 no. 7</bibl><bibl>Revue de l'Orient chrétien 18 [2, 8] (1913), p. 392 no. 145</bibl><bibl>Bouvarel-Boud'hors, Catalogue des fragments coptes. I. Fragments bibliques nouvellement identifiés p. 48 &amp; 51-52</bibl><bibl>Stud. Pal. 12 21-22</bibl><bibl>P. Ryl. Copt. 12 descr.</bibl><bibl>Stud. Pal. 11 59-60</bibl><bibl>Schüssler, Biblia Coptica 4.2 p. 27-50 [sa 626] descr.</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 3 p. 348 no. 37 descr.</bibl><bibl>P. Lond. Copt. 1 111</bibl></listBibl>
+                     <listBibl type="INTERNET">
+                        <head>Online resources:</head>
+                     <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/108957"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

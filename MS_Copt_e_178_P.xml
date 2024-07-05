@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_486">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">MS. Copt. e. 178 (P)</idno>
+                  <altIdentifier type="external">
+                     <idno type="TM">108576</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+
+               </head>
+               <msContents>
+                  <summary source="#TM">New Testament, Mattheus, Marcus, Lucas, Johannes evang.: gospel Mt. 3-6 passim; 10-13 passim; 20.21-22, 26-27; 24-26 passim; 28.5-20</summary><summary source="#allegro">Two fragments (matt.iii.15-16; iv.15-17; vi.25,28)</summary>
+                  <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
+                                    
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="papyrus">
+                        <support>papyrus</support>
+                        
+                     </supportDesc>
+                  </objectDesc>
+                  
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" notBefore="0600" notAfter="0999" source="#TM">600-999</origDate>
+                  <origPlace source="#TM_108576" key="org_3121">White Monastery (Deir el-Abiad)</origPlace></origin><provenance source="#TM_108576">Found in <placeName key="org_3121">White Monastery (Deir el-Abiad)</placeName></provenance>
+               <acquisition>Ex box of fragments given by Greville Chester in 1887; found and placed here Dec. 1970</acquisition></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Summary description abbreviated from the following sources:
+                           <listBibl>
+                              <bibl/>
+                           <bibl><ref target="http://www.trismegistos.org/text/108576"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                        </source>
+                     </recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+                  <listBibl type="WRAPPER">
+                     <listBibl type="PRINT">
+                        <head>Printed descriptions:</head>
+                     <bibl>Stud. Pal. 11 97</bibl><bibl>Depuydt, Catalogue of Coptic manuscripts in the Pierpont Morgan Library 17</bibl><bibl>Balestri, Sacrorum Bibliorum fragmenta Copto-Sahidica Musei Borgiani 3 p. xxii &amp; p. 75-83 no. 47</bibl><bibl>Schüssler, Biblia Coptica 3.2 p. 90-98 [Sa 533]</bibl><bibl>Schüssler, Biblia Coptica 2.2 p. 157 [Sa 533]</bibl></listBibl>
+                     <listBibl type="INTERNET">
+                        <head>Online resources:</head>
+                     <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/108576"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
