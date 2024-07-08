@@ -58,7 +58,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        
+                        <extent>1 leaf <dimensions type="leaf" unit="mm"><height>70</height><width>64</width></dimensions></extent>
                      </supportDesc>
                      <layoutDesc><layout>1 Column</layout></layoutDesc>
                   </objectDesc>
