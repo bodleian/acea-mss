@@ -44,13 +44,32 @@
                   <collection/>
                   <idno type="shelfmark">MS. Copt. f. 22 (P)</idno>
                <altIdentifier type="external"><idno type="TM">77982</idno></altIdentifier><altIdentifier type="external"><idno type="TM">108833</idno></altIdentifier></msIdentifier>
+               <msContents>
+                  <summary source="#TM">Account with a writing exercise on the back.</summary>
+                  <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
+                  <msItem n="1">
+                     <locus> (recto) </locus>
+                     <note><title>Probably a list of fugitives.</title></note> 
+                     <bibl><ref
+                        target="https://www.jstor.org/stable/20191858?seq=8"
+                        >Nikolaos Gonis, "Arabs, Monks, and Taxes: Notes on Documents from Deir el-Bala'izah",  Zeitschrift für Papyrologie und Epigraphik 148 (2004), 213-224</ref></bibl>
+                    
+                  </msItem>
+                  <msItem n="2"><locus>verso</locus>
+                  <note><title>Probably a writing exercise.</title></note>
+                     
+                  </msItem>
+               </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
 
                      </supportDesc>
                   </objectDesc>
+                  <handDesc>
+                     <handNote>Written in heavy square uncials of the 8th century.</handNote>
+                  </handDesc>
 
 
                </physDesc>
@@ -58,8 +77,14 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
-                           <bibl xml:id="TM_77982"><ref target="http://www.trismegistos.org/text/77982"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_108833"><ref target="http://www.trismegistos.org/text/108833"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl xml:id="TM_77982"><ref target="http://www.trismegistos.org/text/77982"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_108833"><ref target="http://www.trismegistos.org/text/108833"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/481/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 482-483, Vol. 2, 787-788</ref></bibl><bibl>Nikolaos Gonis, Arabs, Monks, and Taxes: Notes on Documents from Deir el-Bala'izah from Zeitschrift für Papyrologie und Epigraphik 148 (2004) p. 219-220</bibl>
+                           <bibl><ref
+                              target="https://archive.org/details/neuetexteunddoku0001unse/page/130/mode/2up">
+                                    P. Rainer Neue Texte und Dokumentation zum Koptisch-Unterricht (MPER N.S. 18) 203 (1990) p. 131-132</ref></bibl></listBibl>
                         </source>
                      </recordHist>
                      <availability>
