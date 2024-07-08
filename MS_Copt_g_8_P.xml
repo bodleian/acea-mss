@@ -56,8 +56,8 @@
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
+                     <supportDesc material="perg">
+                        <support>parchment</support>
                         <extent>1 leaf<dimensions type="leaf" unit="mm">
                            <height>95</height>
                            <width>83</width>
