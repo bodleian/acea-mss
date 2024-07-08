@@ -55,13 +55,14 @@
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-                        
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>1 leaf <dimensions type="leaf" unit="mm"><height>89</height><width>89</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Written in small square uncials of the 5th century.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -72,9 +73,13 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison, from the following sources:
                            <listBibl>
-                              <bibl/>
+                              <bibl/> 
+                              <bibl><bibl><ref target="http://www.trismegistos.org/text/107818"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl>
+                                 <bibl><ref
+                                    target="https://archive.org/details/kahle-balaizah/page/331/mode/2up"
+                                    >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 332-333</ref></bibl></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107819"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,9 +90,10 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 10</bibl><bibl>Schüssler, Biblia Coptica 2.2 p. 20 [Sa187]</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 332-333</bibl><bibl>K. Schüssler (ed.), Biblia Coptica. Die koptischen Bibeltexte. Das sahidische Alte und Neue Testament, Bd. 2 Facs, (Wiesbaden 2015) p. 20 [Sa187]</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
+              
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107819"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                   </listBibl>
                </additional>
