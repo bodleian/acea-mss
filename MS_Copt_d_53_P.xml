@@ -55,12 +55,13 @@
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-                        
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>1 leaf<dimensions type="leaf" unit="mm"><height >178</height><width>133</width></dimensions></extent>
                      </supportDesc>
-                  </objectDesc>
+                     <layoutDesc><layout>Columns ruled, lines not ruled.</layout></layoutDesc>
+                  </objectDesc><handDesc><handNote>Written in square uncials of the 5th or 6th century.</handNote></handDesc>
                   
 
                </physDesc>
@@ -72,10 +73,11 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison, from the following sources:
                            <listBibl>
                               <bibl/>
-                           <bibl><ref target="http://www.trismegistos.org/text/107793"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                              <bibl><ref target="http://www.trismegistos.org/text/107793"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl><ref target="https://archive.org/details/balaizahcopticte0002kahl/page/n5/mode/2up">Bala'izah Kahle page 298-301</ref></bibl></listBibl>
+                        
                         </source>
                      </recordHist>
                      <availability>
