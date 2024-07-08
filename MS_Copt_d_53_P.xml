@@ -22,7 +22,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -45,58 +46,91 @@
                   <altIdentifier type="external">
                      <idno type="TM">107793</idno>
                   </altIdentifier>
-               <altIdentifier type="internal"><idno type="SCN">34654</idno></altIdentifier></msIdentifier>
-               <head>
-
-               </head>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">34654</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <head> </head>
                <msContents>
                   <summary source="#TM">Old Testament: Deuteronomium 8,1-8</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
-                                    
+
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>1 leaf<dimensions type="leaf" unit="mm"><height >178</height><width>133</width></dimensions></extent>
+                        <extent>1 leaf<dimensions type="leaf" unit="mm">
+                              <height>178</height>
+                              <width>133</width>
+                           </dimensions></extent>
                      </supportDesc>
-                     <layoutDesc><layout>Columns ruled, lines not ruled.</layout></layoutDesc>
-                  </objectDesc><handDesc><handNote>Written in square uncials of the 5th or 6th century.</handNote></handDesc>
-                  
+                     <layoutDesc>
+                        <layout>Columns ruled, lines not ruled.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>Written in square uncials of the 5th or 6th century.</handNote>
+                  </handDesc>
+
 
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" notBefore="0551" notAfter="0599" source="#TM">551-599</origDate>
-                  <origPlace source="#TM_107793" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107793">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance>
-               <acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
+                     <origDate calendar="#Gregorian" notBefore="0551" notAfter="0599" source="#TM"
+                        >551-599</origDate>
+                     <origPlace source="#TM_107793" key="place_7014986">Egypt
+                     (Ancient)</origPlace></origin>
+                  <provenance source="#TM_107793">Found in <placeName key="org_3025">Apa Apollo
+                        Monasterion (Deir el-Bala’izah)</placeName></provenance>
+                  <acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition>
+               </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated by Blane Aitchison, from the following sources:
-                           <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison, from the
+                           following sources: <listBibl>
                               <bibl/>
-                              <bibl><ref target="http://www.trismegistos.org/text/107793"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl><ref target="https://archive.org/details/balaizahcopticte0002kahl/page/n5/mode/2up">Bala'izah Kahle page 298-301</ref></bibl></listBibl>
-                        
+                              <bibl><ref target="http://www.trismegistos.org/text/107793"
+                                       ><title>Trismegistos: an interdisciplinary portal of
+                                       papyrological and epigraphical resources</title></ref></bibl>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/297/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 298-301</ref></bibl>
+ 
+                           </listBibl>
                         </source>
                      </recordHist>
                      <availability>
-                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                        <p>This item may only be consulted by prior arrangement with a curator. To
+                           make an application, please click the request button above. When your
+                           request is received, you will be asked to contact the relevant
+                           person.</p>
                      </availability>
                   </adminInfo>
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 3</bibl><bibl>Schüssler, Biblia Coptica 2.2 p. 127 [Sa 241]</bibl></listBibl>
+                        <bibl><ref target="http://www.trismegistos.org/text/107793"
+                           ><title>Trismegistos: an interdisciplinary portal of
+                              papyrological and epigraphical resources</title></ref></bibl>
+                        <bibl><ref
+                           target="https://archive.org/details/kahle-balaizah/page/297/mode/2up"
+                           >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 298-301</ref></bibl>
+                        <bibl>K. Schüssler (ed.), Biblia Coptica. Die koptischen Bibeltexte. Das sahidische Alte und Neue Testament, Bd. 2 Facs, (Wiesbaden 2015) p. 127 [Sa 241]</bibl>
+                     </listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
-                     <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107793"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                        <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107793"
+                                 ><title>Trismegistos: an interdisciplinary portal of papyrological
+                                 and epigraphical resources</title></ref></bibl>
+                     </listBibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
