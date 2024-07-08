@@ -55,12 +55,14 @@
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-                        
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>1 leaf <dimensions type="leaf" unit="mm"><height>127</height><width>83</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>2 columns. Lines are ruled, columns are not ruled</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Written in square uncials of the 5th or 6th century</handNote></handDesc>
                   
 
                </physDesc>
@@ -74,6 +76,9 @@
                      <recordHist>
                         <source>Summary description abbreviated from the following sources:
                            <listBibl>
+                              <bibl/><bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/347/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 348-350</ref></bibl>
                               <bibl/>
                            <bibl><ref target="http://www.trismegistos.org/text/107825"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
@@ -85,7 +90,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 16</bibl><bibl>Schüssler, Biblia Coptica 4.2 p. 128 [Sa 658] descr.</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 3 p. 347 no. 28 descr.</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 348-350</bibl><bibl>K. Schüssler (ed.), Biblia Coptica. Die koptischen Bibeltexte. Das sahidische Alte und Neue Testament, Bd. 2 Facs, (Wiesbaden 2015) 4.2 p. 128 [Sa 658] descr.</bibl><bibl>Horner, The Coptic version of the New Testament in the Southern Dialect (Clarendon Press, Oxford, 1911) 3 p. 347 no. 28 descr.</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107825"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
