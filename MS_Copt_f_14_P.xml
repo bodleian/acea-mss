@@ -50,7 +50,7 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">list of Ptolemaic kings</summary>
+                  <summary source="#TM">List of Ptolemaic kings</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
@@ -58,10 +58,11 @@
                   <objectDesc>
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>1 leaf<dimensions type="leaf" unit="mm"><height>108</height><width>102</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Written in non-literary uncials of probably the 8th century.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -72,10 +73,14 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
-                           <bibl><ref target="http://www.trismegistos.org/text/107861"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/477/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 478-482</ref></bibl>
+                           <bibl><ref target="http://www.trismegistos.org/text/107861"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl>
+                              <bibl><ref target="https://papyri.info/dclp/107861"><title>Papyri.info: for the searching, browsing, and aggregation of ancient papyrological documents and related materials</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
                      <availability>
@@ -85,7 +90,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 55</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 478-482</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107861"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
