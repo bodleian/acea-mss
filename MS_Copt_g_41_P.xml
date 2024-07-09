@@ -50,17 +50,21 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">historical</summary>
+                  <summary source="#TM">A historical text?</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="codex">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent> This .Other fragments of this papyrus are housed in MS. Copt. d.172 and d.183.<dimensions type="leaf" unit="mm"><height>?</height><width>?</width></dimensions> </extent>
+                      
                      </supportDesc>
+                    
+                     <layoutDesc><layout>1 column</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Written in rounded uncials of probably the 7th century</handNote></handDesc>
                   
 
                </physDesc>
@@ -69,13 +73,17 @@
                      <origDate calendar="#Gregorian" notBefore="0600" notAfter="0699" source="#TM">600-699</origDate>
                   <origPlace source="#TM_107860" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107860">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance>
                <acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
-               <additional>
+               <additional> 
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
-                           <bibl><ref target="http://www.trismegistos.org/text/107860"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/477/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 478</ref></bibl>
+                           <bibl><ref target="http://www.trismegistos.org/text/107860"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl>
+                              <bibl><ref target="https://papyri.info/dclp/107860"><title>Papyri.info: for the searching, browsing, and aggregation of ancient papyrological documents and related materials</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
                      <availability>
@@ -85,7 +93,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 54</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 478</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107860"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
