@@ -50,18 +50,27 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">homily on the passion and on the soul</summary>
-                  <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
-                                    
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-                        
-                     </supportDesc>
-                  </objectDesc>
                   
+                  <msItem n="1" xml:id="MS_Copt_f_11_P-item1">
+                     
+                     <title> Two homilies </title>
+                     
+                     <note> Two homilies housed in a single frame; A homily on the passion, and a homily addressed to the soul.</note>
+                     <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
+                     
+                  </msItem>
+                  
+               </msContents>
+             
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent> <dimensions type="leaf" unit="mm"><height>64</height><width>146</width></dimensions></extent>
+                     </supportDesc>
+                     <layoutDesc><layout>1 column</layout></layoutDesc>
+                  </objectDesc>
+                  <handDesc><handNote>Written in late rounded uncials of the 8th century</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -70,6 +79,7 @@
                   <origPlace source="#TM_107855" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107855">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance>
                <acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
                <additional>
+                  
                   <adminInfo>
                      <recordHist>
                         <source>Summary description abbreviated from the following sources:
@@ -85,12 +95,61 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 49</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 468-469</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107855"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                   </listBibl>
                </additional>
+               <msPart xml:id="MS_Copt_f_11_P-item2" >
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>                      
+                           Homily on the Passion
+                        </idno>
+                        
+                     </altIdentifier>
+                   
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        
+                        <title>Homily on the Passion</title>
+                        <textLang mainLang="cop">Coptic</textLang>
+                        
+                     </msItem>
+                     
+                     
+                  </msContents>
+              
+               </msPart>
+               
+               
+               
+               <msPart xml:id="MS_Copt_f_11_P-item3" >
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>                      
+                           Homily addressed to the Soul
+                        </idno>
+                        
+                     </altIdentifier>
+                     
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        
+                        <title>Homily addressed to the Soul</title>
+                        <textLang mainLang="cop">Coptic</textLang>
+                        
+                     </msItem>
+                     
+                     
+                  </msContents>
+                  
+               </msPart>
+               
+               
             </msDesc>
          </sourceDesc>
       </fileDesc>
