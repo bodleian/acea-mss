@@ -47,20 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34931</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Fragment of one page from the martyrdom of Theodore the Oriental</title>
                </head>
                <msContents>
-                  <summary source="#TM">martyrdom of St. Theodorus the Oriental</summary>
+                  <summary>martyrdom of St. Theodore the Oriental</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="codex">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent ><dimensions type="leaf" unit="mm"><height>178</height><width>121</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>2 columns.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Written in uneven rounded uncials of the 7th or 8th centuries.</handNote></handDesc>
                   
 
                </physDesc>
@@ -72,9 +74,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/443/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 443-446</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107848"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +90,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 42</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 443-446</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107848"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
