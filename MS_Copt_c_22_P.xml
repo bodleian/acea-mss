@@ -47,10 +47,10 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34759</idno></altIdentifier></msIdentifier>
                <head>
-
+                  <title>A fragment of the life of Apa Jacob the Anchorite and a fragment of monastic rules</title>
                </head>
                <msContents>
-                  <summary source="#TM">life of Apa Jacob the Anchorite; monastic rules</summary>
+                  <summary source="#TM">A fragment of the life of Apa Jacob the Anchorite and a fragment of monastic rules</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
@@ -72,9 +72,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/429/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 430-433</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107842"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,12 +88,77 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 36</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 430-433</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107842"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                   </listBibl>
                </additional>
+              
+               <msPart xml:id="MS_Copt_c_22_P-item2" >
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>                      
+                           Life of Apa Jacob the Anchorite
+                        </idno>
+                        
+                     </altIdentifier>
+                     
+                  </msIdentifier>
+                  
+                  <msContents>
+                     <summary source="#TM">A fragment from the end of the life of Apa Jacob the Anchorite.</summary>
+                     <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
+                     
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="papyrus">
+                           <support>papyrus</support>
+                           <extent><dimensions type="leaf" unit="mm"><height>159</height><width>76</width></dimensions></extent>
+                        </supportDesc>
+                        <layoutDesc><layout>1 column.</layout></layoutDesc>
+                     </objectDesc>
+                     <handDesc><handNote>Written in small square uncials of the 7th or 8th centuries.</handNote></handDesc>
+                     
+                  </physDesc>
+                  
+                  
+                  
+               </msPart>
+               
+               
+               
+               <msPart xml:id="MS_Copt_c_22_P-item3" >
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>                      
+                           Monastic Rules
+                        </idno>
+                        
+                     </altIdentifier>
+                     
+                  </msIdentifier>
+                
+                  <msContents>
+                     <summary source="#TM">The title of some monastic rules, perhaps by Pachomius.</summary>
+                     <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
+                     
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="papyrus">
+                           <support>papyrus</support>
+                           <extent><dimensions type="leaf" unit="mm"><height>159</height><width>76</width></dimensions></extent>
+                        </supportDesc>
+                        <layoutDesc><layout>1 column.</layout></layoutDesc>
+                     </objectDesc>
+                     <handDesc><handNote>Written in small square uncials of the 7th or 8th centuries.</handNote></handDesc>
+                     
+                     
+                  </physDesc>
+                  
+               </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
