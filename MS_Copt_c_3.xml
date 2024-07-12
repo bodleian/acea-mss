@@ -47,22 +47,25 @@
 
                </head>
                <msContents>
-                  <summary>Fragment of John xiv, xv in Memphitic, Greek and Arabic.</summary>
-                  <textLang mainLang="cop">Coptic</textLang>
+                  <summary>Fragment of John xiv, xv in 'Memphitic' (Bohairic), Greek and Arabic.</summary>
+                  <textLang mainLang="cop">Coptic (Bohairic Dialect, though called 'Memphitic' here)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="codex">
                      <supportDesc material="papyrus">
-                        <support>papyrus</support><extent>1 f.</extent>
+                        <support>papyrus</support>
+                        <extent><dimensions type="leaf" unit="mm"><height>153</height><width>66</width></dimensions></extent>
                         
                      </supportDesc>
+                     <layoutDesc><layout>3 columns, 1 per language.</layout></layoutDesc>
                   </objectDesc>
+                  
                   
 
                </physDesc>
                <history>
-                  <acquisition>Given by A.J. Butler, 1884</acquisition></history>
+                  <acquisition>Given by A.J. Butler, 1884. A note next to the folio reads "Brought in Jan. 1884 from the Nitrian monasteries by A. J. Butler, Fellow of Brasenose".</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>
