@@ -47,7 +47,7 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34762</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Eustathius of Thrace on the Archangel Michael</title>
                </head>
                <msContents>
                   <summary source="#TM">Eustathius of Thrace: homily on the archangel Michael with title at the beginning</summary>
@@ -58,9 +58,11 @@
                   <objectDesc>
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>4 fragments.<dimensions type="leaf" unit="mm"><height>?</height><width>?</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>First fragment 1 column, the other 3 have 2 columns.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Written in rounded uncials of probably the 8th century.</handNote></handDesc>
                   
 
                </physDesc>
@@ -72,9 +74,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/449/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 449-455</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107851"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +90,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 45</bibl><bibl>Campagnano, L'encomio di Michele Arcangelo p. 109 descr.</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 449-455</bibl><bibl>Campagnano, L'encomio di Michele Arcangelo p. 109 descr.</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107851"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
