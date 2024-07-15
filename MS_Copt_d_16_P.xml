@@ -47,21 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34653</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Pauline Epistles</title>
                </head>
                <msContents>
-                  <summary source="#TM">New Testament, Paulus ap.: 01 Timotheus 4.12-5.2, 4, 10, 11, 13-18; Titus 1.9-2.14</summary>
+                  <summary source="#TM">New Testament, Pauline Epistles, 1 Timothy 4.12-5.2, 4, 10, 11, 13-18, Titus 1.9-2.14</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
                   <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-                        
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent><dimensions type="leaf" unit="mm"><height>184</height><width>152</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>2 columns, the lines and columns are ruled.</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Written in small square uncials of the late 4th or early 5th centuries.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -72,9 +73,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/381/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 382-387</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107830"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +89,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 21</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 5 p. 581 no. 10 descr.</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 382-387</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 5 p. 581 no. 10 descr.</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107830"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
