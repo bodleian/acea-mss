@@ -44,22 +44,36 @@
                   <collection/>
                   <idno type="shelfmark">MS. Copt. f. 8,9 (P)</idno>
                <altIdentifier type="external"><idno type="TM">107836</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107836</idno></altIdentifier></msIdentifier>
+               <head>
+                  <title>Prayers</title>
+               </head>
+               <msContents>
+                  <summary source="#TM">Various prayers for the church, the bishop, the community, and Christians in general.</summary>
+                  <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
+                  
+               </msContents>
                <physDesc>
                   <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>Other fragments of this papyrus are housed in MS Copt. d. 187a.<dimensions type="leaf" unit="mm"><height>76</height><width>76</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
-
+                  <handDesc><handNote>Written in small square uncials of the 7th century.</handNote></handDesc>
+                  
+                  
 
                </physDesc>
                <history><acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
-                           <bibl xml:id="TM_107836"><ref target="http://www.trismegistos.org/text/107836"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_107836"><ref target="http://www.trismegistos.org/text/107836"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/405/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 406-411</ref></bibl>
+                           <bibl xml:id="TM_107836"><ref target="http://www.trismegistos.org/text/107836"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
                      <availability>
