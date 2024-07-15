@@ -47,21 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">35082</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>The Life of Paul the Anchorite?</title>
                </head>
                <msContents>
-                  <summary source="#TM">life of Paul the anchorite</summary>
+                  <summary> A fragment, perhaps from The Life of Paul the Anchorite</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="codex">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent><dimensions type="leaf" unit="mm"><height>51</height><width>70</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Written in rounded uncials of the 7th or 8th centuries. The verso is illegible.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -72,9 +73,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/437/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 437</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107845"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +89,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 39</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 437</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107845"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
