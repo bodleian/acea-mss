@@ -47,21 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34646-34650</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Pauline Epistles</title>
                </head>
                <msContents>
-                  <summary source="#TM">New Testament, Paulus ap.: 01 Corinthians 5-8 passim, 02 Corinthians 3-4; Hebrews 6-7, 9-10.1; Philippians 1-2; Col. 1-2</summary>
+                  <summary source="#TM">New Testament, Pauline Epistles, 1 including Corinthians 5-8 , 2 Corinthians 3-4, Hebrews 6-7, 9-10.1, Philippians 1-2, Col. 1-2</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-                        
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>1 page and 8 pages. The dimensions given are for the full page.<dimensions type="leaf" unit="mm"><height>184</height><width>152</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>2 columns.</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Written in square uncials of an early type and at the end of lines certain letters are wriiten smaller than the rest, and in many ways it resemles closely the Codex Sinaiticus. On the other hand there are several features which seem to point to a later date, probably the early 5th century.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -72,9 +73,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/349/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 350-366</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107826"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +89,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 17</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 5 p. 580 no. 4 descr.</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 350-366</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 5 p. 580 no. 4 descr.</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107826"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>

@@ -47,21 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34651,34652</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Pauline Epistles</title>
                </head>
                <msContents>
-                  <summary source="#TM">New Testament, Paulus ap.: Philippians 1.27-2.10; 3.7-20; Colossians 1.1-4.12</summary>
+                  <summary source="#TM">New Testament, Pauline Epistles, Philippians 1.27-2.10, 3.7-20, Colossians 1.1-4.12</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
                   <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-                        
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>Fragments of 4 pages. the dimensions given are for the largest fragment.<dimensions type="leaf" unit="mm"><height>152</height><width>127</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>2 columns.</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Written in square uncials of the late 4th, or more probably, the early 5th century.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -75,6 +76,9 @@
                         <source>Summary description abbreviated from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/365/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 366-377</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107827"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +89,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 18</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 5 p. 580 no. 3 descr.</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 366-377</bibl><bibl>Horner, The Coptic version of the New Testament in the southern dialect 5 p. 580 no. 3 descr.</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107827"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
