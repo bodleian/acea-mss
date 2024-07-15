@@ -54,7 +54,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-<extent>Three other fragments are housed in MS. Copt. e. 28.<dimensions type="leaf" unit="mm"><height>146</height><width>171</width></dimensions></extent>
+                        <extent>Three other fragments of this papyrus are housed in MS. Copt. e. 28.<dimensions type="leaf" unit="mm"><height>146</height><width>171</width></dimensions></extent>
                      </supportDesc>
                      <layoutDesc><layout>2 columns.</layout></layoutDesc>
                   </objectDesc>
