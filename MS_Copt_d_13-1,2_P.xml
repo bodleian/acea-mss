@@ -47,7 +47,7 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34644,34545</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Fragments of the Gospel of Luke</title>
                </head>
                <msContents>
                   <summary source="#TM">New Testament, Lucas: gospel Lc 7.32-43, 17.15-29; 19.30-46</summary>
@@ -55,7 +55,7 @@
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
                         <extent>Two pages forming a single leaf.<dimensions type="leaf" unit="mm"><height>178</height><width>140</width></dimensions></extent>
