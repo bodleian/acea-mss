@@ -47,7 +47,7 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34720</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Contract for the sale of a donkey and its foal.</title>
                </head>
                <msContents>
                   <summary source="#TM">contract sale (donkey)</summary>
@@ -58,10 +58,11 @@
                   <objectDesc>
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>Three fragments in total. The dimensions given are for the largest fragment.<dimensions type="leaf" unit="mm"><height>116</height><width>93</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Writing is ligatured.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -75,6 +76,9 @@
                         <source>Summary description abbreviated from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/523/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 524-526</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/85465"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +89,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 2 119</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 524-526</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/85465"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
