@@ -47,20 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">35058</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>Title of a Homily on the Virgin</title>
                </head>
                <msContents>
-                  <summary source="#TM">homily on the virgin, with title at the beginning</summary><summary source="#allegro">Fragment perhaps belonging with MS&gt;Copt.c.19 (1-23) [Kahle Bala'izah 46]</summary>
+                  <summary>the decorated title of a homily on the virgin</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="codex">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent><dimensions type="leaf" unit="mm"><height>93</height><width>113</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column, preceeded and followed by drawn decorations.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Written in large rounded uncials of the 7th or 8th centuries.</handNote></handDesc>
                   
 
                </physDesc>
@@ -75,6 +77,9 @@
                         <source>Summary description abbreviated from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/455/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 455-462</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/107852"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +90,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 1 46</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 455-462</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/107852"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
