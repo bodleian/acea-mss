@@ -47,20 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">35086</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>A Tax Receipt?</title>
                </head>
                <msContents>
-                  <summary source="#TM">receipt tax</summary>
+                  <summary>tax receipt</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent><dimensions type="leaf" unit="mm"><height>38</height><width>95</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Uncials</handNote></handDesc>
                   
 
                </physDesc>
@@ -75,6 +77,9 @@
                         <source>Summary description abbreviated from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/559/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 560</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/85491"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +90,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 2 145</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 560</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/85491"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
