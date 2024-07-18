@@ -48,9 +48,11 @@
                   <objectDesc>
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+<extent><dimensions type="leaf" unit="mm"><height>89</height><width>267</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Cursive hand.</handNote></handDesc>
 
 
                </physDesc>
@@ -58,7 +60,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/589/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 590-591</ref></bibl>
                            <bibl xml:id="TM_77957"><ref target="http://www.trismegistos.org/text/77957"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85671"><ref target="http://www.trismegistos.org/text/85671"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
