@@ -47,20 +47,22 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34799</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>A Tax Account</title>
                </head>
                <msContents>
-                  <summary source="#TM">Tax - account Abrechnung, Steuern</summary>
+                  <summary source="#TM">tax account</summary>
                   <textLang mainLang="cop" source="#TM">Coptic / Greek</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent><dimensions type="leaf" unit="mm"><height>203</height><width>152</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Lines 1-12 miniscule, lines 13-18 ligatured, lines 19-25 miniscule.</handNote></handDesc>
                   
 
                </physDesc>
@@ -72,9 +74,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/709/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 709-712</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/77964"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +90,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 2 288</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 709-712</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/77964"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>

@@ -45,12 +45,14 @@
                   <idno type="shelfmark">MS. Copt. d. 30 (P)</idno>
                <altIdentifier type="external"><idno type="TM">85744</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85585</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+                        <extent><dimensions type="leaf" unit="mm"><height>191</height><width>191</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Ligatured.</handNote></handDesc>
 
 
                </physDesc>
@@ -58,7 +60,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/665/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 666-668</ref></bibl>
                            <bibl xml:id="TM_85744"><ref target="http://www.trismegistos.org/text/85744"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85585"><ref target="http://www.trismegistos.org/text/85585"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -72,7 +77,7 @@
                   
                </additional>
 
-            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 30 Ro</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85744">protokollon</summary></msContents><history><origin><origDate source="#TM_85744" calendar="#Gregorian" notBefore="0705" notAfter="0714"> 705-714</origDate><origPlace source="#TM_85744" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_85744">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85744">P. Bala'izah 2 401</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85744"><ref target="http://www.trismegistos.org/text/85744"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 30 Vo</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85585">letter</summary><textLang mainLang="cop" source="#TM_85585">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85585" calendar="#Gregorian" notBefore="0700" notAfter="0799"> 700-799</origDate><origPlace source="#TM_85585" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85585">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85585">P. Bala'izah 2 241</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85585"><ref target="http://www.trismegistos.org/text/85585"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
+            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 30 Ro</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85744"> A Letter to Apa Helias</summary></msContents><history><origin><origDate source="#TM_85744" calendar="#Gregorian" notBefore="0705" notAfter="0714"> 705-714</origDate><origPlace source="#TM_85744" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_85744">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85744">P. Bala'izah 2 401</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85744"><ref target="http://www.trismegistos.org/text/85744"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 30 Vo</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85585">Greek-Arabic Protocol</summary><textLang mainLang="cop" source="#TM_85585">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85585" calendar="#Gregorian" notBefore="0700" notAfter="0799"> 700-799</origDate><origPlace source="#TM_85585" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85585">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85585">P. Bala'izah 2 241</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85585"><ref target="http://www.trismegistos.org/text/85585"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
