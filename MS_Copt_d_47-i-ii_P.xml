@@ -44,13 +44,16 @@
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 47(i-ii) (P)</idno>
                <altIdentifier type="external"><idno type="TM">85708</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85654</idno></altIdentifier></msIdentifier>
+               <head><title>Food Account and Fragment of a list of names.</title></head>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form='sheet'>
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+<extent><dimensions type="leaf" unit='mm'><height>216</height><width>248</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>2 columns.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Uncials, the same hand as MS. Copt. d. 163f, f. 43, f. 44, and f. 51.</handNote></handDesc>
 
 
                </physDesc>
@@ -58,7 +61,13 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/747/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 747-748</ref></bibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/783/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 783</ref></bibl>
                            <bibl xml:id="TM_85708"><ref target="http://www.trismegistos.org/text/85708"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85654"><ref target="http://www.trismegistos.org/text/85654"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -72,7 +81,7 @@
                   
                </additional>
 
-            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 47 Ro</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85708">list (names)</summary><textLang mainLang="cop" source="#TM_85708">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85708" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85708" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85708">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85708">P. Bala'izah 2 365</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85708"><ref target="http://www.trismegistos.org/text/85708"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 47 Vo</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85654">Compte de dépenses en blé? Lentilles. Haricots. Pois chiches. Dattes. Farine. Huile. Fromage. Lupins</summary><textLang mainLang="cop" source="#TM_85654">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85654" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85654" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85654">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85654">P. Bala'izah 2 310</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85654"><ref target="http://www.trismegistos.org/text/85654"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
+               <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 47 frag.</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85708">A fragment of a list of names</summary><textLang mainLang="cop" source="#TM_85708">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85708" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85708" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85708">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 783</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85708"><ref target="http://www.trismegistos.org/text/85708"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 47</idno></altIdentifier></msIdentifier><msContents><summary>Food Account</summary><textLang mainLang="cop" source="#TM_85654">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85654" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85654" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85654">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 747-748</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85654"><ref target="http://www.trismegistos.org/text/85654"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
