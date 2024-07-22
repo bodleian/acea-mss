@@ -45,12 +45,14 @@
                   <idno type="shelfmark">MS. Copt. b. 7 (P)</idno>
                <altIdentifier type="external"><idno type="TM">85653</idno></altIdentifier><altIdentifier type="external"><idno type="TM">870736</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+                        <extent><dimensions type="leaf" unit="mm"><height>406</height><width>229</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>3 columns (?).</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Uncials.</handNote></handDesc>
 
 
                </physDesc>
