@@ -45,20 +45,23 @@
                   <idno type="shelfmark">MS. Copt. d. 173(a-b) (P)</idno>
                <altIdentifier type="external"><idno type="TM">107844</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107817</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="codex">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+                        <extent>Other fragments of this papyrus are housed in MS Copt. e. 25. and g. 27.</extent>
                      </supportDesc>
                   </objectDesc>
-
+                  <handDesc><handNote>Written in rounded uncials of probably the 7th century</handNote></handDesc>
 
                </physDesc>
                <history><acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/327/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 328-330</ref></bibl>
                            <bibl xml:id="TM_107844"><ref target="http://www.trismegistos.org/text/107844"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_107817"><ref target="http://www.trismegistos.org/text/107817"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
