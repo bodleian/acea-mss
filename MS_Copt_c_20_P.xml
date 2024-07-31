@@ -58,7 +58,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>4 fragments, dimensions given are based on the reconstructed size of one full page.<dimensions type="leaf" unit="mm"><height>178</height><width>152</width></dimensions></extent>
+                        <extent>4 fragments, dimensions given are based on the reconstructed size of one full leaf.<dimensions type="leaf" unit="mm"><height>178</height><width>152</width></dimensions></extent>
                      </supportDesc>
                      <layoutDesc><layout>2 columns, lines ruled.</layout></layoutDesc>
                   </objectDesc>
