@@ -47,19 +47,20 @@
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">35073</idno></altIdentifier></msIdentifier>
                <head>
-
+<title>A List</title>
                </head>
                <msContents>
-                  <summary source="#TM">Liste. Argent. Sacs. Vin. Blé. Textiles</summary>
+                  <summary>A list.</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent><dimensions type="leaf" unit="mm"><height>70</height><width>38</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
                   
 
@@ -72,8 +73,11 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
+                              <bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/767/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 767-768</ref></bibl>
                               <bibl/>
                            <bibl><ref target="http://www.trismegistos.org/text/85675"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
@@ -85,7 +89,7 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 2 331</bibl></listBibl>
+                        <bibl>P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 767-768</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/85675"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
