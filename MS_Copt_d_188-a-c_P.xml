@@ -45,12 +45,14 @@
                   <idno type="shelfmark">MS. Copt. d. 188(a-c) (P)</idno>
                <altIdentifier type="external"><idno type="TM">107813</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107814</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
-                     <supportDesc material="papyrus">
-                        <support>papyrus</support>
-
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>3 fragments. Other fragments of this parchment are housed in MS Copt. d. 11a, and e. 14.</extent>
                      </supportDesc>
+                     <layoutDesc><layout>Columns and lines are ruled.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Written in square uncials of the 5th or 6th century.</handNote></handDesc>
 
 
                </physDesc>
@@ -58,7 +60,13 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/311/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 312-314</ref></bibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/313/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 314-317</ref></bibl>
                            <bibl xml:id="TM_107813"><ref target="http://www.trismegistos.org/text/107813"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_107814"><ref target="http://www.trismegistos.org/text/107814"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -72,7 +80,11 @@
                   
                </additional>
 
-            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 188 a-b (P)</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107813">Old Testament: 01 Kings 29.3-9</summary><textLang mainLang="cop" source="#TM_107813">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107813" calendar="#Gregorian" notBefore="0500" notAfter="0599"> 500-599</origDate><origPlace source="#TM_107813" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107813">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107813">P. Bala'izah 1 5</bibl><bibl source="#TM_107813">Drescher, The Coptic (Sahidic) version of Kingdoms I, II (CSCO 313. Scriptores Coptici 35) p. xi (F) descr.</bibl><bibl source="#TM_107813">Schüssler, Biblia Coptica 2.1 p. 94 [Sa 157]</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107813"><ref target="http://www.trismegistos.org/text/107813"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 188 c</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107814">Old Testament: 01 Kings 1.51-2.5</summary><textLang mainLang="cop" source="#TM_107814">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107814" calendar="#Gregorian" notBefore="0400" notAfter="0599"> 400-599</origDate><origPlace source="#TM_107814" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107814">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107814">P. Bala'izah 1 6 A</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107814"><ref target="http://www.trismegistos.org/text/107814"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
+               <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 188 a-b (P)</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107813">Old Testament: 01 Samuel 29.3-9</summary><textLang mainLang="cop" source="#TM_107813">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107813" calendar="#Gregorian" notBefore="0500" notAfter="0599"> 500-599</origDate><origPlace source="#TM_107813" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107813">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107813"><bibl><ref
+                  target="https://archive.org/details/kahle-balaizah/page/311/mode/2up"
+                  >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 312-314</ref></bibl></bibl><bibl source="#TM_107813">Drescher, The Coptic (Sahidic) version of Kingdoms I, II (CSCO 313. Scriptores Coptici 35) p. xi (F) descr.</bibl><bibl source="#TM_107813">Schüssler, Biblia Coptica 2.1 p. 94 [Sa 157]</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107813"><ref target="http://www.trismegistos.org/text/107813"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 188 c</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107814">Old Testament: 01 Kings 1.51-2.5</summary><textLang mainLang="cop" source="#TM_107814">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107814" calendar="#Gregorian" notBefore="0400" notAfter="0599"> 400-599</origDate><origPlace source="#TM_107814" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107814">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107814"><bibl><ref
+                     target="https://archive.org/details/kahle-balaizah/page/313/mode/2up"
+                     >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 314-317</ref></bibl></bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107814"><ref target="http://www.trismegistos.org/text/107814"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
