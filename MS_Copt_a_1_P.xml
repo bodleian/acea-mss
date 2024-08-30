@@ -50,16 +50,17 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">alchemical recipes</summary><summary source="#allegro">Magical prescriptions in Sahidic</summary>
+                  <summary>alchemical recipe texts</summary>
                   <textLang mainLang="cop" source="#TM">Coptic</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>3 fragments that form one whole sheet<dimensions type="leaf" unit="mm"><height>240</height><width>943</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>3 columns</layout></layoutDesc>
                   </objectDesc>
                   
 
@@ -72,7 +73,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
                            <bibl><ref target="http://www.trismegistos.org/text/112406"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
@@ -85,7 +86,9 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bodl. inv. MS Copt. a. 1 ined.</bibl></listBibl>
+                     <bibl>P. Bodl. inv. MS Copt. a. 1 ined.</bibl>
+                        
+                        <bibl><ref target="https://brill.com/display/book/9789004284340/BP000013.xml" >T.S. Richter, The Master Spoke: “Take One of ‘the Sun’ and One Unit of Almulgam.” Hitherto Unnoticed Coptic Papyrological Evidence for Early Arabic Alchemy, in Documents and the History of the Early Islamic World, 2019, Brill Publishing, Leiden.</ref></bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/112406"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
