@@ -55,11 +55,12 @@
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet"> 
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>33 fragments in one frame, some fragments that fit together are taped together. Other fragments of this papyrus are housed in MS Copt. c.23. The dimensions given are for the largest fragment.<dimensions type="leaf" unit="mm"><height>142</height><width>113</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>Not enough fragments to determine the number of columns, but presumably there are at least 2.</layout></layoutDesc>
                   </objectDesc>
                   
 
