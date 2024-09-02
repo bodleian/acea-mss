@@ -45,10 +45,10 @@
                   <idno type="shelfmark">MS. Copt. e. 28(1,2) (P)</idno>
                <altIdentifier type="external"><idno type="TM">107847</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107841</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+<extent>2 fragments that form one page. The measurements given are for the page the two fragments form. Other fragments of this papyrus are housed in MS Copt. c.21.<dimensions type="leaf" unit="mm"><height>184</height><width>165</width></dimensions></extent>
                      </supportDesc>
                   </objectDesc>
 
@@ -58,7 +58,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/441/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 441-443</ref></bibl>
                            <bibl xml:id="TM_107847"><ref target="http://www.trismegistos.org/text/107847"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_107841"><ref target="http://www.trismegistos.org/text/107841"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -72,7 +75,9 @@
                   
                </additional>
 
-            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. e. 28 (1-2)</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107847">Johannes of Beth Aphtonia: vita of Severus of Antioch</summary><textLang mainLang="cop" source="#TM_107847">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107847" calendar="#Gregorian" notBefore="0700" notAfter="0799"> 700-799</origDate><origPlace source="#TM_107847" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107847">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107847">P. Bala'izah 1 41</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107847"><ref target="http://www.trismegistos.org/text/107847"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. e. 28 (2)</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107841">vita of St. Athanasius</summary><textLang mainLang="cop" source="#TM_107841">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107841" calendar="#Gregorian" notBefore="0600" notAfter="0799"> 600-799</origDate><origPlace source="#TM_107841" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107841">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107841">P. Bala'izah 1 35</bibl><bibl source="#TM_107841">Orlandi, Testi copti p. 87-119</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107841"><ref target="http://www.trismegistos.org/text/107841"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
+               <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. e. 28 (1-2)</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107847">Johannes of Beth Aphtonia: vita of Severus of Antioch</summary><textLang mainLang="cop" source="#TM_107847">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107847" calendar="#Gregorian" notBefore="0700" notAfter="0799"> 700-799</origDate><origPlace source="#TM_107847" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107847">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl><ref
+                  target="https://archive.org/details/kahle-balaizah/page/441/mode/2up"
+                  >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 441-443</ref></bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107847"><ref target="http://www.trismegistos.org/text/107847"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. e. 28 (2)</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107841">vita of St. Athanasius</summary><textLang mainLang="cop" source="#TM_107841">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107841" calendar="#Gregorian" notBefore="0600" notAfter="0799"> 600-799</origDate><origPlace source="#TM_107841" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107841">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107841">P. Bala'izah 1 35</bibl><bibl source="#TM_107841">Orlandi, Testi copti p. 87-119</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107841"><ref target="http://www.trismegistos.org/text/107841"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
