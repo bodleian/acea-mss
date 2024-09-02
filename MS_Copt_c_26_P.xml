@@ -52,10 +52,10 @@
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>31 fragments.<dimensions type="leaf" unit="mm"><height>108</height><width>96</width></dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   
@@ -66,7 +66,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the Bodleian Libraries' unpublished card catalogue for otherwise-undescribed manuscripts, available in the Charles Wendell David Reading Room.<listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the Bodleian Libraries' unpublished card catalogue for otherwise-undescribed manuscripts, available in the Charles Wendell David Reading Room.<listBibl>
                               <bibl/>
                            </listBibl>
                         </source>
