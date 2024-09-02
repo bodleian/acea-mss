@@ -55,12 +55,12 @@
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        <extent>4 fragments.<dimensions type="leaf" unit="mm"><height>?</height><width>?</width></dimensions></extent>
+                        <extent>12 fragments that make up 4 pages.</extent>
                      </supportDesc>
-                     <layoutDesc><layout>First fragment 1 column, the other 3 have 2 columns.</layout></layoutDesc>
+                     <layoutDesc><layout>First page 1 column, the other 3 have 2 columns.</layout></layoutDesc>
                   </objectDesc>
                   <handDesc><handNote>Written in rounded uncials of probably the 8th century.</handNote></handDesc>
                   
