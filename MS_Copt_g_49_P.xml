@@ -45,36 +45,39 @@
                   <altIdentifier type="internal"><idno type="SCN">35105</idno></altIdentifier>
                </msIdentifier>
                <head>
-
+<title>Magical text?</title>
                </head>
                <msContents>
-                  <summary>
+                  <summary> Possibly a magical text.
                   </summary>
                   <textLang mainLang="cop">Coptic</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent><dimensions type="leaf" unit="mm"><height>32</height><width>51</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Uncials.</handNote></handDesc>
 
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian"></origDate>
+                    
                   </origin>
                   <acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
-                              <bibl></bibl>
+                              <bibl><bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/485/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 486</ref></bibl></bibl>
                            </listBibl>
                         </source>
                      </recordHist>
@@ -82,14 +85,7 @@
                         <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
                      </availability>
                   </adminInfo>
-                  <listBibl type="WRAPPER">
-                     <listBibl type="PRINT">
-                        <head>Printed descriptions:</head>
-                     </listBibl>
-                     <listBibl type="INTERNET">
-                        <head>Online resources:</head>
-                     </listBibl>
-                  </listBibl>
+                   
                </additional>
             </msDesc>
          </sourceDesc>
