@@ -45,20 +45,24 @@
                   <idno type="shelfmark">MS. Copt. d. 32(i-iv) (P)</idno>
                <altIdentifier type="external"><idno type="TM">85549</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85634</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85701</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+                        <extent>Other fragments of this papyrus are housed in MS Copt. d. 131a. The measurements given are for the partially complete page formed from joining MS Copt d. 32 and d. 131a. <dimensions type="leaf" unit="mm"><height>210</height><width>191</width></dimensions> </extent>
                      </supportDesc>
+                     <layoutDesc><layout>Tax account written in 1 column on the recto, anther tax account, a letter, and a list are on the verso.</layout></layoutDesc>
                   </objectDesc>
-
+<handDesc><handNote>Written by several hands, some using ligatures.</handNote></handDesc>
 
                </physDesc>
                <history><acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/716/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 716-723</ref></bibl>
                            <bibl xml:id="TM_85549"><ref target="http://www.trismegistos.org/text/85549"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85634"><ref target="http://www.trismegistos.org/text/85634"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85701"><ref target="http://www.trismegistos.org/text/85701"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
