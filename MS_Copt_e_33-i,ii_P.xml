@@ -45,12 +45,14 @@
                   <idno type="shelfmark">MS. Copt. e. 33(i,ii) (P)</idno>
                <altIdentifier type="external"><idno type="TM">85558</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85667</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
 
                      </supportDesc>
+                     <layoutDesc><layout>e. 33a is composed of 19 lines that start on the recto and finish on the verso, whereas e. 33b is 4 unrelated lines on the verso in a different hand.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>The hands used for MS Copt. e. 33a and 33b are different.</handNote></handDesc>
 
 
                </physDesc>
@@ -58,7 +60,14 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/642/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 641-643</ref></bibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/762/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 761-762</ref></bibl>
                            <bibl xml:id="TM_85558"><ref target="http://www.trismegistos.org/text/85558"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85667"><ref target="http://www.trismegistos.org/text/85667"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
