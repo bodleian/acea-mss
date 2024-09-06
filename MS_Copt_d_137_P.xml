@@ -45,12 +45,13 @@
                   <idno type="shelfmark">MS. Copt. d. 137 (P)</idno>
                <altIdentifier type="external"><idno type="TM">85636</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85637</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
+                        <extent>MS Copt. d. 137b and c are both contain one line of text each, while MS Copt. d. 137a is a larger fragment. </extent>
                      </supportDesc>
                   </objectDesc>
+                  <handDesc><handNote>Written in a ligatured hand that is probably the same as that of MS Copt d. 22.</handNote></handDesc>
 
 
                </physDesc>
@@ -58,7 +59,13 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/722/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 723-726</ref></bibl>
+                           <bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/726/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 726</ref></bibl>
                            <bibl xml:id="TM_85636"><ref target="http://www.trismegistos.org/text/85636"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85637"><ref target="http://www.trismegistos.org/text/85637"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -72,7 +79,7 @@
                   
                </additional>
 
-            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 137 a</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85636">Compte de dépenses en argent. Taxes. Andrismos. Prêt. Cordonnier</summary><textLang mainLang="cop" source="#TM_85636">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85636" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85636" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85636">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85636">P. Bala'izah 2 293</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85636"><ref target="http://www.trismegistos.org/text/85636"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 137 b-c</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85637">account / Compte de dépenses. Taxe. Andrismos. Duc. Marin</summary><textLang mainLang="cop" source="#TM_85637">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85637" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85637" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85637">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85637">P. Bala'izah 2 294</bibl><bibl source="#TM_85637">ZPE 148 (2004), p. 220-221 no. 7</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85637"><ref target="http://www.trismegistos.org/text/85637"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
+            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 137 a</idno></altIdentifier></msIdentifier><msContents><summary>Tax account</summary><textLang mainLang="cop" source="#TM_85636">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85636" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85636" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85636">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85636">P. Bala'izah 2 293</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85636"><ref target="http://www.trismegistos.org/text/85636"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 137 b-c</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85637">Tax account</summary><textLang mainLang="cop" source="#TM_85637">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85637" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85637" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85637">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85637">P. Bala'izah 2 294</bibl><bibl source="#TM_85637">ZPE 148 (2004), p. 220-221 no. 7</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85637"><ref target="http://www.trismegistos.org/text/85637"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
