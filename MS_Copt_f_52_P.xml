@@ -50,17 +50,19 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">Compte de dépenses en argent. Taxes. Dioikèsis. Dapanè. Économe</summary>
+                  <summary>Monastic tax account</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>Other fragments of this papyrus are housed in MS Copt. d. 127 and g. 45.</extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Ligatured hand.</handNote></handDesc>
                   
 
                </physDesc>
@@ -72,8 +74,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
-                           <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
+                           <listBibl><bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/734/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 1, 733-735</ref></bibl>
                               <bibl/>
                            <bibl><ref target="http://www.trismegistos.org/text/85644"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
