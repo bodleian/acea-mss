@@ -50,17 +50,19 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">Liste d’objets. Textiles</summary><summary source="#allegro">Fragment of a list of articles [Kahle Bala'izah 326]; on verso, different hand, unidentified.</summary>
+                  <summary>List of objects</summary><summary source="#allegro">Fragment of a list of articles [Kahle Bala'izah 326]; on verso, different hand, unidentified.</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
                         
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Small uncials.</handNote></handDesc>
                   
 
                </physDesc>
@@ -72,7 +74,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
                               <bibl/>
                            <bibl><ref target="http://www.trismegistos.org/text/85670"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
