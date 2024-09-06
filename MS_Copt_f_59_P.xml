@@ -50,31 +50,34 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">List of fugitives Liste, Steuern, Flüchtlinge, Fragment</summary>
+                  <summary>List of fugitives</summary>
                   <textLang mainLang="cop" source="#TM">Greek</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>1 fragment <dimensions type="leaf" unit="mm"><height>89</height><width>51</width></dimensions></extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
+                  <handDesc><handNote>Minuscule hand.</handNote></handDesc>
                   
 
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian"/>
-                  <origPlace source="#TM_77965" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_77965">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance>
+                                       <origPlace source="#TM_77965" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_77965">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance>
                <acquisition>Given by Prof. W. Flinders Petrie, 1908</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
                            <listBibl>
-                              <bibl/>
+                              <bibl/><bibl><ref
+                                 target="https://archive.org/details/kahle-balaizah/page/714/mode/2up"
+                                 >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 712</ref></bibl>
                            <bibl><ref target="http://www.trismegistos.org/text/77965"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -85,7 +88,9 @@
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-                     <bibl>P. Bala'izah 2 289</bibl></listBibl>
+                        <bibl><bibl><ref
+                           target="https://archive.org/details/kahle-balaizah/page/714/mode/2up"
+                           >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 712</ref></bibl></bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
                      <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/77965"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
