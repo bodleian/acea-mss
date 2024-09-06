@@ -45,12 +45,14 @@
                   <idno type="shelfmark">MS. Copt. g. 18 (P)</idno>
                <altIdentifier type="external"><idno type="TM">77988</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85646</idno></altIdentifier></msIdentifier>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
 
                      </supportDesc>
+                     
                   </objectDesc>
+                  <handDesc><handNote>Same hand as MS Copt. b. 9.</handNote></handDesc>
 
 
                </physDesc>
@@ -58,7 +60,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
                            <bibl xml:id="TM_77988"><ref target="http://www.trismegistos.org/text/77988"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85646"><ref target="http://www.trismegistos.org/text/85646"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
@@ -72,7 +74,7 @@
                   
                </additional>
 
-            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. g. 18 Ro</idno></altIdentifier></msIdentifier><msContents><summary source="TM_77988">Fragment, Liste, Namen</summary></msContents><history><origin><origPlace source="#TM_77988" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_77988">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_77988">P. Bala'izah 2 392</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_77988"><ref target="http://www.trismegistos.org/text/77988"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. g. 18 Vo</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85646">Compte. Proestôs. Dioikètès</summary><textLang mainLang="cop" source="#TM_85646">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85646" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85646" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85646">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85646">P. Bala'izah 2 303 a</bibl><bibl source="#TM_85646">P. Bala'izah 2 105 descr.</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85646"><ref target="http://www.trismegistos.org/text/85646"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
+            <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. g. 18 Ro</idno></altIdentifier></msIdentifier><msContents><summary source="TM_77988">Monastic inventory fragment?</summary></msContents><history><origin><origPlace source="#TM_77988" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_77988">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_77988">P. Bala'izah 2 392</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_77988"><ref target="http://www.trismegistos.org/text/77988"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. g. 18 Vo</idno></altIdentifier></msIdentifier><msContents><summary source="TM_85646">Monastic account</summary><textLang mainLang="cop" source="#TM_85646">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_85646" calendar="#Gregorian" notBefore="0675" notAfter="0799"> 675-799</origDate><origPlace source="#TM_85646" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_85646">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_85646">P. Bala'izah 2 303 a</bibl><bibl source="#TM_85646">P. Bala'izah 2 105 descr.</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_85646"><ref target="http://www.trismegistos.org/text/85646"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
