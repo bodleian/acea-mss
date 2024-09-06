@@ -50,18 +50,19 @@
 
                </head>
                <msContents>
-                  <summary source="#TM">Compte de blé. Charpentier</summary>
+                  <summary source="#TM">Wheat inventory</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>
                                     
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-                        
+                        <extent>Traces of palimpsest below the wheat inventory text.</extent>
                      </supportDesc>
+                     <layoutDesc><layout>1 column.</layout></layoutDesc>
                   </objectDesc>
-                  
+                  <handDesc><handNote>Crude script, uncials.</handNote></handDesc>
 
                </physDesc>
                <history>
@@ -72,8 +73,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources:
-                           <listBibl>
+                        <source>Summary description abbreviated by Blane Aitchison from the following sources:
+                           <listBibl><bibl><ref
+                              target="https://archive.org/details/kahle-balaizah/page/758/mode/2up"
+                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 757-758</ref></bibl>
                               <bibl/>
                            <bibl><ref target="http://www.trismegistos.org/text/85664"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
