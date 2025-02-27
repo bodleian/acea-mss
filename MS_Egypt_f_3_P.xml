@@ -5,12 +5,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-
-            <title/>
+		 <title/>
             <respStmt>
                <resp>Cataloguer</resp>
-               <persName>Lily Ashton</persName>
-
+               <persName>[Name of cataloguer]</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -24,9 +22,7 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-
                      <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -45,89 +41,56 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection/>
-                  <idno type="shelfmark">MS. Egypt. b. 2 (P)</idno>
+                  <idno type="shelfmark">MS. Egypt. f. 3 (P)</idno>
                   <altIdentifier type="external">
-                     <idno type="TM">56958</idno>
+                     <idno type="TM">69146</idno>
                   </altIdentifier>
-
-                  <altIdentifier type="internal">
-                     <idno type="SCN">30873b</idno>
-                  </altIdentifier>
-               </msIdentifier>
+               <altIdentifier type="internal"><idno type="SCN">32376</idno></altIdentifier></msIdentifier>
                <msContents>
-                  <textLang source="#TM" mainLang="egy-Egyp" otherLangs="egy-Egyh">Egyptian in
-                     Hieratic script</textLang>
-                  <msItem>
-                     <title>Book of the Dead</title>
-                     <note>26 lines of hieratic text, containing part of Spell 111. Part of the
-                        prophet Khons-iu's Book of the Dead.</note>
-                  </msItem>
+                  <summary source="#TM">letter (subscription only)</summary>
+                  <summary source="#allegro">Letter in demotic (incomplete, with Greek seubscription</summary><textLang mainLang="egy-Egyd" otherLangs="grc">Egyptian in Demotic script, and Greek</textLang>
+                                    
                </msContents>
-
-
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-
-                        <extent>One papyrus fragment in a single frame <dimensions unit="mm">
-                              <height>356</height>
-                              <width>208</width>
-                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote>Likely written by one scribe with two rubrics</handNote>
-                  </handDesc>
-                  <decoDesc>
-                     <decoNote>No vignette d the text</decoNote>
-                  </decoDesc>
+                  
 
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" when="-0249" source="#TM">BC 249</origDate>
+                     <origDate calendar="#Gregorian" notBefore="-0225" notAfter="-0200" source="#TM">BC 225 - 200</origDate>
                   </origin>
-
-                  <acquisition>Provenance unknown</acquisition>
-             
+               <acquisition>Given by F. C. Conybeare, 20 Oct. 1896</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>Summary description abbreviated from the following sources:
                            <listBibl>
                               <bibl/>
-                           <bibl><ref target="http://www.trismegistos.org/text/56958"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
+                           <bibl><ref target="http://www.trismegistos.org/text/69146"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
                      <availability>
                         <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
                      </availability>
-
                   </adminInfo>
                   <listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
-
-                        <bibl>Marc Coenen, The Funerary Papyri of the Bodleian Library at Oxford, <title>Journal of Egyptian Archaeology</title> 86 (2000),<ref target="https://www.jstor.org/stable/3822309">84-85</ref> </bibl>
-                        <bibl>Marc Coenen, The Egyptian Funerary Papyri in the Bodleian Library, <title>Bodleian Library Record</title> 16 (1999), <ref target="https://doi.org/10.3828/blr.1999.16.6.450">454-455, 456 fig. 1</ref>
-                        </bibl>
-                        <bibl>Stephen G.J. Quirke <title>Owners of Funerary Papyri in the British Museum</title> (British Museum Occasional Papers 92), London 1993, 44 and 107</bibl>
+                     <bibl>P. Grenf. 2 14 d</bibl><bibl>Witkowski, Epistulae 20</bibl></listBibl>
                      <listBibl type="INTERNET">
                         <head>Online resources:</head>
-                        <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/56958"
-                                 ><title>Trismegistos: an interdisciplinary portal of papyrological
-                                 and epigraphical resources</title></ref></bibl>
-                     </listBibl>
-
+                     <bibl xml:id="TM"><ref target="http://www.trismegistos.org/text/69146"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-
       </teiHeader>
-
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
