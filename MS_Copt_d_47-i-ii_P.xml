@@ -1,7 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_129">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_129">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,7 +31,7 @@
             <idno type="msID"/>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en">
+            <msDesc xml:lang="en" xml:id="MS_Copt_d_47_i-ii_P">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -46,10 +43,10 @@
                <altIdentifier type="external"><idno type="TM">85708</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85654</idno></altIdentifier></msIdentifier>
                <head><title>Food Account and Fragment of a list of names.</title></head>
                <physDesc>
-                  <objectDesc form='sheet'>
+                  <objectDesc form="sheet">
                      <supportDesc material="papyrus">
                         <support>papyrus</support>
-<extent><dimensions type="leaf" unit='mm'><height>216</height><width>248</width></dimensions></extent>
+<extent><dimensions type="leaf" unit="mm"><height>216</height><width>248</width></dimensions></extent>
                      </supportDesc>
                      <layoutDesc><layout>2 columns.</layout></layoutDesc>
                   </objectDesc>
@@ -62,12 +59,8 @@
                   <adminInfo>
                      <recordHist>
                         <source>Summary description abbreviated by Blane Aitchison from the following sources: <listBibl>
-                           <bibl><ref
-                              target="https://archive.org/details/kahle-balaizah/page/747/mode/2up"
-                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 747-748</ref></bibl>
-                           <bibl><ref
-                              target="https://archive.org/details/kahle-balaizah/page/783/mode/2up"
-                              >P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 783</ref></bibl>
+                           <bibl><ref target="https://archive.org/details/kahle-balaizah/page/747/mode/2up">P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 747-748</ref></bibl>
+                           <bibl><ref target="https://archive.org/details/kahle-balaizah/page/783/mode/2up">P. Kahle, Balaizah: Coptic Texts from Deir el-Bala'izah in Upper Egypt, 2 vols. (London, 1954), Vol. 2, 783</ref></bibl>
                            <bibl xml:id="TM_85708"><ref target="http://www.trismegistos.org/text/85708"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl><bibl xml:id="TM_85654"><ref target="http://www.trismegistos.org/text/85654"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl>
                         </source>
                      </recordHist>
