@@ -81,7 +81,7 @@ if [ ! "$5" == "noindex" ]; then
 
     # Emptying index on Solr
     echo "Emptying Solr of $3 records..."
-    curl -X POST -fsS "http://${4}:8983/solr/fihrist-mss/update?commit=true" --data-binary "<delete><query>type:${3}</query></delete>" -H "Content-Type: text/xml" 1>> $LOGFILE 2>> $LOGFILE
+    curl -X POST -fsS "http://${4}:8983/solr/acea-mss/update?commit=true" --data-binary "<delete><query>type:${3}</query></delete>" -H "Content-Type: text/xml" 1>> $LOGFILE 2>> $LOGFILE
 
     if [ $? -gt 0 ]; then
         echo "Emptying Solr failed. Try again later. If problem persists, please raise an issue on GitHub, attaching $LOGFILE."
@@ -89,7 +89,7 @@ if [ ! "$5" == "noindex" ]; then
     else
         # Upload to Solr
         echo "Sending new $3 records to Solr..."
-        curl -fsS "http://${4}:8983/solr/fihrist-mss/update?commit=true" --data-binary @solr/$2 -H "Content-Type: text/xml" 1>> $LOGFILE 2>> $LOGFILE
+        curl -fsS "http://${4}:8983/solr/acea-mss/update?commit=true" --data-binary @solr/$2 -H "Content-Type: text/xml" 1>> $LOGFILE 2>> $LOGFILE
         if [ $? -eq 0 ]; then
             echo "Re-indexing of $3 records finished. Please check the web site for expected changes."
             exit 0;

@@ -1,49 +1,53 @@
-body, html
-{
+body,
+html {
     font-size: 17px;
-    font-family: "PT Sans", sans-serif;  
+    font-family: "PT Sans", sans-serif;
     padding: 0;
     background-color: #ffffff;
 }
 
 
-.individual-item *:not(h5):not(h4):not(h3):not(h2):not(h1)
-{
+.individual-item *:not(h5):not(h4):not(h3):not(h2):not(h1) {
     font-size: 17px;
 }
-.bold, .tei-label, .label, h5, h4, h3, h2, h1
-{
+
+.bold,
+.tei-label,
+.label,
+h5,
+h4,
+h3,
+h2,
+h1 {
     font-weight: 700;
 }
-.super
-{
+
+.super {
     position: relative;
     display: inline-block;
     font-size: small;
     top: -9px;
 }
-.tei-italic,.italic
-{
+
+.tei-italic,
+.italic {
     font-style: italic;
 }
 
-.layoutDesc
-{
+.layoutDesc {
     margin: 10px 0;
 }
-.tei-label
-{
+
+.tei-label {
     height: 18px;
 }
 
-h4
-{
+h4 {
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
-h1
-{
+h1 {
     font-size: 32px;
 }
 
@@ -55,56 +59,83 @@ h1
     text-align: justify;
 }
 
-p,.seg,.item,.head,.physDesc-p,.tei-title,.locus,.note,.decoNote-list,.decoNote,.item-number
-{
+p,
+.seg,
+.item,
+.head,
+.physDesc-p,
+.tei-title,
+.locus,
+.note,
+.decoNote-list,
+.decoNote,
+.item-number {
     margin: 0 0 5px;
     text-align: justify;
 }
 
-.msItem,.msPart
-{
+.msItem,
+.msPart {
     border-bottom: 1px solid #eaeaea;
     margin-bottom: 16px;
     padding-bottom: 16px;
 }
 
-.secFol .italic
-{
+.secFol .italic {
     font-style: normal;
 }
-.support, .form, .extent, .dimensions, .foliation, .condition 
-{
+
+.support,
+.form,
+.extent,
+.dimensions,
+.foliation,
+.condition {
     margin-top: 5px;
 }
+
 p.note:last-of-type {
     margin: 0;
 }
 
-.incipit,.explicit,.rubric, .finalRubric,.textLang,
-.origPlace,.secFol,.objectDesc,.additional,.colophon,.origin, .msName
-{
+.incipit,
+.explicit,
+.rubric,
+.finalRubric,
+.textLang,
+.origPlace,
+.secFol,
+.objectDesc,
+.additional,
+.colophon,
+.origin,
+.msName {
     text-align: justify;
     margin-bottom: 5px;
 }
-.author,.bibl,.orgName,#zotero-bibliography-text,.origDate,.origPlace,.additions, .coveragewarning
-{
+
+.author,
+.bibl,
+.orgName,
+#zotero-bibliography-text,
+.origDate,
+.origPlace,
+.additions,
+.coveragewarning {
     margin-bottom: 5px;
 }
-.physDesc, .history {
+
+.physDesc,
+.history {
     text-align: justify;
 }
 
-.additional ul.listBibl
-{
+.additional ul.listBibl {
     padding: 0;
 }
 
-.small-caps
-{
+.small-caps,
+.author,
+.translator {
     font-variant: small-caps;
-}
-
-.content.tei-body ul
-{
-    list-style: none;
 }

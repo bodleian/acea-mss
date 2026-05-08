@@ -13,72 +13,64 @@ declare variable $collection := collection('../collections/?select=*.xml;recurse
     return if (count($msids) ne count(distinct-values($msids))) then
         let $duplicateids := distinct-values(for $msid in $msids return if (count($msids[. eq $msid]) gt 1) then $msid else '')
         return bod:logging('error', 'There are multiple manuscripts with the same xml:id in their root TEI elements', $duplicateids)
-        
     else
-        for $ms in $collection                                    
-            let $msid := $ms/tei:TEI/@xml:id/string()
-            order by $msid
-            return
+        for $x in $collection
+        
+            let $msid := $x//tei:TEI/@xml:id/string()
+            return 
             if (string-length($msid) ne 0) then
-                let $mainshelfmark := ($ms/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno)[1]
-                let $allshelfmarks := $ms//tei:msIdentifier/tei:idno
-                let $subfolders := string-join(tokenize(substring-after(base-uri($ms), 'collections/'), '/')[position() lt last()], '/')
+            
+                let $subfolders := string-join(tokenize(substring-after(base-uri($x), 'collections/'), '/')[position() lt last()], '/')
                 let $htmlfilename := concat($msid, '.html')
-                let $htmldoc := doc(concat('html/', $subfolders, '/', $htmlfilename))
+                let $htmldoc := doc(concat("html/", $subfolders, '/', $htmlfilename))
                 
-                let $repository := normalize-space($ms//tei:msDesc/tei:msIdentifier/tei:repository[1]/text())
-                let $institution := normalize-space($ms//tei:msDesc/tei:msIdentifier/tei:institution/text())
-                let $shelfmark := normalize-space($ms//tei:msDesc/tei:msIdentifier/tei:idno[1]/text())
-                let $normalizedshelfmark := replace($shelfmark, '\W', ' ')
-                let $sortshelfmark := upper-case(replace($normalizedshelfmark, '\s', ''))
-                let $title := concat(
-                                    $shelfmark, 
-                                    ' (', 
-                                    $repository,
-                                    if ($repository ne $institution) then
-                                        concat(', ', translate(replace($institution, ' \(', ', '), ')', ''), ')')
-                                    else
-                                        ')'
-                                )
-
+                let $languages2index := ('en','ar','ka','ka-Latn-x-lc','en-Latn-x-lc')
+                (:
+                    Guide to Solr field naming conventions:
+                        ms_ = manuscript index field
+                        _i = integer field
+                        _b = boolean field
+                        _s = string field (tokenized)
+                        _t = text field (not tokenized)
+                        _?m = multiple field (typically facets)
+                        *ni = not indexed (except _tni fields which are copied to the fulltext index)
+                :)
+                    
                 return <doc>
                     <field name="type">manuscript</field>
                     <field name="pk">{ $msid }</field>
                     <field name="id">{ $msid }</field>
-                    { bod:string2one($title, 'title') }
-                    { bod:one2one($ms//tei:titleStmt/tei:title[@type='collection'], 'ms_collection_s') }
-                    { bod:many2one($ms//tei:msDesc/tei:msIdentifier/tei:collection, 'ms_collection_s', 'Not specified') }
-                    { bod:one2one($ms//tei:msDesc/tei:msIdentifier/tei:institution, 'institution_sm') }
-                    { bod:many2one($ms//tei:msDesc/tei:msIdentifier/tei:repository, 'ms_repository_s') }
-                    { bod:strings2many(bod:shelfmarkVariants($allshelfmarks), 'shelfmarks') (: Non-tokenized field :) }
-                    { bod:many2many($allshelfmarks, 'ms_shelfmarks_sm') (: Tokenized field :) }
-                    { bod:one2one($mainshelfmark, 'ms_shelfmark_sort') }
-                    { bod:many2many($ms//tei:msIdentifier/tei:altIdentifier[@type='internal']/tei:idno[not(starts-with(text(), 'Not in'))], 'ms_altid_sm') }
-                    { bod:many2many($ms//tei:msIdentifier/tei:altIdentifier[@type='external']/tei:idno, 'ms_extid_sm') }
-                    { bod:many2one($ms//tei:msIdentifier/tei:msName, 'ms_name_sm') }
-                    { bod:one2one(($ms//tei:publicationStmt/tei:pubPlace/tei:address/tei:addrLine/tei:email, $ms//tei:additional/tei:adminInfo/tei:availability//tei:email)[1], 'ms_contactemail_sni') }
-                    <field name="filename_s">{ substring-after(base-uri($ms), 'collections/') }</field>
-                    { bod:materials($ms//tei:msDesc//tei:physDesc//tei:supportDesc[@material], 'ms_materials_sm', 'Unknown') }
-                    { bod:physForm($ms//tei:physDesc/tei:objectDesc, 'ms_physform_sm', 'Not specified') }
-                    { bod:trueIfExists($ms//tei:sourceDesc//tei:decoDesc/tei:decoNote[not(@type='none')], 'ms_deconote_b') }
-                    { bod:digitized($ms//tei:sourceDesc//tei:surrogates/tei:bibl, 'ms_digitized_s') }
-                    { bod:languages($ms//tei:sourceDesc//tei:textLang, 'lang_sm') }
-                    { bod:centuries(
-                        $ms//tei:origin//tei:origDate[@calendar = ('#Gregorian', '#Hijri-qamari', '#Hindu', 'Gregorian', 'Hijri-qamari', 'Hindu')], 
-                        'ms_date_sm', 
-                        if ($ms//tei:origin//tei:origDate[@calendar = ('#Gregorian', '#Hijri-qamari', '#Hindu', 'Gregorian', 'Hijri-qamari', 'Hindu')]) 
-                            then 'Date not machine-readable' 
-                        else if ($ms//tei:origin//tei:origDate) 
-                            then 'Date in unsupported calendar' 
-                        else 'Undated') }
-                    { bod:years($ms//tei:origin//tei:origDate[@calendar = ('#Gregorian', '#Hijri-qamari', '#Hindu', 'Gregorian', 'Hijri-qamari', 'Hindu')]) }
-                    { bod:requesting($ms/tei:TEI) }
-                    { bod:string2one(bod:shortenToNearestWord(string-join(($ms//tei:msDesc/tei:head, $ms//tei:msContents/tei:summary)[1]//text(), ' '), 128), 'ms_summary_s') }
+                    <field name="filename_sni">{ base-uri($x) }</field>
+                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:collection, 'ms_collection_s', 'Not specified') }
+                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_s') }
+                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_sort') }
+                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno, 'ms_shelfmark_s') }
+                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno, 'ms_shelfmark_sort') }
+                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno, 'title', 'error') }
+                    { bod:many2one($x//tei:msDesc/tei:msIdentifier/tei:repository, 'ms_repository_s') }
+                    { bod:many2many($x//tei:msContents/tei:msItem/tei:author/tei:persName, 'ms_authors_sm') }
+                    { bod:many2many($x//tei:sourceDesc//tei:name[@type="corporate"]/tei:persName, 'ms_corpnames_sm') }
+                    { bod:many2many($x//tei:sourceDesc//tei:persName, 'ms_persnames_sm') }
+                    { bod:many2many($x//tei:physDesc//tei:extent, 'ms_extents_sm') }
+                    { bod:many2many($x//tei:physDesc//tei:layout, 'ms_layout_sm') }
+                    { bod:many2many($x//tei:msContents/tei:msItem/tei:note, 'ms_notes_sm') }
+                    { bod:many2many($x//tei:msContents/tei:summary, 'ms_summary_sni') }
+                    { bod:many2many($x//tei:msContents/tei:msItem/tei:title, 'ms_works_sm') }
+                    { for $lang in $languages2index
+                        return bod:many2many($x//tei:msContents/tei:msItem/tei:title[@xml:lang = $lang], concat('ms_works_', $lang, '_sm'))
+                    }
+                    { bod:materials($x//tei:msDesc//tei:physDesc//tei:supportDesc[@material], 'ms_materials_sm', 'Not specified') }
+                    { bod:physForm($x//tei:physDesc/tei:objectDesc, 'ms_physform_sm', 'Not specified') }
+                    { bod:languages($x//tei:sourceDesc//tei:textLang, 'lang_sm', 'Not specified') }
+                    { bod:centuries($x//tei:origin//tei:origDate, 'ms_date_sm', 'Undated') }
+                    { bod:years($x//tei:origin//tei:origDate) }
+                    { bod:digitized($x//tei:sourceDesc//tei:surrogates//tei:bibl, 'ms_digitized_s') }
+                    { bod:requesting($x/tei:TEI) }
                     { bod:indexHTML($htmldoc, 'ms_textcontent_tni') }
                     { bod:displayHTML($htmldoc, 'display') }
                 </doc>
-              
-            else                
-                bod:logging('warn', 'Cannot process manuscript without @xml:id for root TEI element', (fn:substring-after(base-uri($ms), "-mss")) )
+                
+            else
+                bod:logging('warn', 'Cannot process manuscript without @xml:id for root TEI element', base-uri($x))
 }
 </add>
