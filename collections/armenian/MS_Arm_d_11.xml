@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_9">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+            <funder>Carnegie Foundation</funder>
+            <principal>Gillian Evison</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>OCIMCO</idno>
+            <idno type="msID">MS_Arm_d_11</idno>
+            <idno type="catalogue">Armenian</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Arm_d_11" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection type="main">Oriental Manuscripts </collection>
+                  <idno>MS. Arm. d. 11</idno><idno type="ieArk">ark:29072/x0f1881m26b4</idno><idno type="crArk">ark:29072/x0dz010q431p</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>John Chrysostom's Commentary on Epistle to Ephesians, which is believed
+                     to have been translated into Armenian from Greek in the fifth century (for more
+                     on the corpus Chrysostomicum in the Armenian tradition, see Bonfiglio 2020).
+                     The critical edition of this text was published in Venice in 1862 in vol. I of
+                     the Commentaries on the Pauline Epistles (pp. 672-942). According to Conybeare
+                     (p. 156), one of the manuscripts used for this edition was copied from the
+                     present copy in Tiflis (Tbilisi) a few years before the publication (see the
+                     History section). There are missing pages at the beginning and at the end of
+                     the manuscript, and in its present condition, it begins with the words
+                     զհրեշտակական վարս ցուցցուք (see p. 681 of the printed edition) and ends with …
+                     քանզի զպատերազմաց եւ զմարտից յուշ արար, ցուցա (p. 932). According to Baronian
+                     and Conybeare, there are many errors in the text: “It is particularly to be
+                     remarked that there is a shuffling of large portions of the text, as on ff.
+                     203-210, in the 22nd and 23rd chapters. The following is the order in which the
+                     reader must there follow the text: – After f. 203b, col. I, 1. 15, չյաղթեցեր,
+                     pass to f. 205b, col. II, 1. 26, եւ աստ եթէ..., as far as f. 205, col. II, 1.
+                     25, եթէ որպէս. f. 209, col. I, 1. 17, մարդիկ վասն զի ... as far as f. 210, col.
+                     II, 1. 25, հաստատուն կալոյ. f. 210, col. II, 1. 9, յայտնի զմեջս ... as far as
+                     f. 209, col. I, 1.17, թշնամեացն շինիցէ. f. 210b, col. II, 1. 25, եւ ոչ անձին.
+                     Having regard to the equal lengths of these displaced portions, it is easy to
+                     see that the dislocation was produced by a transposition of folios of the
+                     original copy, unnoticed by our copyist or his predecessor” (pp. 154-155). </summary>
+                  <msItem xml:lang="en" xml:id="MS_Arm_d_11-item1">
+                     <author key="person_41"><persName xml:lang="en">John Chrysostom, Saint,
+                           -407</persName></author>
+                     <title xml:lang="en" key="work_837">Commentary on Epistle to Ephesians</title>
+                     <incipit xml:lang="hy" defective="true">զհրեշտակական վարս ցուցցուք </incipit>
+                     <explicit xml:lang="hy" defective="true">քանզի զպատերազմաց եւ զմարտից յուշ
+                        արար, ցուցա </explicit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n87/mode/2up?view=theater">Baronian, Sukias and Conybeare, Frederick C. Catalogue of the
+                              Armenian manuscripts in the Bodleian Library. Oxford: Clarendon Press,
+                              1918, no. 68, pp. 154-157.</ref></bibl>
+                        <bibl>Bonfiglio, Emilio. “The Armenian Translations of John Chrysostom: The
+                           Issues of Selection.” In Madalina Toca and Dan Batovici (eds.), Caught in
+                           Translation: Studies on Versions of Late Antique Christian Literature.
+                           Leiden: Brill, 2020, pp. 35-63.</bibl>
+                        <bibl>John Chrysostom. Meknutʻiwn Tʻłtʻocʻn Pawłosi (Commentaries on the
+                           Pauline Epistles). Venetik: S. Ghazar, 1862.</bibl>
+                        <bibl>van Lint, Theo Maarten and Robin Meyer (eds.). Armenia: Masterpieces
+                           from an Enduring Culture. Oxford: Bodleian Library, 2015, no 22, pp.
+                           118-119.</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>Vellum.</support>
+                        <extent>ff. 211 <dimensions type="leaf" unit="mm">
+                              <height>287</height>
+                              <width>198</width>
+                           </dimensions>
+                        </extent>
+                        <collation>The quires, of 8 folios each, were originally 29 in number; there
+                           are now missing the first and last ones, and one leaf after f. 16,
+                           namely, the first of the second original quire. These are numbered with
+                           the Armenian alphabet in the usual sequence in the middle of the lower
+                           margins both of the first and last pages of each quire.</collation>
+                        <condition>The manuscript is very fragile and badly damaged by humidity and
+                           physical harm. The first page is nearly illegible, and ff. 1-6 have most
+                           likely been perforated by a hot iron. The upper outside corners of folios
+                           are discoloured by damp throughout the volume, as well as ff. 77–144. The
+                           margins of ff. 39-46, as well as ff. 163-166, have been cut off with
+                           scissors from top to the bottom, slightly impairing the text in some
+                           places.</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" ruledLines="26">Double columns, with large margins, of
+                           26 lines each, having on an average 16 letters to the line. <dimensions type="line-height" unit="mm">
+                              <height>200</height>
+                              <width>145</width>
+                           </dimensions>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="erkatagir"><desc><label>Script: </label>The
+                           writing is a small erkat‘agir or uncial letters 3 mm. high, and is
+                           executed with much neatness, regularity, and uniformity. The doxologies,
+                           that is, the concluding lines of the Homilies, are traced in smaller
+                           characters; in these also are supplied on the margin passages omitted by
+                           mistake, as on ff. 18, 56b, etc. The bolorgir form of the letter յ
+                           occasionally occurs, to economise space at the end of lines: e.g. ff.
+                           28b, 57, 166, etc. The orthography of the MS. is rather archaic. The
+                           words are not separated. Both forms, այղ and այլ are employed, and the
+                           writer does not follow any strict rule in the separation of words at the
+                           end of lines, though he seems in general to try to close the line with a
+                           vowel, and these vowels are charged generally with a dash on the top, as,
+                           for instance, on f. 30, տարա | կուսութիւն, ապաշաւի | ցէ, փորձ ի | բաց.
+                              <label>Scribe: </label><persName role="scr" key="person_103">Step‘annos</persName>.</desc></handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>The MS. is embellished with several marginal ornaments (ff. 1r, 4v,
+                        9v, 20v, 26r, 30r, 35r, 37v, 51v, 54v, 73r, 81r, 86r, 87v, 99r, 105v, 110v,
+                        115v, 132v, 139r, 146r, 153r, 154v, 159r, 165r, 176r, 184v, 187r, 194r,
+                        207r, 211r), and has two frontal vignettes inserted in the text, on ff. 123v
+                        and 133r. These illuminations mark the beginnings both of chapters and of
+                        the homiletic parts (յորդորակ) of the commentaries. They consist of outline
+                        designs, scrolls either of simple form, or more frequently of intertwisted
+                        foliations, coloured with red, green, yellow, and sometimes dark blue or
+                        dark brown. The pigments employed are crude and without gradation, but
+                        contrast all the more strikingly with the beauty of the writing and
+                        material.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>The original binding is missing. The manuscript was bound with the current
+                        binding in late 19th or early 20th centuries. </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" notBefore="1000" notAfter="1100">11th
+                        cent.</origDate>
+                  </origin>
+                  <provenance>According to the commemorative note on f. 123r, the sponsor of the
+                     manuscript was a certain Step‘anos, who could also have been the scribe of the
+                     manuscript.</provenance>
+                  <provenance>According to Baronian and Conybeare, “we can infer something of its
+                     history from two copies preserved in the library of San Lazzaro, Venice, nos,
+                     652 and 697, from which the printed edition was made. Both these copies were
+                     made by Ter Nerses Sargissian, no. 697 in Tiflis in the year 1852, no. 652 in
+                     Althamar. Now the former of these lacks the text comprised in the missing
+                     quires of this MS., and it also has lacunae corresponding to the perforation
+                     made through the first few folios of our copy (cf. Venice ed., pp. 681,
+                     682,683, etc.). It moreover repeats the interchange of folios, noted above, as
+                     I am informed by the librarian. Sargissian in his note points out that his
+                     original was written on vellum in ergathagir. These facts prove that
+                     Sargissian's original was our MS., which therefore was in Tiflis as early as
+                     1852, in the possession of Ter Sahak Saharuni, son of Ter Melchised. Coming to
+                     the other copy, no. 652, we know from the notice of the same scholar
+                     (Sargissian), that he has copied it in 1849 in the convent of Althamar, in the
+                     Lake of Van, from a MS. in bolorgir, executed in the Armenian year 1082 (A. D.
+                     1632) by a scribe named Margaré. This copy is free from the imperfections at
+                     the beginning and the end of our MS., but it contains the same dislocations of
+                     text. The latter fact proves our MS. to have been closely related to the
+                     Ałthamar copy of 1632. Yet it may be doubted if our MS. was the archetype of
+                     the Aļthamar copy, for the latter here and there affords variants which can
+                     hardly be attributed to the capacity of the writer Margaré: such are the words
+                     հրամանք, չգոհեցի, instead of հմայք, չզինիցի of our MS. (pp. 852 and 857, ed.
+                     Venice). It would appear, therefore, that our MS. and that of Althamar, both
+                     derived from a common ancestor, in which the interchange of pages was found. It
+                     is also probable that our MS. originated in Althamar. The excellency of the
+                     writing material, the fineness of the penmanship, and the style of characters
+                     all concur to show that it was made at a time when that region, namely
+                     Vaspourakan, was a flourishing literary centre under the royal dynasty of
+                     Ardzrounik, which came to an end in the first quarter of the 11th century” (pp.
+                     156-157).</provenance>
+                  <acquisition>A handwritten note under the last cover of the manuscript provides
+                     information about the acquisition of the codex: “The uncial Armenian Codex of
+                     Chrisostomus Commentary on St Paul’s Epistle to Ephesians was bought by me
+                     [i.e., F. C. Conybeare – DZ] (Nov. 1891) for the sum of £25 from a priest of
+                     the Armenian Cathedral in Tiflis by name Ciut Aghranean, who found it in the
+                     house of a friend who was ignorant of its value and wished to throw it away as
+                     rubbish. This former owner of it could give no account of it except that his
+                     family brought it from Siunik. I owe the above particulars to S. N. Karamianz
+                     of Tiflis, the cataloguer of the Armenian manuscripts in the Berlin Library.
+                     Fed. C. Conybeare Oxford 1892” </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>The main text of this description is from Baronian and Conybeare,
+                           Catalogue of the Armenian manuscripts in the Bodleian Library, N68, pp.
+                           154-157. Several additions and corrections to the text have been
+                           introduced by David Zakarian for the online catalogue.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>In order to protect and preserve this artefact, access to it is
+                           restricted, and readers are asked to work from reproductions and
+                           published descriptions as far as possible. If you require access to the
+                           original, please submit your request through the Bodleian Archives and
+                           Manuscript Request service. When your request is received, you will be
+                           asked to provide further information outlining the subject of your
+                           research, the importance of this item to that research, and the resources
+                           you have already consulted. Your application will then be considered by
+                           our curatorial staff. Entry to read in the Library is permitted only on
+                           presentation of a valid reader's card (for admissions procedures contact
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/9482027b-03d2-42b6-a741-7b7a96fb928d/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                     <bibl type="digital-facsimile" subtype="partial">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/12233893-cbda-45b9-82f7-c98f0b208082/">
+                           <title>Digital Bodleian</title></ref> <note>(7 selected images only)</note>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="local_class">
+               <category xml:id="commentary">
+                  <catDesc>Commentary</catDesc>
+               </category>
+               <category xml:id="supercommentary">
+                  <catDesc>Supercommentary</catDesc>
+               </category>
+               <category xml:id="indices">
+                  <catDesc>Indices</catDesc>
+               </category>
+               <category xml:id="translation">
+                  <catDesc>Translation</catDesc>
+               </category>
+               <category xml:id="multipleWorks">
+                  <catDesc>multipleWorks</catDesc>
+               </category>
+               <category xml:id="abridgement">
+                  <catDesc>Abridgement</catDesc>
+               </category>
+               <category xml:id="supplement">
+                  <catDesc>Supplement</catDesc>
+               </category>
+               <category xml:id="papers">
+                  <catDesc>Papers</catDesc>
+               </category>
+               <category xml:id="documents">
+                  <catDesc>Documents</catDesc>
+               </category>
+               <category xml:id="extract">
+                  <catDesc>Extract</catDesc>
+               </category>
+               <category xml:id="gloss">
+                  <catDesc>Gloss</catDesc>
+               </category>
+               <category xml:id="selection">
+                  <catDesc>Selection</catDesc>
+               </category>
+               <category xml:id="diagrams">
+                  <catDesc>Diagrams</catDesc>
+               </category>
+               <category xml:id="notes">
+                  <catDesc>Notes</catDesc>
+               </category>
+               <category xml:id="letters">
+                  <catDesc>Letters</catDesc>
+               </category>
+               <category xml:id="versification">
+                  <catDesc>Versification</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term target="http://id.loc.gov/authorities/names/n80001460" key="subject_n80001460">John Chrysostom, Saint, d. 407</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+         </change>
+         <change when="2012-05-28">
+            <persName>Robin Meyer</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cat_pdf/p153.pdf"/>
+      <graphic url="cat_pdf/p155.pdf"/>
+      <graphic url="cat_pdf/p157.pdf"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
