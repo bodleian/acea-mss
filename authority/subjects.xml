@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="authority-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="previewAuthorities.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ACEA - Subject Authority File</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+
+                <item xml:id="subject_n2005045977">
+                    <term type="display">Ahikar (Folktale). Armenian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n2005045977.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_g_9.xml -->
+                </item>
+
+                <item xml:id="subject_sh2011002491">
+                    <term type="display">Akdamar Island (Turkey)</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh2011002491.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_1.xml -->
+                </item>
+
+                <item xml:id="subject_no2004113112">
+                    <term type="display">Albertus, Magnus, Saint, 1193?-1280. Summa
+                        theologiae</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/no2004113112.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_25.xml -->
+                </item>
+
+                <item xml:id="subject_sh85004685">
+                    <term type="display">Amulets</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85004685.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_g_4_R.xml -->
+                </item>
+
+                <item xml:id="subject_n85830405">
+                    <term type="display">Anania Shirakatsʻi, fl. 685</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n85830405.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml -->
+                </item>
+
+                <item xml:id="subject_n79004182">
+                    <term type="display">Aristotle</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n79004182.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_24.xml -->
+                </item>
+
+                <item xml:id="subject_sh85007281">
+                    <term type="display">Armenian Church--Liturgy</term>
+                    <term type="variant">Armenian Church -- Liturgy</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85007281.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_b_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_b_1.xml -->
+                </item>
+
+                <item xml:id="subject_sh2009115579">
+                    <term type="display">Armenian language -- Alphabet</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh2009115579.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marshall_Or_83.xml -->
+                    <!-- ../collections/armenian/MS_Marshall_Or_137.xml -->
+                </item>
+
+                <item xml:id="subject_sh85007298">
+                    <term type="display">Armenian poetry</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85007298.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_17.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml -->
+                </item>
+
+                <item xml:id="subject_n79145591">
+                    <term type="display">Athanasius, Saint, Patriarch of Alexandria, d. 373</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n79145591.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml -->
+                </item>
+
+                <item xml:id="subject_nb2008002115">
+                    <term type="display">Bartholomaeus, of Bologna, Bishop of Marāghah, d.
+                        1333</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/nb2008002115.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_20.xml -->
+                </item>
+
+                <item xml:id="subject_n86142547">
+                    <term type="display">Bartholomew, Apostle, Saint</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n86142547.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_29.xml -->
+                </item>
+
+                <item xml:id="subject_n90617248">
+                    <term type="display">Bathurst, Ralph, 1620-1704</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n90617248.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Thurston_etc_17.xml -->
+                </item>
+
+                <item xml:id="subject_n2006040103">
+                    <term type="display">Bible. N.T. Gospels. Armenian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n2006040103.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_d_13.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_40.xml -->
+                </item>
+
+                <item xml:id="subject_sh96011927">
+                    <term type="display">Bible. O.T.</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh96011927.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_d_14.xml -->
+                </item>
+
+                <item xml:id="subject_n81065639">
+                    <term type="display">Bible. O.T. Apocrypha</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n81065639.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_30.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_11.xml -->
+                </item>
+
+                <item xml:id="subject_n80002952">
+                    <term type="display">Bible. O.T. Isaiah</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n80002952.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_8.xml -->
+                </item>
+
+                <item xml:id="subject_n79056804">
+                    <term type="display">Bible. O.T. Psalms</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n79056804.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_c_2.xml -->
+                </item>
+
+                <item xml:id="subject_sh85016762">
+                    <term type="display">Breviaries</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85016762.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_8.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_5.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_6.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_8.xml -->
+                </item>
+
+                <item xml:id="subject_sh85018849">
+                    <term type="display">Calendar Reform</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85018849.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f3.xml -->
+                </item>
+
+                <item xml:id="subject_sh85020981">
+                    <term type="display">Catechisms</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85020981.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_15.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_14.xml -->
+                </item>
+
+                <item xml:id="subject_sh85021051">
+                    <term type="display">Catholic Church -- Armenian rite</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85021051.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_10.xml -->
+                </item>
+
+                <item xml:id="subject_sh85021126">
+                    <term type="display">Catholic Church--Hymns"</term>
+                    <term type="variant">Catholic Church--Hymns</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85021126.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_1.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_5.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_2.xml -->
+                </item>
+
+                <item xml:id="subject_n85284125">
+                    <term type="display">Catholic Church. Antiphonary</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n85284125.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_g_3.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_23.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_22.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_1.xml -->
+                </item>
+
+                <item xml:id="subject_n79045845">
+                    <term type="display">Catholic Church. Liturgy and ritual. Sharaknots`</term>
+                    <term type="variant">Catholic Church. Liturgy and ritual. Sharaknotsʻ</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n79045845.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_1.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_8.xml -->
+                    <!-- ../collections/armenian/MS_Arm_b_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_2.xml -->
+                </item>
+
+                <item xml:id="subject_n80120153">
+                    <term type="display">Catholic Church. Psalter Collects</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n80120153.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_5.xml -->
+                </item>
+
+                <item xml:id="subject_sh85025142">
+                    <term type="display">Christian poetry, Armenian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85025142.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_17.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml -->
+                </item>
+
+                <item xml:id="subject_sh85033412">
+                    <term type="display">Councils and synods, Ecumenical</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85033412.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml -->
+                </item>
+
+                <item xml:id="subject_n86094657">
+                    <term type="display">Cydones, Prochoros, ca. 1330-ca.1369</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n86094657.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_2.xml -->
+                </item>
+
+                <item xml:id="subject_n82148014">
+                    <term type="display">Cyril, Saint, Patriarch of Alexandria, ca. 370-444</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n82148014.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_36.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_35.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_20.xml -->
+                </item>
+
+                <item xml:id="subject_sh93000030">
+                    <term type="display">Desert Fathers</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh93000030.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_d_17.xml -->
+                </item>
+
+                <item xml:id="subject_sh85020910">
+                    <term type="display">Dicionary catalogs</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85020910.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marshall_Or_30.xml -->
+                </item>
+
+                <item xml:id="subject_n50082928">
+                    <term type="display">Ephraem, Syrus, Saint, 303-373</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n50082928.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_35.xml -->
+                </item>
+
+                <item xml:id="subject_sh87007112">
+                    <term type="display">Fables, Armenian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh87007112.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Canonici_Or_131.xml -->
+                </item>
+
+                <item xml:id="subject_n83064267">
+                    <term type="display">Frik, b. ca. 1236</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n83064267.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_21.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_16.xml -->
+                </item>
+
+                <item xml:id="subject_n50081659">
+                    <term type="display">Gregory, the Illuminator, Saint, ca. 240-ca. 332</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n50081659.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_29.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_17.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_19.xml -->
+                </item>
+
+                <item xml:id="subject_n88021533">
+                    <term type="display">Grigor Pahlawuni, Magistros, 985-1058</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n88021533.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_13.xml -->
+                </item>
+
+                <item xml:id="subject_n81027872" corresp="#subject_n81027871">
+                    <term type="display">Grigor, Narekatsʻi, Saint, 951-1003</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n81027872.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_5.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml -->
+                </item>
+
+                <item xml:id="subject_n81027871" corresp="#subject_n81027872">
+                    <term type="display">Grigor, Narekatsʻi, Saint, 951-1003. Matean
+                        oghbergutʻean</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n81027871.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_5.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml -->
+                </item>
+
+                <item xml:id="subject_n87861752">
+                    <term type="display">Grigor, Tatʻevatsʻi, 1346-1409</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n87861752.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_11.xml -->
+                </item>
+
+                <item xml:id="subject_sh89002722">
+                    <term type="display">Hymns, Armenian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh89002722.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml -->
+                </item>
+
+                <item xml:id="subject_n80001460" corresp="#subject_nr2006002581">
+                    <term type="display">John Chrysostom, Saint, d. 407</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n80001460.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_b_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_b_1.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_11.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_19.xml -->
+                </item>
+
+                <item xml:id="subject_nr2006002581" corresp="#subject_n80001460">
+                    <term type="display">John Chrysostom, Saint, d. 407. Homilies</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/nr2006002581.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_19.xml -->
+                </item>
+
+                <item xml:id="subject_sh85072953">
+                    <term type="display">Koran</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85072953.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_31.xml -->
+                </item>
+
+                <item xml:id="subject_n50039777">
+                    <term type="display">Laud, William, 1573-1645</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n50039777.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Laud_Or_21.xml -->
+                </item>
+
+                <item xml:id="subject_sh92000686">
+                    <term type="display">Lectionary Preaching</term>
+                    <term type="variant">Lectionary preaching</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh92000686.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Pococke_399.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_b_1.xml -->
+                    <!-- ../collections/armenian/MS_Arm_c_1.xml -->
+                </item>
+
+                <item xml:id="subject_sh2002011417">
+                    <term type="display">Liturgy</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh2002011417.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_g_3.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_1.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_5.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_8.xml -->
+                    <!-- ../collections/armenian/MS_Pococke_399.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_8.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_23.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_15.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_4_R.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_17.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_91.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f4.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_7.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_5.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_10.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_6.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_128.xml -->
+                    <!-- ../collections/armenian/MS_Arm_c_1.xml -->
+                    <!-- ../collections/armenian/MS_Laud_Or_34.xml -->
+                    <!-- ../collections/armenian/MS_Laud_Or_35.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_22.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_8.xml -->
+                    <!-- ../collections/armenian/MS_Marshall_Or_106.xml -->
+                    <!-- ../collections/armenian/MS_Arm_g_1.xml -->
+                </item>
+
+                <item xml:id="subject_n50065298">
+                    <term type="display">Marsh's Library</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n50065298.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_8.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_17.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_128.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_438_I%2DIII.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml -->
+                </item>
+
+                <item xml:id="subject_n85055892">
+                    <term type="display">Marshall, Thomas</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n85055892.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marshall_Or_106.xml -->
+                </item>
+
+                <item xml:id="subject_sh85081850">
+                    <term type="display">Mass--Prayers and devotions</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85081850.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marshall_Or_106.xml -->
+                </item>
+
+                <item xml:id="subject_n87143430" corresp="#subject_nr92039196">
+                    <term type="display">Matthew, of Edessa, 12th cent.</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n87143430.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_32.xml -->
+                </item>
+
+                <item xml:id="subject_nr92039196" corresp="#subject_n87143430">
+                    <term type="display">Matthew, of Edessa, 12th cent. Patmutʻiwn</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/nr92039196.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_32.xml -->
+                </item>
+
+                <item xml:id="subject_n87844777" corresp="#subject_n2001058247">
+                    <term type="display">Mkhitʻar Gōsh, ca. 1130-1213</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n87844777.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_28.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml -->
+                </item>
+
+                <item xml:id="subject_n2001058247" corresp="#subject_n87844777">
+                    <term type="display">Mkhitʻar Gōsh, ca. 1130-1213. Datastanagirkʻ Hayotsʻ</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n2001058247.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_128.xml -->
+                </item>
+
+                <item xml:id="subject_no96040203">
+                    <term type="display">Movsēs, Erznkatsʻi, Vardapet, d. 1323</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/no96040203.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Marsh_128.xml -->
+                </item>
+
+                <item xml:id="subject_n85105625">
+                    <term type="display">Nerses, of Lambron, Saint, 1153-1198</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n85105625.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_10.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_16.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml -->
+                </item>
+
+                <item xml:id="subject_n85051709" corresp="#subject_n88263705">
+                    <term type="display">Nersēs, Shnorhali, Saint, 1102-1173</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n85051709.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_17.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_10.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml -->
+                </item>
+
+                <item xml:id="subject_n88263705" corresp="#subject_n85051709">
+                    <term type="display">Nersēs, Shnorhali, Saint, 1102-1173. Hisus, Ordi</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n88263705.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml -->
+                </item>
+
+                <item xml:id="subject_n84114935">
+                    <term type="display">Nilus, of Ancyra, Saint, d. ca. 430</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n84114935.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml -->
+                </item>
+
+                <item xml:id="subject_sh85098523">
+                    <term type="display">Passion narratives (Gospels)</term>
+                    <term type="variant">Passion Narratives (Gospels)</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85098523.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_d_6.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_4.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_646.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_9.xml -->
+                    <!-- ../collections/armenian/MS_Copt_c_2.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_5.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_4.xml -->
+                    <!-- ../collections/armenian/MS_Arm_b_1.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_8.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_3.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_6.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_7.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_1.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_3.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_1.xml -->
+                </item>
+
+                <item xml:id="subject_sh87005655">
+                    <term type="display">Patriotic poetry, Armenian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh87005655.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Thurston_etc_17.xml -->
+                </item>
+
+                <item xml:id="subject_sh85018842">
+                    <term type="display">Perpetual calendars</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85018842.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_g_10.xml -->
+                </item>
+
+                <item xml:id="subject_n84233617">
+                    <term type="display">Pococke, Edward, 1604-1691</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n84233617.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Pococke_399.xml -->
+                </item>
+
+                <item xml:id="subject_n81124456">
+                    <term type="display">Porphyry, ca. 234-ca. 305</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n81124456.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_24.xml -->
+                </item>
+
+                <item xml:id="subject_sh85106129">
+                    <term type="display">Prayer books</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85106129.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Laud_Or_21.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml -->
+                </item>
+
+                <item xml:id="subject_sh89006518">
+                    <term type="display">Psalter collects</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh89006518.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_d_15.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_91.xml -->
+                    <!-- ../collections/armenian/MS_Arm_f4.xml -->
+                    <!-- ../collections/armenian/MS_Laud_Or_34.xml -->
+                    <!-- ../collections/armenian/MS_Laud_Or_35.xml -->
+                </item>
+
+                <item xml:id="subject_n50028822">
+                    <term type="display">Pseudo-Dionysius, the Areopagite</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n50028822.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_37.xml -->
+                </item>
+
+                <item xml:id="subject_sh85116629">
+                    <term type="display">Saints</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85116629.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_c_3.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_438_I%2DIII.xml -->
+                </item>
+
+                <item xml:id="subject_sh85116631">
+                    <term type="display">Saints -- Calendar</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85116631.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_c_3.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_438_I%2DIII.xml -->
+                </item>
+
+                <item xml:id="subject_sh85116634">
+                    <term type="display">Saints -- Legends</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85116634.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_c_3.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_438_I%2DIII.xml -->
+                </item>
+
+                <item xml:id="subject_sh85120261">
+                    <term type="display">Sermons</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85120261.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_38.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_28.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_24.xml -->
+                </item>
+
+                <item xml:id="subject_sh2010112711">
+                    <term type="display">Service books (Music) - - Catholic Church</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh2010112711.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_8.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_7.xml -->
+                </item>
+
+                <item xml:id="subject_sh93009683">
+                    <term type="display">Theology -- Early works to 1800</term>
+                    <term type="variant">Theology--Early works to 1800</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh93009683.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_10.xml -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml -->
+                </item>
+
+                <item xml:id="subject_n80070711">
+                    <term type="display">Urfa (commune)</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n80070711.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_d_6.xml -->
+                    <!-- ../collections/armenian/MS_Arm_e_9.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_5.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_8.xml -->
+                </item>
+
+                <item xml:id="subject_n90689693">
+                    <term type="display">Vardan, Areweltsʻi, ca. 1198-1271</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n90689693.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/armenian/MS_Arm_e_35.xml -->
+                    <!-- ../collections/armenian/MS_Arm_d_16.xml -->
+                </item>
+                
+                <item xml:id="subject_sh85013727">
+                    <term type="display">Bible--Translations</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/subjects/sh85013727.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                <item xml:id="subject_n97066165">
+                    <term type="display">Anton I, Catholicos of Georgia, 1720-1788</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n97066165">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_3.xml -->
+                </item>
+
+                <item xml:id="subject_n98032911">
+                    <term type="display">Arč'ili, 1647-1713</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n98032911">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_c_12.xml -->
+                </item>
+
+                <item xml:id="subject_n2012009251">
+                    <term type="display">Batonišvili, Bagrat</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n2012009251">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_10.xml -->
+                </item>
+
+                <item xml:id="subject_n80015904">
+                    <term type="display">David, the Invincible</term>
+                    <term type="variant">David Invincible</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n80015904">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_f_5.xml -->
+                </item>
+
+                <item xml:id="subject_sh96007310">
+                    <term type="display">Diplomatic and consular service, Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh96007310">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_c_1_9.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_27.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml -->
+                </item>
+
+                <item xml:id="subject_sh2009124969" corresp="#subject_sh85054242 #subject_sh2008118018 #subject_sh2009125844 #subject_sh2010111620">
+                    <term type="display">English Language-Dictionaries-Georgian</term>
+                    <term type="variant">English language-Dictionaries-Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2009124969">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_f_11.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_10.xml -->
+                </item>
+
+                <item xml:id="subject_sh85044325" corresp="#subject_sh85049871 #subject_sh85054246 #subject_sh98003673 #subject_sh94007726">
+                    <term type="display">Epic Poetry, Georgian</term>
+                    <term type="variant">Epic poetry, Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85044325">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_27%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_17.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_23.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_32%2D.xml -->
+                </item>
+
+                <item xml:id="subject_sh85049871" corresp="#subject_sh85044325 #subject_sh85054246 #subject_sh98003673 #subject_sh94007726">
+                    <term type="display">Folk poetry, Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85049871">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_c_1_7%2Da.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_4.xml -->
+                </item>
+
+                <item xml:id="subject_sh85054254" corresp="#subject_sh85054252">
+                    <term type="display">Georgia (Republic)--History--1917-1991</term>
+                    <term type="variant">Georgia (Republic)-History-1917-1991</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85054254">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_c_23_23.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_23%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_23.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_25.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.1%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_19.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_23_4%2D6.xml -->
+                </item>
+
+                <item xml:id="subject_sh2008115135">
+                    <term type="display">Georgia, Church history</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2008115135">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml -->
+                </item>
+
+                <item xml:id="subject_sh85054252" corresp="#subject_sh85054254">
+                    <term type="display">Georgia (Republic)--History--1801-1917</term>
+                    <term type="variant">Georgia, History - 1801-1917</term>
+                    <term type="variant">Georgia, history - 1801-1917</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85054252">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_26.2%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.5%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.4%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_11.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_12.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.3%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_16.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_17.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_25.xml -->
+                </item>
+
+                <item xml:id="subject_sh2006003480" corresp="#subject_sh2006003479">
+                    <term type="display">Georgian Christian literature</term>
+                    <term type="variant">Christian literature, Georgian</term>
+                    <term type="variant">Christian Literature, Georgian</term>
+                    <term type="variant">Georgian literature, Christian</term>
+                    <term type="variant">Christian Georgian Literature</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2006003480">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_1.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_g_2.xml -->
+                    <!-- ../collections/georgian/MS_Georg_d_2.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_12%2D.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_9.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_g_1.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_20.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_g_3.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_1.xml -->
+                    <!-- ../collections/georgian/MS_Georg_c_1_P.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_g_5.xml -->
+                    <!-- ../collections/georgian/MS_Georg_d_3_P.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_g_4.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_19.xml -->
+                    <!-- ../collections/georgian/MS_Georg_b_I.xml -->
+                    <!-- ../collections/georgian/MS_Georg_d_4.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml -->
+                </item>
+
+                <item xml:id="subject_sh85044283" corresp="#subject_sh88005779 #subject_sh98006071 #subject_sh85054247">
+                    <term type="display">Georgian epic literature</term>
+                    <term type="variant">Epic literature, Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85044283">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_7.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_16.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_b_1.xml -->
+                </item>
+
+                <item xml:id="subject_sh88005779" corresp="#subject_sh85044283 #subject_sh98006071 #subject_sh85054247">
+                    <term type="display">Georgian folk literature</term>
+                    <term type="variant">Folk literature, Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh88005779">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_f_8.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_22.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_4.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_1.xml -->
+                </item>
+
+                <item xml:id="subject_sh85054242" corresp="#subject_sh2009124969 #subject_sh2008118018 #subject_sh2009125844 #subject_sh2010111620">
+                    <term type="display">Georgian language</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85054242">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Georg_d_I.xml -->
+                </item>
+
+                <item xml:id="subject_sh2008118018" corresp="#subject_sh2009124969 #subject_sh85054242 #subject_sh2009125844 #subject_sh2010111620">
+                    <term type="display">Georgian language - grammar</term>
+                    <term type="variant">Georgian language-grammar</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2008118018">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Georg_e_1.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_13.xml -->
+                </item>
+
+                <item xml:id="subject_sh2009125844" corresp="#subject_sh2009124969 #subject_sh85054242 #subject_sh2008118018 #subject_sh2010111620">
+                    <term type="display">Georgian language-dictionaries-Russian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2009125844">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_g_5.xml -->
+                </item>
+
+                <item xml:id="subject_sh98006071" corresp="#subject_sh85044283 #subject_sh88005779 #subject_sh85054247">
+                    <term type="display">Georgian literature - 1500-1800</term>
+                    <term type="variant">Georgian literature, 1500-1800</term>
+                    <term type="variant">Georgian Literature, 1500-1800</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh98006071">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_8.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_f_6.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_14.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_f_5.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_f.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_f_4.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_5.xml -->
+                </item>
+
+                <item xml:id="subject_sh2005001478">
+                    <term type="display">Georgian periodicals</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2005001478">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_5%2D.xml -->
+                </item>
+
+                <item xml:id="subject_sh85054246" corresp="#subject_sh85044325 #subject_sh85049871 #subject_sh98003673 #subject_sh94007726">
+                    <term type="display">Georgian Poetry</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85054246">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_22%2D.xml -->
+                </item>
+
+                <item xml:id="subject_sh85054247" corresp="#subject_sh85044283 #subject_sh88005779 #subject_sh98006071">
+                    <term type="display">Georgian prose literature</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh85054247">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_17.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_f_2.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_6.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_f_3.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_15.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_16.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_7.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_18.xml -->
+                </item>
+
+                <item xml:id="subject_sh2006003479" corresp="#subject_sh2006003480">
+                    <term type="display">Georgian religious literature</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2006003479">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_f_7.xml -->
+                </item>
+
+                <item xml:id="subject_sh97009128">
+                    <term type="display">Guria</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh97009128">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_4.xml#MS_Wardr_e_4 -->
+                </item>
+
+                <item xml:id="subject_sh98003673" corresp="#subject_sh85044325 #subject_sh85049871 #subject_sh85054246 #subject_sh94007726">
+                    <term type="display">Historical poetry, Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh98003673">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_c_12.xml -->
+                </item>
+
+                <item xml:id="subject_n81126877">
+                    <term type="display">Jerusalem</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n81126877">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Georg_c_1_P.xml#MS_Georg_c_1_P -->
+                </item>
+
+                <item xml:id="subject_n82024438">
+                    <term type="display">Kutaisi</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n82024438">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_4.xml#MS_Wardr_e_4%2Ditem1 -->
+                </item>
+
+                <item xml:id="subject_n79125883">
+                    <term type="display">Leipzig</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n79125883">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_1.xml#MS_Wardr_d_1 -->
+                </item>
+
+                <item xml:id="subject_sh89005067">
+                    <term type="display">Manuscripts, Georgian</term>
+                    <term type="variant">Georgian manuscripts</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh89005067">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_f_10.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_36.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_28.xml -->
+                </item>
+
+                <item xml:id="subject_n86142338" corresp="#subject_n00050856">
+                    <term type="display">Orbeliani, Sulxan-Saba, 1658-1725</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n86142338">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_14.xml -->
+                </item>
+
+                <item xml:id="subject_n00050856" corresp="#subject_n86142338">
+                    <term type="display">Orbeliani, Sulxan-Saba, 1658-1725. Lek'sikoni k'art'uli</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n00050856">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_13.xml -->
+                </item>
+
+                <item xml:id="subject_sh94007726" corresp="#subject_sh85044325 #subject_sh85049871 #subject_sh85054246 #subject_sh98003673">
+                    <term type="display">Patriotic poetry, Georgian</term>
+                    <term type="variant">Georgian Patriotic Poetry</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh94007726">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_c_1_3.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_2.xml -->
+                </item>
+
+                <item xml:id="subject_n50032188">
+                    <term type="display">Pseudo-Callisthenes</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n50032188">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_18.xml -->
+                </item>
+
+                <item xml:id="subject_sh2010111620" corresp="#subject_sh2009124969 #subject_sh85054242 #subject_sh2008118018 #subject_sh2009125844">
+                    <term type="display">Russian language-Dictionaries-Georgian</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/subjects/sh2010111620">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_11.xml -->
+                </item>
+
+                <item xml:id="subject_n79104307">
+                    <term type="display">Tʻbilisi</term>
+                    <term type="variant">Tiflis</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n79104307">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_3.xml#MS_Wardr_e_3 -->
+                </item>
+
+                <item xml:id="subject_no88004540" corresp="#subject_no88004541">
+                    <term type="display">Vaxtang VI, King of the Georgians, 1675-1737</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no88004540">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_e_8.xml -->
+                </item>
+
+                <item xml:id="subject_no88004541" corresp="#subject_no88004540">
+                    <term type="display">Vaxtang VI, King of the Georgians, 1675-1737. Samart'ali Batonisšvilis Vaxtangisa</term>
+                    <term type="variant">Vaxtang VI, King of the Georgians, 1675-1737. Samartali Batonisšvilis Vaxtangisa</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no88004541">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_c_21.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_e_12.xml -->
+                </item>
+
+                <item xml:id="subject_n80032198">
+                    <term type="display">Šot'a Rust'aveli</term>
+                    <term type="variant">Rust'aveli, Šot'a, 12th/13th cent.</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n80032198">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_6.xml -->
+                    <!-- ../collections/georgian/MS_Wardr_d_27%2D.xml -->
+                </item>
+                
+                
+            </list>
+        </body>
+    </text>
+</TEI>
