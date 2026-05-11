@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_66">
@@ -44,8 +44,8 @@
                <msContents>
                   <summary>Hagiographica</summary>
                   <msItem xml:id="MS_Wardr_e_2-item1" n="1">
-                     <author key="person_89"><persName>Basil of Caesarea</persName> (<persName>ბასილი კესარიელი</persName>)</author>
-                     <editor role="scribe" key="person_91">
+                     <author key="person_159"><persName>Basil of Caesarea</persName> (<persName>ბასილი კესარიელი</persName>)</author>
+                     <editor role="scribe" key="person_160">
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
@@ -58,7 +58,7 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item2" n="2">
                      
-                     <editor role="scribe" key="person_91">
+                     <editor role="scribe" key="person_160">
                         <persName>Atanase</persName>
                          (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
@@ -71,7 +71,7 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item3" n="3">
                      
-                     <editor role="scribe" key="person_91">
+                     <editor role="scribe" key="person_160">
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
@@ -84,7 +84,7 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item4" n="4">
                      
-                     <editor role="scribe" key="person_91">
+                     <editor role="scribe" key="person_160">
                         <persName>Atanase</persName>
                          (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
@@ -97,7 +97,7 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item5" n="5">
                      
-                     <editor role="scribe" key="person_91">
+                     <editor role="scribe" key="person_160">
                         <persName>Atanase</persName>
                          (<persName xml:lang="ka">ათანასე</persName>)
                      </editor>
@@ -110,7 +110,7 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item6" n="6">
                      
-                     <editor role="scribe" key="person_91">
+                     <editor role="scribe" key="person_160">
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>
@@ -123,7 +123,7 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_2-item7" n="7">
                      
-                     <editor role="scribe" key="person_91">
+                     <editor role="scribe" key="person_160">
                         <persName>Atanase</persName>
                          (<persName xml:lang="ar">ათანასე</persName>)
                      </editor>

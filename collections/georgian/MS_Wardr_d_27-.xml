@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_50">
@@ -45,7 +45,7 @@
                <msContents>
                   <summary>The Knight in the Leopard's Skin</summary>
                   <msItem xml:id="MS_Wardr_d_27-item1" n="1">
-                     <author ref="http://viaf.org/viaf/267123512" key="person_5">
+                     <author ref="http://viaf.org/viaf/267123512" key="person_107">
                         <persName>Rustaveli, Shota, active 12th century-13th century</persName>
                            (<persName>Šot'a Rust'aveli</persName>) (<persName>შოთა
                            რუსთაველი</persName>) </author>
@@ -127,14 +127,12 @@
                            you have already consulted. Your application will then be considered by
                            our curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl type="digital-facsimile" subtype="full">
-                        <ref
-                            target="https://digital.bodleian.ox.ac.uk/objects/e854c131-0499-468d-bccc-87e3a4c06ec7">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/e854c131-0499-468d-bccc-87e3a4c06ec7">
                            <title>Digital Bodleian</title>
                            <note>(full digital facsimile)</note>
                         </ref>
@@ -220,9 +218,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl"
-               >https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl">https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
          </change>
          <change when="2011-05-12">
             <persName>Nikoloz Aleksidze</persName>

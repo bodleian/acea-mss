@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_73">
@@ -42,10 +42,10 @@
                   <idno>MS. Wardr. e. 4</idno>
                <idno type="crArk">ark:29072/x02f75r846kf</idno><idno type="ieArk">ark:29072/x02j62s529w9</idno></msIdentifier>
                <msContents>
-                  <summary>Georgian folk tales recorded in <placeName key="subject_sh97009128">Guria</placeName> by <persName key="person_77">Mgeladze, Anna</persName> ten tales</summary>
+                  <summary>Georgian folk tales recorded in <placeName key="subject_sh97009128">Guria</placeName> by <persName key="person_151">Mgeladze, Anna</persName> ten tales</summary>
                   <msItem xml:id="MS_Wardr_e_4-item1" n="1">
                      
-                     <editor role="standard" key="person_77">
+                     <editor role="standard" key="person_151">
                         <persName>Mgeladze, Anna</persName>
                          (<persName xml:lang="ar">მგელაძე, ანა</persName>)
                      </editor>
@@ -55,7 +55,7 @@
                         <bibl>CWC, 341</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
-                     <note>Presented to <persName key="person_1">Wardrop, Marjory</persName> in <placeName key="subject_n82024438">Kutaisi</placeName> in <date calendar="#Gregorian" when="1895">1895</date> by <persName key="person_77">Mgeladze, Anna</persName> wife of <persName key="person_79">Chqonia, Ilia</persName>
+                     <note>Presented to <persName key="person_105">Wardrop, Marjory</persName> in <placeName key="subject_n82024438">Kutaisi</placeName> in <date calendar="#Gregorian" when="1895">1895</date> by <persName key="person_151">Mgeladze, Anna</persName> wife of <persName key="person_152">Chqonia, Ilia</persName>
                      </note>
                   </msItem>
                </msContents>

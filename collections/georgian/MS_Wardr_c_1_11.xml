@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_18">
@@ -43,10 +43,10 @@
                <idno type="crArk">ark:29072/x0p5547q593n</idno><idno type="ieArk">ark:29072/x0p8418m42dc</idno></msIdentifier>
                <msContents>
                   <summary>
-                     <title>'Dogovori Gruzii s Rossiei?'</title> Article by Prince <persName key="person_13">Č'erk'ezišvili, Varlam</persName>
+                     <title>'Dogovori Gruzii s Rossiei?'</title> Article by Prince <persName key="person_111">Č'erk'ezišvili, Varlam</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_c_1_11-item1" n="1">
-                     <author key="person_13"><persName>Č'erk'ezišvili, Varlam</persName> (<persName>ჩერქეზიშვილი, ვარლამ</persName>)</author>
+                     <author key="person_111"><persName>Č'erk'ezišvili, Varlam</persName> (<persName>ჩერქეზიშვილი, ვარლამ</persName>)</author>
                      
                      <title xml:lang="ru-Latn-x-lc" key="work_27">'Dogovori Gruzii s Rossiei?'</title>
                      

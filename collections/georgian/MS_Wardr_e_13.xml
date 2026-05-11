@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_59">
@@ -42,11 +42,11 @@
                   <idno>MS. Wardr. e. 13</idno>
                <idno type="crArk">ark:29072/x0zg64tj575p</idno><idno type="ieArk">ark:29072/x0zk51vf40gd</idno></msIdentifier>
                <msContents>
-                  <summary>Georgian dictionary by <persName key="person_52">Orbeliani, Sulxan-Saba</persName>
+                  <summary>Georgian dictionary by <persName key="person_138">Orbeliani, Sulxan-Saba</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_13-item1" n="1">
-                     <author key="person_52"><persName>Orbeliani, Sulxan-Saba</persName> (<persName>ორბელიანი, სულხან-საბა</persName>)</author>
-                     <editor role="scribe" key="person_85">
+                     <author key="person_138"><persName>Orbeliani, Sulxan-Saba</persName> (<persName>ორბელიანი, სულხან-საბა</persName>)</author>
+                     <editor role="scribe" key="person_156">
                         <persName>monk Ep'rem</persName>
                          (<persName xml:lang="ar">ეფრემ</persName>)
                      </editor>

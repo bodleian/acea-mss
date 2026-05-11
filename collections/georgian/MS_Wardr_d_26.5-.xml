@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_49">
@@ -42,10 +42,10 @@
                   <idno>MS. Wardr. d. 26/5-</idno>
                <idno type="crArk">ark:29072/x0wh246q90zh</idno><idno type="ieArk">ark:29072/x0wm117m748q</idno></msIdentifier>
                <msContents>
-                  <summary>Correspondence of <persName key="person_1">Wardrop, Marjory</persName>
+                  <summary>Correspondence of <persName key="person_105">Wardrop, Marjory</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_d_26.5-item1" n="1">
-                     <author key="person_1">Wardrop, Marjory</author>
+                     <author key="person_105">Wardrop, Marjory</author>
                      <title type="desc" key="work_20">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 326</bibl>

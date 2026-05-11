@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_71">
@@ -42,11 +42,11 @@
                   <idno>MS. Wardr. e. 3</idno>
                <idno type="crArk">ark:29072/x02227mq13bg</idno><idno type="ieArk">ark:29072/x02514nk96n5</idno></msIdentifier>
                <msContents>
-                  <summary>Treatise on rhetoric by <persName key="person_71">Mkhit'ar</persName> translated into Georgian by <persName key="person_72">Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
+                  <summary>Treatise on rhetoric by <persName key="person_148">Mkhit'ar</persName> translated into Georgian by <persName key="person_149">Antoni I</persName> in <date calendar="#Gregorian" when="1764">1764</date>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_3-item1" n="1">
                      
-                     <editor role="translator" key="person_72">
+                     <editor role="translator" key="person_149">
                         <persName>Antoni I</persName>
                          (<persName xml:lang="ar">ანტონი I</persName>)
                      </editor>
@@ -81,10 +81,10 @@
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1800" notAfter="1900">19th c.</origDate>
                   </origin>
-                   <provenance>Bought from <persName key="person_74">Areshidze, G.</persName> by <persName key="person_7">Wardrop, J.O.</persName> in <placeName key="subject_n79104307">Tiflis</placeName> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
+                   <provenance>Bought from <persName key="person_150">Areshidze, G.</persName> by <persName key="person_108">Wardrop, J.O.</persName> in <placeName key="subject_n79104307">Tiflis</placeName> in <date calendar="#Gregorian" when="1911-03-20">1911-03-20</date>
                   </provenance>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1894-11-26">1894-11-26</date> by <persName key="person_7">Wardrop, J.O.</persName>
+                     <date calendar="#Gregorian" when="1894-11-26">1894-11-26</date> by <persName key="person_108">Wardrop, J.O.</persName>
                   </acquisition>
                </history>
                <additional>

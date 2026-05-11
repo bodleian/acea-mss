@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4">
@@ -45,11 +45,11 @@
                <msContents>
                   <summary>Menologion for March-August, followed by biographies of saintly women.
                      Includes the Georgian version of the account of the sack of Jerusalem by the
-                     Persians in A.D. 614, composed by the monk <persName key="person_81">Antiochus
+                     Persians in A.D. 614, composed by the monk <persName key="person_154">Antiochus
                         Strategus</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_b_1-item1" n="1">
-                     <author key="person_82"><persName>Proxore</persName>
+                     <author key="person_155"><persName>Proxore</persName>
                            (<persName>პროხორე</persName>)</author>
                      <title type="desc" key="work_85">Untitled</title>
                      <listBibl>
@@ -102,14 +102,12 @@
                            you have already consulted. Your application will then be considered by
                            our curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl type="digital-facsimile" subtype="full">
-                        <ref
-                           target="https://digital.bodleian.ox.ac.uk/objects/e4c98007-81c8-4670-ad42-777faa2987e5/">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/e4c98007-81c8-4670-ad42-777faa2987e5/">
                            <title>Digital Bodleian</title>
                         </ref>
                         <note>(full digital facsimile)</note>
@@ -192,9 +190,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl"
-               >https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl">https://github.com/bodleian/georgian-mss/tree/master/processing/convertGeorgian2Bodley.xsl</ref>
          </change>
          <change when="2011-05-12">
             <persName>Nikoloz Aleksidze</persName>

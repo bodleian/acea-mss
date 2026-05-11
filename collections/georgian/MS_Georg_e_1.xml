@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10">
@@ -42,11 +42,11 @@
                   <idno>MS. Georg. e. 1</idno>
                <idno type="crArk">ark:29072/x0mk61rg264r</idno><idno type="ieArk">ark:29072/x0mp48sc09fh</idno></msIdentifier>
                <msContents>
-                  <summary>Georgian grammar book by <persName key="person_34">Catholicos Anthony II</persName>
+                  <summary>Georgian grammar book by <persName key="person_124">Catholicos Anthony II</persName>
                   </summary>
                   <msItem xml:id="MS_Georg_e_1-item1" n="1">
-                     <author key="person_34"><persName>Catholicos Anthony II</persName></author>
-                     <editor role="Copyist" key="person_35">
+                     <author key="person_124"><persName>Catholicos Anthony II</persName></author>
+                     <editor role="Copyist" key="person_125">
                         <persName>Mikheil</persName>
                         
                      </editor>
