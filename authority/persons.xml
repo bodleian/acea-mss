@@ -1053,6 +1053,175 @@
                     <persName type="display">Prince tarxan-Mouravi, E.,</persName>
                     <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml#MS_Wardr_c_30%2D -->
                 <!--old_id: georgian/person_104--></person>
+            <person xml:id="person_9963139">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Petrie, W. M. Flinders</name>
+                  <name type="marc-q">(William Matthew Flinders),</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Flinders Petrie, W.</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Flinders Petrie, William M.</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, W. Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, W. M. Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, W.M. Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, William M.</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, William Matthew Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+                  <name type="marc-4">navo</name>
+                  <name type="marc-4">https://d-nb.info/standards/elementset/gnd#FullerFormOfNameOfThePerson</name>
+                  <name type="marc-e">Vollstaendiger Name</name>
+               </persName>
+               <birth source="VIAF" when="1853">1853-06-03</birth>
+               <death source="VIAF" when="1942">1942-07-28</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000121203374">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q220130">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n80039366">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb12557428h">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/11910203X">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/9963139">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName source="LC" type="display">Petrie, W.M. Flinders (William Matthew Flinders), 1853-1942</persName>
+            </person>
+            <person xml:id="person_38033406">
+               <!-- record originally created from https://viaf.org/viaf/38033406/viaf.xml at 2017-05-08 14:53:01.685173 -->
+               <persName source="LC" subtype="surnameFirst" type="display">Chester, Greville John, 1830–1892</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Chester, G. John, 1830–1892</persName>
+               <birth source="VIAF" when="1830">1830-10-25</birth>
+               <death source="VIAF" when="1892">1892-05-23</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/130822957">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n2003031655">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q15732077">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/38033406">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item source="#VL1">
+                        <ref target="http://www.isni.org/isni/0000000073739077">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_22908121">
+               <!-- record originally created from https://viaf.org/viaf/22908121/viaf.xml at 2017-05-09 10:51:30.050940 -->
+               <persName source="LC" subtype="surnameFirst" type="display">Sayce, A. H., (Archibald Henry), 1845–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, A.H., 1846–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, A., 1846–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, Archibald H., 1846–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, Archibald Henry, 1846–1933, Vollstaendiger Name</persName>
+               <birth source="VIAF" when="1845">1845-09-25</birth>
+               <death source="VIAF" when="1933">1933-02-04</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb13011252t">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/117023779">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n79084413">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.idref.fr/074913565/id">
+                           <title>SUDOC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q716584">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/159201829">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/22908121">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item source="#VL1">
+                        <ref target="http://www.isni.org/isni/0000000110226247">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
             </listPerson>
         </body>
     </text>
