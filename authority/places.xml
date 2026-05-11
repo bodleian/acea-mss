@@ -20,7 +20,12 @@
    </teiHeader>
    <text>
       <body><listPlace>
-      
+            <place type="settlement" xml:id="place_1341">
+               <placeName type="index">Memnoneia - Djeme (Thebes west)</placeName>
+               <note type="links"><list type="links">
+                     <item><ref target="www.trismegistos.org/place/1341"><title>Trismegistos</title></ref></item>
+               </list></note>
+            </place>
       <place type="settlement" xml:id="place_7526057">
                <placeName type="index">Tanis</placeName>
                <placeName type="variant">Τάνις;</placeName>
@@ -49,6 +54,20 @@
                      <item><ref target="http://vocab.getty.edu/tgn/7014986"><title>TGN</title></ref></item>
                   </list></note>
             </place>
-            </listPlace></body>
+            </listPlace>
+      <listOrg>
+         <org xml:id="org_3025">
+            <orgName>Apa Apollo Monasterion (Deir el-Bala’izah)</orgName>
+            <note type="links"><list type="links">
+                  <item><ref target="www.trismegistos.org/place/3025"><title>Trismegistos</title></ref></item>
+            </list></note>
+         </org>
+         <org xml:id="org_11645">
+            <orgName>Apa Phoibammonos Topos II</orgName>
+            <note type="links"><list type="links">
+                  <item><ref target="www.trismegistos.org/place/11645"><title>Trismegistos</title></ref></item>
+            </list></note>
+         </org>
+      </listOrg></body>
    </text>
 </TEI>
