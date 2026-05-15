@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 3</idno><idno type="ieArk">ark:29072/x0hm50tr92dq</idno><idno type="crArk">ark:29072/x0hh63sw0935</idno>
+                  <idno type="shelfmark">MS. Arm. d. 3</idno><idno type="ieArk">ark:29072/x0hm50tr92dq</idno><idno type="crArk">ark:29072/x0hh63sw0935</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1304</summary>

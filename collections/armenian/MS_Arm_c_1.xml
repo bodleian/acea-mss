@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. c. 1</idno><idno type="ieArk">ark:29072/x0cv43nx26mc</idno><idno type="crArk">ark:29072/x0cr56n1439r</idno>
+                  <idno type="shelfmark">MS. Arm. c. 1</idno><idno type="ieArk">ark:29072/x0cv43nx26mc</idno><idno type="crArk">ark:29072/x0cr56n1439r</idno>
                </msIdentifier>
                <msContents>
                   <summary>The manuscript contains a Lectionary (Ճաշոցգիրք), which the scribe calls

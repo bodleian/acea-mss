@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 20</idno><idno type="ieArk">ark:29072/x0nc580m586g</idno><idno type="crArk">ark:29072/x0n870zq74w5</idno>
+                  <idno type="shelfmark">MS. Arm. e. 20</idno><idno type="ieArk">ark:29072/x0nc580m586g</idno><idno type="crArk">ark:29072/x0n870zq74w5</idno>
                </msIdentifier>
                <msContents>
                   <summary>Cyril of Alexandria, etc., A.D. 1394.</summary>

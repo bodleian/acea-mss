@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 19</idno><idno type="ieArk">ark:29072/x0gm80hv599t</idno><idno type="crArk">ark:29072/x0gh93gz760z</idno>
+                  <idno type="shelfmark">MS. Arm. d. 19</idno><idno type="ieArk">ark:29072/x0gm80hv599t</idno><idno type="crArk">ark:29072/x0gh93gz760z</idno>
                </msIdentifier>
                <msContents>
                   <summary>A Romanizing Polemic, 19th cent.</summary>

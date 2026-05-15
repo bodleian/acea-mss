@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Canonici Or. 131</idno><idno type="ieArk">ark:29072/x0rn301085db</idno><idno type="crArk">ark:29072/x037720d78n8</idno>
+                  <idno type="shelfmark">MS. Canonici Or. 131</idno><idno type="ieArk">ark:29072/x0rn301085db</idno><idno type="crArk">ark:29072/x037720d78n8</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical legends and fables, A.D. 1697.</summary>

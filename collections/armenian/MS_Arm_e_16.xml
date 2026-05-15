@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 16</idno><idno type="ieArk">ark:29072/x0mc87pq2537</idno><idno type="crArk">ark:29072/x0m900nt41sj</idno>
+                  <idno type="shelfmark">MS. Arm. e. 16</idno><idno type="ieArk">ark:29072/x0mc87pq2537</idno><idno type="crArk">ark:29072/x0m900nt41sj</idno>
                </msIdentifier>
                <msContents>
                   <summary>Nana the Syrian, 17th or 18th cent.</summary>

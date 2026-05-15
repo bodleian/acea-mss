@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 1</idno><idno type="ieArk">ark:29072/x0dn39x1933x</idno><idno type="crArk">ark:29072/x0dj52w509s4</idno>
+                  <idno type="shelfmark">MS. Arm. d. 1</idno><idno type="ieArk">ark:29072/x0dn39x1933x</idno><idno type="crArk">ark:29072/x0dj52w509s4</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gospels, 15th (?) cent.</summary>

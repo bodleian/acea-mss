@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 35</idno><idno type="ieArk">ark:29072/x0rj4304244b</idno><idno type="crArk">ark:29072/x0rf55z740tx</idno>
+                  <idno type="shelfmark">MS. Arm. e. 35</idno><idno type="ieArk">ark:29072/x0rj4304244b</idno><idno type="crArk">ark:29072/x0rf55z740tx</idno>
                </msIdentifier>
                <msContents>
                   <summary>Cyril of Alexandria, Ephrem, Vardan, A.D. 1382.</summary>

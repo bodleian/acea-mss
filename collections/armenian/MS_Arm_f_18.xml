@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 18</idno><idno type="ieArk">ark:29072/x0ww72b989s1</idno><idno type="crArk">ark:29072/x0ws859f06gb</idno>
+                  <idno type="shelfmark">MS. Arm. f. 18</idno><idno type="ieArk">ark:29072/x0ww72b989s1</idno><idno type="crArk">ark:29072/x0ws859f06gb</idno>
                </msIdentifier>
                <msContents>
                   <summary>Moral Treatises, and Sermons, about 15th cent.</summary>
