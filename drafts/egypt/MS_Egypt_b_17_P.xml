@@ -80,8 +80,8 @@
                         <country key="place_7014986">Egyptian</country>
                      </origPlace>
                   </origin>
-                  <provenance>Excavated at <placeName type="place_7526057">Tanis</placeName>by
-                     <persName type="person_9963139">William Flinders Petrie</persName>in spring
+                  <provenance>Excavated at <placeName key="place_7526057">Tanis</placeName>by
+                     <persName key="person_9963139">William Flinders Petrie</persName>in spring
                      1884.</provenance>
                   <provenance>Brought to England and conserved at the British Museum in
                      1885</provenance>

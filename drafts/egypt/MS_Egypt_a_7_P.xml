@@ -62,7 +62,7 @@
                      documents may preserve sketches and notes to be expanded on some temple-wall at
                      Tanis.</note>
                   <note>65 fragments of this same lot are now at the British Museum and were
-                     published by <persName type="person_9963139">William Flinders
+                     published by <persName key="person_9963139">William Flinders
                      Petrie</persName>as the <title>Geographical Ppayrus</title><bibl>Griffith,
                         Francis Llewellyn, and W. M. Flinders Petrie. <title>Two Hieroglyphic Papyri
                            from Tanis. I. The Sign Papyrus, a Syllabary, II. The Geographical
@@ -98,8 +98,8 @@
 
                </physDesc>
                <history>
-                  <provenance>Excavated at <placeName type="place_7526057">Tanis</placeName>by
-                        <persName type="person_9963139">William Flinders Petrie</persName>in spring
+                  <provenance>Excavated at <placeName key="place_7526057">Tanis</placeName>by
+                        <persName key="person_9963139">William Flinders Petrie</persName>in spring
                      1884.</provenance>
                   <provenance>Brought to England and conserved at the British Museum in
                      1885</provenance>

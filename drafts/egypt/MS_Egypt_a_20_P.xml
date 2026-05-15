@@ -75,7 +75,7 @@
 
                </physDesc>
                <history>
-                  <provenance>Excavated at <placeName type="place_7526057">Tanis</placeName>by <persName type="person_9963139">William Flinders Petrie</persName>in spring 1884.</provenance>
+                  <provenance>Excavated at <placeName key="place_7526057">Tanis</placeName>by <persName key="person_9963139">William Flinders Petrie</persName>in spring 1884.</provenance>
                   <provenance>Brought to England and conserved at the British Museum in 1885</provenance>
                   <acquisition>Given by the Egypt Exploration Fund, June 1918</acquisition>
                </history>
