@@ -39,7 +39,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection </collection>
-                  <idno>MS. Wardr. c. 1 (2)</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 1 (2)</idno>
                <idno type="crArk">ark:29072/x0pk02c892bw</idno><idno type="ieArk">ark:29072/x0pn89d575n7</idno></msIdentifier>
                <msContents>
                   <summary>Poem by <persName key="person_129">Ceretʻeli, Akaki</persName> seven 4-line stanzas</summary>

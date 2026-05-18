@@ -39,7 +39,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. g. 2</idno>
+                  <idno type="shelfmark">MS. Wardr. g. 2</idno>
                <idno type="crArk">ark:29072/x05t34sj794v</idno><idno type="ieArk">ark:29072/x05x21tf62fk</idno></msIdentifier>
                <msContents>
                   <summary>

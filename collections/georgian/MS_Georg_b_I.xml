@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Georg. b. 1</idno>
+                  <idno type="shelfmark">MS. Georg. b. 1</idno>
                   <idno type="crArk">ark:29072/x0kd17cs26d6</idno><idno type="ieArk">ark:29072/x0kh04dp09q2</idno></msIdentifier>
                <msContents>
                   <summary>Menologion for March-August, followed by biographies of saintly women.

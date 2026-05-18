@@ -39,7 +39,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. c. 30-</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 30-</idno>
                <idno type="crArk">ark:29072/x0tb09j4584f</idno><idno type="ieArk">ark:29072/x0td96k141fr</idno></msIdentifier>
                <msContents>
                   <summary>Condolences on the death of <persName key="person_105">Wardrop, Marjory</persName> from <persName key="person_168">Bagration-Davitashvili B.,</persName>

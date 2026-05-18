@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. d. 6</idno>
+                  <idno type="shelfmark">MS. Wardr. d. 6</idno>
                <idno type="crArk">ark:29072/x0xg94hn242n</idno><idno type="ieArk">ark:29072/x0xk81jj07ch</idno></msIdentifier>
                <msContents>
                   <summary>'The Man in the Leupard's Skin', by <persName key="person_107">Šot'a Rust'aveli</persName>
