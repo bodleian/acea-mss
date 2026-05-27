@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 30</idno><idno type="ieArk">ark:29072/x0qj72p6911x</idno><idno type="crArk">ark:29072/x0qf85nb07q1</idno>
+                  <idno type="shelfmark">MS. Arm. e. 30</idno><idno type="ieArk">ark:29072/x0qj72p6911x</idno><idno type="crArk">ark:29072/x0qf85nb07q1</idno>
                </msIdentifier>
                <msContents>
                   <summary>Apocrypha of the O.T., 13th cent.</summary>

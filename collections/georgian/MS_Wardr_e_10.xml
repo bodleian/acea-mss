@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_56">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_181">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,13 +39,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. e. 10</idno>
+                  <idno type="shelfmark">MS. Wardr. e. 10</idno>
                <idno type="crArk">ark:29072/x0xw42n65791</idno><idno type="ieArk">ark:29072/x0z029p340mr</idno></msIdentifier>
                <msContents>
                   <summary>Manual of Veterinary medicine: incomplete</summary>
                   <msItem xml:id="MS_Wardr_e_10-item1" n="1">
-                     <author key="person_56"><persName>Batonišvili, Bagrat</persName> (<persName>ბატონიშვილი, ბაგრატ</persName>)</author>
-                     <title type="desc" key="work_65">Untitled</title>
+                     <author key="person_139"><persName>Batonišvili, Bagrat</persName> (<persName>ბატონიშვილი, ბაგრატ</persName>)</author>
+                     <title type="desc" key="work_920">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 342</bibl>
                         <bibl>Cf. Prince Bagrat's 'Karabadini', publ. at St. Petersburg in 1818</bibl>

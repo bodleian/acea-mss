@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ACEA - PLace Authority File</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body><listPlace>
+            <place type="settlement" xml:id="place_1341">
+               <placeName type="index">Memnoneia - Djeme (Thebes west)</placeName>
+               <note type="links"><list type="links">
+                     <item><ref target="www.trismegistos.org/place/1341"><title>Trismegistos</title></ref></item>
+               </list></note>
+            </place>
+      <place type="settlement" xml:id="place_7526057">
+               <placeName type="index">Tanis</placeName>
+               <placeName type="variant">Τάνις;</placeName>
+               <placeName type="variant">Zoan</placeName>
+               <placeName type="variant">Djanet</placeName>
+               <location>
+                  <geo>30.966667,31.9</geo>
+               </location>
+               <note type="links"><list type="links">
+                     <item><ref target="http://vocab.getty.edu/tgn/7526057"><title>TGN</title></ref></item>
+                  </list></note>
+            </place>
+            <place type="country" xml:id="place_7014986">
+               <placeName type="index">Egypt (ancient)</placeName>
+               <placeName type="variant">Ancient Egyptian</placeName>
+               <placeName type="variant">Kermit</placeName>
+               <placeName type="variant">Kemi</placeName>
+               <placeName type="variant">Egypt, ancient</placeName>
+               <placeName type="variant">Aegyptus</placeName>
+               <placeName type="variant">Aigyptos</placeName>
+               <placeName type="variant">Hwt-ka-Ptah</placeName>
+               <placeName type="variant">Kem</placeName>
+               <placeName type="variant">Kemet</placeName>
+               <placeName type="variant">Kmt</placeName>
+               <note type="links"><list type="links">
+                     <item><ref target="http://vocab.getty.edu/tgn/7014986"><title>TGN</title></ref></item>
+                  </list></note>
+            </place>
+            </listPlace>
+      <listOrg>
+         <org xml:id="org_3025">
+            <orgName>Apa Apollo Monasterion (Deir el-Bala’izah)</orgName>
+            <note type="links"><list type="links">
+                  <item><ref target="www.trismegistos.org/place/3025"><title>Trismegistos</title></ref></item>
+            </list></note>
+         </org>
+         <org xml:id="org_11645">
+            <orgName>Apa Phoibammonos Topos II</orgName>
+            <note type="links"><list type="links">
+                  <item><ref target="www.trismegistos.org/place/11645"><title>Trismegistos</title></ref></item>
+            </list></note>
+         </org>
+      </listOrg></body>
+   </text>
+</TEI>

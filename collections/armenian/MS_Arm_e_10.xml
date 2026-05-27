@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 10</idno><idno type="ieArk">ark:29072/x0k643b125c1</idno><idno type="crArk">ark:29072/x0k356944225</idno>
+                  <idno type="shelfmark">MS. Arm. e. 10</idno><idno type="ieArk">ark:29072/x0k643b125c1</idno><idno type="crArk">ark:29072/x0k356944225</idno>
                </msIdentifier>
                <msContents>
                   <summary>Theological, 18th cent.</summary>

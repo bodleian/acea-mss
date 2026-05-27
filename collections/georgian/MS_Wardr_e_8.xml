@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_77">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_203">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,17 +39,17 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. e. 8</idno>
+                  <idno type="shelfmark">MS. Wardr. e. 8</idno>
                <idno type="crArk">ark:29072/x037720d1327</idno><idno type="ieArk">ark:29072/x03b591896ct</idno></msIdentifier>
                <msContents>
                   <summary>Code of King Vaxtang VI and a fragment containing medical information for women</summary>
                   <msItem xml:id="MS_Wardr_e_8-item1" n="1">
-                     <author key="person_63"><persName>Vaxtang VI</persName> (<persName>ვახტანგ VI</persName>)</author>
-                     <editor role="scribe" key="person_11">
+                     <author key="person_142"><persName>Vaxtang VI</persName> (<persName>ვახტანგ VI</persName>)</author>
+                     <editor role="scribe" key="person_110">
                         <persName>Qorganovi, Mose</persName>
                          (<persName xml:lang="ar">ყორღანოვი, მოსე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc" key="work_25">Code of King Vaxtang VI</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_863">Code of King Vaxtang VI</title>
                      
                      <incipit>თქმული და ნაღუაწი და ნასიბრძნი მეფის ვახტანგისა...</incipit>
                      <listBibl>
@@ -59,11 +59,11 @@
                   </msItem>
                   <msItem xml:id="MS_Wardr_e_8-item2" n="2">
                      
-                     <editor role="scribe" key="person_11">
+                     <editor role="scribe" key="person_110">
                         <persName>Qorganovi, Mose</persName>
                          (<persName xml:lang="ar">ყორღანოვი, მოსე</persName>)
                      </editor>
-                     <title xml:lang="en-Latn-x-lc" key="work_26">Fragment of medical information for women</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_866">Fragment of medical information for women</title>
                      
                      <listBibl>
                         <bibl>CWC, 342</bibl>

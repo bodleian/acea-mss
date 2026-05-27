@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_55">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_180">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,14 +39,14 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. e. 1</idno>
+                  <idno type="shelfmark">MS. Wardr. e. 1</idno>
                <idno type="crArk">ark:29072/x0xp68kd90pz</idno><idno type="ieArk">ark:29072/x0xs55m97405</idno></msIdentifier>
                <msContents>
                   <summary>Life of St. Nisime</summary>
                   <msItem xml:id="MS_Wardr_e_1-item1" n="1">
                      
                      
-                     <title xml:lang="en-Latn-x-lc" key="work_5">Life of St. Nisime</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_887">Life of St. Nisime</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -56,8 +56,8 @@
                   <msItem xml:id="MS_Wardr_e_1-item2" n="2">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_6">c'xovreba da mok'alak'eoba evp'emianesi da żisa misisa alek'sisa kac'isa ġvt'isa</title>
-                     <title xml:lang="ka" key="work_6">ცხოვრება და მოქალაქეობა ევფემიანესი და ძისა მისისა ალექსისა კაცისა ღვთისა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_858">c'xovreba da mok'alak'eoba evp'emianesi da żisa misisa alek'sisa kac'isa ġvt'isa</title>
+                     <title xml:lang="ka" key="work_858">ცხოვრება და მოქალაქეობა ევფემიანესი და ძისა მისისა ალექსისა კაცისა ღვთისა</title>
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>
@@ -66,7 +66,7 @@
                   <msItem xml:id="MS_Wardr_e_1-item3" n="3">
                      
                      
-                     <title xml:lang="en-Latn-x-lc" key="work_8">Acrostic on the name Aleksi, followed by a prayer for the scribe Zirak'i</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_852">Acrostic on the name Aleksi, followed by a prayer for the scribe Zirak'i</title>
                      
                      <listBibl>
                         <bibl>CWC, 341</bibl>
@@ -76,8 +76,8 @@
                   <msItem xml:id="MS_Wardr_e_1-item4" n="4">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_9">galoba moc'ik'ulisa</title>
-                     <title xml:lang="ka" key="work_9">გალობა მოციქულისა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_867">galoba moc'ik'ulisa</title>
+                     <title xml:lang="ka" key="work_867">გალობა მოციქულისა</title>
                      <listBibl>
                         <bibl>CWC, 341</bibl>
                      </listBibl>

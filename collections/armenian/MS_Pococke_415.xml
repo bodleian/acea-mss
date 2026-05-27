@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Pococke 415</idno><idno type="ieArk">ark:29072/x06m311q116q</idno><idno type="crArk">ark:29072/x06h440t27wn</idno>
+                  <idno type="shelfmark">MS. Pococke 415</idno><idno type="ieArk">ark:29072/x06m311q116q</idno><idno type="crArk">ark:29072/x06h440t27wn</idno>
                </msIdentifier>
                <msContents>
                   <summary>Doctrinal, 17th cent.</summary>

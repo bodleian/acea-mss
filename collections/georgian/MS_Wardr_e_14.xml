@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_60">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_185">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,21 +39,21 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. e. 14</idno>
+                  <idno type="shelfmark">MS. Wardr. e. 14</idno>
                <idno type="crArk">ark:29072/x0zp38wb23s5</idno><idno type="ieArk">ark:29072/x0zs25x7073c</idno></msIdentifier>
                <msContents>
-                  <summary>Account of travels in Europe, 1713-15, by <persName key="person_52">Orbeliani, Sulxan-Saba</persName>
+                  <summary>Account of travels in Europe, 1713-15, by <persName key="person_138">Orbeliani, Sulxan-Saba</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_14-item1" n="1">
-                     <author key="person_52"><persName>Orbeliani, Sulxan-Saba</persName> (<persName>ორბელიანი, სულხან-საბა</persName>)</author>
-                     <title type="desc" key="work_63">Untitled</title>
+                     <author key="person_138"><persName>Orbeliani, Sulxan-Saba</persName> (<persName>ორბელიანი, სულხან-საბა</persName>)</author>
+                     <title type="desc" key="work_924">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 342</bibl>
                         <bibl>Cf. 'Ciskari', 1852, Georg.d.28</bibl>
                         <bibl>descr. Taqaishvili</bibl>
                      </listBibl>
                      <textLang mainLang="ka">Georgian</textLang>
-                     <note>Bought from <persName key="person_33">Merkviladze, S</persName> in Tiflis <date calendar="#Gregorian" when="1911-02-04">1911-02-04</date>
+                     <note>Bought from <persName key="person_123">Merkviladze, S</persName> in Tiflis <date calendar="#Gregorian" when="1911-02-04">1911-02-04</date>
                      </note>
                   </msItem>
                </msContents>

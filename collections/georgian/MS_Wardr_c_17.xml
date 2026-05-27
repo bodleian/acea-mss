@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_14">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_138">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,12 +39,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. c. 17</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 17</idno>
                <idno type="crArk">ark:29072/x0nc580k92mx</idno><idno type="ieArk">ark:29072/x0ng451g75xs</idno></msIdentifier>
                <msContents>
                   <summary>Signatures to a petition to the British Government arising out of an 'Appeal from the Women of Georgia'</summary>
                   <msItem xml:id="MS_Wardr_c_17-item1" n="1">
-                     <title xml:lang="en-Latn-x-lc" key="work_109">Appeal from the Women of Georgia</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_854">Appeal from the Women of Georgia</title>
                      <listBibl>
                         <bibl>CWC. 312</bibl>
                      </listBibl>

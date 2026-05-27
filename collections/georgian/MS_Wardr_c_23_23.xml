@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_155">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,14 +39,14 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. c. 23 (2,3)</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 23 (2,3)</idno>
                <idno type="crArk">ark:29072/x0rr171w255h</idno><idno type="ieArk">ark:29072/x0rv042s08gc</idno></msIdentifier>
                <msContents>
                   <summary>Memorandum of the Delegation of the Georgian Republic, presented to the Peace Conference</summary>
                   <msItem xml:id="MS_Wardr_c_23_23-item1" n="1">
                      
                      
-                     <title xml:lang="en-Latn-x-lc" key="work_1">Memorandum of the Delegation of the Georgian Republic, presented to the Peace Conference</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_892">Memorandum of the Delegation of the Georgian Republic, presented to the Peace Conference</title>
                      
                      <listBibl>
                         <bibl>CWC, 313</bibl>

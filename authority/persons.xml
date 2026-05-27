@@ -1,0 +1,1228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ACEA - Person Authority File</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+
+                <person xml:id="person_1">
+                    <persName type="display">Ludowig Abelli</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_26.xml#MS_Arm_e_26%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2">
+                    <persName type="display">Yovhannes Vardapet Yakobean</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_26.xml#MS_Arm_e_26%2Ditem1 -->
+                </person>
+                
+                <person xml:id="person_3">
+                    <persName type="display">Grigor, Tatʻevatsʻi, 1346-1409</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_11.xml#MS_Arm_e_11%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_11.xml#MS_Arm_e_11%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_4">
+                    <persName type="display">Stephanos Basil Shir-Phalankian</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_22.xml#MS_Arm_e_22%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_22.xml#MS_Arm_e_22%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_5">
+                    <persName type="display">Bartholomew, of Bologna, 13th cent.</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_20.xml#MS_Arm_f_20%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_6">
+                    <persName type="display">Jacob of Qerni</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_20.xml#MS_Arm_f_20%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_7">
+                    <persName type="display">Mkhitar Scevratzi</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem4 -->
+                </person>
+
+                <person xml:id="person_11">
+                    <persName type="display">Nana the Syrian</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_16.xml#MS_Arm_e_16%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_12">
+                    <persName type="display">Matthew, of Edessa, 12th cent.</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_32.xml#MS_Arm_e_32%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_13">
+                    <persName type="display">Cyril, Saint, Patriarch of Alexandria, ca. 370 -
+                        444.</persName>
+                    <persName type="variant">Cyril, Saint, Patriarch of Alexandria, ca.
+                        370-444</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_20.xml#MS_Arm_e_20%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_35.xml#MS_Arm_e_35%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_36.xml#MS_Arm_e_36%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_36.xml#MS_Arm_e_36%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_14">
+                    <persName type="display">Ephraem, Syrus, Saint, 303-373.</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_35.xml#MS_Arm_e_35%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_16">
+                    <persName type="display">David, the Invincible</persName>
+                    <persName type="variant">Davit' Anyałt</persName>
+                    <persName type="variant">Davitʻ Anhaghtʻ</persName>
+                    <persName type="variant">დავით უძლეველი</persName>
+                    <persName type="variant">David the Invincible</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_6.xml#MS_Arm_f_6%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_5.xml#MS_Wardr_f_5%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_5.xml#MS_Wardr_f_5 -->
+                    <!-- old_id: georgian/person_58-->
+                </person>
+
+                <person xml:id="person_20">
+                    <persName type="display">Pseudo-Prochoros</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_2.xml#MS_Arm_e_2%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_21">
+                    <persName type="display">Ioannes Vardapet Ezenkatzi</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_2.xml#MS_Arm_e_2%2Ditem7 -->
+                </person>
+
+                <person xml:id="person_22">
+                    <persName type="display">The Catholicos Zakaria</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_2.xml#MS_Arm_e_2%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_e_2.xml#MS_Arm_e_2%2Ditem9 -->
+                </person>
+
+                <person xml:id="person_23">
+                    <persName type="display">Nersēs, Shnorhali, Saint, 1102 - 1173</persName>
+                    <persName type="variant">Nersēs, Shnorhali, Saint, 1102-1173</persName>
+                    <persName type="variant">Shnorhali, Nersēs, 1102 - 1173</persName>
+                    <persName type="variant">Šnorhali, Nersēs</persName>
+                    <persName type="variant">Ներսէս Շնորհալի</persName>
+                    <persName type="variant">Nerses IV the Gracious</persName>
+                    <!-- ../collections/armenian/MS_Marsh_17.xml#MS_Marsh_17%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Marsh_17.xml#MS_Marsh_17%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Marsh_17.xml#MS_Marsh_17%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Marsh_17.xml#MS_Marsh_17%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Marsh_17.xml#MS_Marsh_17%2Ditem5 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem12 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem13 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem14 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem15 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem17 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem18 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem19 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem20 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem9 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem10 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem11 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem12 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem13 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem14 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem5 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem6 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem7 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem10 -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem7 -->
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem102 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem135 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem136 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem14 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem147 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem152 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem157 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem158 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem188 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem24 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem56 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem58 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem80 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem94 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem96 -->
+                    <!-- ../collections/armenian/MS_Arm_f_10.xml#MS_Arm_f_10%2Ditem12 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem10 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem5 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem6 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem7 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem9 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem15 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem21 -->
+                    <!-- ../collections/armenian/MS_Laud_Or_21.xml#MS_Laud_Or_21%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_24">
+                    <persName type="display">Matthew Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem5 -->
+                    <!-- ../collections/armenian/MS_Arm_e_15.xml#MS_Arm_e_15%2Ditem6 -->
+                </person>
+
+                <person xml:id="person_26">
+                    <persName type="display">Peter, of Argos, Saint</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_39.xml#MS_Arm_e_39%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_28">
+                    <persName type="display">Johannes Vardapet of Julfa</persName>
+                    <persName type="variant">Yovhannes Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_d_18.xml#MS_Arm_d_18%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_29">
+                    <persName type="display">Petrus Ałmalian</persName>
+                    <!-- ../collections/armenian/MS_Arm_d_18.xml#MS_Arm_d_18%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_30">
+                    <persName type="display">Hieronymus Vardapet of Lemberg</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_12.xml#MS_Arm_f_12%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_33">
+                    <persName type="display">Nerses Clayetsi</persName>
+                    <!-- ../collections/armenian/MS_Arm_g_4_R.xml#MS_Arm_g_4_R%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_35">
+                    <persName type="display">Rev. Jacob Grigorentz</persName>
+                    <!-- ../collections/armenian/MS_Thurston_etc_17.xml#MS_Thurston_etc_17%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_38">
+                    <persName type="display">Lambronac'i, Nersēs</persName>
+                    <persName type="variant">Nerses, of Lambron, Saint, 1153 - 1198</persName>
+                    <persName type="variant">Nerses, of Lambron, Saint, 1153-1198</persName>
+                    <persName type="variant">Nerses, of Lambron, Saint, 1153-1198.</persName>
+                    <!-- ../collections/armenian/MS_Arm_d_16.xml#MS_Arm_d_16%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_d_16.xml#MS_Arm_d_16%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_d_16.xml#MS_Arm_d_16%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem6 -->
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem13 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem5 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem6 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem7 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem9 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem10 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem11 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem16 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem9 -->
+                </person>
+
+                <person xml:id="person_39">
+                    <persName type="display">Ter Arackel Sunetzi</persName>
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem15 -->
+                    <!-- ../collections/armenian/MS_Marsh_85.xml#MS_Marsh_85%2Ditem16 -->
+                </person>
+
+                <person xml:id="person_40">
+                    <persName type="display">Evagrius, Ponticus, 345?-399</persName>
+                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15 -->
+                </person>
+
+                <person xml:id="person_41">
+                    <persName type="display">John Chrysostom, Saint, d. 407</persName>
+                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem22 -->
+                    <!-- ../collections/armenian/MS_Arm_e_19.xml#MS_Arm_e_19%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_19.xml#MS_Arm_e_19%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_e_19.xml#MS_Arm_e_19%2Ditem3 -->
+                </person>
+
+                <person xml:id="person_43">
+                    <persName type="display">Movses Vardapet of Erzenka</persName>
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem5 -->
+                </person>
+
+                <person xml:id="person_44">
+                    <persName type="display">Athanasius, Saint, Patriarch of Alexandria, d.
+                        373</persName>
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem7 -->
+                </person>
+
+                <person xml:id="person_47">
+                    <persName type="display">John of Erznka</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_10.xml#MS_Arm_f_10%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_48">
+                    <persName type="display">John Vardapet of Erznka</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_10.xml#MS_Arm_f_10%2Ditem5 -->
+                </person>
+
+                <person xml:id="person_51">
+                    <persName type="display">Gregory, the Illuminator, Saint, ca. 240-ca.
+                        332</persName>
+                    <persName type="variant">'Գրիգոր Լուսավորիչ</persName>
+                    <persName type="variant">Grigor Lusavoric</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_19.xml#MS_Arm_f_19%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem26 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem27 -->
+                </person>
+
+                <person xml:id="person_52">
+                    <persName type="display">Mkhitʻar Gōsh, ca. 1130 - 1213</persName>
+                    <persName type="variant">Mkhitʻar Gōsh, ca. 1130-1213</persName>
+                    <persName type="variant">Mxit'ar Goš</persName>
+                    <persName type="variant">Mxit'ar Gōš</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem45 -->
+                    <!-- ../collections/armenian/MS_Arm_e_28.xml#MS_Arm_e_28%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Marsh_128.xml#MS_Marsh_128%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Marsh_128.xml#MS_Marsh_128%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_55">
+                    <persName type="display">John Gaṙnec‘i</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_56">
+                    <persName type="display">Mesrob Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem25 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem9 -->
+                </person>
+
+                <person xml:id="person_57">
+                    <persName type="display">John Sarkavag Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem10 -->
+                </person>
+
+                <person xml:id="person_58">
+                    <persName type="display">Sarkavag Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem14 -->
+                </person>
+
+                <person xml:id="person_59">
+                    <persName type="display">Saint Basil</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem22 -->
+                </person>
+
+                <person xml:id="person_60">
+                    <persName type="display">Moses the Grammarian</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem23 -->
+                </person>
+
+                <person xml:id="person_61">
+                    <persName type="display">Benik Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem24 -->
+                </person>
+
+                <person xml:id="person_62">
+                    <persName type="display">Saint Phocas</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem28 -->
+                </person>
+
+                <person xml:id="person_63">
+                    <persName type="display">Gabriel Avedikian</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_23.xml#MS_Arm_e_23%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_64">
+                    <persName type="display">Karapet Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem4 -->
+                </person>
+
+                <person xml:id="person_65">
+                    <persName type="display">Araqel Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_16.xml#MS_Arm_f_16%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_f_16.xml#MS_Arm_f_16%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem11 -->
+                </person>
+
+                <person xml:id="person_66">
+                    <persName type="display">Fr. Rivola</persName>
+                    <!-- ../collections/armenian/MS_Marshall_Or_30.xml#MS_Marshall_Or_30%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_67">
+                    <persName type="display">Grigor II, Catholicos of Armenia, 1066-1105</persName>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem4 -->
+                </person>
+
+                <person xml:id="person_68">
+                    <persName type="display">Esayi vardabet</persName>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem21 -->
+                </person>
+
+                <person xml:id="person_69">
+                    <persName type="display">Stephanos Siunetsi</persName>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem28 -->
+                </person>
+
+                <person xml:id="person_70">
+                    <persName type="display">Moses Erzencatzi</persName>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem29 -->
+                </person>
+
+                <person xml:id="person_71">
+                    <persName type="display">Vardan, Areweltsʻi, ca. 1198-1271</persName>
+                    <persName type="variant">Vardan, Areweltsʻi, ca. 1198-1271.</persName>
+                    <!-- ../collections/armenian/MS_Arm_d_16.xml#MS_Arm_d_16%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Arm_e_35.xml#MS_Arm_e_35%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem30 -->
+                </person>
+
+                <person xml:id="person_72">
+                    <persName type="display">Vanacan Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem35 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem36 -->
+                </person>
+
+                <person xml:id="person_73">
+                    <persName type="display">Anania Shirakatsʻi, fl. 685</persName>
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem37 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem38 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem39 -->
+                    <!-- ../collections/armenian/MS_Marsh_467.xml#MS_Marsh_467%2Ditem40 -->
+                </person>
+
+                <person xml:id="person_74">
+                    <persName type="display">Iacob Vardapet of the Crimea</persName>
+                    <!-- ../collections/armenian/MS_Arm_f3.xml#MS_Arm_f3%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_f3.xml#MS_Arm_f3%2Ditem3 -->
+                </person>
+
+                <person xml:id="person_75">
+                    <persName type="display">Ter Araqel Bałishetzi</persName>
+                    <!-- ../collections/armenian/MS_Arm_f3.xml#MS_Arm_f3%2Ditem7 -->
+                </person>
+
+                <person xml:id="person_76">
+                    <persName type="display">Nilus, of Ancyra, Saint, d. ca. 430</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem2 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem4 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem4%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem5 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem6 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem7 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem9 -->
+                </person>
+
+                <person xml:id="person_77">
+                    <persName type="display">Pseudo-Dionysius, the Areopagite</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_37.xml#MS_Arm_e_37%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_37.xml#MS_Arm_e_37%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_78">
+                    <persName type="display">Stephanos of Lemberg</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_37.xml#MS_Arm_e_37%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_79">
+                    <persName type="display">Stephanos of Siunik</persName>
+                    <persName type="variant">Stephanos of Siuniq</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_20.xml#MS_Arm_e_20%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_37.xml#MS_Arm_e_37%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_80">
+                    <persName type="display">Grigor of Aghthamar</persName>
+                    <persName type="variant">Գրիգորիս Աղթամարցի</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_1.xml#MS_Arm_e_1%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_82">
+                    <persName type="display">Frik, b. ca. 1236</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_16.xml#MS_Arm_f_16%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_83">
+                    <persName type="display">Srik Ter Constantin</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem11 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_84">
+                    <persName type="display">Grigor Narekatsʻi, Saint, 951-1003</persName>
+                    <persName type="variant">Grigor, Narekatsʻi, Saint, 951 - 1003</persName>
+                    <persName type="variant">Grigor, Narekatsʻi, Saint, 951-1003</persName>
+                    <persName type="variant">Grigor, Narekatsʻi, Saint, 951-1003.</persName>
+                    <!-- ../collections/armenian/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem155 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem6 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem8 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem91 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem11 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem12 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem20 -->
+                    <!-- ../collections/armenian/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem3 -->
+                    <!-- ../collections/armenian/MS_Arm_f_5.xml#MS_Arm_f_5%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_f_9.xml#MS_Arm_f_9%2Ditem1 -->
+                    <!-- ../collections/armenian/MS_Arm_g_4_R.xml#MS_Arm_g_4_R%2Ditem9 -->
+                </person>
+
+                <person xml:id="person_85">
+                    <persName type="display">Grigor Ostanc'i</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem10 -->
+                </person>
+
+                <person xml:id="person_86">
+                    <persName type="display">Ter Mkhitar</persName>
+                    <persName type="variant">Ter Mkhitar.</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem18 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem184 -->
+                </person>
+
+                <person xml:id="person_87">
+                    <persName type="display">Gregory Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem31 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem42 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem44 -->
+                </person>
+
+                <person xml:id="person_89">
+                    <persName type="display">Ter Araqel the Little</persName>
+                    <persName type="variant">Ter Araqel the little</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem37 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem38 -->
+                </person>
+
+                <person xml:id="person_90">
+                    <persName type="display">Vardan the clerk</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem49 -->
+                </person>
+
+                <person xml:id="person_91">
+                    <persName type="display">Mkhitar of Ayrivank</persName>
+                    <persName type="variant">Mkhitar of Ayrivanq</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem90 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem55 -->
+                </person>
+
+                <person xml:id="person_92">
+                    <persName type="display">Ter Mkhitar of Erivan</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem57 -->
+                </person>
+
+                <person xml:id="person_93">
+                    <persName type="display">Ter Araqel</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem65 -->
+                </person>
+
+                <person xml:id="person_95">
+                    <persName type="display">John of Toulkouran, 1489-1525</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem101 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem172 -->
+                </person>
+
+                <person xml:id="person_96">
+                    <persName type="display">Plouz Vardapet</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem162 -->
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem163 -->
+                </person>
+
+                <person xml:id="person_97">
+                    <persName type="display">Grigor Ałt‘amarc‘i</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem169 -->
+                </person>
+
+                <person xml:id="person_99">
+                    <persName type="display">David Wartapet.</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem189 -->
+                </person>
+
+                <person xml:id="person_100">
+                    <persName type="display">Mkhitar</persName>
+                    <!-- ../collections/armenian/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem191 -->
+                </person>
+
+                <person xml:id="person_101">
+                    <persName type="display">Grigor Pahlawuni, Magistros, 985-1058</persName>
+                    <!-- ../collections/armenian/MS_Arm_f_13.xml#MS_Arm_f_13%2Ditem2 -->
+                </person>
+
+                <person xml:id="person_102">
+                    <persName type="display">Anania vardapet Šambec‘i</persName>
+                </person>
+                
+                <person xml:id="person_103">
+                    <persName type="display">Step‘annos</persName>
+                </person>
+                
+                <person xml:id="person_104">
+                    <persName type="display">Karapet</persName>
+                </person>
+                
+                <person xml:id="person_105" corresp="#person_108">
+                    <persName type="display">Wardrop, Marjory</persName>
+                    <persName type="variant">Marjory Wardrop</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_1_10.xml#MS_Wardr_c_1_10%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_4.xml#MS_Wardr_c_1_4%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_9.xml#MS_Wardr_c_1_9%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_26.xml#MS_Wardr_c_26 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_26.xml#MS_Wardr_c_26%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml#MS_Wardr_c_30%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_22%2D.xml#MS_Wardr_d_22%2D%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.1%2D.xml#MS_Wardr_d_26.1%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.1%2D.xml#MS_Wardr_d_26.1%2D%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.2%2D.xml#MS_Wardr_d_26.2%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.3%2D.xml#MS_Wardr_d_26.3%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.4%2D.xml#MS_Wardr_d_26.4%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.5%2D.xml#MS_Wardr_d_26.5%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.5%2D.xml#MS_Wardr_d_26.5%2D%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_32%2D.xml#MS_Wardr_d_32%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_6.xml#MS_Wardr_d_6%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_4.xml#MS_Wardr_e_4%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_11.xml#MS_Wardr_f_11 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_11.xml#MS_Wardr_f_11%2Ditem1 -->
+                <!--old_id: georgian/person_1--></person>
+
+                <person xml:id="person_106">
+                    <persName type="display">Beridze, Venera</persName>
+                    <persName type="variant">ბერიძე, ვენერა</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_26.2%2D.xml#MS_Wardr_d_26.2%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.2%2D.xml#MS_Wardr_d_26.2%2D%2Ditem1 -->
+                <!--old_id: georgian/person_2--></person>
+
+                <person xml:id="person_107">
+                    <persName type="display">Rustaveli, Shota, active 12th century-13th century</persName>
+                    <persName type="variant">Šot'a Rust'aveli</persName>
+                    <persName type="variant">შოთა რუსთაველი</persName>
+                    <persName type="variant">Shota Rustaveli</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/100218337/">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/georgian/MS_Wardr_d_32%2D.xml#MS_Wardr_d_32%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_17.xml#MS_Wardr_d_17%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_27%2D.xml#MS_Wardr_d_27%2D%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_6.xml#MS_Wardr_d_6 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_6.xml#MS_Wardr_d_6%2Ditem1 -->
+                <!--old_id: georgian/person_5--></person>
+
+                <person xml:id="person_108" corresp="#person_105">
+                    <persName type="display">Wardrop, John Oliver, Sir</persName>
+                    <persName type="variant">Wardrop, John Oliver, Sir.</persName>
+                    <persName type="variant">Wardrop, John, Oliver, Sir</persName>
+                    <persName type="variant">J. O. Wadrop</persName>
+                    <persName type="variant">J. O. Wardrop</persName>
+                    <persName type="variant">Wardrop, J.O.</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_1.xml#MS_Wardr_d_1 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_3.xml#MS_Wardr_e_3 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_5.xml#MS_Wardr_e_5 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_6.xml#MS_Wardr_e_6 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_7.xml#MS_Wardr_e_7 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_21.xml#MS_Wardr_c_21%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_22.xml#MS_Wardr_c_22%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_12.xml#MS_Wardr_c_1_12 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_12.xml#MS_Wardr_c_1_12%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_26.xml#MS_Wardr_c_26 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_26.xml#MS_Wardr_c_26%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_27.xml#MS_Wardr_c_27 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_27.xml#MS_Wardr_c_27%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_28.xml#MS_Wardr_c_28 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_23%2D.xml#MS_Wardr_d_23%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem2 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem3 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem4 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem5 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem6 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem7 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem8 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2637.xml#MS_Wardr_e_2637%2Ditem1 -->
+                <!--old_id: georgian/person_7--></person>
+
+                <person xml:id="person_109">
+                    <persName type="display">Medjid-il-Saltane</persName>
+                    <!-- ../collections/georgian/MS_Wardr_b_1.xml#MS_Wardr_b_1 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_2.xml#MS_Wardr_f_2 -->
+                <!--old_id: georgian/person_8--></person>
+
+                <person xml:id="person_110">
+                    <persName type="display">Qorganovi, Mose</persName>
+                    <persName type="variant">ყორღანოვი, მოსე</persName>
+                    <!-- ../collections/georgian/MSWardre8.xml#MSWardre8%2Ditem1 -->
+                    <!-- ../collections/georgian/MSWardre8.xml#MSWardre8%2Ditem2 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_8.xml#MS_Wardr_e_8%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_8.xml#MS_Wardr_e_8%2Ditem2 -->
+                <!--old_id: georgian/person_11--></person>
+
+                <person xml:id="person_111">
+                    <persName type="display">Č'erk'ezišvili, Varlam</persName>
+                    <persName type="variant">ჩერქეზიშვილი, ვარლამ</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_1_11.xml#MS_Wardr_c_1_11 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_11.xml#MS_Wardr_c_1_11%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_12.xml#MS_Wardr_c_1_12 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_12.xml#MS_Wardr_c_1_12%2Ditem1 -->
+                <!--old_id: georgian/person_13--></person>
+
+                
+                
+            <person xml:id="person_112">
+                    <persName type="display">Cerkezisvili, Eka</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_20.xml#MS_Wardr_c_20%2Ditem1 -->
+                <!--old_id: georgian/person_16--></person>
+
+                <person xml:id="person_113">
+                    <persName type="display">Prince Giorgi Ceret'eli</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_17.xml#MS_Wardr_d_17 -->
+                <!--old_id: georgian/person_17--></person>
+
+                <person xml:id="person_114">
+                    <persName type="display">Princess Venera Ceret'eli</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_17.xml#MS_Wardr_d_17 -->
+                <!--old_id: georgian/person_18--></person>
+
+                <person xml:id="person_115">
+                    <persName type="display">A. R. Dryhurst</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_1_35.xml#MS_Wardr_c_1_35%2Ditem1 -->
+                <!--old_id: georgian/person_19--></person>
+
+                <person xml:id="person_116">
+                    <persName type="display">Nicephorus of Constantinople</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_9.xml#MS_Wardr_e_9 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_9.xml#MS_Wardr_e_9%2Ditem1 -->
+                <!--old_id: georgian/person_20--></person>
+
+                <person xml:id="person_117">
+                    <persName type="display">Ilarion</persName>
+                    <persName type="variant">ილარიონ</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_9.xml#MS_Wardr_e_9%2Ditem1 -->
+                <!--old_id: georgian/person_21--></person>
+
+                <person xml:id="person_118">
+                    <persName type="display">Deacon Paul</persName>
+                    <persName type="variant">პავლე დიაკვანი</persName>
+                    <!-- ../collections/georgian/MS_Wardr_g_3.xml#MS_Wardr_g_3%2Ditem1 -->
+                <!--old_id: georgian/person_23--></person>
+
+                <person xml:id="person_119">
+                    <persName type="display">Gabriel Garejeli</persName>
+                    <persName type="variant">გაბრიელ გარეჯელი</persName>
+                    <!-- ../collections/georgian/MS_Wardr_f_6.xml#MS_Wardr_f_6%2Ditem1 -->
+                <!--old_id: georgian/person_25--></person>
+
+                <person xml:id="person_120">
+                    <persName type="display">Chavchavadze, Olga</persName>
+                    <persName type="variant">Princess Chavchavadze, Olga</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml#MS_Wardr_c_30%2D -->
+                    <!-- ../collections/georgian/MS_Wardr_d_26.1%2D.xml#MS_Wardr_d_26.1%2D -->
+                <!--old_id: georgian/person_28--></person>
+
+                <person xml:id="person_121">
+                    <persName type="display">Mavrogordato, Nicholas</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_6.xml#MS_Wardr_e_6 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_6.xml#MS_Wardr_e_6%2Ditem1 -->
+                <!--old_id: georgian/person_29--></person>
+
+                <person xml:id="person_122">
+                    <persName type="display">Serap'im Pisidieli</persName>
+                    <persName type="variant">სერაფიმ პისიდიელი</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_6.xml#MS_Wardr_e_6%2Ditem1 -->
+                <!--old_id: georgian/person_30--></person>
+
+                <person xml:id="person_123">
+                    <persName type="display">Merkviladze, Sosiko</persName>
+                    <persName type="variant">Merkviladze, S</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_14.xml#MS_Wardr_e_14%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_5.xml#MS_Wardr_e_5 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_6.xml#MS_Wardr_e_6 -->
+                <!--old_id: georgian/person_33--></person>
+
+                <person xml:id="person_124">
+                    <persName type="display">Catholicos Anthony II</persName>
+                    <!-- ../collections/georgian/MS_Georg_e_1.xml#MS_Georg_e_1 -->
+                    <!-- ../collections/georgian/MS_Georg_e_1.xml#MS_Georg_e_1%2Ditem1 -->
+                <!--old_id: georgian/person_34--></person>
+
+                <person xml:id="person_125">
+                    <persName type="display">Mikheil</persName>
+                    <!-- ../collections/georgian/MS_Georg_e_1.xml#MS_Georg_e_1%2Ditem1 -->
+                <!--old_id: georgian/person_35--></person>
+
+                <person xml:id="person_126">
+                    <persName type="display">Haarrassowitz, O.</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_1.xml#MS_Wardr_d_1 -->
+                <!--old_id: georgian/person_36--></person>
+
+                <person xml:id="person_127">
+                    <persName type="display">Blake R.P</persName>
+                    <!-- ../collections/georgian/MS_Georg_c_1_P.xml#MS_Georg_c_1_P%2Ditem1 -->
+                <!--old_id: georgian/person_37--></person>
+
+                <person xml:id="person_128">
+                    <persName type="display">Rabbi S. Wertheimer</persName>
+                    <!-- ../collections/georgian/MS_Georg_c_1_P.xml#MS_Georg_c_1_P -->
+                <!--old_id: georgian/person_38--></person>
+
+                <person xml:id="person_129">
+                    <persName type="display">Ceret'eli Akaki</persName>
+                    <persName type="variant">Ceretʻeli Akaki</persName>
+                    <persName type="variant">Ceretʻeli, Akaki</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_1_2.xml#MS_Wardr_c_1_2 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_2.xml#MS_Wardr_c_1_2%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_3.xml#MS_Wardr_c_1_3 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_1_3.xml#MS_Wardr_c_1_3%2Ditem1 -->
+                <!--old_id: georgian/person_40--></person>
+
+                <person xml:id="person_130">
+                    <persName type="display">Turmanidze, Xosro</persName>
+                    <persName type="variant">თურმანიძე, ხოსრო</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_23.xml#MS_Wardr_e_23 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_23.xml#MS_Wardr_e_23%2Ditem1 -->
+                <!--old_id: georgian/person_41--></person>
+
+                <person xml:id="person_131">
+                    <persName type="display">Marr, Nikolai</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_2637.xml#MS_Wardr_e_2637%2Ditem1 -->
+                <!--old_id: georgian/person_43--></person>
+
+                <person xml:id="person_132">
+                    <persName type="display">Tsagareli, Alexandre</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29%2Ditem1 -->
+                <!--old_id: georgian/person_45--></person>
+
+                <person xml:id="person_133">
+                    <persName type="display">Dadiani, G.</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29%2Ditem1 -->
+                <!--old_id: georgian/person_46--></person>
+
+                <person xml:id="person_134">
+                    <persName type="display">Xaxanov, A.</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29%2Ditem1 -->
+                <!--old_id: georgian/person_47--></person>
+
+                <person xml:id="person_135">
+                    <persName type="display">Mousvenaridze, G.</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_29.xml#MS_Wardr_c_29%2Ditem1 -->
+                <!--old_id: georgian/person_48--></person>
+
+                <person xml:id="person_136">
+                    <persName type="display">King T'eimuraz II</persName>
+                    <persName type="variant">თეიმურაზ II</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_7.xml#MS_Wardr_e_7%2Ditem1 -->
+                <!--old_id: georgian/person_49--></person>
+
+                <person xml:id="person_137">
+                    <persName type="display">St. Babylas</persName>
+                    <!-- ../collections/georgian/MS_Georg_d_3_P.xml#MS_Georg_d_3_P -->
+                <!--old_id: georgian/person_51--></person>
+
+                <person xml:id="person_138">
+                    <persName type="display">Orbeliani, Sulxan-Saba</persName>
+                    <persName type="variant">ორბელიანი, სულხან-საბა</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_13.xml#MS_Wardr_e_13 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_13.xml#MS_Wardr_e_13%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_14.xml#MS_Wardr_e_14 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_14.xml#MS_Wardr_e_14%2Ditem1 -->
+                <!--old_id: georgian/person_52--></person>
+
+                <person xml:id="person_139">
+                    <persName type="display">Batonišvili, Bagrat</persName>
+                    <persName type="variant">ბატონიშვილი, ბაგრატ</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_10.xml#MS_Wardr_e_10%2Ditem1 -->
+                <!--old_id: georgian/person_56--></person>
+
+                <person xml:id="person_140">
+                    <persName type="display">Egnate Ioseliani</persName>
+                    <persName type="variant">ეგნატე იოსელიანი</persName>
+                    <!-- ../collections/georgian/MS_Wardr_f.xml#MS_Wardr_f%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_5.xml#MS_Wardr_f_5%2Ditem1 -->
+                <!--old_id: georgian/person_60--></person>
+
+                <person xml:id="person_141">
+                    <persName type="display">Prince Varlaam Tcherkesoff</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_19.xml#MS_Wardr_c_19%2Ditem1 -->
+                <!--old_id: georgian/person_62--></person>
+
+                <person xml:id="person_142">
+                    <persName type="display">King Vaxtang VI</persName>
+                    <persName type="variant">Vaxtang VI</persName>
+                    <persName type="variant">ვახტანგ VI</persName>
+                    <!-- ../collections/georgian/MSWardre8.xml#MSWardre8%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_c_21.xml#MS_Wardr_c_21%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem2 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_12.xml#MS_Wardr_e_12 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_12.xml#MS_Wardr_e_12%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_8.xml#MS_Wardr_e_8%2Ditem1 -->
+                <!--old_id: georgian/person_63--></person>
+
+                <person xml:id="person_143">
+                    <persName type="display">Aġbuġa I Jaqeli</persName>
+                    <persName type="variant">აღბუღა I ჯაყელი</persName>
+                    <persName type="variant">აღბუღა ჯაყელი</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem5 -->
+                    <!-- ../collections/georgian/MS_Wardr_d_3.xml#MS_Wardr_d_3%2Ditem6 -->
+                <!--old_id: georgian/person_64--></person>
+
+                <person xml:id="person_144">
+                    <persName type="display">Orbeliani, Grigol</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_22%2D.xml#MS_Wardr_d_22%2D -->
+                <!--old_id: georgian/person_67--></person>
+
+                <person xml:id="person_145">
+                    <persName type="display">Chavchavadze, Ilia</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_22%2D.xml#MS_Wardr_d_22%2D -->
+                <!--old_id: georgian/person_68--></person>
+
+                <person xml:id="person_146">
+                    <persName type="display">Eristavi, Rapiel</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_22%2D.xml#MS_Wardr_d_22%2D -->
+                <!--old_id: georgian/person_69--></person>
+
+                <person xml:id="person_147">
+                    <persName type="display">Volsky, Giorgi</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_22%2D.xml#MS_Wardr_d_22%2D -->
+                <!--old_id: georgian/person_70--></person>
+
+                <person xml:id="person_148">
+                    <persName type="display">Mkhit'ar</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_3.xml#MS_Wardr_e_3 -->
+                <!--old_id: georgian/person_71--></person>
+
+                <person xml:id="person_149">
+                    <persName type="display">Antoni I</persName>
+                    <persName type="variant">ანტონი I</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_3.xml#MS_Wardr_e_3 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_3.xml#MS_Wardr_e_3%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_4.xml#MS_Wardr_f_4%2Ditem1 -->
+                <!--old_id: georgian/person_72--></person>
+
+                <person xml:id="person_150">
+                    <persName type="display">Areshidze, G.</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_3.xml#MS_Wardr_e_3 -->
+                <!--old_id: georgian/person_74--></person>
+
+                <person xml:id="person_151">
+                    <persName type="display">Mgeladze, Anna</persName>
+                    <persName type="variant">მგელაძე, ანა</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_4.xml#MS_Wardr_e_4 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_4.xml#MS_Wardr_e_4%2Ditem1 -->
+                <!--old_id: georgian/person_77--></person>
+
+                <person xml:id="person_152">
+                    <persName type="display">Chqonia, Ilia</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_4.xml#MS_Wardr_e_4%2Ditem1 -->
+                <!--old_id: georgian/person_79--></person>
+
+                <person xml:id="person_153">
+                    <persName type="display">Presbyter Nicephorus</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_19.xml#MS_Wardr_e_19 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_19.xml#MS_Wardr_e_19%2Ditem1 -->
+                <!--old_id: georgian/person_80--></person>
+
+                <person xml:id="person_154">
+                    <persName type="display">Antiochus Strategus</persName>
+                    <!-- ../collections/georgian/MS_Georg_b_I.xml#MS_Georg_b_I -->
+                <!--old_id: georgian/person_81--></person>
+
+                <person xml:id="person_155">
+                    <persName type="display">Proxore</persName>
+                    <persName type="variant">პროხორე</persName>
+                    <!-- ../collections/georgian/MS_Georg_b_I.xml#MS_Georg_b_I%2Ditem1 -->
+                <!--old_id: georgian/person_82--></person>
+
+                <person xml:id="person_156">
+                    <persName type="display">monk Ep'rem</persName>
+                    <persName type="variant">ეფრემ</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_13.xml#MS_Wardr_e_13%2Ditem1 -->
+                <!--old_id: georgian/person_85--></person>
+
+                <person xml:id="person_157">
+                    <persName type="display">Lloyd W.Daly</persName>
+                    <!-- ../collections/georgian/MS_Georg_d_4.xml#MS_Georg_d_4 -->
+                <!--old_id: georgian/person_87--></person>
+
+                <person xml:id="person_158">
+                    <persName type="display">'Sirinoziani'</persName>
+                    <!-- ../collections/georgian/MS_Wardr_b_1.xml#MS_Wardr_b_1 -->
+                <!--old_id: georgian/person_88--></person>
+
+                <person xml:id="person_159">
+                    <persName type="display">Basil of Caesarea</persName>
+                    <persName type="variant">ბასილი კესარიელი</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem1 -->
+                <!--old_id: georgian/person_89--></person>
+
+                <person xml:id="person_160">
+                    <persName type="display">Atanase</persName>
+                    <persName type="variant">ათანასე</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem1 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem2 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem3 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem4 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem5 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem6 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_2.xml#MS_Wardr_e_2%2Ditem7 -->
+                <!--old_id: georgian/person_91--></person>
+
+                <person xml:id="person_161">
+                    <persName type="display">Pseudo-Callisthenes</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_18.xml#MS_Wardr_e_18 -->
+                    <!-- ../collections/georgian/MS_Wardr_e_18.xml#MS_Wardr_e_18%2Ditem1 -->
+                <!--old_id: georgian/person_93--></person>
+
+                <person xml:id="person_162">
+                    <persName type="display">Mxit'ar</persName>
+                    <!-- ../collections/georgian/MS_Wardr_f_4.xml#MS_Wardr_f_4 -->
+                    <!-- ../collections/georgian/MS_Wardr_f_4.xml#MS_Wardr_f_4%2Ditem1 -->
+                <!--old_id: georgian/person_94--></person>
+
+                <person xml:id="person_163">
+                    <persName type="display">Archbishop Antoni I</persName>
+                    <!-- ../collections/georgian/MS_Wardr_f_4.xml#MS_Wardr_f_4 -->
+                <!--old_id: georgian/person_95--></person>
+
+                <person xml:id="person_164">
+                    <persName type="display">Geronti</persName>
+                    <persName type="variant">გერონტი</persName>
+                    <!-- ../collections/georgian/MS_Wardr_f_4.xml#MS_Wardr_f_4%2Ditem1 -->
+                <!--old_id: georgian/person_96--></person>
+
+                <person xml:id="person_165">
+                    <persName type="display">Arč'il I</persName>
+                    <persName type="variant">არჩილ I</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_12.xml#MS_Wardr_c_12%2Ditem1 -->
+                <!--old_id: georgian/person_98--></person>
+
+                <person xml:id="person_166">
+                    <persName type="display">Orbeliani, Davit</persName>
+                    <persName type="variant">ორბელიანი, დავით</persName>
+                    <!-- ../collections/georgian/MS_Wardr_e_5.xml#MS_Wardr_e_5%2Ditem1 -->
+                <!--old_id: georgian/person_100--></person>
+
+                <person xml:id="person_167">
+                    <persName type="display">Tchenkeli, A.</persName>
+                    <!-- ../collections/georgian/MS_Wardr_d_21%2D.xml#MS_Wardr_d_21%2D%2Ditem1 -->
+                <!--old_id: georgian/person_102--></person>
+
+                <person xml:id="person_168">
+                    <persName type="display">Bagration-Davitashvili B.,</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml#MS_Wardr_c_30%2D -->
+                <!--old_id: georgian/person_103--></person>
+
+                <person xml:id="person_169">
+                    <persName type="display">Prince tarxan-Mouravi, E.,</persName>
+                    <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml#MS_Wardr_c_30%2D -->
+                <!--old_id: georgian/person_104--></person>
+            <person xml:id="person_9963139">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Petrie, W. M. Flinders</name>
+                  <name type="marc-q">(William Matthew Flinders),</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Flinders Petrie, W.</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Flinders Petrie, William M.</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, W. Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, W. M. Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, W.M. Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, William M.</name>
+                  <name type="marc-d">1853-1942</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Petrie, William Matthew Flinders</name>
+                  <name type="marc-d">1853-1942</name>
+                  <name type="marc-4">navo</name>
+                  <name type="marc-4">https://d-nb.info/standards/elementset/gnd#FullerFormOfNameOfThePerson</name>
+                  <name type="marc-e">Vollstaendiger Name</name>
+               </persName>
+               <birth source="VIAF" when="1853">1853-06-03</birth>
+               <death source="VIAF" when="1942">1942-07-28</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000121203374">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q220130">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n80039366">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb12557428h">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/11910203X">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/9963139">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName source="LC" type="display">Petrie, W.M. Flinders (William Matthew Flinders), 1853-1942</persName>
+            </person>
+            <person xml:id="person_38033406">
+               <!-- record originally created from https://viaf.org/viaf/38033406/viaf.xml at 2017-05-08 14:53:01.685173 -->
+               <persName source="LC" subtype="surnameFirst" type="display">Chester, Greville John, 1830–1892</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Chester, G. John, 1830–1892</persName>
+               <birth source="VIAF" when="1830">1830-10-25</birth>
+               <death source="VIAF" when="1892">1892-05-23</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/130822957">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n2003031655">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q15732077">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/38033406">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item source="#VL1">
+                        <ref target="http://www.isni.org/isni/0000000073739077">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_22908121">
+               <!-- record originally created from https://viaf.org/viaf/22908121/viaf.xml at 2017-05-09 10:51:30.050940 -->
+               <persName source="LC" subtype="surnameFirst" type="display">Sayce, A. H., (Archibald Henry), 1845–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, A.H., 1846–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, A., 1846–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, Archibald H., 1846–1933</persName>
+               <persName source="DNB" subtype="surnameFirst" type="variant">Sayce, Archibald Henry, 1846–1933, Vollstaendiger Name</persName>
+               <birth source="VIAF" when="1845">1845-09-25</birth>
+               <death source="VIAF" when="1933">1933-02-04</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb13011252t">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/117023779">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n79084413">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.idref.fr/074913565/id">
+                           <title>SUDOC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q716584">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/159201829">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/22908121">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item source="#VL1">
+                        <ref target="http://www.isni.org/isni/0000000110226247">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 12</idno><idno type="ieArk">ark:29072/x0kk91fk58mr</idno><idno type="crArk">ark:29072/x0kh04dp7599</idno>
+                  <idno type="shelfmark">MS. Arm. e. 12</idno><idno type="ieArk">ark:29072/x0kk91fk58mr</idno><idno type="crArk">ark:29072/x0kh04dp7599</idno>
                </msIdentifier>
                <msContents>
                   <summary>Geomancy, etc., 17th cent.</summary>

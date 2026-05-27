@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_63">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_188">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,15 +39,15 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. e. 17</idno>
+                  <idno type="shelfmark">MS. Wardr. e. 17</idno>
                <idno type="crArk">ark:29072/x008612p13rz</idno><idno type="ieArk">ark:29072/x00c483j972w</idno></msIdentifier>
                <msContents>
                   <summary>Manana (incomplete)</summary>
                   <msItem xml:id="MS_Wardr_e_17-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_14">Manana</title>
-                     <title xml:lang="ka" key="work_14">მანანა</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_888">Manana</title>
+                     <title xml:lang="ka" key="work_888">მანანა</title>
                      <listBibl>
                         <bibl>CWC, 343</bibl>
                         <bibl>Cf. printed edition Wardr. 2.37, pp. 71-180</bibl>

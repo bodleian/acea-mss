@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_35">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_160">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,13 +39,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. c. 27</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 27</idno>
                <idno type="crArk">ark:29072/x0sq87bs5884</idno><idno type="ieArk">ark:29072/x0st74cp41kv</idno></msIdentifier>
                <msContents>
-                  <summary>Correspondances of <persName key="person_7">Wardrop, John Oliver, Sir</persName> relating to Georgia</summary>
+                  <summary>Correspondances of <persName key="person_108">Wardrop, John Oliver, Sir</persName> relating to Georgia</summary>
                   <msItem xml:id="MS_Wardr_c_27-item1" n="1">
-                     <author key="person_7"><persName>Wardrop, John Oliver, Sir</persName></author>
-                     <title type="desc" key="work_29">Untitled</title>
+                     <author key="person_108"><persName>Wardrop, John Oliver, Sir</persName></author>
+                     <title type="desc" key="work_928">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 315-318</bibl>
                      </listBibl>
@@ -73,7 +73,7 @@
                <history>
                   <origin>Undated</origin>
                   <acquisition>
-                     <date calendar="#Gregorian" when="1931-10">1931-10</date> don <persName key="person_7">Wardrop, John Oliver, Sir.</persName>
+                     <date calendar="#Gregorian" when="1931-10">1931-10</date> don <persName key="person_108">Wardrop, John Oliver, Sir.</persName>
                   </acquisition>
                </history>
                <additional>

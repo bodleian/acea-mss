@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_130">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Georg. d. 2</idno>
+                  <idno type="shelfmark">MS. Georg. d. 2</idno>
                <idno type="crArk">ark:29072/x0ks65hb59n5</idno><idno type="ieArk">ark:29072/x0kw52j742zw</idno></msIdentifier>
                <msContents>
                   <summary>Typicon of the Georgian Monastery of the Holy Cross Near Jerusalem</summary>

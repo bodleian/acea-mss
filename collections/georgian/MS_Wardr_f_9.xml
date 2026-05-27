@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_89">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_214">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. f. 9</idno>
+                  <idno type="shelfmark">MS. Wardr. f. 9</idno>
                <idno type="crArk">ark:29072/x05d86p045wc</idno><idno type="ieArk">ark:29072/x05h73pw296b</idno></msIdentifier>
                <msContents>
                   <summary>Photographs of scenery taken by M. Wardrop in Georgia in 1896</summary>

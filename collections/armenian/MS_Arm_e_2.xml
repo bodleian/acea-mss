@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 2</idno><idno type="ieArk">ark:29072/x0n583xt91k9</idno><idno type="crArk">ark:29072/x0n296wz088r</idno>
+                  <idno type="shelfmark">MS. Arm. e. 2</idno><idno type="ieArk">ark:29072/x0n583xt91k9</idno><idno type="crArk">ark:29072/x0n296wz088r</idno>
                </msIdentifier>
                <msContents>
                   <summary>Pseudo-Prochoros, etc., A.D. 1324.</summary>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_136">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,16 +40,16 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection </collection>
-                  <idno>MS. Wardr. c. 12</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 12</idno>
                <idno type="crArk">ark:29072/x0n009w159c4</idno><idno type="ieArk">ark:29072/x0n296wx42p6</idno></msIdentifier>
                <msContents>
                   <summary>Arč'iliani (incomplete)</summary>
                   <msItem xml:id="MS_Wardr_c_12-item1" n="1">
                      <locus>ff. 3(18)-25(40)</locus>
-                     <author key="person_98"><persName>Arč'il I</persName> (<persName>არჩილ I</persName>)</author>
+                     <author key="person_165"><persName>Arč'il I</persName> (<persName>არჩილ I</persName>)</author>
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_106">Arč'iliani</title>
-                     <title xml:lang="ka" key="work_106">არჩილიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_855">Arč'iliani</title>
+                     <title xml:lang="ka" key="work_855">არჩილიანი</title>
                      <listBibl>
                         <bibl>CWC, 311</bibl>
                         <bibl>Printed editions, Tiflis, 1867, 1895</bibl>
@@ -60,7 +60,7 @@
                      <locus>ff. 26-32</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_108">Miscellaneous verses</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_894">Miscellaneous verses</title>
                      
                      <listBibl>
                         <bibl>CWC, 311</bibl>

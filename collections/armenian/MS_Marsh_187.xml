@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marsh 187</idno><idno type="ieArk">ark:29072/x05712m744vc</idno><idno type="crArk">ark:29072/x05425kb61jh</idno>
+                  <idno type="shelfmark">MS. Marsh 187</idno><idno type="ieArk">ark:29072/x05712m744vc</idno><idno type="crArk">ark:29072/x05425kb61jh</idno>
                </msIdentifier>
                <msContents>
                   <summary>Polyglot Glossary, 16th cent.</summary>

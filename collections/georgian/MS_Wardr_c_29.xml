@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_37">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_162">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,26 +39,26 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. c. 29</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 29</idno>
                <idno type="crArk">ark:29072/x0t435gb91hg</idno><idno type="ieArk">ark:29072/x0t722h774tb</idno></msIdentifier>
                <msContents>
                   <summary>
-                      Translations of articles on the Georgian Church by <persName key="person_45">Tsagareli, Alexandre</persName>, <persName key="person_46">Dadiani, G.</persName>, <persName key="person_47">Xaxanov, A.</persName>, and <persName key="person_48">Mousvenaridze, G.</persName>
+                      Translations of articles on the Georgian Church by <persName key="person_132">Tsagareli, Alexandre</persName>, <persName key="person_133">Dadiani, G.</persName>, <persName key="person_134">Xaxanov, A.</persName>, and <persName key="person_135">Mousvenaridze, G.</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_c_29-item1" n="1">
-                     <author key="person_45">
+                     <author key="person_132">
                          <persName>Tsagareli, Alexandre</persName>
                      </author>
-                     <author key="person_46">
+                     <author key="person_133">
                          <persName>Dadiani, G.</persName>
                      </author>
-                     <author key="person_47">
+                     <author key="person_134">
                          <persName>Xaxanov, A.</persName>
                      </author>
-                     <author key="person_48">
+                     <author key="person_135">
                          <persName>Mousvenaridze, G.</persName>
                      </author>
-                     <title type="desc" key="work_59">Untitled</title>
+                     <title type="desc" key="work_926">Untitled</title>
                      <listBibl>
                         <bibl>CWC, 319</bibl>
                      </listBibl>
@@ -86,7 +86,7 @@
                   <origin>Undated</origin>
                   <acquisition>
                      <date calendar="#Gregorian" when="1929-02">1929-02</date>
-                     <persName key="person_7">Wardrop, John Oliver, Sir.</persName>
+                     <persName key="person_108">Wardrop, John Oliver, Sir.</persName>
                   </acquisition>
                </history>
                <additional>

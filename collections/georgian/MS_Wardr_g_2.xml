@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_91">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_216">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. g. 2</idno>
+                  <idno type="shelfmark">MS. Wardr. g. 2</idno>
                <idno type="crArk">ark:29072/x05t34sj794v</idno><idno type="ieArk">ark:29072/x05x21tf62fk</idno></msIdentifier>
                <msContents>
                   <summary>
@@ -49,8 +49,8 @@
                      <locus from="1" to="42"/>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_78">Kalvažiani</title>
-                     <title xml:lang="ka" key="work_78">ქალვაჟიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_881">Kalvažiani</title>
+                     <title xml:lang="ka" key="work_881">ქალვაჟიანი</title>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
                         <bibl>Cf. the printed versions, e.g. Wardr. 11. 25 (7)</bibl>
@@ -61,7 +61,7 @@
                      <locus from="43">43</locus>
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_13">Hymn</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_875">Hymn</title>
                      
                      <incipit>ასო სამღერალი და ჭეშმარიტი დანიელისაგან და იმონისაგან და ალექსანდრესაგან</incipit>
                      <listBibl>

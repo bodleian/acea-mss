@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 29</idno><idno type="ieArk">ark:29072/x0q524jn57sr</idno><idno type="crArk">ark:29072/x0q237hr74gw</idno>
+                  <idno type="shelfmark">MS. Arm. e. 29</idno><idno type="ieArk">ark:29072/x0q524jn57sr</idno><idno type="crArk">ark:29072/x0q237hr74gw</idno>
                </msIdentifier>
                <msContents>
                   <summary>Lives of St. Bartholomew and St. Gregory, A.D. 1753.</summary>

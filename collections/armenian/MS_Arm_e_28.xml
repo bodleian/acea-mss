@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 28</idno><idno type="ieArk">ark:29072/x0pz50gv9151</idno><idno type="crArk">ark:29072/x0pv63g007vc</idno>
+                  <idno type="shelfmark">MS. Arm. e. 28</idno><idno type="ieArk">ark:29072/x0pz50gv9151</idno><idno type="crArk">ark:29072/x0pv63g007vc</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical Miscellany, 17th cent.</summary>

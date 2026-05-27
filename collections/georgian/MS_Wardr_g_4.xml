@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_93">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_218">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,15 +39,15 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. g. 4</idno>
+                  <idno type="shelfmark">MS. Wardr. g. 4</idno>
                <idno type="crArk">ark:29072/x06682x412cz</idno><idno type="ieArk">ark:29072/x06969z095pj</idno></msIdentifier>
                <msContents>
                   <summary>Hymns</summary>
                   <msItem xml:id="MS_Wardr_g_4-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_36">Daujdomeli</title>
-                     <title xml:lang="ka" key="work_36">დაუჯდომელი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_865">Daujdomeli</title>
+                     <title xml:lang="ka" key="work_865">დაუჯდომელი</title>
                      <listBibl>
                         <bibl>CWC, 347</bibl>
                      </listBibl>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_52">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_177">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,15 +39,15 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. d. 32-</idno>
+                  <idno type="shelfmark">MS. Wardr. d. 32-</idno>
                <idno type="crArk">ark:29072/x0x346d290td</idno><idno type="ieArk">ark:29072/x0x633dz744c</idno></msIdentifier>
                <msContents>
-                  <summary>'The Man in the Panther's Skin', a romantic epic by <persName key="person_5">Shota Rustaveli</persName> a close rendering from the Georgian attempted by <persName key="person_1">Wardrop, Marjory</persName>
+                  <summary>'The Man in the Panther's Skin', a romantic epic by <persName key="person_107">Shota Rustaveli</persName> a close rendering from the Georgian attempted by <persName key="person_105">Wardrop, Marjory</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_d_32-item1" n="1">
                      
                      
-                     <title xml:lang="en-Latn-x-lc" key="work_89">The Man in the Panther's Skin</title>
+                     <title xml:lang="en-Latn-x-lc" key="work_915">The Man in the Panther's Skin</title>
                      
                      <listBibl>
                         <bibl>CWC, 332</bibl>

@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 38</idno><idno type="ieArk">ark:29072/x0s4655g2400</idno><idno type="crArk">ark:29072/x0s1784k40ps</idno>
+                  <idno type="shelfmark">MS. Arm. e. 38</idno><idno type="ieArk">ark:29072/x0s4655g2400</idno><idno type="crArk">ark:29072/x0s1784k40ps</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical Tracts of Avetis the Notary, A.D. 1752.</summary>

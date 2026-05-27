@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 26</idno><idno type="ieArk">ark:29072/x0zp38wb89cj</idno><idno type="crArk">ark:29072/x0zk51vg062z</idno>
+                  <idno type="shelfmark">MS. Arm. f. 26</idno><idno type="ieArk">ark:29072/x0zp38wb89cj</idno><idno type="crArk">ark:29072/x0zk51vg062z</idno>
                </msIdentifier>
                <msContents>
                   <summary>Prayer-book, A.D. 1611.</summary>

@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marshall (Or.) 83</idno><idno type="ieArk">ark:29072/x04m90dw450d</idno><idno type="crArk">ark:29072/x04j03d061pv</idno>
+                  <idno type="shelfmark">MS. Marshall (Or.) 83</idno><idno type="ieArk">ark:29072/x04m90dw450d</idno><idno type="crArk">ark:29072/x04j03d061pv</idno>
                </msIdentifier>
                <msContents>
                   <summary>Linguistic, 17th cent.</summary>

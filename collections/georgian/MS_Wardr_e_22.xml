@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_68">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_194">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,15 +39,15 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. e. 22</idno>
+                  <idno type="shelfmark">MS. Wardr. e. 22</idno>
                <idno type="crArk">ark:29072/x01g05fc13gt</idno><idno type="ieArk">ark:29072/x01j92g796s3</idno></msIdentifier>
                <msContents>
                   <summary>Melis cigni (fables)</summary>
                   <msItem xml:id="MS_Wardr_e_22-item1" n="1">
                      
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_16">Melis cigni</title>
-                     <title xml:lang="ka" key="work_16">მელის წიგნი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_891">Melis cigni</title>
+                     <title xml:lang="ka" key="work_891">მელის წიგნი</title>
                      <listBibl>
                         <bibl>CWC. 343</bibl>
                         <bibl>Cf. MS. Wardr. d. 15 and Taqaishvili's edition of 1900 Wardr. 11. 62 (1)</bibl>

@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 14</idno><idno type="ieArk">ark:29072/x0w37636239x</idno><idno type="crArk">ark:29072/x0w089294002</idno>
+                  <idno type="shelfmark">MS. Arm. f. 14</idno><idno type="ieArk">ark:29072/x0w37636239x</idno><idno type="crArk">ark:29072/x0w089294002</idno>
                </msIdentifier>
                <msContents>
                   <summary>Class-books, A.D. 1687.</summary>

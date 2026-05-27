@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_38">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_163">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,12 +39,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. c. 30-</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 30-</idno>
                <idno type="crArk">ark:29072/x0tb09j4584f</idno><idno type="ieArk">ark:29072/x0td96k141fr</idno></msIdentifier>
                <msContents>
-                  <summary>Condolences on the death of <persName key="person_1">Wardrop, Marjory</persName> from <persName key="person_103">Bagration-Davitashvili B.,</persName>
-                     <persName key="person_104">Prince tarxan-Mouravi, E.,</persName>
-                     <persName key="person_28">Chavchavadze, Olga</persName> and others</summary>
+                  <summary>Condolences on the death of <persName key="person_105">Wardrop, Marjory</persName> from <persName key="person_168">Bagration-Davitashvili B.,</persName>
+                     <persName key="person_169">Prince tarxan-Mouravi, E.,</persName>
+                     <persName key="person_120">Chavchavadze, Olga</persName> and others</summary>
                   <msItem xml:id="MS_Wardr_c_30--item1" n="1">
                      
                      

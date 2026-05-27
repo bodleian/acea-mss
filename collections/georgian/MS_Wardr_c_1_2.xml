@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_144">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,13 +39,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection </collection>
-                  <idno>MS. Wardr. c. 1 (2)</idno>
+                  <idno type="shelfmark">MS. Wardr. c. 1 (2)</idno>
                <idno type="crArk">ark:29072/x0pk02c892bw</idno><idno type="ieArk">ark:29072/x0pn89d575n7</idno></msIdentifier>
                <msContents>
-                  <summary>Poem by <persName key="person_40">Ceretʻeli, Akaki</persName> seven 4-line stanzas</summary>
+                  <summary>Poem by <persName key="person_129">Ceretʻeli, Akaki</persName> seven 4-line stanzas</summary>
                   <msItem xml:id="MS_Wardr_c_1_2-item1" n="1">
-                     <author key="person_40">Ceretʻeli Akaki</author>
-                     <title type="desc" key="work_64">Untitled</title>
+                     <author key="person_129">Ceretʻeli Akaki</author>
+                     <title type="desc" key="work_921">Untitled</title>
                      <incipit>Zvarit, culdit da matraxit locvit da dedis ginebit...'</incipit>
                      <listBibl>
                         <bibl>CWC, 306</bibl>

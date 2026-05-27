@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_69">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_195">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,17 +39,17 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
-                  <idno>MS. Wardr. e. 23</idno>
+                  <idno type="shelfmark">MS. Wardr. e. 23</idno>
                <idno type="crArk">ark:29072/x01n79h48032</idno><idno type="ieArk">ark:29072/x01r66j163dx</idno></msIdentifier>
                <msContents>
                   <summary>
-                     <title>'Bezhaniani'</title> an episode from Firdausi's Shahnameh, tr. into Georgian quatrains by <persName key="person_41">Turmanidze, Xosro</persName>
+                     <title>'Bezhaniani'</title> an episode from Firdausi's Shahnameh, tr. into Georgian quatrains by <persName key="person_130">Turmanidze, Xosro</persName>
                   </summary>
                   <msItem xml:id="MS_Wardr_e_23-item1" n="1">
-                     <author key="person_41"><persName>Turmanidze, Xosro</persName> (<persName>თურმანიძე, ხოსრო</persName>)</author>
+                     <author key="person_130"><persName>Turmanidze, Xosro</persName> (<persName>თურმანიძე, ხოსრო</persName>)</author>
                      
-                     <title xml:lang="ka-Latn-x-lc" key="work_55">Bezhaniani</title>
-                     <title xml:lang="ka" key="work_55">ბეჟანიანი</title>
+                     <title xml:lang="ka-Latn-x-lc" key="work_856">Bezhaniani</title>
+                     <title xml:lang="ka" key="work_856">ბეჟანიანი</title>
                      <listBibl>
                         <bibl>CWC, 343-344</bibl>
                         <bibl>Cf. printed eidtions at Wardr. 11. 25 (4) and 13.77 (10)</bibl>

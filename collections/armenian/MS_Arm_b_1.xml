@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. b. 1</idno><idno type="ieArk">ark:29072/x0cf95jb93c2</idno><idno type="crArk">ark:29072/x0cc08hg102s</idno>
+                  <idno type="shelfmark">MS. Arm. b. 1</idno><idno type="ieArk">ark:29072/x0cf95jb93c2</idno><idno type="crArk">ark:29072/x0cc08hg102s</idno>
                </msIdentifier>
                <msContents>
                   <summary>Old fly-leaves</summary>
