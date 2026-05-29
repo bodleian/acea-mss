@@ -133,6 +133,7 @@ declare function local:buildSummary($msdescorpart as element()) as xs:string
                     { bod:many2many($allshelfmarks, 'ms_shelfmarks_sm') (: Tokenized field :) }
                     { bod:one2one($mainshelfmark, 'ms_shelfmark_sort') }
                     { bod:one2one($mainshelfmark, 'title', 'error') }
+                    { bod:one2one($x//tei:publicationStmt/tei:idno[@type="catalogue"], 'ms_catalogue_s') }
                     { bod:many2one($x//tei:msDesc/tei:msIdentifier/tei:repository, 'ms_repository_s') }
                     { bod:many2many($x//tei:msContents/tei:msItem/tei:author/tei:persName, 'ms_authors_sm') }
                     { bod:many2many($x//tei:sourceDesc//tei:name[@type="corporate"]/tei:persName, 'ms_corpnames_sm') }
