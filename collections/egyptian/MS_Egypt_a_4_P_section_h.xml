@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1081">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1089">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title/>
             <respStmt>
                <resp>Cataloguer</resp>
-               <persName>Blane Aitchison</persName>
+         
                <persName>Peter Toth</persName>
             </respStmt>
          </titleStmt>
@@ -37,64 +37,55 @@
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
-  <country>United Kingdom</country>
-  <region type="county">Oxfordshire</region>
-  <settlement>Oxford</settlement>
-  <institution>Oxford University</institution>
-  <repository>Bodleian Library</repository>
-  <collection/>
-  <idno type="shelfmark">MS. Egypt. f. 2 (P)</idno>
-  <idno type="ieArk">ark:29072/x09k41zg002g</idno>
-  <idno type="crArk">ark:29072/x09g54xk16rd</idno>
-  <altIdentifier type="internal">
-    <idno type="SCN">31340</idno>
-  </altIdentifier>
-</msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">MS. Egypt. a. 4 (P) Section H</idno>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">37013</idno>
+                  
+                  </altIdentifier>
+               </msIdentifier>
+               <head>A page from Young's Hieroglyphics</head>
                <msContents>
-                  <summary>Fragments which came with MS.Egypt.a.3,b.3,c.3,d.10,11 and may belong to
-                     some of them</summary>
-                  <textLang mainLang="egy-Egyd">Egyptian in Demotic script</textLang>
-
+                  <summary>
+                     Separately issued prospectus for the subscription of 
+                     <title>Hieroglyphics, collected by the Egyptian Society</title>
+                     (London, 1823). containing the text later printed (in revised form) as the “Plan of the Work”.
+                  </summary>
+                  
+                  <textLang mainLang="eng"  >>English</textLang>
                </msContents>
                <physDesc>
                   <objectDesc form="sheet">
-                     <supportDesc material="papyrus">
+                     <supportDesc material="paper">
                         <support/>
-                        <extent>24 miscellaneous fragments. The dimensions given are for the largest
-                           and smallest fragments respectively.<dimensions type="leaf" unit="mm">
-                              <height>68</height>
-                              <width>24</width>
-                           </dimensions><dimensions type="leaf" unit="mm">
-                              <height>3</height>
-                              <width>6</width>
-                           </dimensions>
+                        <extent>One printed sheet.                        
+                           
                         </extent>
                      </supportDesc>
-
+                     
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>No vignette accompanies the text on these fragments.</decoNote>
-                  </decoDesc>
-
-
-
+                  
+                  
+                  
                </physDesc>
                <history>
-                  <provenance>Provenance unknown</provenance>
-                  <acquisition>Acquired from <persName key="person_38033406">John Greville Chester
-                     </persName> in 1890 together with MS. Egypt. a.3,b.3,c.3,d.10,11
-                     .</acquisition>
+                  <origin>
+                     <p>
+                        <origDate calendar="Gregorian" notBefore="1822" notAfter="1823" cert="medium">c. 1823</origDate>
+                     </p>
+                  </origin>
+                  <acquisition>
+                     <p>Given to the Bodleian by the Reverend Vivian Eccles Skrine (1850–1925), 30 March 1913.</p>
+                  </acquisition>
                </history>
                <additional>
                   <adminInfo>
-                     <recordHist>
-                        <source>Summary description abbreviated from the Bodleian Libraries'
-                           unpublished card catalogue for otherwise-undescribed manuscripts,
-                           available in the Charles Wendell David Reading Room.<listBibl>
-                              <bibl/>
-                           </listBibl>
-                        </source>
-                     </recordHist>
+                     
                      <availability>
                         <p>This item may only be consulted by prior arrangement with a curator. To
                            make an application, please click the request button above. When your
@@ -102,7 +93,10 @@
                            person.</p>
                      </availability>
                   </adminInfo>
-               </additional>
+
+                             
+                  </additional>
+
             </msDesc>
          </sourceDesc>
       </fileDesc>
