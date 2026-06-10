@@ -31,7 +31,7 @@
                </address>
             </pubPlace>
             <idno/>
-            <idno type="msID"/>
+            <idno type="msID"/><idno type="catalogue">Egyptian</idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
