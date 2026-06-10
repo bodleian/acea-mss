@@ -27,7 +27,7 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <idno type="msID">MS_Wardr_e_2637</idno>
+            <idno type="msID">MS_Wardr_e_26_37</idno>
             <idno type="catalogue">Georgian</idno>
          </publicationStmt>
          <sourceDesc>
@@ -38,7 +38,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts Wardrop Collection</collection>
+                  <collection type="main">MSS. Wardr. e.</collection>
                   <idno type="shelfmark">MS. Wardr. e. 26,37</idno>
                <idno type="crArk">ark:29072/x01v53jx46qj</idno><idno type="ieArk">ark:29072/x01z40kt301m</idno></msIdentifier>
                <msContents>
