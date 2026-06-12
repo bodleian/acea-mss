@@ -32,7 +32,7 @@
                </address>
             </pubPlace>
             <idno/>
-            <idno type="msID"/>
+            <idno type="msID"/><idno type="catalogue">Egyptian</idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -42,7 +42,7 @@
   <settlement>Oxford</settlement>
   <institution>Oxford University</institution>
   <repository>Bodleian Library</repository>
-  <collection/>
+  <collection>MSS. Egypt. b.</collection>
   <idno type="shelfmark">MS. Egypt. b. 6 (P)</idno>
   <idno type="ieArk">ark:29072/x02n49t368bb</idno>
   <idno type="crArk">ark:29072/x02j62s6851k</idno>
