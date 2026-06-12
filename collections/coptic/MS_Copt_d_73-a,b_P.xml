@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 73(a,b) (P)</idno>
-               <altIdentifier type="external"><idno type="TM">77963</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85468</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85694</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0rr171z31dn</idno><idno type="crArk">ark:29072/x0rn30124838</idno><altIdentifier type="external"><idno type="TM">77963</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85468</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85694</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 48 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">77957</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85671</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0m039k632h7</idno><idno type="crArk">ark:29072/x0kw52j9496h</idno><altIdentifier type="external"><idno type="TM">77957</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85671</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. f. 103 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="ieArk">ark:29072/x02227ms19m4</idno><idno type="crArk">ark:29072/x01z40kw3698</idno><altIdentifier type="external">
                      <idno type="TM">108861</idno>
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">35258</idno></altIdentifier></msIdentifier>

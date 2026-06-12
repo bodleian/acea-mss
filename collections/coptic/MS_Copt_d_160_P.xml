@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 160 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="ieArk">ark:29072/x0qj72p831nf</idno><idno type="crArk">ark:29072/x0qf85nc48bq</idno><altIdentifier type="external">
                      <idno type="TM">85599</idno>
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34905</idno></altIdentifier></msIdentifier>

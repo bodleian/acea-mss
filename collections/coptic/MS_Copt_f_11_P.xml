@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. f. 11 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="ieArk">ark:29072/x05d86p25257</idno><idno type="crArk">ark:29072/x05999n568v5</idno><altIdentifier type="external">
                      <idno type="TM">107855</idno>
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34670</idno></altIdentifier></msIdentifier>

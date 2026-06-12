@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 138 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85668</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85612</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85557</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85565</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0js956h32rw</idno><idno type="crArk">ark:29072/x0jq085m49fk</idno><altIdentifier type="external"><idno type="TM">85668</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85612</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85557</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85565</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. e. 172 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="ieArk">ark:29072/x0d217qr33xd</idno><idno type="crArk">ark:29072/x0cz30pv50mj</idno><altIdentifier type="external">
                      <idno type="TM">108957</idno>
                   </altIdentifier>
                </msIdentifier>

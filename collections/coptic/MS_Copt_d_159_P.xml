@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 159 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85482</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85753</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0qb98mg651v</idno><idno type="crArk">ark:29072/x0q811kk81q5</idno><altIdentifier type="external"><idno type="TM">85482</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85753</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

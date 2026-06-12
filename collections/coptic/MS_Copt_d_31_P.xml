@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 31 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="crArk">ark:29072/x0gf06g433bn</idno><idno type="ieArk">ark:/29072/x0k0698760s1</idno><altIdentifier type="external">
                      <idno type="TM">85683</idno>
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34778</idno></altIdentifier></msIdentifier>

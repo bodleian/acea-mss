@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 134 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="ieArk">ark:29072/x0j098zc668j</idno><idno type="crArk">ark:29072/x0hx11xg82zr</idno><altIdentifier type="external">
                      <idno type="TM">85522</idno>
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34879</idno></altIdentifier></msIdentifier>

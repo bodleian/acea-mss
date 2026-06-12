@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 161(a-c) (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85604</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85493</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0qr46r19887</idno><idno type="crArk">ark:29072/x0qn59q514z6</idno><altIdentifier type="external"><idno type="TM">85604</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85493</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

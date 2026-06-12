@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 53 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="ieArk">ark:29072/x0n296x048xq</idno><idno type="crArk">ark:29072/x0n009w365m8</idno><altIdentifier type="external">
                      <idno type="TM">107793</idno>
                   </altIdentifier>
                   <altIdentifier type="internal">

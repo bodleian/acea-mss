@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. e. 140(1-5)</idno>
-               </msIdentifier>
+               <idno type="ieArk">ark:29072/x06682x618m7</idno><idno type="crArk">ark:29072/x06395w9359c</idno></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

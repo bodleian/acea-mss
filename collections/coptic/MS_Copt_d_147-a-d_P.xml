@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 147(a-d) (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85581</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85554</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85486</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85629</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0ms35t998zz</idno><idno type="crArk">ark:29072/x0mp48sf15n8</idno><altIdentifier type="external"><idno type="TM">85581</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85554</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85486</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85629</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

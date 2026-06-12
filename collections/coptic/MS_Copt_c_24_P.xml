@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. c. 24 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">107839</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107838</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0zp38wd29zp</idno><idno type="crArk">ark:29072/x0zk51vh46nx</idno><altIdentifier type="external"><idno type="TM">107839</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107838</idno></altIdentifier></msIdentifier>
               <head><title>Fragment of one page from a sermon against Nestorius.</title></head>
                <msContents>
                   <summary>A sermon against Nestorius. Perhaps one of the sermons of Proclus, bishop of Cycicus.</summary>

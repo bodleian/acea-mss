@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 108(a-c) (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85738</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85487</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0bg257h00wz</idno><idno type="crArk">ark:29072/x0bc386m17k7</idno><altIdentifier type="external"><idno type="TM">85738</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85487</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

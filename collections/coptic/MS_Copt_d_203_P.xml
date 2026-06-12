@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 203 (P)</idno>
-                  <altIdentifier type="internal"><idno type="SCN">37011</idno></altIdentifier></msIdentifier>
+                  <idno type="ieArk">ark:29072/x00000027011</idno><idno type="crArk">ark:29072/x0zw12z596mt</idno><altIdentifier type="internal"><idno type="SCN">37011</idno></altIdentifier></msIdentifier>
                <head>
 
                </head>

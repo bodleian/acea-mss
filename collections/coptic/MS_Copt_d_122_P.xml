@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 122 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85750</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0ff36570067</idno><idno type="crArk">ark:29072/x0fb494b16w5</idno><altIdentifier type="external"><idno type="TM">85750</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. c. 10 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">77963</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85468</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0vx021f978q</idno><idno type="crArk">ark:29072/x0vt150k13zp</idno><altIdentifier type="external"><idno type="TM">77963</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85468</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

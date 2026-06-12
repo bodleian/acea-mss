@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 91 (P)</idno>
-                  <altIdentifier type="internal"><idno type="SCN">34836</idno></altIdentifier></msIdentifier>
+                  <idno type="ieArk">ark:29072/x0ws859g474d</idno><idno type="crArk">ark:29072/x0wp988k63t6</idno><altIdentifier type="internal"><idno type="SCN">34836</idno></altIdentifier></msIdentifier>
                <head>
 
                </head>

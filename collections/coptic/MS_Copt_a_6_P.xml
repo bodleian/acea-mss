@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. a. 6 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85939</idno></altIdentifier><altIdentifier type="external"><idno type="TM">463880</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0s1784m8183</idno><idno type="crArk">ark:29072/x0rx913q97z1</idno><altIdentifier type="external"><idno type="TM">85939</idno></altIdentifier><altIdentifier type="external"><idno type="TM">463880</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

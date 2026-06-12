@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection/>
                   <idno type="shelfmark">MS. Copt. d. 4</idno>
-                  <altIdentifier type="internal"><idno type="SCN">30872c</idno></altIdentifier></msIdentifier>
+                  <idno type="ieArk">ark:29072/x0j6731532xq</idno><idno type="crArk">ark:29072/x0j3860849m0</idno><altIdentifier type="internal"><idno type="SCN">30872c</idno></altIdentifier></msIdentifier>
                <head>
 
                </head>
