@@ -33,7 +33,7 @@
             <idno type="msID"/><idno type="catalogue">Coptic</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Copt_e_4-5">
+            <msDesc xml:lang="en" xml:id="MS_Copt_e_4">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -41,8 +41,10 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. e.</collection>
-                  <idno type="shelfmark">MS. Copt. e. 4,5</idno>
-                  <altIdentifier type="internal"><idno type="SCN">30872f, g</idno></altIdentifier></msIdentifier>
+                  <idno type="shelfmark">MS. Copt. e. 4</idno>
+                  <idno type="ieArk">ark:/29072/x0mk61rg93rq</idno>
+                  <idno type="crArk">ark:29072/x0wd375x140k</idno>
+                  <altIdentifier type="internal"><idno type="SCN">30872f</idno></altIdentifier></msIdentifier>
                <head>
 
                </head>
@@ -54,7 +56,7 @@
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">
-                        <support>papyrus</support><extent>ff.1; 2</extent>
+                        <support>papyrus</support><extent>ff.1</extent>
                         
                      </supportDesc>
                   </objectDesc>
