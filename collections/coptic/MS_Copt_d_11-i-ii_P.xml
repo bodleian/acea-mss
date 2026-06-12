@@ -31,7 +31,7 @@
                </address>
             </pubPlace>
             <idno/>
-            <idno type="msID"/>
+            <idno type="msID"/><idno type="catalogue">Coptic</idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en" xml:id="MS_Copt_d_11_i-ii_P">
@@ -41,7 +41,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection/>
+                  <collection>MSS. Copt. d.</collection>
                   <idno type="shelfmark">MS. Copt. d. 11(i-ii) (P)</idno>
                <idno type="ieArk">ark:29072/x0bv73c23448</idno><idno type="crArk">ark:29072/x0br86b550t2</idno><altIdentifier type="external"><idno type="TM">107814</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107815</idno></altIdentifier></msIdentifier>
                <physDesc>

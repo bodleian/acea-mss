@@ -30,7 +30,7 @@
                </address>
             </pubPlace>
             <idno/>
-            <idno type="msID"/>
+            <idno type="msID"/><idno type="catalogue">Coptic</idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en" xml:id="MS_Copt_g_89_P">
@@ -40,7 +40,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection/>
+                  <collection>MSS. Copt. g.</collection>
                   <idno type="shelfmark">MS. Copt. g. 89 (P)</idno>
                   <idno type="ieArk">ark:29072/x0r781wh14zg</idno><idno type="crArk">ark:29072/x0r494vm31nm</idno><altIdentifier type="internal"><idno type="SCN">35264</idno></altIdentifier></msIdentifier>
                <head>

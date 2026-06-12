@@ -39,8 +39,8 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts </collection>
-                  <idno type="shelfmark">MS. Thurston, etc., 17</idno><idno type="ieArk">ark:29072/x06t053g77t5</idno><idno type="crArk">ark:29072/x06q182k94h9</idno>
+                  <collection type="main">MSS. Thurston</collection>
+                  <idno type="shelfmark">MS. Thurston 17</idno><idno type="ieArk">ark:29072/x06t053g77t5</idno><idno type="crArk">ark:29072/x06q182k94h9</idno>
                </msIdentifier>
                <msContents>
                   <summary>Eulogy of Britain, 1674-5.</summary>
