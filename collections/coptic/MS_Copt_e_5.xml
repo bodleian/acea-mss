@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_453">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1094">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,28 +33,30 @@
             <idno type="msID"/><idno type="catalogue">Coptic</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Copt_d_254_P">
+            <msDesc xml:lang="en" xml:id="MS_Copt_e_5">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection>MSS. Copt. d.</collection>
-                  <idno type="shelfmark">MS. Copt. d. 254 (P)</idno>
-                  <idno type="ieArk">ark:29072/x09k41zg5144</idno><idno type="crArk">ark:29072/x09g54xk67t2</idno></msIdentifier>
+                  <collection>MSS. Copt. e.</collection>
+                  <idno type="shelfmark">MS. Copt. e. 5</idno>
+                  <idno type="ieArk">ark:/29072/x0ms35t860cj</idno>
+                  <idno type="crArk">ark:29072/x0w9505130pq</idno>
+                  <altIdentifier type="internal"><idno type="SCN">30872g</idno></altIdentifier></msIdentifier>
                <head>
 
                </head>
                <msContents>
-                  <summary>Fragment (magical)</summary>
+                  <summary>Coptic homonphones, with Arabic translations</summary>
                   <textLang mainLang="cop">Coptic</textLang>
                                     
                </msContents>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">
-                        <support>papyrus</support>
+                        <support>papyrus</support><extent>ff.2</extent>
                         
                      </supportDesc>
                   </objectDesc>
@@ -62,7 +64,7 @@
 
                </physDesc>
                <history>
-                  <acquisition>Given by A.C.Headlam, 1895; ex box of fragments MS. Copt. g. 3; moved here Dec. 1970</acquisition></history>
+                  <acquisition>Provenance unknown</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>

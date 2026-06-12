@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. f.</collection>
                   <idno type="shelfmark">MS. Copt. f. 99 (P)</idno>
-                  <altIdentifier type="internal"><idno type="SCN">35067</idno></altIdentifier></msIdentifier>
+                  <idno type="ieArk">ark:29072/x05425kd028h</idno><idno type="crArk">ark:29072/x05138jh18zf</idno><altIdentifier type="internal"><idno type="SCN">35067</idno></altIdentifier></msIdentifier>
                <head>
 
                </head>

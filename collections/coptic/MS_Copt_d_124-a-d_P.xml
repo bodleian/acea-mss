@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. d.</collection>
                   <idno type="shelfmark">MS. Copt. d. 124(a-d) (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85564</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85620</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85728</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85620</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85728</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85531</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0ft848s33fz</idno><idno type="crArk">ark:29072/x0fq977w5043</idno><altIdentifier type="external"><idno type="TM">85564</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85620</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85728</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85620</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85728</idno></altIdentifier><altIdentifier type="external"><idno type="TM">85531</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">

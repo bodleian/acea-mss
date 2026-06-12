@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. f.</collection>
                   <idno type="shelfmark">MS. Copt. f. 22 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">77982</idno></altIdentifier><altIdentifier type="external"><idno type="TM">108833</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0m326m315wv</idno><idno type="crArk">ark:29072/x0m039k632k0</idno><altIdentifier type="external"><idno type="TM">77982</idno></altIdentifier><altIdentifier type="external"><idno type="TM">108833</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary source="#TM">Account with a writing exercise on the back.</summary>
                   <textLang mainLang="cop" source="#TM">Coptic (Sahidic dialect)</textLang>

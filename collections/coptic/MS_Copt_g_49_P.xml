@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. g.</collection>
                   <idno type="shelfmark">MS. Copt. g. 49 (P)</idno>
-                  <altIdentifier type="internal"><idno type="SCN">35105</idno></altIdentifier>
+                  <idno type="ieArk">ark:29072/x0g445cf83h3</idno><idno type="crArk">ark:29072/x0g158bk006d</idno><altIdentifier type="internal"><idno type="SCN">35105</idno></altIdentifier>
                </msIdentifier>
                <head>
 <title>Magical text?</title>

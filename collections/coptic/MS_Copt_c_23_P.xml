@@ -42,7 +42,7 @@
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. c.</collection>
                   <idno type="shelfmark">MS. Copt. c. 23 (P)</idno>
-                  <altIdentifier type="external">
+                  <idno type="ieArk">ark:29072/x0zg64tm63b2</idno><idno type="crArk">ark:29072/x0zc77sq8016</idno><altIdentifier type="external">
                      <idno type="TM">107838</idno>
                   </altIdentifier>
                <altIdentifier type="internal"><idno type="SCN">34760</idno></altIdentifier></msIdentifier>

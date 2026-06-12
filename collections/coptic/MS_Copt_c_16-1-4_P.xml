@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. c.</collection>
                   <idno type="shelfmark">MS. Copt. c. 16(1-4) (P)</idno>
-               <altIdentifier type="external"><idno type="TM">107846</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107794</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0x059c813p7</idno><idno type="crArk">ark:29072/x0ww72bc30cc</idno><altIdentifier type="external"><idno type="TM">107846</idno></altIdentifier><altIdentifier type="external"><idno type="TM">107794</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="papyrus">

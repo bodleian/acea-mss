@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection>MSS. Copt. d.</collection>
                   <idno type="shelfmark">MS. Copt. d. 41 (P)</idno>
-               <altIdentifier type="external"><idno type="TM">85682</idno></altIdentifier><altIdentifier type="external"><idno type="TM">874377</idno></altIdentifier></msIdentifier>
+               <idno type="ieArk">ark:29072/x0jm214q6656</idno><idno type="crArk">ark:29072/x0jh343t82v0</idno><altIdentifier type="external"><idno type="TM">85682</idno></altIdentifier><altIdentifier type="external"><idno type="TM">874377</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc material="papyrus">
