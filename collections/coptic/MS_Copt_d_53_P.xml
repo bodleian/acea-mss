@@ -104,7 +104,12 @@
                            person.</p>
                      </availability>
                   </adminInfo>
-                  <listBibl type="WRAPPER">
+                  <surrogates>
+                        <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/79f5ea43-e0f5-4bb3-9749-c11eea32ba5d/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                     </surrogates><listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
                         <bibl><ref target="http://www.trismegistos.org/text/107793"><title>Trismegistos: an interdisciplinary portal of

@@ -82,7 +82,12 @@
                         <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
                      </availability>
                   </adminInfo>
-                  <listBibl type="WRAPPER">
+                  <surrogates>
+                        <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/09a7f5a6-3a90-4386-8d13-25f095856b0e/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                     </surrogates><listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
                      <bibl>Archiv für Papyrusforschung (AfP) 56 (2010), p. 290-291 no. 1</bibl><bibl>SB Kopt. 5 2359</bibl></listBibl>

@@ -78,7 +78,12 @@
                         <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
                      </availability>
                   </adminInfo>
-                  </additional>
+                  <surrogates>
+                        <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/e9de321d-7d43-46fa-8934-46d69dd29741/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                     </surrogates></additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>

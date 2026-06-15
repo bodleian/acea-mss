@@ -82,7 +82,12 @@
                         <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
                      </availability>
                   </adminInfo>
-                  <listBibl type="WRAPPER">
+                  <surrogates>
+                        <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/cf838647-8d38-40bd-9e61-57a0baa76a7f/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                     </surrogates><listBibl type="WRAPPER">
                      <listBibl type="PRINT">
                         <head>Printed descriptions:</head>
                      <bibl>P. Bala'izah 1 40</bibl></listBibl>

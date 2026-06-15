@@ -69,7 +69,12 @@
                            person.</p>
                      </availability>
                   </adminInfo>
-                  
+                  <surrogates>
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/7c36e006-35f9-4462-8656-67b21d421b33/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
                </additional>
 
             <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 181</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107844">life of Paul the anchorite</summary><textLang mainLang="cop" source="#TM_107844">Coptic (Fayumic dialect)</textLang></msContents><history><origin><origDate source="#TM_107844" calendar="#Gregorian" notBefore="0600" notAfter="0699"> 600-699</origDate><origPlace source="#TM_107844" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107844">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107844">P. Bala'izah 1 38</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107844"><ref target="http://www.trismegistos.org/text/107844"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart><msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. d. 181 (fragments)</idno></altIdentifier></msIdentifier><msContents><summary source="TM_107846">encomium on the archpriest</summary><textLang mainLang="cop" source="#TM_107846">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_107846" calendar="#Gregorian" notBefore="0600" notAfter="0699"> 600-699</origDate><origPlace source="#TM_107846" key="place_7014986">Egypt (Ancient)</origPlace></origin><provenance source="#TM_107846">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_107846">P. Bala'izah 1 40</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_107846"><ref target="http://www.trismegistos.org/text/107846"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>

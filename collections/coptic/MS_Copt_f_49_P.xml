@@ -70,7 +70,12 @@
                      </availability>
                   </adminInfo>
                   
-               </additional>
+               <surrogates>
+                        <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/f555e914-70b9-4751-a7c8-500d30d499d6/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                     </surrogates></additional>
 
             <msPart><msIdentifier><altIdentifier type="part"><idno type="shelfmark">MS. Copt. f. 49</idno></altIdentifier></msIdentifier><msContents><summary/><textLang mainLang="cop" source="#TM_874158">Coptic (Sahidic dialect)</textLang></msContents><history><origin><origDate source="#TM_874158" calendar="#Gregorian" notBefore="0300" notAfter="1099"> 300-1099</origDate><origPlace source="#TM_874158" key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</origPlace></origin><provenance source="#TM_874158">Found in <placeName key="org_3025">Apa Apollo Monasterion (Deir el-Bala’izah)</placeName></provenance></history><additional><listBibl type="WRAPPER"><listBibl type="PRINT"><head>Printed descriptions:</head><bibl source="#TM_874158">P. Bala'izah 1 62</bibl></listBibl><listBibl type="INTERNET"><head>Online resources:</head><bibl source="#TM_874158"><ref target="http://www.trismegistos.org/text/874158"><title>Trismegistos: an interdisciplinary portal of papyrological and epigraphical resources</title></ref></bibl></listBibl></listBibl></additional></msPart></msDesc>
          </sourceDesc>
