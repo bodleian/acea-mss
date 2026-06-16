@@ -93,8 +93,8 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Summary description abbreviated from the following sources: <listBibl>
-                              <bibl/>
+                        <source>Description created by Blane Aitchison and revised by Peter Toth, based on the following sources:<listBibl>
+                              
                               <bibl><ref target="http://www.trismegistos.org/text/134694"
                                        ><title>Trismegistos: an interdisciplinary portal of
                                        papyrological and epigraphical resources</title></ref></bibl>
