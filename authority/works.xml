@@ -1970,46 +1970,32 @@
                     <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem8 -->
                 </bibl>
 
-                <bibl xml:id="work_393">
-                    <title type="uniform">Contains part of the Ritual, viz. a portion of the Canon
-                        of the third day of the Burial of a priest; parts of these lessons and
-                        prayers are not in the printed editions.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem9 -->
+               <bibl xml:id="work_393">
+               <title type="uniform">Maštoc‘: Office for the Third Day of the Burial of a Priest</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem9 -->
                 </bibl>
 
                 <bibl xml:id="work_394">
-                    <title type="uniform">Contains the latter part of the Canon of the Benediction
-                        of cereals, harvest, and vintage, and nearly all the Prayer in time of
-                        drought (Վասն Երաշտութեան).</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem10 -->
+               <title type="uniform">Maštoc‘: Canon of the Benediction of Cereals, Harvest, and Vintage</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem10 -->
                 </bibl>
 
                 <bibl xml:id="work_395">
-                    <title type="uniform">Belonging to a lectionary for festivals (Տօնական), it
-                        contains on the recto the latter part of Matt. XXIII.37-39, followed by the
-                        heading of the day of commemoration of the council of Ephesus on the 30th of
-                        Arats (=Feb. 18) followed ny the historical discourse of Philoxenus, bishop
-                        of Mabug (Membij in Syria), on the same council, in framgents.</title>
-                    <title type="variant">Երանելւոյն Փիղիքսիանոսի Նաբուքայ եպիսկապոսի (sic) Պատճառք
-                        ժողովոյն …յ եւ Եփեսոսի քակտոիմն Նստորի (sic) …</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem11 -->
+               <title type="uniform">Discourse attributed to Philoxenus of Mabbug on the Council of Ephesus</title>
+               <title type="variant">Արանց ամսոյ ի Լ. Եփեսոսի սուրբ ժողովոյն որ յաղագս ամբերշտին Նստորի եղեւ յաւուրս Թեոդոսի թագաւորին, որ փոքրն կոչեցաւ Թեոդոս. Երանելոյն Փիղիքսիանոսի նաբուքայ եպիսկապոսի Պատճարք ժողովոյն […] յԵփեսոս ի քակտումն Նստորի[…]:</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem11-2 -->
                 </bibl>
 
                 <bibl xml:id="work_397">
-                    <title type="uniform">Belonged to a Lectionary for festivals (Տօնական), and
-                        contains the last lines of the 42nd lesson and the beginning of the homily
-                        of Theodotus, bishop of Ancyra, on the Nativity of Christ.</title>
-                    <title type="variant">ԽԲ. Թեոդոտոսի եպիսկոպոսի Անկիւրա [խաւսք ի] ծնունդն տ՟ն
-                        մերոյ յ՟ի ք՟ի …</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem12 -->
+               <title type="uniform">Theodotus of Ancyra: Homily on the Nativity of Christ</title>
+               <title type="variant">Թեոդոտոսի եպիսկոպոսի Անկիւրա [խաւսք ի] ծնունդն տեառն մերոյ Յիսուսի Քրիստոսի, եթե Աստուած է [...]լն ի կուսէն մարդ էղեալ սքանչել[աւք] եւ ոչ փոխադրութեամբ էութեանն [եւ եթե] մի եւ նոյն է եւ այն եւ այս ասացեալ [եւ ոչ մտ]ածութեամբ եւ ոչ խորհրդով անջատեալ</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem12-2 -->
                 </bibl>
 
                 <bibl xml:id="work_399">
-                    <title type="uniform">Contains a portion of the XVIth (according to the Greek
-                        text, XXth) of the Lesser Monastic Rules (called in the Armenian Հարցողաց
-                        գիրք) of St. Basil, but part of the second page is almost or quite
-                        illegible.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem13 -->
+               <title type="uniform">Basil of Caesarea: Monastic Rules</title>
+               <title type="variant">Հարցողաց Գիրք</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem13 -->
                 </bibl>
 
                 <bibl xml:id="work_400">
@@ -2023,13 +2009,10 @@
                 </bibl>
 
                 <bibl xml:id="work_401">
-                    <title type="uniform">Contains 4 fragments of the works of Evagrius of
-                        Pontus.</title>
-                    <title type="variant">a) Եւագրեայ Բան խրատու. Զերախայրին կալոյ իմոյ …; b)
-                        Եւագրեայ Առ մարտիրոսն.; c) Նորին Եւագրեայ .Եթէ ունիցիս ընդ քեւ եղբարս …; d)
-                        Հաւատք որ ի Նիկիայ</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15 -->
-                </bibl>
+               <title type="uniform">Evagrius of Pontus: Եւագրեայ բան խրատու</title>
+               <title type="variant">Եւագրեայ բան խրատու</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15 -->
+                    </bibl>
 
                 <bibl xml:id="work_403">
                     <title type="uniform">[Unidentified content]</title>
@@ -2044,14 +2027,14 @@
                 </bibl>
 
                 <bibl xml:id="work_405">
-                    <title type="uniform">A leaf of a Ritual, containt part of the service for the
-                        Burial of a priest.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem18 -->
+               <title type="uniform">Maštoc‘: Service for the Burial of a Priest</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem18 -->
                 </bibl>
 
                 <bibl xml:id="work_406">
-                    <title type="uniform">Contains portions of miral treatises.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem19 -->
+               <title type="uniform">Basil of Caesarea: Against Those Who Are Angry</title>
+               <title type="variant">Զբարկացողաց</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem19 -->
                 </bibl>
 
                 <bibl xml:id="work_407">
@@ -2063,19 +2046,19 @@
                 </bibl>
 
                 <bibl xml:id="work_408">
-                    <title type="uniform">Fragments of a lectionary.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem21 -->
+               <title type="uniform">Čašoc‘ (Armenian Lectionary)</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem21 -->
                 </bibl>
 
                 <bibl xml:id="work_409">
-                    <title type="uniform">(Verso:) End of a homily; (Recto:) Beginning of the Homily
-                        of John Chrysostom on the Incomprehensible</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem22 -->
+                   <title type="uniform">John Chrysostom: Homily on the Incomprehensible</title>
+                   <title type="variant">Յոհաննու Ոսկեբերանի յանհասից գրոց առ աննմանսն յաղագս անհասանելոյն :Բ: Յաղագս անհասանելոյն եւ թէ ոչ նուաստանալն Աստուածոյ բերելի է Սերովբէիցն։</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem22 -->
                 </bibl>
 
                 <bibl xml:id="work_410">
-                    <title type="uniform">Hosea V.7-13</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem23 -->
+               <title type="uniform">Book of Hosea</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem23 -->
                 </bibl>
 
                 <bibl xml:id="work_411">
@@ -4589,6 +4572,39 @@
                     <title type="uniform">Xanjali</title>
                     <!-- ../collections/georgian/MS_Wardr_c_1_3.xml#MS_Wardr_c_1_3-item1 -->
                 <!--old_id: work_52--></bibl>
+
+                <bibl xml:id="work_932">
+               <title type="uniform">Maštoc‘: Prayer in Time of Drought</title>
+               <title type="variant">Աղօթք վասն երաշտութեան</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem10-2 -->
+                </bibl>
+
+                <bibl xml:id="work_933">
+               <title type="uniform">Evagrius of Pontus: To the Martyrs</title>
+               <title type="variant">Եւագրեայ առ մարտիրոսսն</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15-2 -->
+                </bibl>
+
+                <bibl xml:id="work_934">
+               <title type="uniform">Evagrius of Pontus: On the Resurrection</title>
+               <title type="variant">Վասն յարութեան</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15-3 -->
+                </bibl>
+
+                <bibl xml:id="work_935">
+               <title type="uniform">Հաւատք որ ի Նիկիայ</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15-5 -->
+                </bibl>
+
+                <bibl xml:id="work_936">
+               <title type="uniform">Basil of Caesarea: On the Beginning of Proverbs</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem19-2 -->
+                </bibl>
+
+                <bibl xml:id="work_937">
+               <title type="uniform">Apophthegmata Patrum</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem20-3 -->
+                </bibl>
                 
                 
             </listBibl>
