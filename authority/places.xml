@@ -19,7 +19,9 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body><listPlace>
+      <body>
+         
+         <listPlace>
             <place type="settlement" xml:id="place_1341">
                <placeName type="index">Memnoneia - Djeme (Thebes west)</placeName>
                <note type="links"><list type="links">
@@ -38,6 +40,7 @@
                      <item><ref target="http://vocab.getty.edu/tgn/7526057"><title>TGN</title></ref></item>
                   </list></note>
             </place>
+            
             <place type="country" xml:id="place_7014986">
                <placeName type="index">Egypt (ancient)</placeName>
                <placeName type="variant">Ancient Egyptian</placeName>
@@ -54,7 +57,56 @@
                      <item><ref target="http://vocab.getty.edu/tgn/7014986"><title>TGN</title></ref></item>
                   </list></note>
             </place>
-            </listPlace>
+
+         <place type="settlement" xml:id="place_7002499">
+   <placeName type="index">Ephesus</placeName>
+   <placeName type="variant">Ephesos</placeName>
+   <placeName type="variant">Efes</placeName>
+   <placeName type="variant" xml:lang="hy">Եփեսոս</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002499">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q47611">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://pleiades.stoa.org/places/599612">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002473">
+   <placeName type="index">Constantinople</placeName>
+   <placeName type="variant">Istanbul</placeName>
+   <placeName type="variant">Byzantium</placeName>
+   <placeName type="variant">Constantinopolis</placeName>
+   <placeName type="variant" xml:lang="hy">Կոստանդինուպաւղսի</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002473">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q16869">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+   </listPlace>
+         
       <listOrg>
          <org xml:id="org_3025">
             <orgName>Apa Apollo Monasterion (Deir el-Bala’izah)</orgName>
