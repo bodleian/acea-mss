@@ -1053,6 +1053,107 @@
                     <persName type="display">Prince tarxan-Mouravi, E.,</persName>
                     <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml#MS_Wardr_c_30%2D -->
                 <!--old_id: georgian/person_104--></person>
+
+                <person xml:id="person_170">
+                   <persName type="display">Philoxenus of Mabbug</persName>
+                   <persName type="variant">Philoxenus of Hierapolis</persName>
+                   <persName type="variant" xml:lang="hy">Փիղիքսիանոսի</persName>
+                   <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q973954">
+                   <title>Wikidata</title>
+                        </ref>
+                     </item>
+                 <item>
+                    <ref target="https://viaf.org/viaf/256760175">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118594060">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_171">
+   <persName type="display">Nestorius, Patriarch of Constantinople</persName>
+   <persName type="variant">Nestorius of Constantinople</persName>
+   <persName type="variant" xml:lang="hy">Նստորիոս</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q185073">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/79098438">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118943170">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_172">
+   <persName type="display">Theodosius II, Eastern Roman emperor, 401–450</persName>
+   <persName type="variant">Theodosius the Younger</persName>
+   <persName type="variant" xml:lang="hy">Թեոդոս</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q160353">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/46929243">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118756885">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_173">
+   <persName type="display">Theodotus of Ancyra, Bishop of Ancyra</persName>
+   <persName type="variant">Theodotus Ancyranus</persName>
+   <persName type="variant" xml:lang="hy">Թեոդոտոսի</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q4891141">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/79410663">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/11909570X">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+                
             <person xml:id="person_9963139">
                <persName type="variant" subtype="surenameFirst" source="LC">
                   <name type="marc-a">Petrie, W. M. Flinders</name>
