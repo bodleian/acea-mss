@@ -425,9 +425,11 @@
                 </person>
 
                 <person xml:id="person_75">
-                    <persName type="display">Ter Araqel Bałishetzi</persName>
-                    <!-- ../collections/armenian/MS_Arm_f3.xml#MS_Arm_f3%2Ditem7 -->
-                </person>
+                   <persName type="display">Ter Araqel Bałishetzi</persName>
+                    <persName type="variant">Aṙakʿel Bałišecʿi</persName>
+   <!-- ../collections/armenian/MS_Arm_f3.xml#MS_Arm_f3%2Ditem7 -->
+   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem9 -->
+                    </person>
 
                 <person xml:id="person_76">
                     <persName type="display">Nilus, of Ancyra, Saint, d. ca. 430</persName>
@@ -1148,6 +1150,185 @@
          <item>
             <ref target="https://d-nb.info/gnd/11909570X">
                <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+                
+                <person xml:id="person_174">
+   <persName type="display">Cyril of Jerusalem</persName>
+   <persName type="variant">Cyril, Bishop of Jerusalem</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q298654">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/2437490">
+               <title>VIAF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_175">
+   <persName type="display">Eusebius of Caesarea</persName>
+   <persName type="variant">Eusebius</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q142999">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/4929593">
+               <title>VIAF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_176">
+   <persName type="display">Carpianus</persName>
+   <note>Recipient of the Epistle of Eusebius to Carpianus.</note>
+</person>
+
+<person xml:id="person_177">
+   <persName type="display">Joseph von Hammer-Purgstall</persName>
+   <persName type="variant">Joseph von Hammer</persName>
+   <persName type="variant">Hammer-Purgstall</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q89546">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/95183401">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://catalogue.bnf.fr/ark:/12148/cb12568890g">
+               <title>BnF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_178">
+   <persName type="display">Francis Beaufort</persName>
+   <persName type="variant">Captain Francis Beaufort</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q21186">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/42580519">
+               <title>VIAF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_179">
+   <persName type="display">Hripʿsimē, Saint</persName>
+   <persName type="variant">Hripsime</persName>
+   <persName type="variant">Rhipsime</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q465993">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/77127569">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/119529483">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_180">
+   <persName type="display">Gayanē, Saint</persName>
+   <persName type="variant">Gayane</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.armenianchurch.org/en/news/the-feast-of-st-gayane-and-her-companions/4110">
+               <title>Mother See of Holy Etchmiadzin: commemoration</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_181">
+   <persName type="display">John the Baptist</persName>
+   <persName type="variant">John the Forerunner</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q40662">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/27863229">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118557858">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_182">
+   <persName type="display">Athenogenes, Saint</persName>
+   <note>The saint commemorated with John the Baptist in the Armenian liturgical calendar.</note>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.armenianchurch.org/en/news/araratian-week/11848">
+               <title>Mother See of Holy Etchmiadzin: commemoration</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_183">
+   <persName type="display">Varus, Saint</persName>
+   <persName type="variant">St Varus</persName>
+   <persName type="variant" xml:lang="hy">Վարոսի</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q2372199">
+               <title>Wikidata</title>
             </ref>
          </item>
       </list>
