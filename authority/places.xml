@@ -106,6 +106,138 @@
    </note>
 </place>
    </listPlace>
+
+         <place type="settlement" xml:id="place_648771">
+   <placeName type="index">Seleucia ad Calycadnum</placeName>
+   <placeName type="variant">Seleucia</placeName>
+   <placeName type="variant">Silifke</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://pleiades.stoa.org/places/648771">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_648612">
+   <placeName type="index">Korykos</placeName>
+   <placeName type="variant">Corycus</placeName>
+   <placeName type="variant">Korghos</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://pleiades.stoa.org/places/648612">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q2167586">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="region" xml:id="place_7002470">
+   <placeName type="index">Cilicia</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002470">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q620864">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7003321">
+   <placeName type="index">Vienna</placeName>
+   <placeName type="variant">Wien</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7003321">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q1741">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7011781">
+   <placeName type="index">London</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7011781">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q84">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002344">
+   <placeName type="index">Anamur</placeName>
+   <placeName type="variant">Anamour</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002344">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002325">
+   <placeName type="index">Alanya</placeName>
+   <placeName type="variant">Alaya</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002325">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002420">
+   <placeName type="index">Bursa</placeName>
+   <placeName type="variant">Brusa</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002420">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
          
       <listOrg>
          <org xml:id="org_3025">
