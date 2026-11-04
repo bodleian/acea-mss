@@ -105,9 +105,8 @@
       </list>
    </note>
 </place>
-   </listPlace>
-
-         <place type="settlement" xml:id="place_648771">
+            
+<place type="settlement" xml:id="place_648771">
    <placeName type="index">Seleucia ad Calycadnum</placeName>
    <placeName type="variant">Seleucia</placeName>
    <placeName type="variant">Silifke</placeName>
@@ -238,6 +237,10 @@
       </list>
    </note>
 </place>
+            
+   </listPlace>
+
+         
          
       <listOrg>
          <org xml:id="org_3025">
