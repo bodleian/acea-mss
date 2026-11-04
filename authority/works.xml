@@ -1012,10 +1012,12 @@
                 </bibl>
 
                 <bibl xml:id="work_199">
-                    <title type="uniform">History of Barlaam and Josaphat</title>
-                    <title type="variant">Տաղ Յովասափայ թաքաւորի, որդւոյ թաքաւորին հնդկաց
-                        Աբեներայ</title>
-                    <!-- ../collections/armenian/MS_Canonici_Or_131.xml#MS_Canonici_Or_131%2Ditem4 -->
+               <title type="uniform">Aṙakʿel Bałišecʿi: Tał Yovasapʿu</title>
+               <title type="variant" xml:lang="hy">Տաղ Յովասափու</title>
+               <title type="variant" xml:lang="hy">Տաղ Յովասափայ թաքաւորի, որդւոյ թաքաւորին հնդկաց Աբեներայ</title>
+               <title type="variant">History of Barlaam and Josaphat</title>
+               <!-- ../collections/armenian/MS_Canonici_Or_131.xml#MS_Canonici_Or_131%2Ditem4 -->
+               <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem9 -->
                 </bibl>
 
                 <bibl xml:id="work_204">
@@ -1823,16 +1825,14 @@
                 </bibl>
 
                 <bibl xml:id="work_369">
-                    <title type="uniform">The last lines of set of directioins indicating according
-                        to the old usage on which days the liturgy of St. Basil and of St. John
-                        Chrysostom are to be used.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem1 -->
+                   <title type="uniform">Pataragamatoyc‘ (Liturgicon)</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem1 -->
                 </bibl>
 
-                <bibl xml:id="work_370">
-                    <title type="uniform">A fragment of a book of Sharakans</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem2 -->
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem3 -->
+                bibl xml:id="work_370">
+                   <title type="uniform">Šaraknoc‘ (Armenian Hymnal)</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem2 -->
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem3 -->
                 </bibl>
 
                 <bibl xml:id="work_371">
@@ -1852,17 +1852,14 @@
                 </bibl>
 
                 <bibl xml:id="work_373">
-                    <title type="uniform">Two pieces of a leaf of a Tonakan (martyrology): the end
-                        of an unknown martyrdom; the beginning of the Martyrdom of St.
-                        Varus.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem6 -->
+                   <title type="uniform">Martyrdom of St Varus and his companions</title>
+                   <title type="variant" xml:lang="hy">Վկայաբանութիւն Սրբոյն Վարոսի։</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem6%2D3 -->
                 </bibl>
 
                 <bibl xml:id="work_374">
-                    <title type="uniform">Parts of: a 'Commentary of John Chrysostom; in Matt.
-                        XII.38; the 13th of the 'Catechetical Lectures' of Cyril of Jerusalem; 'a
-                        Commentary on Luke', V.1</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem7 -->
+                   <title type="uniform">John Chrysostom: Commentary on Matthew</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem7 -->
                 </bibl>
 
                 <bibl xml:id="work_375">
@@ -4496,7 +4493,26 @@
                <title type="uniform">Apophthegmata Patrum</title>
                <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem20-3 -->
                 </bibl>
+
+                <bibl xml:id="work_938">
+                   <title type="uniform">Maštoc‘: Canon of Marriage</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem4%2D2 -->
+                </bibl>
                 
+                <bibl xml:id="work_939">
+                   <title type="uniform">Maštoc‘: Benediction of a Monk</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem4%2D3 -->
+                </bibl>
+                
+                <bibl xml:id="work_940">
+                   <title type="uniform">Martyrdom of Hemia, Eulogia and Philgotia</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem6 -->
+                </bibl>
+                
+                <bibl xml:id="work_941">
+                   <title type="uniform">Cyril of Jerusalem: Catechetical Lecture 13</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem7%2D2 -->
+                </bibl>
                 
             </listBibl>
         </body>
