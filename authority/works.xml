@@ -1829,7 +1829,7 @@
                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem1 -->
                 </bibl>
 
-                bibl xml:id="work_370">
+                <bibl xml:id="work_370">
                    <title type="uniform">Šaraknoc‘ (Armenian Hymnal)</title>
                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem2 -->
                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem3 -->
