@@ -1334,6 +1334,38 @@
       </list>
    </note>
 </person>
+
+     <person xml:id="person_184">
+       <persName type="display">Mkhitar, Bishop of Etchmiadzin, scribe of MS. Arm. d. 8</persName>
+       <persName type="variant">Mkhithar, Bishop of Etchmiadzin</persName>
+       <persName type="variant" xml:lang="hy">Մխիթար եպիսկոպոս Էջմիածեցի</persName>
+       <persName type="variant" xml:lang="hy">Մխիթար եպիսկոպոս Էջմիածնեցի</persName>
+       <note>Scribe of MS. Arm. d. 8, completed at the convent of St James in Jerusalem on 24 May 1570. Distinct from his namesake, Archbishop Mkhithar of Urfa, mentioned in the same colophon.</note>
+       <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+    </person>
+
+<person xml:id="person_185">
+   <persName type="display">Mkhithar, Archbishop of Urfa</persName>
+   <persName type="variant">Mkhitar, Archbishop of Urfa</persName>
+   <persName type="variant" xml:lang="hy">Մխիթար արհիեպիսկոպոսին Ուրհայու</persName>
+   <note>Named in the colophon of MS. Arm. d. 8 as the scribe's host in Urfa and an intermediary in the presentation of the manuscript to the monastery of St Sargis. Distinct from Mkhitar, Bishop of Etchmiadzin, the scribe.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</person>
+
+<person xml:id="person_186">
+   <persName type="display">Anton Sebastatsi, Archbishop</persName>
+   <persName type="variant" xml:lang="hy">Անտոն արհիեպիսկոպոսն Սեբաստացի</persName>
+   <persName type="variant" xml:lang="hy">Անտոն եպիսկոպոսին</persName>
+   <note>Named in the colophon of MS. Arm. d. 8 as the companion of the scribe Mkhitar on the journey from Jerusalem to Urfa.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</person>
+
+<person xml:id="person_187">
+   <persName type="display">Astuacatur, Bishop</persName>
+   <persName type="variant" xml:lang="hy">Աստուածատուր եպիսկոպոսին</persName>
+   <note>Named with Archbishop Mkhithar of Urfa in the presentation of MS. Arm. d. 8 to the monastery of St Sargis. The colophon does not specify his episcopal see.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</person>
                 
             <person xml:id="person_9963139">
                <persName type="variant" subtype="surenameFirst" source="LC">
