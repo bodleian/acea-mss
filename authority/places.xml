@@ -237,12 +237,79 @@
       </list>
    </note>
 </place>
+
+            <place type="settlement" xml:id="place_7001371">
+   <placeName type="index">Jerusalem</placeName>
+   <placeName type="variant" xml:lang="hy">Երուսաղէմ</placeName>
+   <placeName type="variant" xml:lang="hy">յԵրուսաղէմ</placeName>
+   <placeName type="variant" xml:lang="hy">յԵրուսաղէմա</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7001371">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q1218">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_658457">
+   <placeName type="index">Urfa (Edessa)</placeName>
+   <placeName type="variant">Urfa</placeName>
+   <placeName type="variant">Edessa</placeName>
+   <placeName type="variant">Şanlıurfa</placeName>
+   <placeName type="variant" xml:lang="hy">Ուրհայ</placeName>
+   <placeName type="variant" xml:lang="hy">Ուրհայու</placeName>
+   <placeName type="variant" xml:lang="hy">յՈւրհայու</placeName>
+   <placeName type="variant" xml:lang="hy">յԵթեսիայ</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://pleiades.stoa.org/places/658457">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q133118">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
             
    </listPlace>
 
          
          
       <listOrg>
+         <org xml:id="org_1">
+   <orgName type="display">Convent of St James, Jerusalem</orgName>
+   <orgName type="variant" xml:lang="hy">սուրբ Յակոբայ</orgName>
+   <note>The institution in Jerusalem identified in the colophon of MS. Arm. d. 8 as the place where the manuscript was copied and completed in 1570.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</org>
+
+<org xml:id="org_2">
+   <orgName type="display">Convent of St Mary Deipara, Urfa</orgName>
+   <orgName type="variant" xml:lang="hy">սուրբ Աստուածածին</orgName>
+   <note>The institution in Urfa where the scribe Mkhitar and Anton Sebastatsi stayed with Archbishop Mkhithar of Urfa, as recorded in the colophon of MS. Arm. d. 8.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</org>
+
+<org xml:id="org_3">
+   <orgName type="display">Monastery of St Sargis, Urfa</orgName>
+   <orgName type="variant" xml:lang="hy">սուրբ Սարգիս</orgName>
+   <note>The institution in Urfa to which the scribe records presenting MS. Arm. d. 8 through Archbishop Mkhithar and Bishop Astuacatur.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</org>
+         
          <org xml:id="org_3025">
             <orgName>Apa Apollo Monasterion (Deir el-Bala’izah)</orgName>
             <note type="links"><list type="links">
