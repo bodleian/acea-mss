@@ -21,7 +21,56 @@
    <text>
       <body>
          
-         <listPlace>
+<listPlace>
+
+   <place type="mountain" xml:id="place_1">
+   <placeName type="index">Mount of Olives</placeName>
+   <placeName type="variant">Mount Olivet</placeName>
+   <note>Named in the assembly and procession directions in MS. Arm. d. 2. Its occurrence is liturgical, not evidence of the manuscript's place of production.</note>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q205976">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+<place type="site" xml:id="place_2">
+   <placeName type="index">Golgotha</placeName>
+   <placeName type="variant">Calvary</placeName>
+   <note>Named as an assembly station in MS. Arm. d. 2, f. 34rA.</note>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q170516">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+<place type="site" xml:id="place_3">
+   <placeName type="index">Holy Sion (liturgical station)</placeName>
+   <placeName type="variant">holy Sion</placeName>
+   <note>The station named in the Jerusalem-type liturgical directions of MS. Arm. d. 2. This local record preserves the recorded designation without identifying it with a particular modern building.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+<place type="site" xml:id="place_4">
+   <placeName type="index">Lazareum (liturgical station)</placeName>
+   <placeName type="variant">Lazareum</placeName>
+   <note>Named as an assembly station in MS. Arm. d. 2, ff. 31vB and 136vB. This local record does not equate the station with an entire settlement or a particular modern building.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+
+            
             <place type="settlement" xml:id="place_1341">
                <placeName type="index">Memnoneia - Djeme (Thebes west)</placeName>
                <note type="links"><list type="links">
