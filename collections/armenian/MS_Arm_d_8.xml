@@ -8,6 +8,14 @@
             <title>MS. Arm. d. 8</title>
             <funder>[Agreed Bodleian funding statement still to be supplied]</funder>
             <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>Sukias Baronian</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>F. C. Conybeare</persName>
+            </respStmt>
+            <respStmt>
                <resp when="2026">Cataloguer</resp>
                <resp when="2026">Encoding</resp>
                <persName>Lewis Read</persName>
