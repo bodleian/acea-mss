@@ -4513,6 +4513,22 @@
                    <title type="uniform">Cyril of Jerusalem: Catechetical Lecture 13</title>
                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem7%2D2 -->
                 </bibl>
+
+                <bibl xml:id="work_942">
+                   <title type="uniform">Cyril of Jerusalem: Letter on the Cross</title>
+                   <title type="variant">Epistula ad Constantium imperatorem</title>
+                   <note>Identified in MS. Arm. d. 2 at ff. 231vA-234vA. The external reference identifies the work; it does not establish the precise Armenian recension.</note>
+                   <note type="links">
+                      <list type="links">
+                         <item>
+                            <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/4954/">
+                               <title>Pinakes (CPG 3587)</title>
+                            </ref>
+                         </item>
+                      </list>
+                   </note>
+                   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+                </bibl>
                 
             </listBibl>
         </body>
