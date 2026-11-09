@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_25">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
-            <funder>JISC-??-</funder>
-            <principal>Gillian Evison</principal>
+            <title>MS. Arm. d. 8</title>
+            <funder>[Agreed Bodleian funding statement still to be supplied]</funder>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>Sukias Baronian</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>F. C. Conybeare</persName>
+            </respStmt>
+            <respStmt>
+               <resp when="2026">Cataloguer</resp>
+               <resp when="2026">Encoding</resp>
+               <persName>Lewis Read</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="#Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date of first online publication to be confirmed]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -20,16 +32,18 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                   </addrLine>
                </address>
             </pubPlace>
-            <idno>OCIMCO</idno>
             <idno type="msID">MS_Arm_d_8</idno>
-            <idno type="catalogue">Armenian</idno>
+            <idno type="catalogue">
+               Armenian
+            </idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:id="MS_Arm_d_8" xml:lang="en">
@@ -40,142 +54,130 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">MSS. Arm. d.</collection>
-                  <idno type="shelfmark">MS. Arm. d. 8</idno><idno type="ieArk">ark:29072/x0jm214p25h4</idno><idno type="crArk">ark:29072/x0jh343s4268</idno>
+                  <idno type="shelfmark">MS. Arm. d. 8</idno>
+                  <idno type="ieArk">ark:29072/x0jm214p25h4</idno>
+                  <idno type="crArk">ark:29072/x0jh343s4268</idno>
                </msIdentifier>
+
                <msContents>
-                  <summary>Gospels, A.D. 1570.</summary>
-                  <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n17/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
-                     Bodleian Library, no. 13, pp. 13-14.</ref></bibl></listBibl></msItem>
+                  <summary>MS. Arm. d. 8. Four Gospels, with Pentecostal Lessons, Eusebian sections and concordance, and Gospel prologues after Matthew, Mark and Luke. The pericope adulterae appears at the end of John. The scribal colophon (ff. 275r–276v) is followed by four original leaves relocated from the recopied 21st quire (ff. 277r–280v).</summary>
+                  <msItem xml:id="MS_Arm_d_8-item1">
+                     <locus from="1v" to="275r">ff. 1v-275r</locus>
+                     <title xml:lang="en">Four Gospels with accompanying material</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note type="contents-detail">Gospel prologues follow Matthew, Mark and Luke.  Pentecostal Lessons in their usual form. Eusebian sections with their concordance. Conybeare identifies Matthew 16:3 and John 5:4 as the only disputed passages absent from the manuscript.</note>
+                     <msItem xml:id="MS_Arm_d_8-item1-1">
+                        <locus from="2r">f. 2r</locus>
+                        <title xml:lang="en" key="work_847">Gospel of Matthew</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                     </msItem>
+
+                     <msItem xml:id="MS_Arm_d_8-item1-2">
+                        <locus from="79r">f. 79r</locus>
+                        <title xml:lang="en" key="work_846">Gospel of Mark</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                     </msItem>
+
+                     <msItem xml:id="MS_Arm_d_8-item1-3">
+                        <locus from="129r">f. 129r</locus>
+                        <title xml:lang="en" key="work_845">Gospel of Luke</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                     </msItem>
+
+                     <msItem xml:id="MS_Arm_d_8-item1-4">
+                        <locus from="212r">f. 212r</locus>
+                        <title xml:lang="en" key="work_844">Gospel of John</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">The pericope adulterae appears at the end of John.</note>
+                     </msItem>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_8-item2">
+                     <locus from="275r" to="276v">ff. 275r-276v</locus>
+                     <title xml:lang="en">Scribal colophon</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <colophon xml:lang="hy">Փառք համագոյ եւ միասնական սուրբ Երրորդութեան· Հաւր եւ Որդւոյ եւ Հոգւոյն Սրբոյ այժմ միշտ եւ յաւիտեանս յաւիտենից ամէն։ Յերես անկեալ առ ոտս սրբազանից քահանայից ընթերցողաց· Այլ եւ համաւր ամենայն հանդիպողացդ եւ լսողաց։ Մեղաւոր հողս եւ բազմամեղ գրիչս <persName key="person_184">Մխիթար եպիսկոպոս Էջմիածեցի</persName> եւ արտասալից աչաւք խնդրեմ յամենեցունց· յիշել սրտի մտաւք զանարժանս եւ զծնաւղն իմ եւ զամենայն ազգն իմ· եւ զեղբարքն իմ եւ զամենայն արեան մերձաւորս եւ զուսուցիչանն իմ· եւ զվարպետն որ զգիրս ծանոյց մեզ· եւ զմեր լուսոյ եղբարն տէր <persName key="person_186">Անտոն արհիեպիսկոպոս</persName>· Եւ որք յիշէք զմեզ զվերոյ գրեալքս ի բարին· Քրիստոս Աստուած զձեզ յիշէ իւր անճառելի բարիքն ամէն։ Արդ գրեցաւ սայ ի սուրբ քաղաքին <placeName key="place_7001371">յԵրուսաղէմ</placeName> ի դուռն <orgName key="org_1">սուրբ Յակոբայ</orgName>· ի հայրապետութեան տեառն տէր արհիեպիսկոպոսին եւ ի ծայր հասեալ ամենայն առաքինութեամբ զարդարեալ տեսականաւք եւ գործականաւք ամէն։ Եղեւ զրաւ սորա· ի թուականիս Հայոց· ՌԺԹ· Յամսեան մայիսի· ԻԴ· ի փառս Քրիստոսի յուսոյն մերոյ։ Բայց յերես անգեալ աղաչեմ զձեզ· ով սրբազան հայրք եւ եղբարք զի սղալանաց եւ խոշորութեան անմեղադիր լերուք զի կար մեր այս է բայց թողութիւն արէք մեզ որ մէկ ամիս ի ճանպա եկաց գիշեր ու ցերեկ մէջ ցեխին ինք հանց յիրուց էր կպել կանց տախտակ էր եղել ⟨եւ որ զմեզ⟩ յիշէ եւ Աստուած ողորմի ասէ· մեզ յիշելոցս եւ ձեզ յիշողացդ առհասարակ ողորմեսցի Քրիստոս Աստուածն մեր եւ որ առատն է ի տուրս բարեաց մեզ եւ ձեզ ողորմեսցի եւ նմա· Փառք անլռելի ամէն։ Աստուածային նախախնամութեամբ ելաք <placeName key="place_7001371">յԵրուսաղէմա</placeName>· եկայք հասաք ի <placeName key="place_658457">յԵթեսիայ</placeName> որ <placeName key="place_658457">Ուրհայ</placeName> կոչի· իջեւանեցաք ի <placeName key="place_658457">յՈւրհայու</placeName> <orgName key="org_2">սուրբ Աստուածածին</orgName> մաւտ ի տէր <persName key="person_185">Մխիթար արհիեպիսկոպոսին</persName> <placeName key="place_658457">Ուրհայու</placeName> տէր <persName key="person_186">Անտոն արհիեպիսկոպոսն Սեբաստացի</persName>· ես <persName key="person_184">Մխիթար եպիսկոպոս Էջմիածնեցի</persName>· որ եղաք հետ տէր <persName key="person_186">Անտոն եպիսկոպոսին</persName> լուսոյ եղբայր· ⟨եղաք⟩ դրաք զսուրբ աւետարանս յիշատակ ⟨դրաք⟩ ի վանքն <placeName key="place_658457">Ուրհայու</placeName> որ <orgName key="org_3">սուրբ Սարգիս</orgName> կոչեն ի ձեռն տէր <persName key="person_185">⟨Մխիթար⟩ արհիեպիսկոպոսին</persName> եւ տէր <persName key="person_187">Աստուածատուր եպիսկոպոսին</persName>· ես տէր <persName key="person_184">Մխիթար եպիսկոպոս Էջմիածնեցի</persName> որ աւետարանս յիշակ· դրի· ի <orgName key="org_3">սուրբ Սարգիս</orgName> յիշակ ինձ եւ ծնաւղաց իմոց եւ ամենայն յարեան մերձաւորաց ով սուրբ ընթերցողք կարդալով կամ աւրինակելով Աստուած ողորմի ասէք եւ Աստուած ողորմեսցի ձեզ եւ ի միւս անգամ գալստեանն ամէն։ Աստուած [պ]ահէ մեր եղբայր Պալին եւ իր որդին Արապշէն եւ զիւր հոգեւոր որդին տէր Դաւիթն ամէն թուին· ՌԺԹ։</colophon>
+                     <note type="contents-detail">Opens with a doxology in the second column of f. 275r. The scribe’s address to readers begins on f. 275v. <persName key="person_184">Mkhitar Bishop of Etchmiadzin</persName> records that he completed the manuscript at the <orgName key="org_1">convent of St James</orgName> in <placeName key="place_7001371">Jerusalem</placeName> on 24 May 1570 (Armenian year 1019). After completing the copy, <persName key="person_184">Mkhithar</persName> travelled to <placeName key="place_658457">Urfa</placeName> with <persName key="person_186">Archbishop Anton Sebastatsi</persName>. They stayed at the <orgName key="org_2">convent of St Mary Deipara</orgName> with <persName key="person_185">Archbishop Mkhithar</persName> of <placeName key="place_658457">Urfa</placeName>, the scribe’s namesake. The book was presented to the <orgName key="org_3">monastery of St Sargis</orgName> in <placeName key="place_658457">Urfa</placeName> through <persName key="person_185">Archbishop Mkhithar</persName> and <persName key="person_187">Bishop Astuacatur</persName>.</note>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_8-item3">
+                     <locus from="277r" to="280v">ff. 277r-280v</locus>
+                     <title xml:lang="en" key="work_844">Gospel of John: passages on four relocated original leaves</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note type="contents-detail">Four original leaves from the 21st quire (ff. 240–252), placed after the scribal colophon when the quire was recopied. The surviving text includes the following passages from the Gospel of John.</note>
+                     <note type="contents-detail">f. 277r–v: John 9:22–38. The questioning of the man born blind and his confession of faith.</note>
+                     <note type="contents-detail">f. 278r–v: John 10:29 into 11:2. Jesus declares his unity with the Father, his opponents attempt to stone him, and the narrative of Lazarus’s illness begins.</note>
+                     <note type="contents-detail">f. 279r–v: John 12:5–20. From Judas’s objection to the anointing at Bethany through Jesus’ entry into Jerusalem to the arrival of the Greek pilgrims. John 12:13 continues across the turn from recto to verso.</note>
+                     <note type="contents-detail">f. 280r–v: John 12:47–13:10. From the close of Jesus’ public discourse to the washing of the disciples’ feet. The recto ends with John 13:2, and the verso runs from John 13:3 into 13:10.</note>
+                  </msItem>
                </msContents>
+
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="paper">
-                        <extent>
-                           <dimensions type="leaf" unit="in">
-                              <height>11"</height>
-                              <width>7.25"</width>
+                     <supportDesc material="chart">
+                        <support>Oriental glazed paper.</support>
+                        <extent>280 folios<dimensions type="leaf" unit="in">
+                              <height>11</height>
+                              <width>7.25</width>
                            </dimensions>
+                           <note type="measurement-source">Dimensions as supplied by Conybeare: leaf size 11 × 7.25 inches; written area 7.625 × 4.5 inches.</note>
                         </extent>
+                        <collation>A later scribe recopied the 21st quire (ff. 240–252) and moved four of its original leaves to the end of the volume. These now occupy ff. 277r–280v, immediately after the colophon. The former vellum flyleaves were transferred to f. 23 of MS. Arm. b. 1 (C no. 45).</collation>
+                        <condition>The scribe reports that the manuscript was exposed to mud during the month-long journey from <placeName key="place_7001371">Jerusalem</placeName> to <placeName key="place_658457">Urfa</placeName>, causing many leaves to stick together. Conybeare attributes the recopying of the 21st quire (ff. 240–252) to this damage. Staining is visible throughout the volume. A semicircular tear affects the lower edges of ff. 4–22.</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="2">
-                           <dimensions type="line-height" unit="mm"/>
+                        <layout columns="2" writtenLines="21">Two columns of 21 lines<dimensions type="written" unit="in">
+                              <height>7.625</height>
+                              <width>4.5</width>
+                           </dimensions>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref> script</handNote>
+                     <handNote scope="major" script="bolorgir">Bolorgir. The final notes name <persName key="person_184">Mkhitar Bishop of Etchmiadzin</persName> as the scribe. A later scribe recopied the 21st quire.</handNote>
                   </handDesc>
+                  <decoDesc>
+                     <decoNote>Full-page Evangelist portraits precede the four Gospels: Matthew (f. 1v), Mark (f. 78v), Luke (f. 128v) and John (f. 211v). Matthew’s portrait is partly coloured in golden brown and blue. The other three are outline drawings. Luke is shown trimming a reed pen, and John dictating to Prochorus in the grotto at Patmos. The text is decorated with enlarged initials incorporating stylised bird heads and elongated foliate marginal ornaments with interlace and pointed finials. These are drawn in golden brown with touches of blue, and the marginal ornaments frame Armenian numerals. Smaller initials and text marks are in red. Impressions of the communal stamp of <placeName key="place_658457">Urfa</placeName> occur. A circular Bodleian Library stamp is visible in the lower margin of f. 278v.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Oriental binding with traces of a flap and marks on the front cover from former silver ornaments. Three thongs or chains once ran between three studs on each cover.</p>
+                  </bindingDesc>
                </physDesc>
+
                <history>
-                  <origin>
-                     <origDate calendar="#Gregorian" when="1570">1570</origDate>
-                     (<origDate calendar="#Armenian" when="1570">1019</origDate> in the Armenian calendar)
-                  </origin>
-                  <acquisition>This MS. was bought from Mr. J. Bayan, jun., on Sept. 13, 1884.</acquisition>
+                  <origin>Copied at the <origPlace><orgName key="org_1">convent of St James</orgName> in <placeName key="place_7001371">Jerusalem</placeName></origPlace> by <persName key="person_184">Mkhitar Bishop of Etchmiadzin</persName> and completed on <origDate calendar="#Gregorian" when="1570-05-24">24 May 1570</origDate> (Armenian year 1019).</origin>
+                  <provenance>The scribe records that he presented the manuscript to the <orgName key="org_3">monastery of St Sargis</orgName> in <placeName key="place_658457">Urfa</placeName> through <persName key="person_185">Archbishop Mkhithar</persName> of <placeName key="place_658457">Urfa</placeName> and <persName key="person_187">Bishop Astuacatur</persName> (colophon, ff. 275r–276v).</provenance>
+                  <provenance when="1865">The communal stamps indicate that it belonged to the commune of <placeName key="place_658457">Urfa</placeName> in 1865.</provenance>
+                  <acquisition when="1884-09-13">The Bodleian Library purchased it from J. Bayan, junior, on 13 September 1884.</acquisition>
                </history>
+
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Description revised by Lewis Read. The earlier description is Baronian and Conybeare (1918), Catalogue of the Armenian Manuscripts in the Bodleian Library, no. 13, pp. 13–14.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
+                        <p>
+                           In order to protect and preserve this artefact, access to it is restricted, and readers are asked to work from reproductions and published descriptions as far as possible. If you require access to the original, please submit your request through the Bodleian Archives and Manuscript Request service. When your request is received, you will be asked to provide further information outlining the subject of your research, the importance of this item to that research, and the resources you have already consulted. Your application will then be considered by our curatorial staff. Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact Bodleian Admissions).
+                        </p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/675ec486-943a-4bc6-8530-7f5db39d8669/"><title>Digital Bodleian</title></ref> <note>(2 selected images only)</note></bibl></surrogates></additional>
+                  <!--Add a <surrogates> entry when the verified Digital Bodleian facsimile URL is available.-->
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <classDecl>
-            <taxonomy xml:id="LCSH">
-               <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
-               </bibl>
-            </taxonomy>
-            <taxonomy xml:id="local_class">
-               <category xml:id="commentary">
-                  <catDesc>Commentary</catDesc>
-               </category>
-               <category xml:id="supercommentary">
-                  <catDesc>Supercommentary</catDesc>
-               </category>
-               <category xml:id="indices">
-                  <catDesc>Indices</catDesc>
-               </category>
-               <category xml:id="translation">
-                  <catDesc>Translation</catDesc>
-               </category>
-               <category xml:id="multipleWorks">
-                  <catDesc>multipleWorks</catDesc>
-               </category>
-               <category xml:id="abridgement">
-                  <catDesc>Abridgement</catDesc>
-               </category>
-               <category xml:id="supplement">
-                  <catDesc>Supplement</catDesc>
-               </category>
-               <category xml:id="papers">
-                  <catDesc>Papers</catDesc>
-               </category>
-               <category xml:id="documents">
-                  <catDesc>Documents</catDesc>
-               </category>
-               <category xml:id="extract">
-                  <catDesc>Extract</catDesc>
-               </category>
-               <category xml:id="gloss">
-                  <catDesc>Gloss</catDesc>
-               </category>
-               <category xml:id="selection">
-                  <catDesc>Selection</catDesc>
-               </category>
-               <category xml:id="diagrams">
-                  <catDesc>Diagrams</catDesc>
-               </category>
-               <category xml:id="notes">
-                  <catDesc>Notes</catDesc>
-               </category>
-               <category xml:id="letters">
-                  <catDesc>Letters</catDesc>
-               </category>
-               <category xml:id="versification">
-                  <catDesc>Versification</catDesc>
-               </category>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh85098523#concept" key="subject_sh85098523">Passion narratives (Gospels)</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/names/n80070711" key="subject_n80070711">Urfa (commune)</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
       <revisionDesc>
-         <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
-         </change>
-         <change when="2012-01-23">
-            <persName>Robin Meyer</persName>
-         </change>
+         <change when="2026-11-05">
+            <persName>Lewis Read</persName>Record complete</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic url="cat_pdf/p13.pdf"/>
-   </facsimile>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>
+            <!--Body paragraph provided for validation and future transcription-->
+         </p>
       </body>
    </text>
 </TEI>
+

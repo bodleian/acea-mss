@@ -1012,10 +1012,12 @@
                 </bibl>
 
                 <bibl xml:id="work_199">
-                    <title type="uniform">History of Barlaam and Josaphat</title>
-                    <title type="variant">Տաղ Յովասափայ թաքաւորի, որդւոյ թաքաւորին հնդկաց
-                        Աբեներայ</title>
-                    <!-- ../collections/armenian/MS_Canonici_Or_131.xml#MS_Canonici_Or_131%2Ditem4 -->
+               <title type="uniform">Aṙakʿel Bałišecʿi: Tał Yovasapʿu</title>
+               <title type="variant" xml:lang="hy">Տաղ Յովասափու</title>
+               <title type="variant" xml:lang="hy">Տաղ Յովասափայ թաքաւորի, որդւոյ թաքաւորին հնդկաց Աբեներայ</title>
+               <title type="variant">History of Barlaam and Josaphat</title>
+               <!-- ../collections/armenian/MS_Canonici_Or_131.xml#MS_Canonici_Or_131%2Ditem4 -->
+               <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem9 -->
                 </bibl>
 
                 <bibl xml:id="work_204">
@@ -1823,16 +1825,14 @@
                 </bibl>
 
                 <bibl xml:id="work_369">
-                    <title type="uniform">The last lines of set of directioins indicating according
-                        to the old usage on which days the liturgy of St. Basil and of St. John
-                        Chrysostom are to be used.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem1 -->
+                   <title type="uniform">Pataragamatoyc‘ (Liturgicon)</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem1 -->
                 </bibl>
 
                 <bibl xml:id="work_370">
-                    <title type="uniform">A fragment of a book of Sharakans</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem2 -->
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem3 -->
+                   <title type="uniform">Šaraknoc‘ (Armenian Hymnal)</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem2 -->
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem3 -->
                 </bibl>
 
                 <bibl xml:id="work_371">
@@ -1852,17 +1852,14 @@
                 </bibl>
 
                 <bibl xml:id="work_373">
-                    <title type="uniform">Two pieces of a leaf of a Tonakan (martyrology): the end
-                        of an unknown martyrdom; the beginning of the Martyrdom of St.
-                        Varus.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem6 -->
+                   <title type="uniform">Martyrdom of St Varus and his companions</title>
+                   <title type="variant" xml:lang="hy">Վկայաբանութիւն Սրբոյն Վարոսի։</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem6%2D3 -->
                 </bibl>
 
                 <bibl xml:id="work_374">
-                    <title type="uniform">Parts of: a 'Commentary of John Chrysostom; in Matt.
-                        XII.38; the 13th of the 'Catechetical Lectures' of Cyril of Jerusalem; 'a
-                        Commentary on Luke', V.1</title>
-                    <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem7 -->
+                   <title type="uniform">John Chrysostom: Commentary on Matthew</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem7 -->
                 </bibl>
 
                 <bibl xml:id="work_375">
@@ -1922,193 +1919,66 @@
                     <!-- ../collections/armenian/MS_Marshall_Or_137.xml#MS_Marshall_Or_137%2Ditem3 -->
                 </bibl>
 
-                <bibl xml:id="work_385">
-                    <title type="uniform">Contains Matt XV.14-31, with marginal Eusebian
-                        section-numbers</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem1 -->
-                </bibl>
 
-                <bibl xml:id="work_386">
-                    <title type="uniform">Contains Matt. XXV. 45 - XXVI. 17, with marginal Eusebian
-                        section-numbers.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem2 -->
-                </bibl>
-
-                <bibl xml:id="work_387">
-                    <title type="uniform">Contains Matt. XXVI. 34-45, with marignal Eusebian
-                        section-numbers.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem3 -->
-                </bibl>
-
-                <bibl xml:id="work_388">
-                    <title type="uniform">Contains parts ot Mark VIII. 38 - IX. 6, with marginal
-                        Eusebian section-numbers.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem4 -->
-                </bibl>
-
-                <bibl xml:id="work_389">
-                    <title type="uniform">Contains Luke VII. 19-29, with marginal Eusebian
-                        section-numbers.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem5 -->
-                </bibl>
-
-                <bibl xml:id="work_390">
-                    <title type="uniform">The lower part of a leaf, containin on the recto Luke
-                        VIII. 16, 18, 19, and on the verso Luke VIII. 21, 22, 24.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem6 -->
-                </bibl>
-
-                <bibl xml:id="work_392">
-                    <title type="uniform">Fragments of Gospels</title>
-                    <title type="variant">The fragments formed part of the same copy of the Gispels:
-                        they contain, of course with some deficiencies, the passages Luke IX. 1-12,
-                        with marginal Eusebian section-numbers, and 42-57.</title>
-                    <title type="variant">Two fragments of different MSS. The first fragment
-                        contains Luke VIII. 51, 54-56; the second Luke XXI. 4, 6, 7, 9, 12, with
-                        marginal Eusebian section-numbers.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem7 -->
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem8 -->
-                </bibl>
-
-                <bibl xml:id="work_393">
-                    <title type="uniform">Contains part of the Ritual, viz. a portion of the Canon
-                        of the third day of the Burial of a priest; parts of these lessons and
-                        prayers are not in the printed editions.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem9 -->
+               <bibl xml:id="work_393">
+               <title type="uniform">Maštoc‘: Office for the Third Day of the Burial of a Priest</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem9 -->
                 </bibl>
 
                 <bibl xml:id="work_394">
-                    <title type="uniform">Contains the latter part of the Canon of the Benediction
-                        of cereals, harvest, and vintage, and nearly all the Prayer in time of
-                        drought (Վասն Երաշտութեան).</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem10 -->
+               <title type="uniform">Maštoc‘: Canon of the Benediction of Cereals, Harvest, and Vintage</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem10 -->
                 </bibl>
 
                 <bibl xml:id="work_395">
-                    <title type="uniform">Belonging to a lectionary for festivals (Տօնական), it
-                        contains on the recto the latter part of Matt. XXIII.37-39, followed by the
-                        heading of the day of commemoration of the council of Ephesus on the 30th of
-                        Arats (=Feb. 18) followed ny the historical discourse of Philoxenus, bishop
-                        of Mabug (Membij in Syria), on the same council, in framgents.</title>
-                    <title type="variant">Երանելւոյն Փիղիքսիանոսի Նաբուքայ եպիսկապոսի (sic) Պատճառք
-                        ժողովոյն …յ եւ Եփեսոսի քակտոիմն Նստորի (sic) …</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem11 -->
+               <title type="uniform">Discourse attributed to Philoxenus of Mabbug on the Council of Ephesus</title>
+               <title type="variant">Արանց ամսոյ ի Լ. Եփեսոսի սուրբ ժողովոյն որ յաղագս ամբերշտին Նստորի եղեւ յաւուրս Թեոդոսի թագաւորին, որ փոքրն կոչեցաւ Թեոդոս. Երանելոյն Փիղիքսիանոսի նաբուքայ եպիսկապոսի Պատճարք ժողովոյն […] յԵփեսոս ի քակտումն Նստորի[…]:</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem11-2 -->
                 </bibl>
 
                 <bibl xml:id="work_397">
-                    <title type="uniform">Belonged to a Lectionary for festivals (Տօնական), and
-                        contains the last lines of the 42nd lesson and the beginning of the homily
-                        of Theodotus, bishop of Ancyra, on the Nativity of Christ.</title>
-                    <title type="variant">ԽԲ. Թեոդոտոսի եպիսկոպոսի Անկիւրա [խաւսք ի] ծնունդն տ՟ն
-                        մերոյ յ՟ի ք՟ի …</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem12 -->
+               <title type="uniform">Theodotus of Ancyra: Homily on the Nativity of Christ</title>
+               <title type="variant">Թեոդոտոսի եպիսկոպոսի Անկիւրա [խաւսք ի] ծնունդն տեառն մերոյ Յիսուսի Քրիստոսի, եթե Աստուած է [...]լն ի կուսէն մարդ էղեալ սքանչել[աւք] եւ ոչ փոխադրութեամբ էութեանն [եւ եթե] մի եւ նոյն է եւ այն եւ այս ասացեալ [եւ ոչ մտ]ածութեամբ եւ ոչ խորհրդով անջատեալ</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem12-2 -->
                 </bibl>
 
                 <bibl xml:id="work_399">
-                    <title type="uniform">Contains a portion of the XVIth (according to the Greek
-                        text, XXth) of the Lesser Monastic Rules (called in the Armenian Հարցողաց
-                        գիրք) of St. Basil, but part of the second page is almost or quite
-                        illegible.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem13 -->
-                </bibl>
-
-                <bibl xml:id="work_400">
-                    <title type="uniform">The lower part of a leaf: on the first page, after these
-                        words of the end of some ascetic treatise, հանդերձեալքս, եւ բազում փութոյ
-                        արժանաւորք այժմուքս, follows the garbled title: Վասն եղբայրսիրու - On
-                        brotherly love. On the verso: առաքինութեամբ: ԻԲ. Աղաւթք առա՟ծ վասն
-                        յառաքինութեան յառաջադիմութեան - XXII. Prayer to God for progress in
-                        virtue.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem14 -->
+               <title type="uniform">Basil of Caesarea: Monastic Rules</title>
+               <title type="variant">Հարցողաց Գիրք</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem13 -->
                 </bibl>
 
                 <bibl xml:id="work_401">
-                    <title type="uniform">Contains 4 fragments of the works of Evagrius of
-                        Pontus.</title>
-                    <title type="variant">a) Եւագրեայ Բան խրատու. Զերախայրին կալոյ իմոյ …; b)
-                        Եւագրեայ Առ մարտիրոսն.; c) Նորին Եւագրեայ .Եթէ ունիցիս ընդ քեւ եղբարս …; d)
-                        Հաւատք որ ի Նիկիայ</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15 -->
-                </bibl>
-
-                <bibl xml:id="work_403">
-                    <title type="uniform">[Unidentified content]</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem16 -->
-                </bibl>
-
-                <bibl xml:id="work_404">
-                    <title type="uniform">A leaf of the Gospels containt Marl X. 15-38, with
-                        marginal Eusebian section-numbers, and with corresponding harmonies at the
-                        bottom of the page.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem17 -->
-                </bibl>
+               <title type="uniform">Evagrius of Pontus: Եւագրեայ բան խրատու</title>
+               <title type="variant">Եւագրեայ բան խրատու</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15 -->
+                    </bibl>
 
                 <bibl xml:id="work_405">
-                    <title type="uniform">A leaf of a Ritual, containt part of the service for the
-                        Burial of a priest.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem18 -->
+               <title type="uniform">Maštoc‘: Service for the Burial of a Priest</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem18 -->
                 </bibl>
 
                 <bibl xml:id="work_406">
-                    <title type="uniform">Contains portions of miral treatises.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem19 -->
-                </bibl>
-
-                <bibl xml:id="work_407">
-                    <title type="uniform">a) Fragment of a commentary on Is.XL.8, discoursing the
-                        superior excellence of the soul as compared to the body; b) Two extracts
-                        from Lives of Fathers; c) Fragment of some unknwon commentary, in which the
-                        Temptation of Jesus in the wilderness is spoken of.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem20 -->
+               <title type="uniform">Basil of Caesarea: Against Those Who Are Angry</title>
+               <title type="variant">Զբարկացողաց</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem19 -->
                 </bibl>
 
                 <bibl xml:id="work_408">
-                    <title type="uniform">Fragments of a lectionary.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem21 -->
+               <title type="uniform">Čašoc‘ (Armenian Lectionary)</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem21 -->
                 </bibl>
 
                 <bibl xml:id="work_409">
-                    <title type="uniform">(Verso:) End of a homily; (Recto:) Beginning of the Homily
-                        of John Chrysostom on the Incomprehensible</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem22 -->
+                   <title type="uniform">John Chrysostom: Homily on the Incomprehensible</title>
+                   <title type="variant">Յոհաննու Ոսկեբերանի յանհասից գրոց առ աննմանսն յաղագս անհասանելոյն :Բ: Յաղագս անհասանելոյն եւ թէ ոչ նուաստանալն Աստուածոյ բերելի է Սերովբէիցն։</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem22 -->
                 </bibl>
 
                 <bibl xml:id="work_410">
-                    <title type="uniform">Hosea V.7-13</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem23 -->
-                </bibl>
-
-                <bibl xml:id="work_411">
-                    <title type="uniform">Luke XIV.16-32</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem24 -->
-                </bibl>
-
-                <bibl xml:id="work_412">
-                    <title type="uniform">Matt. XIVII.12 - XIX. 12, in fragments.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem25 -->
-                </bibl>
-
-                <bibl xml:id="work_413">
-                    <title type="uniform">(Recto:) Last verse of Matthew; (Verso:) Mark I.12-13 in
-                        seven lines.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem26 -->
-                </bibl>
-
-                <bibl xml:id="work_414">
-                    <title type="uniform">Luke XII. 19-40, XIII.22 - XIV.7, with marginal
-                        section-numbers or Ammonian canons.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem27 -->
-                </bibl>
-
-                <bibl xml:id="work_415">
-                    <title type="uniform">Matt. III.13 - IV.8</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem28 -->
-                </bibl>
-
-                <bibl xml:id="work_416">
-                    <title type="uniform">Mark V.13-33, VII.24-28, IX.17-33, X.43-45, XIII. 2-3,
-                        XIII.8-9,11-12.</title>
-                    <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem29 -->
+               <title type="uniform">Book of Hosea</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem23 -->
                 </bibl>
 
                 <bibl xml:id="work_417">
@@ -4589,7 +4459,76 @@
                     <title type="uniform">Xanjali</title>
                     <!-- ../collections/georgian/MS_Wardr_c_1_3.xml#MS_Wardr_c_1_3-item1 -->
                 <!--old_id: work_52--></bibl>
+
+                <bibl xml:id="work_932">
+               <title type="uniform">Maštoc‘: Prayer in Time of Drought</title>
+               <title type="variant">Աղօթք վասն երաշտութեան</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem10-2 -->
+                </bibl>
+
+                <bibl xml:id="work_933">
+               <title type="uniform">Evagrius of Pontus: To the Martyrs</title>
+               <title type="variant">Եւագրեայ առ մարտիրոսսն</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15-2 -->
+                </bibl>
+
+                <bibl xml:id="work_934">
+               <title type="uniform">Evagrius of Pontus: On the Resurrection</title>
+               <title type="variant">Վասն յարութեան</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15-3 -->
+                </bibl>
+
+                <bibl xml:id="work_935">
+                <title type="uniform">Evagrius of Pontus: The Faith of Nicaea</title>
+               <title type="variant">Հաւատք որ ի Նիկիայ</title>
+                   <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem15-5 -->
+                </bibl>
+
+                <bibl xml:id="work_936">
+               <title type="uniform">Basil of Caesarea: On the Beginning of Proverbs</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem19-2 -->
+                </bibl>
+
+                <bibl xml:id="work_937">
+               <title type="uniform">Apophthegmata Patrum</title>
+               <!-- ../collections/armenian/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem20-3 -->
+                </bibl>
+
+                <bibl xml:id="work_938">
+                   <title type="uniform">Maštoc‘: Canon of Marriage</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem4%2D2 -->
+                </bibl>
                 
+                <bibl xml:id="work_939">
+                   <title type="uniform">Maštoc‘: Benediction of a Monk</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem4%2D3 -->
+                </bibl>
+                
+                <bibl xml:id="work_940">
+                   <title type="uniform">Martyrdom of Hemia, Eulogia and Philgotia</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem6 -->
+                </bibl>
+                
+                <bibl xml:id="work_941">
+                   <title type="uniform">Cyril of Jerusalem: Catechetical Lecture 13</title>
+                   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem7%2D2 -->
+                </bibl>
+
+                <bibl xml:id="work_942">
+                   <title type="uniform">Cyril of Jerusalem: Letter on the Cross</title>
+                   <title type="variant">Epistula ad Constantium imperatorem</title>
+                   <note>Identified in MS. Arm. d. 2 at ff. 231vA-234vA. The external reference identifies the work; it does not establish the precise Armenian recension.</note>
+                   <note type="links">
+                      <list type="links">
+                         <item>
+                            <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/4954/">
+                               <title>Pinakes (CPG 3587)</title>
+                            </ref>
+                         </item>
+                      </list>
+                   </note>
+                   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+                </bibl>
                 
             </listBibl>
         </body>

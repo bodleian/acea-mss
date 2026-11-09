@@ -19,7 +19,58 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body><listPlace>
+      <body>
+         
+<listPlace>
+
+   <place type="mountain" xml:id="place_1">
+   <placeName type="index">Mount of Olives</placeName>
+   <placeName type="variant">Mount Olivet</placeName>
+   <note>Named in the assembly and procession directions in MS. Arm. d. 2. Its occurrence is liturgical, not evidence of the manuscript's place of production.</note>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q205976">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+<place type="site" xml:id="place_2">
+   <placeName type="index">Golgotha</placeName>
+   <placeName type="variant">Calvary</placeName>
+   <note>Named as an assembly station in MS. Arm. d. 2, f. 34rA.</note>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q170516">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+<place type="site" xml:id="place_3">
+   <placeName type="index">Holy Sion (liturgical station)</placeName>
+   <placeName type="variant">holy Sion</placeName>
+   <note>The station named in the Jerusalem-type liturgical directions of MS. Arm. d. 2. This local record preserves the recorded designation without identifying it with a particular modern building.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+<place type="site" xml:id="place_4">
+   <placeName type="index">Lazareum (liturgical station)</placeName>
+   <placeName type="variant">Lazareum</placeName>
+   <note>Named as an assembly station in MS. Arm. d. 2, ff. 31vB and 136vB. This local record does not equate the station with an entire settlement or a particular modern building.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</place>
+
+
+            
             <place type="settlement" xml:id="place_1341">
                <placeName type="index">Memnoneia - Djeme (Thebes west)</placeName>
                <note type="links"><list type="links">
@@ -38,6 +89,7 @@
                      <item><ref target="http://vocab.getty.edu/tgn/7526057"><title>TGN</title></ref></item>
                   </list></note>
             </place>
+            
             <place type="country" xml:id="place_7014986">
                <placeName type="index">Egypt (ancient)</placeName>
                <placeName type="variant">Ancient Egyptian</placeName>
@@ -54,8 +106,259 @@
                      <item><ref target="http://vocab.getty.edu/tgn/7014986"><title>TGN</title></ref></item>
                   </list></note>
             </place>
-            </listPlace>
+
+         <place type="settlement" xml:id="place_7002499">
+   <placeName type="index">Ephesus</placeName>
+   <placeName type="variant">Ephesos</placeName>
+   <placeName type="variant">Efes</placeName>
+   <placeName type="variant" xml:lang="hy">Եփեսոս</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002499">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q47611">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://pleiades.stoa.org/places/599612">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002473">
+   <placeName type="index">Constantinople</placeName>
+   <placeName type="variant">Istanbul</placeName>
+   <placeName type="variant">Byzantium</placeName>
+   <placeName type="variant">Constantinopolis</placeName>
+   <placeName type="variant" xml:lang="hy">Կոստանդինուպաւղսի</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002473">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q16869">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+            
+<place type="settlement" xml:id="place_648771">
+   <placeName type="index">Seleucia ad Calycadnum</placeName>
+   <placeName type="variant">Seleucia</placeName>
+   <placeName type="variant">Silifke</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://pleiades.stoa.org/places/648771">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_648612">
+   <placeName type="index">Korykos</placeName>
+   <placeName type="variant">Corycus</placeName>
+   <placeName type="variant">Korghos</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://pleiades.stoa.org/places/648612">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q2167586">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="region" xml:id="place_7002470">
+   <placeName type="index">Cilicia</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002470">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q620864">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7003321">
+   <placeName type="index">Vienna</placeName>
+   <placeName type="variant">Wien</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7003321">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q1741">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7011781">
+   <placeName type="index">London</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7011781">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q84">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002344">
+   <placeName type="index">Anamur</placeName>
+   <placeName type="variant">Anamour</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002344">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002325">
+   <placeName type="index">Alanya</placeName>
+   <placeName type="variant">Alaya</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002325">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_7002420">
+   <placeName type="index">Bursa</placeName>
+   <placeName type="variant">Brusa</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7002420">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+            <place type="settlement" xml:id="place_7001371">
+   <placeName type="index">Jerusalem</placeName>
+   <placeName type="variant" xml:lang="hy">Երուսաղէմ</placeName>
+   <placeName type="variant" xml:lang="hy">յԵրուսաղէմ</placeName>
+   <placeName type="variant" xml:lang="hy">յԵրուսաղէմա</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://vocab.getty.edu/page/tgn/7001371">
+               <title>Getty TGN</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q1218">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+
+<place type="settlement" xml:id="place_658457">
+   <placeName type="index">Urfa (Edessa)</placeName>
+   <placeName type="variant">Urfa</placeName>
+   <placeName type="variant">Edessa</placeName>
+   <placeName type="variant">Şanlıurfa</placeName>
+   <placeName type="variant" xml:lang="hy">Ուրհայ</placeName>
+   <placeName type="variant" xml:lang="hy">Ուրհայու</placeName>
+   <placeName type="variant" xml:lang="hy">յՈւրհայու</placeName>
+   <placeName type="variant" xml:lang="hy">յԵթեսիայ</placeName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://pleiades.stoa.org/places/658457">
+               <title>Pleiades</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q133118">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</place>
+            
+   </listPlace>
+
+         
+         
       <listOrg>
+         <org xml:id="org_1">
+   <orgName type="display">Convent of St James, Jerusalem</orgName>
+   <orgName type="variant" xml:lang="hy">սուրբ Յակոբայ</orgName>
+   <note>The institution in Jerusalem identified in the colophon of MS. Arm. d. 8 as the place where the manuscript was copied and completed in 1570.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</org>
+
+<org xml:id="org_2">
+   <orgName type="display">Convent of St Mary Deipara, Urfa</orgName>
+   <orgName type="variant" xml:lang="hy">սուրբ Աստուածածին</orgName>
+   <note>The institution in Urfa where the scribe Mkhitar and Anton Sebastatsi stayed with Archbishop Mkhithar of Urfa, as recorded in the colophon of MS. Arm. d. 8.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</org>
+
+<org xml:id="org_3">
+   <orgName type="display">Monastery of St Sargis, Urfa</orgName>
+   <orgName type="variant" xml:lang="hy">սուրբ Սարգիս</orgName>
+   <note>The institution in Urfa to which the scribe records presenting MS. Arm. d. 8 through Archbishop Mkhithar and Bishop Astuacatur.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</org>
+         
          <org xml:id="org_3025">
             <orgName>Apa Apollo Monasterion (Deir el-Bala’izah)</orgName>
             <note type="links"><list type="links">

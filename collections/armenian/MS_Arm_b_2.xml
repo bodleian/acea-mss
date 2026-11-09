@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
-            <funder>JISC-??-</funder>
-            <principal>Gillian Evison</principal>
+            <title>MS. Arm. b. 2</title>
+            <funder>[Agreed Bodleian funding statement still to be supplied]</funder>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>Sukias Baronian</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>F. C. Conybeare</persName>
+            </respStmt>
+            <respStmt>
+               <resp when="2026">Cataloguer</resp>
+               <resp when="2026">Encoding</resp>
+               <persName>Lewis Read</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="#Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date of first online publication to be confirmed]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -20,16 +32,18 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                   </addrLine>
                </address>
             </pubPlace>
-            <idno>OCIMCO</idno>
             <idno type="msID">MS_Arm_b_2</idno>
-            <idno type="catalogue">Armenian</idno>
+            <idno type="catalogue">
+               Armenian
+            </idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:id="MS_Arm_b_2" xml:lang="en">
@@ -40,201 +54,706 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">MSS. Arm. b.</collection>
-                  <idno type="shelfmark">MS. Arm. b. 2</idno><idno type="ieArk">ark:29072/x0cn69m4600w</idno><idno type="crArk">ark:29072/x0cj82k776px</idno>
+                  <idno type="shelfmark">MS. Arm. b. 2</idno>
+                  <idno type="ieArk">ark:29072/x0cn69m4600w</idno>
+                  <idno type="crArk">ark:29072/x0cj82k776px</idno>
                </msIdentifier>
-               <msContents>
-                  <summary>Old Fly-leaves</summary>
-                  <msItem xml:id="MS_Arm_b_2-item1" n="1">
-                     <locus>f. 1</locus>
-                     <title xml:lang="en" key="work_369">The last lines of set of directioins indicating according to the old usage on which days the liturgy of St. Basil and of St. John Chrysostom are to be used.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum, a leaf with its margin cut away. Size 5.375" by 3". Text on recto of 13 lines, in regular Cicilian bolorgir of 13th cent. Full text in ff. 213(b) -214 of MS. Arm. VI of the Royal Library in Munich. On the verso is a partly decayed picture in Byzantine style, with gold background: it represents an officiating bishop (probably St. Basil) before an altar with a canopy, taking in his hand a (liturgical) book.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_2-item2" n="2">
-                     <locus>f. 2</locus>
-                     <title xml:lang="en" key="work_370">A fragment of a book of Sharakans</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Glazed cotton paper, brownish. Size, 5.25" by 3.25". Text, 4" by 2.75" of 23 lines. Written in bolorgir of the 14th cent., with musical notes, containing a portion of the fourth tone (դ՟ձ) of the Canon of Martyrs. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_2-item3" n="3">
-                     <locus>f. 3</locus>
-                     <title xml:lang="en" key="work_370">A fragment of a book of Sharakans</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Glzaed paper, brownish. Size, 5" by 3.375". Text, bordered with double red line on left and single on right, 3.25" by 2" of 21 and 19 lines. Written in bolorgir of the 14th or 15th cent., without musical notes, containing the latter half of the Canon of teh Eve of the Theophany. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_2-item4" n="4">
-                     <locus>f. 4</locus>
-                     <title xml:lang="en" key="work_371">Portions (of a few lines each) of the Burial of a Priest, of teh Canon of Marriage, the Benediction of a Monk, the Burial of a Monk.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum, discoloured. The upper part of six leaves of an old Ritual, closely resembling the oldest copy preserved in San Lazaro in Venice. Size, about 7" by 4". Text, originally about 7" by 5", in two columns of 21 lines each. Written in small Erkat'agir with smaller ones in rubrics. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_2-item5" n="6">
-                     <locus>f. 10</locus>
-                     <title xml:lang="en" key="work_372">Three fragmentary leaves of a chorister's lectionary - portions of: the Week of St. Ripsime and her Company; the Feast of Shołakath (a Saturday), and the last part of the preceding Thursday (?); lessons of the 6th and 7th days of the octave of Khatchveratz (Exaltation of the Holy Cross).</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum. First top lines and the inner margins cut away. Size, 8.25" by 6.125". Text, originally 7.75" by 4.875", in two columns of about 25 lines each. Written in distinct bolorgir of the 14th cent., with rubrications. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_2-item6" n="9">
-                     <locus>f. 13</locus>
-                     <title xml:lang="en" key="work_373">Two pieces of a leaf of a Tonakan (martyrology): the end of an unknown martyrdom; the beginning of the Martyrdom of St. Varus.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. Original size, including six missing lines, 14.5" by 7.25". Text, originally 12.25" by 4.5", in two columns of 32 lines each. Written in small square Erkat'agir of the 11th or 12th cent. The first article concludes with a colophon of the copyist in four lines, in which teh name 'George' as owner is contained. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_2-item7" n="10">
-                     <locus>f. 14</locus>
-                     <title xml:lang="en" key="work_374">Parts of: a 'Commentary of John Chrysostom; in Matt. XII.38; the 13th of the 'Catechetical Lectures' of Cyril of Jerusalem; 'a Commentary on Luke', V.1</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum, stained. Two leaves from one MS. Size, 11.5" by 7.875". Text, originally in two columns, the first leafe measures 10" by 5.75", in 22 lines, and the second 11" by 5.75", in 25 lines. Written in large square Erkat'agir of the 12th cent. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_2-item8" n="12">
-                     <locus>f. 16</locus>
-                     <title xml:lang="en" key="work_375">Epistle of Eusebius to Carpianus</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum. A single folio cut in half horizontally, but rejoinedL lateral margins curtailed. Size, upper half 9.75" by 6.75", lower 9.75" by 6.125". Verso left blank. Text on recto of 30 lines of varying lenght as defined by surrounding ornamental design. The latter consists of the following: A horizontal stripe of conventional fruit and foliage work, in green and blue on gold background, extends across the bottom of the page, from which rise vertical stripes of loose rope-work in blue on gold background, met at the top and joined by a stripe of fruit and foliage work similar to that below, but not carried to the edges of the page. The rectilinear frame so formed is bordered within by a purple diaper pattern edged internally by a red stripe of elliptical form with ogival projections. Within the space defined by this stripe is written the text. The rectilinear frame carries above two peacocks in profile, thei beaks toward a central one which faces the reader with outspread tail: their colours blue, red, and gold. At each upper corner an arabesque of blue rope-work on gold; the side margins occupied by branchwork of blue, supporting green global fruits veined with gold. On the left a red snake raises himself erect to taste the fruit. Text in small Erkat'agir such as is used in rubrics and marginal notes of 10th and 11th cent. gospels. Printed by N. Karamiantz in his cataligue of the Armenian MSS. of Berlin. Given by Dr. Baronian.</note>
-                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n63/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
-                        Bodleian Library, no. 49, pp. 103-105.</ref></bibl></listBibl></msItem>
-                  </msItem>
-               </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <extent>
-                           <dimensions type="leaf" unit="in">
-                              <height>19.25"</height>
-                              <width>15.75"</width>
+                        <support>Modern bound volume containing manuscript fragments and later additions on parchment and paper.</support>
+                        <extent>One cover page and 24 folios, containing 16 numbered fragments.<dimensions type="binding" unit="in">
+                              <height>19.25</height>
+                              <width>15.75</width>
                            </dimensions>
                         </extent>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1">
-                           <dimensions type="line-height" unit="mm"/>
-                        </layout>
-                     </layoutDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote scope="major" script="unknown">Unknown script</handNote>
-                  </handDesc>
+                  <bindingDesc>
+                     <p>Modern binding.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
-                  <origin>
-                     
-                     
-                  </origin>
-                  <acquisition>This MS. given by Dr. Baronian.</acquisition>
+                  <acquisition>The volume was assembled by the Bodleian Library from material donated by Dr Baronian and later additions, including Units 14 and 15 with matching gift notes dated 27 October 1919.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Description revised by Lewis Read. The earlier description is Baronian and Conybeare (1918), Catalogue of the Armenian Manuscripts in the Bodleian Library, no. 49, pp. 103–105.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
+                        <p>
+                           In order to protect and preserve this artefact, access to it is restricted, and readers are asked to work from reproductions and published descriptions as far as possible. If you require access to the original, please submit your request through the Bodleian Archives and Manuscript Request service. When your request is received, you will be asked to provide further information outlining the subject of your research, the importance of this item to that research, and the resources you have already consulted. Your application will then be considered by our curatorial staff. Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact Bodleian Admissions).
+                        </p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/dfce4bc3-7979-4ad5-b898-1689ea6df3cc/"><title>Digital Bodleian</title></ref> <note>(6 selected images only)</note></bibl></surrogates></additional>
+                  <!--Add a <surrogates> entry when the verified Digital Bodleian facsimile URL is available.-->
+               </additional>
+
+               <msPart xml:id="MS_Arm_b_2-part1">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 1 (f. 1r-1v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 1; f. 1r–1v. Fragment of a Pataragamatoyc‘ (Liturgicon). The recto preserves the end of a rubric specifying the days on which the Divine Liturgies of <persName key="person_159">St Basil of Caesarea</persName> and <persName key="person_41">St John Chrysostom</persName> are to be celebrated. The verso bears a gold-ground miniature of an officiating bishop, possibly <persName key="person_159" cert="low">St Basil</persName>, before a canopied altar.</summary>
+                     <msItem xml:id="MS_Arm_b_2-item1">
+                        <locus>f. 1r-1v</locus>
+                        <title xml:lang="en" key="work_369">Pataragamatoyc‘ (Liturgicon), fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 1r: Conclusion of rubric governing the choice of <persName key="person_159">Basil</persName>’s or <persName key="person_41">Chrysostom</persName>’s liturgy.</note>
+                        <incipit xml:lang="hy">…կամի կիւրակէ սուրբ <persName key="person_41">Յովհաննուն</persName> կատարի:…</incipit>
+                        <explicit xml:lang="hy">…Բայց զաւետիս Աստուածածնին յոր ինչ աւր գայ յայն տաւնեա ի փառս Քրիստոսի…</explicit>
+                        <note type="contents-detail">Folio 1v:  Gold-ground miniature of an officiating bishop, possibly <persName key="person_159" cert="low">St Basil</persName>, before a canopied altar.</note>
+                        <note type="comparison">Parallel recorded in the examination worksheet: <ref target="https://www.digitale-sammlungen.de/en/view/bsb00110894?page=424,425">Munich, BSB Cod.armen. 6, ff. 205v–206r, images 424–425</ref>, The rubric follows <persName key="person_41">Chrysostom</persName>’s liturgy; <persName key="person_159">Basil</persName>’s portrait is on f. 206v and his liturgy begins on f. 207r.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Vellum.</support>
+                           <extent>Folio. 1r-1v<dimensions type="leaf" unit="in">
+                                 <height>5.375</height>
+                                 <width>3</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Vellum, 5.375" by 3" inches</note>
+                           </extent>
+                           <collation>Margin trimmed; original leaf dimensions unknown.</collation>
+                           <condition>The recto text remains legible despite local staining. The image on the verso is partially decayed, but still in good condition.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Single column of 13 lines on f. 1r; miniature on f. 1v.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="bolorgir">Bolorgir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>The verso bears a gold-ground miniature of an officiating bishop in Byzantine style, possibly <persName key="person_159" cert="low">St Basil</persName>, before a canopied altar. The bishop is shown handling a liturgical book before the altar.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1300">No later than 13th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part2">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 2 (f. 2r-2v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 2; f. 2r–v. Fragment of a Šaraknoc‘ with musical notation. Part of the Canon of All Martyrs (Կանոն համօրէն մարտիրոսաց) in the fourth voice (ԴՁ).</summary>
+                     <msItem xml:id="MS_Arm_b_2-item2">
+                        <locus>f. 2r-2v</locus>
+                        <title xml:lang="en" key="work_370">Šaraknoc‘: Canon of All Martyrs, fourth voice (ԴՁ), fragment</title>
+                        <title xml:lang="hy" key="work_370">Կանոն համօրէն մարտիրոսաց</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 2r: End of the First Հարց, specifically its concluding Գործատուն. Begins mid-stanza.</note>
+                        <incipit xml:lang="hy">… թշնամւոյն եւ դասակցեալք …</incipit>
+                        <explicit xml:lang="hy">… եւ փառաւոր…</explicit>
+                        <note type="contents-detail">Folio 2r:  First Ողորմեա</note>
+                        <incipit xml:lang="hy">Որք զբաժակ մահու ընդ քեզ արբին …</incipit>
+                        <note type="contents-detail">Folio 2r:  First Տէր յերկնից continuing onto the verso</note>
+                        <incipit xml:lang="hy">Այսօր յիշատակ սրբոցն …</incipit>
+                        <note type="contents-detail">Folio 2v: Second Հարց</note>
+                        <incipit xml:lang="hy">Սուրբ ես Տէր …</incipit>
+                        <note type="contents-detail">Folio 2v:  Second Ողորմեա</note>
+                        <incipit xml:lang="hy">Ըզքեզ սիրողաց …</incipit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Glazed cotton paper.</support>
+                           <extent>Folio. 2r-2v<dimensions type="leaf" unit="in">
+                                 <height>5.25</height>
+                                 <width>3.25</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Glazed cotton paper, 5.25" by 3.25" inches</note>
+                           </extent>
+                           <condition>Parts of the outer edges of the folio are torn away. Text is heavily faded and weathered.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Single column of 23 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="bolorgir">Bolorgir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Capitals in red ink; musical notation.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1400">No later than 14th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part3">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 3 (f. 3r-3v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 3; f. 3r–v. Fragment of a Šaraknoc‘. Part of the Canon for the Eve of the Theophany (Կանոն ծննդեան եւ աստուածայայտնութեան ճրագալուցին).</summary>
+                     <msItem xml:id="MS_Arm_b_2-item3">
+                        <locus>f. 3r-3v</locus>
+                        <title xml:lang="en" key="work_370">Šaraknoc‘: Canon for the Eve of the Theophany, fragment</title>
+                        <title xml:lang="hy" key="work_370">Կանոն ծննդեան եւ աստուածայայտնութեան ճրագալուցին</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 3r: End of the Մեծացուսցէ</note>
+                        <explicit xml:lang="hy">… զբանն Աստուած մարմնով ծնար ազգ եւ ազի։</explicit>
+                        <note type="contents-detail">Folio 3r: Ողորմեա (red initial)</note>
+                        <incipit xml:lang="hy">Անկանիմք առաջի քո, Աստուածածին …</incipit>
+                        <explicit xml:lang="hy">… եւ յամենայն վտանգից մերոց։</explicit>
+                        <note type="contents-detail">Folio 3r: Տէր յերկնից (red initial)</note>
+                        <incipit xml:lang="hy">Աւրհնեմք ըզքեզ Աստուած …</incipit>
+                        <explicit xml:lang="hy">… փառք ի բարձունս Աստուծոյ։</explicit>
+                        <note type="contents-detail">Folio 3r–3v: Մանկունք (red initial)</note>
+                        <incipit xml:lang="hy">Ծագումն հրաշալի, որ անյայտ էր ի մէնջ …</incipit>
+                        <explicit xml:lang="hy">… եւ եղեր վերընկալ աստուածային Բանին։</explicit>
+                        <note type="contents-detail">Folio 3v: Ճաշու (red initial)</note>
+                        <incipit xml:lang="hy">Զանճառելի լուսոյ մայր …</incipit>
+                        <explicit xml:lang="hy">… զնա ամենեքեան աւրհնութեամբ մեծացուցա[նեմք]։</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Glazed paper.</support>
+                           <extent>Folio. 3r-3v<dimensions type="leaf" unit="in">
+                                 <height>5</height>
+                                 <width>3.375</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Glazed paper, 5" by 3.375" inches</note>
+                           </extent>
+                           <condition>Parts of the outer edges of the folio are torn.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folio 3r: Single columns of 21 lines; Folio 3v: Single columns of 19 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="bolorgir">Bolorgir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Capitals in red ink; Red vertical lines border text.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1500">No later than 15th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part4">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 4/5 (ff. 4r-9v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 4/5; ff. 4r-9v; Fragments of a Maštoc‘, comprising portions of the Service for the Burial of a Priest (ff. 4–7), the Canon of Marriage (f. 8r), the beginning of the Benediction of a Monk (f. 8v), and a passage possibly from the Burial of a Monk (f. 9)</summary>
+                     <msItem xml:id="MS_Arm_b_2-item4">
+                        <locus>ff. 4r-7v</locus>
+                        <title xml:lang="en" key="work_405">Maštoc‘: Service for the Burial of a Priest (fragments)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folios 4r–7v: Maštoc‘, Service for the Burial of a Priest. Fragmentary portions of the service. On f. 5v, a rubric directs the priests to make the sign of the cross over the body, place it on the bier, and lift and carry it.</note>
+                        <note type="bibliography">For the Service for the Burial of a Priest, Baronian–Conybeare cite the Maštoc‘ printed at Venice in 1831, pp. 367–368, 371–372, and 375–377, and one further lesson in the edition printed at Constantinople in 1807, pp. 353–354.</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_2-item4-2">
+                        <locus>f. 8r</locus>
+                        <title xml:lang="en" key="work_938">Maštoc‘: Canon of Marriage (fragment)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 8r: Maštoc‘, Canon of Marriage</note>
+                        <note type="bibliography">For the Canon of Marriage, they cite the Venice edition, pp. 77 and 82.</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_2-item4-3">
+                        <locus>f. 8v</locus>
+                        <title xml:lang="en" key="work_939">Maštoc‘: Benediction of a Monk (beginning)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 8v: Maštoc‘, Benediction of a Monk</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_2-item4-4">
+                        <locus>f. 9r-9v</locus>
+                        <title xml:lang="en">Maštoc‘: Burial of a Monk (?)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 9: Maštoc‘, Burial of a Monk (?)</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Thin Vellum.</support>
+                           <extent>folios. 4r-9v<dimensions type="leaf" unit="in">
+                                 <height>7</height>
+                                 <width>4</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Thin Vellum, 7" by 4" inches</note>
+                           </extent>
+                           <collation>Text is cropped along outer margin</collation>
+                           <condition>Folios are all heavily mutilated, upper portions survive, with additional loss along the outer margins.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folio 4r: Two columns of 7 lines; Folio 4v: Two columns of 7 lines; Folio 5r: Two columns of 9 lines; Folio 5v: Two columns of 9 lines; Folio 6r: Two columns of 8 lines; Folio 6v: Two columns of 8 lines; Folio 7r: Two columns of 4 lines; Folio 7v: Two columns of 4 lines; Folio 8r: Two columns of 9 lines; Folio 8v: Two columns of 9 lines; Folio 9r: Two columns of 7 lines; Folio 9v: Two columns of 7 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A smaller Erkat'agir is used for rubrics.</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part5">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 6/7/8 (ff. 10r-12v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 6/7/8; ff. 10r-12v; Fragments of a Lectionary (Čašocʿ): Contains portions of the week of <persName key="person_179">St Hripʿsimē</persName> and her companions, including the commemorations of <persName key="person_180">Gayanē</persName> and her companions, <persName key="person_181">John the Baptist</persName> and <persName key="person_182">Athenogenes</persName>, and <persName key="person_51">St Gregory</persName>’s emergence from the pit (f. 10). Readings from Romans and Mark precede the feast of Šołakatʿ (f. 11). The final folio preserves portions of the sixth and seventh days of the octave of the Exaltation of the Cross (f. 12).</summary>
+                     <msItem xml:id="MS_Arm_b_2-item5">
+                        <locus>ff. 10r-12v</locus>
+                        <title xml:lang="en" key="work_408">Lectionary (Čašocʿ): portions of the week of <persName key="person_179">St Hripʿsimē</persName> and her companions, readings preceding Šołakatʿ, and the sixth and seventh days of the octave of the Exaltation of the Cross</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 10r Alleluia with Psalm 22.</note>
+                        <rubric xml:lang="hy">Ալէլուիա։ Սաղմոս ԻԲ։</rubric>
+                        <note type="contents-detail">Tuesday commemoration of <persName key="person_180">Gayanē</persName> and her companions, with Psalm 44, the refrain «Կացցէ դշխոյ», and a reading from Proverbs. The weekday is marked Գշբ.</note>
+                        <rubric xml:lang="hy">Գայիանեանց։ Սաղմոս ԽԴ։ Բղխեսցէ։ Կցուրդ։ Կացցէ դշխոյ։ Ընթերցուած յԱռակաց։</rubric>
+                        <note type="contents-detail">Reading from 1 Peter. The text is identifiable as 1 Peter 4:10 on f. 10v.</note>
+                        <rubric xml:lang="hy">Պետրոսի առաքելոյ ի Կաթողիկէ [թղթոյն]։</rubric>
+                        <note type="contents-detail">Folio 10v Gospel reading beginning at John 16:1. ՃԽԵ (145) corresponds to the Eusebian section containing the opening.</note>
+                        <rubric xml:lang="hy">Ալէլուիա։ Աւետարան Յովհաննու ՃԽԵ։</rubric>
+                        <note type="contents-detail">Thursday of Commemoration of <persName key="person_181">John</persName> and <persName key="person_182">Athenogenes</persName>.</note>
+                        <note type="contents-detail">Title: <quote xml:lang="hy"><persName key="person_181">Յովհաննու</persName> եւ <persName key="person_182">Աթանագինէ</persName>։</quote>
+                        </note>
+                        <note type="contents-detail">Saturday commemoration of <persName key="person_51">St Gregory</persName>’s emergence from the pit, with Psalm 39 and its refrain.</note>
+                        <rubric xml:lang="hy">Շաբաթի աւր սրբոյն <persName key="person_51">Գրիգորի</persName> ելն ի վիրապէն։ Սաղմոս ԼԹ։ Համբերելով։ Կցուրդ։ Եհան զիս ի գբոյ տառապանաց։</rubric>
+                        <note type="contents-detail">Folio 11r reading beginning from Romans 15:30.</note>
+                        <rubric xml:lang="hy">Պաւղոսի առաքելոյ ի Հռոմայեցւոց [թղթոյն]։</rubric>
+                        <note type="contents-detail">Gospel reading beginning from at Mark 13:9-13, although the rubric names Luke. ՃԼԹ (139) agrees with the Eusebian section number in Mark.</note>
+                        <rubric xml:lang="hy">Ալէլուիա։ Աւետարան Ղուկասու ՃԼԹ։</rubric>
+                        <note type="contents-detail">Beginning of the Šołakatʿ section, with Psalm 47 and a reading from Proverbs.</note>
+                        <rubric xml:lang="hy">[…] սրբոյն <persName key="person_51">Գրիգորի</persName>։ Սաղմոս ԽԷ։ Մեծ է Տէր եւ […]։ Կցուրդ։ Աստուած հիմունս երկրի։ Ընթերցուած յԱռակաց։</rubric>
+                        <note type="contents-detail">Folio 11v Reading beginning at 1 Peter 2:1.</note>
+                        <rubric xml:lang="hy">Պետրոսի առաքելոյ [ի] Կաթողիկէ [թղթոյն]։</rubric>
+                        <note type="contents-detail">Folio 12r Sixth day of the octave. The epistle reading begins at 1 Timothy 6:13.</note>
+                        <rubric xml:lang="hy">Պաւղոսի առաքելոյ ի Տիմոթէոսի [թղթոյն]։</rubric>
+                        <note type="contents-detail">Gospel reading beginning at John 19:16.</note>
+                        <rubric xml:lang="hy">Ալէլուիա։ Սաղմոս։ Աստուած։ Աւետարան Յովհաննու։</rubric>
+                        <note type="contents-detail">Seventh day of the octave.</note>
+                        <rubric xml:lang="hy">Է աւրն։ Սաղմոս ԽԷ։ Մեծ է Տէր […]։ Աստուած հիմունս […]։</rubric>
+                        <note type="contents-detail">Reading from Isaiah. The first legible text is Isaiah 51:9.</note>
+                        <rubric xml:lang="hy">Ընթերցուած յԵսայեայ։</rubric>
+                        <note type="contents-detail">Folio 12v Reading beginning at Philippians 2:5.</note>
+                        <rubric xml:lang="hy">Պաւղոսի առաքելոյ ի Փիլիպեցւոց թղթոյն։</rubric>
+                        <note type="contents-detail">Gospel reading beginning at John 7:37.</note>
+                        <rubric xml:lang="hy">Ալէլուիա։ Աւետարան Յովհաննու։</rubric>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Vellum.</support>
+                           <extent>Folio. 10r-12v<dimensions type="leaf" unit="in">
+                                 <height>8.25</height>
+                                 <width>6.125</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Vellum, 8.25" by 6.125" inches</note>
+                           </extent>
+                           <collation>Opening lines and inner margins have been cropped.</collation>
+                           <condition>Folios are in good state of preservation and legibility with the exception of folios 11v and 12r which show heavy staining and fading of the text. Three to four binding holes running vertically are present on each folio.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 23 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="bolorgir">Bolorgir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Rubrics and initials in two different shades of red ink. Lection numbers, Eusebian concordance numbers, and days of the week indicated in borders. Day names on 10r and 10v are encased in small red floral designs.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1400">No later than 14th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part6">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 9 (f. 13r-13v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 9; f. 13r-13v; Fragment of a martyrological collection. End of the Martyrdom of Hemia, Eulogia and Philgotia, followed by a four-line scribal colophon praying for George, who acquired the book, and for the scribe. The Martyrdom of <persName key="person_183">St Varus</persName> and his companions.</summary>
+                     <msItem xml:id="MS_Arm_b_2-item6">
+                        <locus>f. 13r</locus>
+                        <title xml:lang="en" key="work_940">End of the Martyrdom of Hemia, Eulogia and Philgotia</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 13r  End of the Martyrdom of Hemia, Eulogia and Philgotia</note>
+                        <explicit xml:lang="hy">… Մարմինս նոցա ընկենուլ ի ծով, եւ երանելոյ եպիսկոպոսին գտեալ զնոսա, որում անուն էր Մարկիանոս, ժողովեաց մեծաւ պատուով։ զայս յիշատակարանս արարեալ նոցա, զոր մեք գրեցաք մեծաւ զգուշութեամբ, եւ առաքեցաք ընդ ամենայն ուղղափառ եկեղեցիս Քրիստոսի. զի դուք որ ընթեռնուցուքդ զյիշատակարանս սրբոց մարտիւրոսացն նախանձաւորք լինիջիք, զի և …</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_2-item6-2">
+                        <locus>f. 13r</locus>
+                        <title xml:lang="en">Scribal colophon</title>
+                        <colophon xml:lang="hy">[բ]արեխաւսութե(ամ)բ սուրբ նահ [ատ]ակացն Ք(րիստո)ս Ա(ստուա)ծ, ողորմեա ստացո [ղին] սորա Գեորգեա ի քում գալստ [եա]նդ եւ գծողին մեղաւորի, Ամէն։</colophon>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">A four-line prayer invoking the intercession of the holy martyrs and asking Christ to have mercy at his coming on George, who acquired the book, and on the sinful scribe.</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_2-item6-3">
+                        <locus>f. 13r-13v</locus>
+                        <title xml:lang="en" key="work_373">Martyrdom of <persName key="person_183">St Varus</persName> and his companions</title>
+                        <title xml:lang="hy" key="work_373">Վկայաբանութիւն Սրբոյն <persName key="person_183">Վարոսի</persName>։</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folios 13r–13v Martyrdom of <persName key="person_183">St Varus</persName> and his companions</note>
+                        <incipit xml:lang="hy">Եւ եղեւ յաւուրս Մաքսիմիլիանոսի փեսայի Դիոկղետիանոսի, յամի հալածանաց մերոց, առաքեցաւ հրաման …</incipit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Thin Vellum.</support>
+                           <extent>Folio. 13r-13v<dimensions type="leaf" unit="in">
+                                 <height>14.5</height>
+                                 <width>7.25</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Thin Vellum, 14.5" by 7.25" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped significantly in multiple places.</collation>
+                           <condition>Fragment reconstructs two parts of single folio that was at one stage cut in half and used for fly leaves. The upper half of the folio has a vertical fold line with three binding holes. The lower half has a horizontal fold with three binding holes. The reconstructed folio is stained with text faded in places, both of which hinder legibility.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of (originally) 32 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A smaller Erkat'agir is used for rubrics.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>A horizontal red and green ornament marks the beginning of Martyrdom of <persName key="person_183">St. Varus</persName>.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part7">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 10/11 (ff. 14r-15v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 10/11; Folio. 14r-15v; Fragments of <persName key="person_41">John Chrysostom</persName> Commentary on Matthew 12; Fragments of the 13th Catechetical lecture of <persName key="person_174">Cyril of Jerusalem</persName>; Fragments of an unidentified commentary on Luke 5.</summary>
+                     <msItem xml:id="MS_Arm_b_2-item7">
+                        <locus>f. 14r</locus>
+                        <author key="person_41">John Chrysostom</author>
+                        <title xml:lang="en" key="work_374">Commentary on Matthew: fragment concerning Matthew 12:38</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 14r <persName key="person_41">John Chrysostom</persName>, Commentary on Matthew. Fragment of the commentary on Matthew 12:38.</note>
+                        <note type="bibliography">Edition reference recorded in the examination worksheet: <persName key="person_41">Chrysostom</persName>, Venice ed., vol. I, p. 627, lines 16–28.</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_2-item7-2">
+                        <locus>f. 14v</locus>
+                        <author key="person_174">Cyril of Jerusalem</author>
+                        <title xml:lang="en" key="work_941">Catechetical Lecture 13 (fragment)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 14v <persName key="person_174">Cyril of Jerusalem</persName>, Catechetical Lecture 13. Fragment of the thirteenth catechetical lecture.</note>
+                        <note type="bibliography">Edition reference recorded in the examination worksheet: <persName key="person_174">Cyril</persName>, Vienna ed., p. 258, line 17 to p. 259, line 1.</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_2-item7-3">
+                        <locus>f. 15r-15v</locus>
+                        <title xml:lang="en">Unidentified commentary on Luke 5:1 (fragments)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 15r Commentary on Luke. Fragment of the commentary on Luke 5:1.</note>
+                        <incipit xml:lang="hy">[յառ]աջ քան զսուրբ խորհուրդն արտաքս ելանէ …</incipit>
+                        <explicit xml:lang="hy">… իւրեանց ունէին ձգե…</explicit>
+                        <note type="contents-detail">Folio 15v  Commentary on Luke 5:1. Further passage from the same commentary.</note>
+                        <incipit xml:lang="hy">վարդապետ շահս պտղաբերէ …</incipit>
+                        <explicit xml:lang="hy">… եւ միւսոյն զանձն հանդարտեցուցանել։</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Vellum.</support>
+                           <extent>Folios. 14r-15v<dimensions type="leaf" unit="in">
+                                 <height>11.5</height>
+                                 <width>7.875</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Vellum, 11.5" by 7.875" inches</note>
+                           </extent>
+                           <collation>Folio has been significantly cropped around all margins.</collation>
+                           <condition>Folios are torn around the outer edges and have suffered significant staining. The text on ff. 14v and 15v is significantly faded.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folio 14: One (originally two) columns of 22 lines; Folio 15: One (originally two) columns of 25 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part8">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 12 (f. 16r-16v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 12; Folio. 16r-16v; Folio from a Gospel Book: Epistle of <persName key="person_175">Eusebius</persName> to <persName key="person_176">Carpianus</persName>.</summary>
+                     <msItem xml:id="MS_Arm_b_2-item8">
+                        <locus>f. 16r</locus>
+                        <author key="person_175">Eusebius</author>
+                        <title xml:lang="en" key="work_375">Epistle of <persName key="person_175">Eusebius</persName> to <persName key="person_176">Carpianus</persName></title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 16r: Folio from a Gospel Book: Epistle of <persName key="person_175">Eusebius</persName> to <persName key="person_176">Carpianus</persName>.</note>
+                        <note type="contents-detail">Folio 16v։ Blank</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Vellum.</support>
+                           <extent>Folio. 16r-16v<dimensions type="leaf" unit="in" n="upper-half">
+                                 <height>9.75</height>
+                                 <width>6.75</width>
+                              </dimensions>
+                              <dimensions type="leaf" unit="in" n="lower-half">
+                                 <height>9.75</height>
+                                 <width>6.125</width>
+                              </dimensions>
+                              <note type="material-and-measurement-source">Material and dimensions as supplied by Baronian and Conybeare: Vellum, Upper half: 9.75" by 6.75" inches; Lower half: 9.75" by 6.125"</note>
+                           </extent>
+                           <collation>Folio formerly cut in half, now rejoined. Lateral margins curtailed.</collation>
+                           <condition>Folio is torn in places around the edges with staining present. Four binding holes are present at the top and bottom of the folio, reflecting the former use of each half of the folio as fly leaves.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folio 16r: Single column 30 lines; Folio 16v: blank</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>A horizontal band of stylised fruit and foliage, painted in green and blue on a gold ground, runs across the bottom of the page. Blue ropework bands on gold rise from it on either side and meet a matching band of fruit and foliage at the top, which stops short of the page edges. Inside this rectangular frame is a purple diaper pattern, edged towards the text by a red oval band with pointed projections. Above the frame are three peacocks in blue, red and gold. The two outer birds are shown in profile, with their beaks turned towards the central peacock, which faces the reader with its tail spread. A blue ropework arabesque on gold fills each upper corner. Blue branches in the side margins bear round green fruit veined with gold. On the left, a red snake rears up to taste the fruit.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part9">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 13 (f. 17r-17v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 13; f. 17r–v. <persName key="person_75">Aṙakʿel Bałišecʿi</persName>, Tał Yovasapʿu (Տաղ Յովասափու), vv. 133–168. Barlaam comes to Josaphat in the guise of a merchant offering a precious pearl. The fragment preserves his exchange with the prince’s servant and the opening of his conversation with Josaphat.</summary>
+                     <msItem xml:id="MS_Arm_b_2-item9">
+                        <locus>f. 17r-17v</locus>
+                        <author key="person_75">Aṙakʿel Bałišecʿi</author>
+                        <title xml:lang="en" key="work_199">Tał Yovasapʿu, verses 133–168 (fragment)</title>
+                        <title xml:lang="hy" key="work_199">Տաղ Յովասափու</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 17v · Verses 133–150. Barlaam arrives in the city disguised as a merchant and goes to the door of the king’s son. He tells Josaphat’s servant about his precious pearl and begins to describe its powers. The first surviving line ends «… ճգնաւորն ընտրեալ».</note>
+                        <note type="contents-detail">Folio 17r · Verses 151–168. The account of the pearl’s powers continues. The servant reports Barlaam’s words to Josaphat and brings him in. Josaphat asks to see the pearl, and Barlaam asks him to listen first.</note>
+                        <incipit xml:lang="hy">Խլից լսել շնորհէ եւ համրն …</incipit>
+                        <note type="bibliography">Edition reference recorded in the examination worksheet: Ghazinian (Yerevan 1971), pp. 247–249.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Paper.</support>
+                           <extent>Folio. 17r-17v</extent>
+                           <collation>Single leaf. The outer portion is missing along an irregular tear. No obvious evidence of deliberate cropping.</collation>
+                           <condition>Severely mutilated. Approximately the outer half of the leaf is torn away, with text loss at the ends of the lines on 17r and at the beginnings on 17v.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Single column of 18 lines on each side, with one verse per line</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="notrgir">Notrgir.</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notBefore="1601">Seventeenth century or later</origDate>
+                        <p>Original provenance unknown.</p>
+                     </origin>
+                     <provenance>Found among loose leaves in Baronian’s manuscript catalogue of Armenian manuscripts and subsequently placed in MS. Arm. b. 2.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part10">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 14 (f. 18r-18v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 14; Folio. 18r-18v; Modern paper sheet with sketches of four Armenian inscriptions from <placeName key="place_648771">Seleucia</placeName> and <placeName key="place_648612">Korykos</placeName> in <placeName key="place_7002470">Cilicia</placeName>.</summary>
+                     <msItem xml:id="MS_Arm_b_2-item10">
+                        <locus>f. 18r-18v</locus>
+                        <title xml:lang="en">Sketches of four Armenian inscriptions from <placeName key="place_648771">Seleucia</placeName> and <placeName key="place_648612">Korykos</placeName> in <placeName key="place_7002470">Cilicia</placeName></title>
+                        <textLang mainLang="hy" otherLangs="en">Armenian inscription sketches with English annotations.</textLang>
+                        <note type="contents-detail">Folio 18r: Inscription sketches: A: Inscription in relief above the entrance gate of the castle at <placeName key="place_648771">Seleucia</placeName>. B: Incised inscription inside the same castle. C and D: Two inscriptions in relief on a castle tower at <placeName key="place_648612">Korykos</placeName>, labelled “<placeName key="place_648612">Korghos</placeName>” on the sheet.</note>
+                        <note type="contents-detail">Folio 18v։ Reference that appears to read “pp. 300 + 339, Vol. 2”. Also bears a pencil gift note and a Bodleian stamp dated 27 October 1919.</note>
+                        <note type="context">The handwritten reference to pp. 212, 217 and 236 corresponds to <persName key="person_178">Francis Beaufort</persName>’s Karamania (1817), which illustrates the <placeName key="place_648771">Seleucia</placeName> gate inscription and describes the inscriptions at both sites. This item is probably associated with the correspondence between <persName key="person_178">Francis Beaufort</persName> and <persName key="person_177">Joseph von Hammer</persName> concerning inscriptions in <placeName key="place_7002470">Cilicia</placeName>. Whether the sheet was enclosed with the surviving letter is uncertain.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Paper.</support>
+                           <extent>Folio. 18r-18v</extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="cursive">Modern English cursive hand</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <acquisition when="1919-10-27">Given to the Bodleian on 27 October 1919, apparently with Unit 15. The donor’s name appears to read “Rev. E. Jermyn”, probably the Rev. Edmund Jermyn (1845–1925).</acquisition>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part11">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 15 (ff. 19r-23v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 15; Folios 19r-23v; Letter from <persName key="person_177">Joseph von Hammer</persName>, later known as <persName key="person_177">Hammer-Purgstall</persName>, to <persName key="person_178">Captain Francis Beaufort</persName>, FRS, in <placeName key="place_7011781">London</placeName>. Written in <placeName key="place_7003321">Vienna</placeName> in April 1818, apparently on 15 April. <persName key="person_177">Hammer</persName> discusses <persName key="person_178">Beaufort</persName>’s copies of Armenian, Arabic and Ottoman Turkish inscriptions in connection with the second edition of Karamania. The letter is accompanied by its addressed cover</summary>
+                     <msItem xml:id="MS_Arm_b_2-item11">
+                        <locus>ff. 19r-23v</locus>
+                        <author key="person_177">Joseph von Hammer</author>
+                        <title xml:lang="en">Letter to <persName key="person_178">Captain Francis Beaufort</persName> concerning inscriptions, April 1818, with its addressed cover</title>
+                        <textLang mainLang="en" otherLangs="ar ota">English, with Arabic and Ottoman Turkish passages, Roman-script transliteration and English translation.</textLang>
+                        <note type="contents-detail">Ff. 19r–22v: Letter on inscriptions. <persName key="person_177">Hammer</persName> reports consulting the Armenian fathers and comments on the difficulty of deciphering the copies. He proposes readings for inscriptions at <placeName key="place_7002344">Anamour</placeName> and <placeName key="place_7002325">Alaya</placeName>, gives an Arabic reading of a Seljuk royal genealogy, and transcribes and translates an Ottoman Turkish verse that he compares with one from a bath in <placeName key="place_7002420">Bursa</placeName>. The signature is visible on f. 22r.</note>
+                        <note type="contents-detail">Folio 23r: Front of cover of envelope. Addressed to <persName key="person_178">Captain Beaufort</persName>, Fellow of the Royal Society, <placeName key="place_7011781">London</placeName>. Also bears the endorsement and pencil gift note.</note>
+                        <note type="contents-detail">Folio 23v : Back of cover of envelope</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Paper.</support>
+                           <extent>Letter, ff. 19r–22v. Separate cover, f. 23r–v.</extent>
+                           <condition>Fold creases, scattered staining and ink show-through. The cover is more heavily stained than the letter leaves.</condition>
+                        </supportDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="cursive">Letter in English cursive, with passages in Arabic script, Roman-script transliteration and English translation.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Bodleian stamp on f. 19r. The cover bears an endorsement referring to two letters from <persName key="person_177">Von Hammer</persName> about inscriptions at <placeName key="place_648771">Seleucia</placeName> and elsewhere, and a faint pencil note.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>Written in <origPlace><placeName key="place_7003321">Vienna</placeName></origPlace> in <origDate calendar="#Gregorian" when="1818-04">April 1818, apparently on 15 April</origDate>; addressed to <persName key="person_178">Captain Francis Beaufort</persName> in <placeName key="place_7011781">London</placeName>.</origin>
+                     <acquisition when="1919-10-27">A pencil note on the cover (f. 23r) records its donation to the Bodleian Library on 27 October 1919 by “Rev. E. Jermyn”, probably the Rev. Edmund Jermyn. A matching gift note on f. 18v suggests that the letter and the inscription sketches in Unit 14 entered the library together.</acquisition>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_2-part12">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 2, fragment 16 (f. 24r-24v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 16; Folio. 24r-24v; Unidentified document fragment in Armenian script. The folds and the short transverse block on f. 24v are consistent with a folded letter, although the text remains unidentified.</summary>
+                     <msItem xml:id="MS_Arm_b_2-item12">
+                        <locus>f. 24r-24v</locus>
+                        <title xml:lang="en">Unidentified document fragment in Armenian script, possibly a folded letter</title>
+                        <textLang mainLang="und">Language undetermined; written in Armenian script.</textLang>
+                        <note type="contents-detail">Folio 24r: The main block runs sideways relative to the mounted leaf and is crossed by several diagonal lines. A shorter block runs at right angles to the main text.</note>
+                        <note type="contents-detail">Folio 24v: A longer block occupies one half of the leaf. The other half has a four-line block written at right angles to it, with a small pen flourish above and a triangular cluster of ink dots below. Two partial lines survive beyond the cluster.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Paper.</support>
+                           <extent>f. 24r–24v</extent>
+                           <condition>The leaf has prominent fold creases and worn edges that cut through several lines of writing.</condition>
+                        </supportDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="notrgir">Notrgir. Written on both sides in dark ink in a rapid Armenian cursive.</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <p>Origin and provenance undetermined.</p>
+                     </origin>
+                  </history>
+               </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <classDecl>
-            <taxonomy xml:id="LCSH">
-               <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
-               </bibl>
-            </taxonomy>
-            <taxonomy xml:id="local_class">
-               <category xml:id="commentary">
-                  <catDesc>Commentary</catDesc>
-               </category>
-               <category xml:id="supercommentary">
-                  <catDesc>Supercommentary</catDesc>
-               </category>
-               <category xml:id="indices">
-                  <catDesc>Indices</catDesc>
-               </category>
-               <category xml:id="translation">
-                  <catDesc>Translation</catDesc>
-               </category>
-               <category xml:id="multipleWorks">
-                  <catDesc>multipleWorks</catDesc>
-               </category>
-               <category xml:id="abridgement">
-                  <catDesc>Abridgement</catDesc>
-               </category>
-               <category xml:id="supplement">
-                  <catDesc>Supplement</catDesc>
-               </category>
-               <category xml:id="papers">
-                  <catDesc>Papers</catDesc>
-               </category>
-               <category xml:id="documents">
-                  <catDesc>Documents</catDesc>
-               </category>
-               <category xml:id="extract">
-                  <catDesc>Extract</catDesc>
-               </category>
-               <category xml:id="gloss">
-                  <catDesc>Gloss</catDesc>
-               </category>
-               <category xml:id="selection">
-                  <catDesc>Selection</catDesc>
-               </category>
-               <category xml:id="diagrams">
-                  <catDesc>Diagrams</catDesc>
-               </category>
-               <category xml:id="notes">
-                  <catDesc>Notes</catDesc>
-               </category>
-               <category xml:id="letters">
-                  <catDesc>Letters</catDesc>
-               </category>
-               <category xml:id="versification">
-                  <catDesc>Versification</catDesc>
-               </category>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/names/n80001460" key="subject_n80001460">John Chrysostom, Saint, d. 407</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/names/n79045845" key="subject_n79045845">Catholic Church. Liturgy and ritual. Sharaknotsʻ</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh85007281#concept" key="subject_sh85007281">Armenian Church--Liturgy</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
       <revisionDesc>
-         <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
-         </change>
-         <change when="2012-04-04">
-            <persName>Robin Meyer</persName>
-         </change>
+         <change when="2026-11-04">
+            <persName>Lewis Read</persName>Record complete</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic url="pdf_cat/p103.pdf"/>
-      <graphic url="pdf_cat/p105.pdf"/>
-   </facsimile>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>
+            <!--Body paragraph provided for validation and future transcription-->
+         </p>
       </body>
    </text>
 </TEI>
+           

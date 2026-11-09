@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_18">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
-            <funder>JISC-??-</funder>
-            <principal>Gillian Evison</principal>
+            <title>MS. Arm. d. 2</title>
+            <funder>[Agreed Bodleian funding statement still to be supplied]</funder>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>Sukias Baronian</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>F. C. Conybeare</persName>
+            </respStmt>
+            <respStmt>
+               <resp when="2026">Cataloguer</resp>
+               <resp when="2026">Encoding</resp>
+               <persName>Lewis Read</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="#Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date of first online publication to be confirmed]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -20,16 +32,18 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                   </addrLine>
                </address>
             </pubPlace>
-            <idno>OCIMCO</idno>
             <idno type="msID">MS_Arm_d_2</idno>
-            <idno type="catalogue">Armenian</idno>
+            <idno type="catalogue">
+               Armenian
+            </idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:id="MS_Arm_d_2" xml:lang="en">
@@ -40,143 +54,788 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">MSS. Arm. d.</collection>
-                  <idno type="shelfmark">MS. Arm. d. 2</idno><idno type="ieArk">ark:29072/x0gt54kn25x9</idno><idno type="crArk">ark:29072/x0gq67jr42mf</idno>
+                  <idno type="shelfmark">MS. Arm. d. 2</idno>
+                  <idno type="ieArk">ark:29072/x0gt54kn25x9</idno>
+                  <idno type="crArk">ark:29072/x0gq67jr42mf</idno>
                </msIdentifier>
+
                <msContents>
-                  <summary>Lectionary, 13th (?) cent.</summary>
-                  <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n23/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
-                     Bodleian Library, no. 26, pp. 26-27.</ref></bibl></listBibl></msItem>
+                  <summary>MS. Arm. d. 2. Čašoc‘ (lectionary) of the <placeName key="place_7001371">Jerusalem</placeName> type, with readings for feasts and commemorations throughout the liturgical year. The main copy is tentatively dated to the thirteenth century and ends with an incomplete copyist’s note on f. 258v. A separate memorial on the same folio records Armenian year 808 (1359 CE); if entered in the year it records, it provides a terminus ante quem for the original copying unit. The opening leaves (ff. 6–27) and the supplement now at the end (ff. 259–291) were supplied in the sixteenth century. Later records include a restoration colophon on f. 291v and <persName key="person_200">Galoust</persName>’s binding notice of 1674 on f. 290v.</summary>
+                  <msItem xml:id="MS_Arm_d_2-item1">
+                     <locus from="6v" to="291r">ff. 6v-291r</locus>
+                     <title xml:lang="en" key="work_408">Čašoc‘ (lectionary) of the <placeName key="place_7001371">Jerusalem</placeName> type</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note type="contents-detail">
+                        <p>f. 6v: Epiphany</p>
+                        <p>Decorated opening of the Nativity and divine manifestation. The Gospel of the shepherds begins beneath the headpiece. Matthew’s birth narrative follows at 7vA.</p>
+                        <p>ff. 6v–7vA: Luke 2:8–20.</p>
+                        <p>ff. 7vA–8rA: Matthew 1:18–25.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 8rA: Epiphany lessons</p>
+                        <p>ff. 8rA–12rB: Genesis 1:1–3:20.</p>
+                        <p>f. 12rB–12vB: Isaiah 7:10–17.</p>
+                        <p>ff. 12vB–14rB: Exodus 14:24–15:21.</p>
+                        <p>f. 14rB–14vB: Micah 5:2–7.</p>
+                        <p>ff. 14vB–15rA: Proverbs 1:2–9.</p>
+                        <p>f. 15rB–15vA: Isaiah 9:5–7.</p>
+                        <p>ff. 15vA–16rA: Isaiah 11:1–9.</p>
+                        <p>f. 16rA–16rB: Isaiah 35:3–8.</p>
+                        <p>f. 16rB–16vB: Isaiah 40:10–17.</p>
+                        <p>ff. 16vB–17rB: Isaiah 42:1–8a.</p>
+                        <p>ff. 17rB–21rA: Daniel 3:1–90.</p>
+                        <p>f. 21rB–21vA: Titus 2:11–15.</p>
+                        <p>ff. 21vA–22rB: Matthew 2:1–12.</p>
+                        <p>f. 22rB–22vB: Matthew 1:18–25.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 22vB: Second day of Epiphany, assembly at St Stephen’s martyrium</p>
+                        <p>The rubric directs the assembly to the martyrium.</p>
+                        <p>ff. 22vB–27rA: Acts 6:8–8:2.</p>
+                        <p>f. 27rA–27rB: John 12:24–26.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 28rA: Third day of Epiphany.</p>
+                        <p>f. 28rA–28vB: Hebrews 1:1–14.</p>
+                        <p>ff. 28vB–29vA: Matthew 2:13–23.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 29vA: Fourth day of Epiphany</p>
+                        <p>The rubric explicitly numbers the fourth day and directs assembly in <placeName key="place_3">holy Sion</placeName>.</p>
+                        <p>f. 29vA–29vB: Galatians 4:1–7.</p>
+                        <p>f. 30rA–30vA: Luke 1:26–38.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 30vA: Fifth day of Epiphany</p>
+                        <p>Assembly on the <placeName key="place_1">Mount of Olives</placeName>, followed by Psalm and response cues.</p>
+                        <p>ff. 30vA–31rA: Hebrews 12:18–27.</p>
+                        <p>f. 31rA–31vB: Luke 1:39–56.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 31vB: Sixth day of Epiphany</p>
+                        <p>Assembly at the <placeName key="place_4">Lazareum</placeName> is specified before the Psalm cue and Pauline heading.</p>
+                        <p>ff. 31vB–32rA: 1 Thessalonians 4:13–18.</p>
+                        <p>ff. 32rA–34rA: John 11:1–46.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 34rA: Seventh day of Epiphany</p>
+                        <p>The day rubric directs assembly at <placeName key="place_2">Golgotha</placeName>.</p>
+                        <p>f. 34rA–34rB: Romans 1:1–7.</p>
+                        <p>f. 34rB–34vA: Luke 2:1–7.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 34vA: Eighth day of Epiphany</p>
+                        <p>Eighth-day occasion and assembly rubric, with Psalm and response cues, precedes the Colossians heading.</p>
+                        <p>ff. 34vB–35rA: Colossians 2:8–15.</p>
+                        <p>f. 35rA–35rB: Luke 2:21.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 35rB: Common canon for the holy martyrs</p>
+                        <p>After the circumcision Gospel, a separate direction states that this canon is used for commemorations of the holy martyrs. The dated Peter and Abisolom rubric follows immediately.</p>
+                        <p>f. 35rB: 11 January, Peter and Abisolom</p>
+                        <p>Dated commemoration rubric names both saints</p>
+                        <p>f. 35rB–35vB: Romans 8:28–39.</p>
+                        <p>f. 36rA–36rB: Matthew 10:16–22.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 36rB: 17 January, <persName key="person_188">Anthony the hermit</persName></p>
+                        <p>Dated commemoration of <persName key="person_188">Anthony</persName>. The rubric directs assembly at the holy Anastasis, the church of the Resurrection. Psalm cue, Hebrews and Matthew follow.</p>
+                        <p>f. 36rB–36vB: Hebrews 11:32–40.</p>
+                        <p>ff. 36vB–37rA: Matthew 10:37–42.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 37rA: 19 January, commemoration of Theodosius</p>
+                        <p>The date and royal commemoration survive, with part of the name erased.</p>
+                        <p>f. 37rB–37vA: 1 Timothy 2:1–7.</p>
+                        <p>ff. 37vA–38rA: Luke 7:1–10.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 38rA: 14 February, Presentation of Christ</p>
+                        <p>Fortieth day of the Lord’s Nativity. The manuscript gives 14 February and directs assembly at the city’s holy Martyrium.</p>
+                        <p>f. 38rA–38rB: Galatians 3:24–29.</p>
+                        <p>ff. 38rB–39rA: Luke 2:22–40.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 39rA: Shrovetide Saturday, holy patriarchs</p>
+                        <p>Occasion rubric names the holy patriarchs before the Ezekiel heading.</p>
+                        <p>f. 39rB: Ezekiel 44:23–24 (adapted excerpt).</p>
+                        <p>f. 39rB–39vB: 2 Corinthians 6:1–10.</p>
+                        <p>ff. 39vB–40vA: Matthew 12:22–37.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 40vA: Shrovetide Sunday</p>
+                        <p>Small Sunday occasion rubric at the foot of A precedes the Isaiah heading.</p>
+                        <p>ff. 40vB–41vB: Isaiah 58:1–14.</p>
+                        <p>ff. 42rA–43rB: Romans 13:11–14:25.</p>
+                        <p>ff. 43vA–44vA: Matthew 6:1–21.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 44vA: Instruction of those preparing for baptism</p>
+                        <p>Heading for the teaching of those preparing to receive the seal. The first and second lessons are Isaiah and Ezekiel. Further catechetical lessons are interspersed through the Lenten cycle.</p>
+                        <p>ff. 44vB–45rA: Isaiah 1:16–20.</p>
+                        <p>f. 45rA–45rB: Ezekiel 18:20–23.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 45rB: First week of Lent, Wednesday</p>
+                        <p>Assembly at the tenth hour in <placeName key="place_3">holy Sion</placeName> is prescribed.</p>
+                        <p>ff. 45rB–47rA: Exodus 1:1–2:10.</p>
+                        <p>f. 47rA–47vA: Joel 1:14–20.</p>
+                        <p>ff. 47vA–48rA: Romans 6:3–14.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 48rA: First week of Lent, Friday</p>
+                        <p>Tenth-hour assembly in <placeName key="place_3">holy Sion</placeName>.</p>
+                        <p>ff. 48rA–50rA: Deuteronomy 6:4–7:10.</p>
+                        <p>ff. 50rA–51vA: Job 6:2–7:13.</p>
+                        <p>ff. 51vA–52rA: Isaiah 40:1–8.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 52rA: Sabbath, <persName key="person_189">Theodore Stratelates</persName></p>
+                        <p>Small black rubric explicitly names <persName key="person_189">Theodore</persName>.</p>
+                        <p>f. 52rA–52rB: Isaiah 66:5.</p>
+                        <p>f. 52rB–52vB: Romans 8:28–39.</p>
+                        <p>f. 53rA–53rB: Matthew 10:16–22.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 53rB: First Sunday of Lent</p>
+                        <p>The rubric reads «Առաջին կիրակի».</p>
+                        <p>ff. 53rB–54vB: Isaiah 33:2–22.</p>
+                        <p>ff. 54vB–56vA: Romans 12:1–13:10.</p>
+                        <p>ff. 56vA–58rB: Matthew 5:17–48.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 58rB: Second week of Lent, Monday</p>
+                        <p>Rubric introduces the second week and Monday assembly at the holy Anastasis.</p>
+                        <p>ff. 58rB–60rA: 1 Samuel 1:1–23a.</p>
+                        <p>ff. 60rA–61vA: Proverbs 1:2–33.</p>
+                        <p>ff. 61vA–62rA: Jeremiah 1:1–10.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 62rA: Second week of Lent, Tuesday</p>
+                        <p>Tenth-hour assembly at the holy Anastasis.</p>
+                        <p>ff. 62rA–63vB: 1 Samuel 1:23b–2:21.</p>
+                        <p>ff. 63vB–65rB: Proverbs 2:1–3:10.</p>
+                        <p>ff. 65rB–66rA: Jeremiah 1:11–2:3.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 66rA–B: Second week of Lent, Wednesday</p>
+                        <p>The weekday rubric begins at the foot of A and continues at the head of B. Tenth-hour assembly in <placeName key="place_3">holy Sion</placeName> precedes Exodus, Joel and Micah.</p>
+                        <p>ff. 66rB–67rA: Exodus 2:11–22.</p>
+                        <p>f. 67rA–67vB: Joel 2:1–11.</p>
+                        <p>ff. 67vB–68rB: Micah 4:1–7.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 68rB: Second week of Lent, Thursday</p>
+                        <p>Tenth-hour assembly at the holy Anastasis. The three lessons are Samuel, Proverbs and Jeremiah. The latter closes before the Friday rubric at 73rA.</p>
+                        <p>ff. 68rB–69vB: 1 Samuel 3:21 (end)–4:18.</p>
+                        <p>ff. 69vB–71vA: Proverbs 3:11–4:19.</p>
+                        <p>ff. 71vA–73rA: Jeremiah 2:31–3:16.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 73rA: Second week of Lent, Friday</p>
+                        <p>Tenth-hour assembly in <placeName key="place_3">holy Sion</placeName>. Deuteronomy, Job and Isaiah are separately headed. Psalm and response cues intervene before the following <persName key="person_174">Cyril</persName> commemoration.</p>
+                        <p>ff. 73rB–74vA: Deuteronomy 7:11–8:1.</p>
+                        <p>ff. 74vA–75vB: Job 9:2–10:2a.</p>
+                        <p>ff. 75vB–76rB: Isaiah 40:9–17.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 76rB: Second Sabbath, <persName key="person_174">Cyril of Jerusalem</persName></p>
+                        <p>Rubric associates the second Sabbath with <persName key="person_174">Cyril the patriarch of Jerusalem</persName>.</p>
+                        <p>f. 76rB–76vB: 2 Timothy 4:1–8.</p>
+                        <p>ff. 76vB–77rA: John 10:11–18.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 77rA: Sunday following <persName key="person_174">Cyril</persName></p>
+                        <p>The rubric appears to read «Երրորդ կիրակին», “third Sunday”.</p>
+                        <p>ff. 77rA–78vA: Isaiah 54:11–55:13.</p>
+                        <p>ff. 78vA–79rB: 2 Corinthians 6:1–18.</p>
+                        <p>ff. 79rB–80vB: Luke 15:1–32.</p>
+                        <p>f. 81rA–81vB: Colossians 2:8–3:4.</p>
+                        <p>ff. 81vB–83vA: Hebrews 11:1–31.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 83vA–B: Third week of Lent, Wednesday</p>
+                        <p>Week and weekday rubric begins at the foot of A, with the assembly directions continuing into B. Tenth-hour assembly in <placeName key="place_3">holy Sion</placeName> precedes Exodus and Joel.</p>
+                        <p>ff. 83vB–84vB: Exodus 2:23–3:15.</p>
+                        <p>ff. 84vB–85vA: Joel 2:21–32.</p>
+                        <p>ff. 85vA–86rA: Isaiah 45:17–25.</p>
+                        <p>ff. 86rA–87rA: Ephesians 3:14–4:13.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 87rA: Third week of Lent, Friday</p>
+                        <p>Rubric specifies the tenth hour and <placeName key="place_3">holy Sion</placeName>. Deuteronomy, Job and Isaiah follow.</p>
+                        <p>ff. 87rA–88vA: Deuteronomy 8:11–9:10.</p>
+                        <p>ff. 88vA–89vA: Job 12:2–13:6.</p>
+                        <p>ff. 89vA–90rA: Isaiah 42:1–8.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 90rA: Sabbath, John the patriarch</p>
+                        <p>Rubric names John the patriarch.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 90rA: Sunday following John’s commemoration</p>
+                        <p>Sunday rubric follows John the patriarch’s commemoration in the same column.</p>
+                        <p>ff. 90rA–92rA: Isaiah 56:1–57:21.</p>
+                        <p>ff. 92rA–93vA: Ephesians 4:17–5:14.</p>
+                        <p>ff. 93vA–95rB: Luke 16:1–31.</p>
+                        <p>ff. 95vA–97vA: Jeremiah 32:19b–44.</p>
+                        <p>ff. 97vA–99vB: Job 38:2–39:25 (partial).</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 100rA: Fourth week of Lent, Wednesday sequence</p>
+                        <p>f. 100rA: Exodus 3:22b (fragment).</p>
+                        <p>f. 100rA–100vA: Joel 3:1–8.</p>
+                        <p>ff. 100vA–102rB: 1 Corinthians 8:5–9:23.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 102rB: Fourth week of Lent, Friday</p>
+                        <p>Friday rubric at the foot of B introduces the next Deuteronomy lesson.</p>
+                        <p>ff. 102vA–103rB: Deuteronomy 9:11–24.</p>
+                        <p>ff. 103rB–104vB: Job 16:2–17:16.</p>
+                        <p>ff. 104vB–105vA: Isaiah 43:22–44:8.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 105vA: 9 March, Forty Saints</p>
+                        <p>Dated rubric names the Forty Saints. Psalm and response cues precede Isaiah 43:1–3a. Ephesians and Matthew follow.</p>
+                        <p>f. 105vB: Isaiah 43:1–3a.</p>
+                        <p>ff. 105vB–106rB: Ephesians 6:10–18.</p>
+                        <p>f. 106rB–106vB: Matthew 13:43–52.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 106vB: Fifth Sunday of Lent</p>
+                        <p>Rubric explicitly names the fifth Sunday. Isaiah, Philippians and Luke form the Sunday sequence.</p>
+                        <p>ff. 106vB–108rA: Isaiah 65:8–25.</p>
+                        <p>ff. 108rB–109vB: Philippians 3:1–4:9.</p>
+                        <p>ff. 109vB–111rB: Luke 17:20–18:14.</p>
+                        <p>ff. 111vA–112rB: Hebrews 1:1–2:1.</p>
+                        <p>ff. 112rB–113vB: Isaiah 7:10–8:10.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 113vB: Fifth week of Lent, Wednesday</p>
+                        <p>Weekday and <placeName key="place_3">holy Sion</placeName> assembly rubric precedes Exodus. Joel follows. Psalm cue and supplementary Isaiah and Corinthians readings continue the sequence.</p>
+                        <p>ff. 113vB–115rB: Exodus 4:1–21a.</p>
+                        <p>ff. 115rB–116rA: Joel 3:9–21.</p>
+                        <p>ff. 116rA–117rA: Isaiah 53:1–54:5.</p>
+                        <p>ff. 117rA–118rB: 1 Corinthians 15:1–28.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 118rB: Fifth week of Lent, Friday</p>
+                        <p>Tenth-hour assembly in <placeName key="place_3">holy Sion</placeName> is directed before the Deuteronomy heading at the foot of B. Job and Isaiah follow.</p>
+                        <p>ff. 118vA–119vA: Deuteronomy 10:1–15.</p>
+                        <p>ff. 119vA–120vA: Job 19:2–29.</p>
+                        <p>ff. 120vA–121rB: Isaiah 45:1–13.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 121rB: Sixth Sabbath, St Gregory</p>
+                        <p>Rubric explicitly names Gregory and the sixth Sabbath. Psalm cue precedes Wisdom. Acts and the good-shepherd Gospel follow under separate headings.</p>
+                        <p>f. 121rB–121vB: Wisdom 4:7–15.</p>
+                        <p>ff. 121vB–122rB: Acts 20:25–32.</p>
+                        <p>f. 122rB–122vA: John 10:11–16.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 122vA: Sixth Sunday of Lent</p>
+                        <p>The rubric explicitly numbers the sixth Sunday.</p>
+                        <p>ff. 122vA–124rB: Isaiah 66:1–24.</p>
+                        <p>ff. 124rB–126rA: Colossians 2:8–3:17.</p>
+                        <p>ff. 126rA–128vA: Matthew 22:34–23:39.</p>
+                        <p>ff. 128vB–130vA: Daniel 7:2–27.</p>
+                        <p>ff. 130vB–131rA: 1 Corinthians 12:1–7.</p>
+                        <p>f. 131rA–131vB: 1 Corinthians 12:8–27.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 131vB: Sixth week of Lent, Wednesday</p>
+                        <p>Weekday rubric prescribes the tenth hour and <placeName key="place_3">holy Sion</placeName>. Exodus is followed by Zechariah. The textual break at 132v–133r interrupts this sequence.</p>
+                        <p>f. 132rA–132vB: Exodus 4:21–5:3.</p>
+                        <p>f. 132vB: Zechariah 9:9–10a, incomplete.</p>
+                        <p>f. 133rA–133rB: Ezekiel 37:10b–14.</p>
+                        <p>f. 133rB–133vA: 1 Timothy 3:14–16.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 133vA: Sixth week of Lent, Friday</p>
+                        <p>Friday rubric specifies the tenth hour and <placeName key="place_3">holy Sion</placeName> before Deuteronomy. Job and Isaiah follow, ending before the Lazarus Saturday directions.</p>
+                        <p>ff. 133vA–134vA: Deuteronomy 11:10–25.</p>
+                        <p>ff. 134vA–135vB: Job 21:2–34.</p>
+                        <p>ff. 135vB–136vB: Isaiah 46:3–47:5.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 136vB: Lazarus Saturday</p>
+                        <p>Rubric directs a tenth-hour assembly at the <placeName key="place_4">Lazareum</placeName>. Psalm cue, 1 Thessalonians and John 11:55–12:11 follow.</p>
+                        <p>ff. 136vB–137rA: 1 Thessalonians 4:13–18.</p>
+                        <p>f. 137rB–137vB: John 11:55–12:11.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 137vB: Palm Sunday</p>
+                        <p>Palm-day rubric directs assembly at the holy Martyrium.</p>
+                        <p>f. 138rA–138rB: Ephesians 1:3–14.</p>
+                        <p>f. 138rB–138vB: Matthew 21:1–11.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>ff. 138vB–139rA: Palm Sunday procession</p>
+                        <p>Directions after Matthew describe going to the <placeName key="place_1">Mount of Olives</placeName> with palm branches at the tenth hour, continuing until the eleventh, then descending to the holy Anastasis with a Psalm cue.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 139rA: Holy Monday</p>
+                        <p>Rubric names the second day of the Paschal fast and directs a tenth-hour assembly at the city’s holy Martyrium.</p>
+                        <p>ff. 139rA–142vB: Genesis 1:1–3:13a, incomplete.</p>
+                        <p>f. 143rA–143rB: Isaiah 40:2b–8.</p>
+                        <p>ff. 143rB–144rA: Matthew 20:17–28.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 144rA: Holy Tuesday</p>
+                        <p>Rubric directs assembly on the <placeName key="place_1">Mount of Olives</placeName> at the tenth hour.</p>
+                        <p>ff. 144rA–148vA: Genesis 6:9–9:16.</p>
+                        <p>ff. 148vA–149rA: Proverbs 9:1–11.</p>
+                        <p>f. 149rA–149vA: Isaiah 40:9–17.</p>
+                        <p>ff. 149vA–154rA: Matthew 24:1–26:2.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 154rA: Holy Wednesday</p>
+                        <p>Weekday rubric specifies the tenth hour and holy Martyrium.</p>
+                        <p>ff. 154rB–157vB: Genesis 18:1–19:30.</p>
+                        <p>ff. 157vB–158rB: Proverbs 1:10–19a.</p>
+                        <p>f. 158rB–158vA: Zechariah 11:11b–14.</p>
+                        <p>f. 158vA: Matthew 26:14–16.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 158vA: Holy Thursday</p>
+                        <p>Rubric prescribes assembly at the holy Martyrium at the sixth hour. Genesis, Isaiah and Acts precede the dismissal directions, Eucharistic Epistle and Gospel.</p>
+                        <p>ff. 158vA–159vB: Genesis 22:1–18.</p>
+                        <p>ff. 159vB–160rB: Isaiah 61:1–6.</p>
+                        <p>f. 160rB–160vB: Acts 1:15–26. The directions dismiss the catechumens before a fresh Psalm cue and the Eucharistic Epistle.</p>
+                        <p>f. 161rA–161vA: 1 Corinthians 11:23–32.</p>
+                        <p>ff. 161vA–162rB: Matthew 26:17–30.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 162rB: Holy Thursday at <placeName key="place_3">holy Sion</placeName></p>
+                        <p>After the sacrifice, directions prescribe movement to <placeName key="place_3">holy Sion</placeName> in the same hour and use of the same Apostle/canon.</p>
+                        <p>ff. 162rB–163rA: Mark 14:12–26.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 163rA: Holy Thursday evening, washing of feet</p>
+                        <p>Small rubric introduces the evening rite.</p>
+                        <p>f. 163rA–163vB: 1 John 4:7–21.</p>
+                        <p>ff. 163vB–164vA: John 13:1–15.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 164vA–164vB: Footwashing prayer.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 164vB: Directions after the footwashing prayer. Directions for the officiant in smaller script, between the prayer and the decorated homily opening on 165rA.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>ff. 165rA–168rA: Homily in the footwashing service (Քարոզ պատուիրանին).</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 168rA: Good Friday at dawn</p>
+                        <p>The dawn rubric follows the homily. Prophetic and apostolic readings, kneeling-prayer directions and Passion Gospels follow. See the separate vigil beginning at 267vB in the supplied ending.</p>
+                        <p>f. 168rA–168rB: Zechariah 11:11b–14.</p>
+                        <p>f. 168rB–168vA: Galatians 6:14–18.</p>
+                        <p>f. 168vA–168vB: Isaiah 3:9b–15.</p>
+                        <p>ff. 168vB–169rA: Philippians 2:5–11.</p>
+                        <p>f. 169rB–169vA: Isaiah 50:4–9.</p>
+                        <p>f. 169vA–169vB: Romans 5:6–11.</p>
+                        <p>ff. 169vB–170rB: Amos 8:9–12.</p>
+                        <p>f. 170rB–170vB: 1 Corinthians 1:18–31.</p>
+                        <p>ff. 171rA–172rA: Isaiah 52:13–53:12.</p>
+                        <p>f. 172rA–172vA: Hebrews 2:11–18.</p>
+                        <p>ff. 172vA–175rB: Matthew 27:3–56..</p>
+                        <p>f. 175rB–175vB: Isaiah 63:1–6.</p>
+                        <p>ff. 175vB–176vB: Hebrews 9:11–28.</p>
+                        <p>ff. 177rA–178rB: Mark 15:16–41.</p>
+                        <p>f. 178rB–178vA: Jeremiah 11:18–20.</p>
+                        <p>ff. 178vA–179rA: Hebrews 10:19–31</p>
+                        <p>ff. 179rB–180rA: Luke 23:32–49.</p>
+                        <p>f. 180rA–180vA: Zechariah 14:6–11.</p>
+                        <p>f. 180vA–B: 1 Timothy 6:13–16.</p>
+                        <p>ff. 180vB–181vA: John 19:25–37.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 181vA: Good Friday tenth-hour assembly</p>
+                        <p>Kneeling-prayer and assembly directions precede the longer Jeremiah lesson.</p>
+                        <p>ff. 181vA–182vA: Jeremiah 11:18–12:8..</p>
+                        <p>ff. 182vA–183vA: Isaiah 53:1–12.</p>
+                        <p>f. 183vA–B: Matthew 27:57–61.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 183vB: Holy Saturday at dawn</p>
+                        <p>New day and assembly rubric directs the morning observance at the holy Anastasis. Psalm cue precedes Matthew’s account of the sealed and guarded tomb.</p>
+                        <p>ff. 183vB–184rA: Matthew 27:62–66.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 184rA–B: Holy Saturday evening, Easter vigil</p>
+                        <p>ff. 184rB–188vB: Genesis 1:1–3:24.</p>
+                        <p>ff. 188vB–189vB: Genesis 22:1–19.</p>
+                        <p>ff. 190rA–191vA: Exodus 12:1–24.</p>
+                        <p>ff. 191vA–194vA: Jonah 1:1–4:11.</p>
+                        <p>ff. 194vA–196rB: Exodus 14:24–15:21.</p>
+                        <p>ff. 196rB–197rB: Isaiah 60:1–13.</p>
+                        <p>ff. 197rB–198rB: Job 38:2–28.</p>
+                        <p>ff. 198rB–200rA: 4 Kings 2:1–22.</p>
+                        <p>f. 200rA–B: Jeremiah 31:31–34.</p>
+                        <p>ff. 200rB–201rA: Ezekiel 37:1–14.</p>
+                        <p>ff. 201rA–205vA: Daniel 3:1–90.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 205vA: Easter vigil, midnight Eucharist</p>
+                        <p>ff. 205vA–206rA: 1 Corinthians 15:1–19.</p>
+                        <p>ff. 206rA–207rB: Matthew 28:1–20.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 207rB: Easter night at the Anastasis</p>
+                        <p>After Matthew’s final commission, directions prescribe the sacrifice and entry into the holy Anastasis during the same night.</p>
+                        <p>f. 207rB: John 20:1a.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 207rB: Easter Sunday at dawn</p>
+                        <p>ff. 207rB–208rB: Acts 1:1–14.</p>
+                        <p>f. 208rB–208vB: Mark 16:2–8.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 208vB: Easter Sunday afternoon and evening</p>
+                        <p>Extended rubric directs ascent to the <placeName key="place_1">Mount of Olives</placeName> at the ninth hour, prayer and reading, descent to the holy Anastasis, then evening worship in <placeName key="place_3">holy Sion</placeName>.</p>
+                        <p>ff. 208vB–209rB: John 20:19–25</p>
+                        <p>.</p>
+                        <p>f. 209rB: Easter octave Monday</p>
+                        <p>Psalm incipits replace the full weekday station rubric. Monday is the comparative calendar assignment.</p>
+                        <p>ff. 209rB–210vA: Acts 2:1–41.</p>
+                        <p>ff. 210vA–211rA: Luke 24:1–12.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 211rA: Easter octave Tuesday</p>
+                        <p>ff. 211rA–212vB: Acts 2:42–3:21.</p>
+                        <p>ff. 212vB–214rA: Luke 24:13–35.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 214rA: Easter octave Wednesday</p>
+                        <p>ff. 214rA–215rA: Acts 3:22–4:12.</p>
+                        <p>f. 215rA–215vA: James 1:1–12.</p>
+                        <p>f. 215vA–B: Luke 24:36–40.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 215vB: Easter octave Thursday</p>
+                        <p>ff. 215vB–217rA: Acts 4:13–31.</p>
+                        <p>ff. 217rA–218rA: James 1:13–27.</p>
+                        <p>f. 218rA–218vA: Matthew 5:1–12.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 218vA: Easter octave Friday</p>
+                        <p>ff. 218vA–219vA: Acts 4:32–5:11.</p>
+                        <p>ff. 219vA–220rB: James 2:1–13.</p>
+                        <p>ff. 220rB–221rB: John 3:22–36.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 221rB: Easter octave Saturday</p>
+                        <p>ff. 221rB–222vA: Acts 5:12–33.</p>
+                        <p>ff. 222vA–223rB: James 2:14–26.</p>
+                        <p>ff. 223rB–224rB: John 5:15–25.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 224rB: New Sunday (first Sunday after Easter)</p>
+                        <p>ff. 224rB–225rB: Acts 5:34–6:7.</p>
+                        <p>ff. 225rB–226rA: James 3:1–12.</p>
+                        <p>f. 226rA–226vB: John 1:1–18.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 226vB: New Sunday afternoon and evening</p>
+                        <p>Rubric directs ascent to the <placeName key="place_1">Mount of Olives</placeName> at the tenth hour, descent to the holy Anastasis and movement to <placeName key="place_3">holy Sion</placeName> at evening.</p>
+                        <p>ff. 226vB–227rB: John 20:26–31.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 227rB: Pentecost</p>
+                        <p>ff. 227rB–228vA: Acts 2:1–21.</p>
+                        <p>ff. 228vA–229rA: John 14:15–24.</p>
+                        <p>f. 229rA–229vA: John 14:25–31.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 229vA: Annunciation</p>
+                        <p>Partway down the column, the heading «Աւետեաց Աստուածածնին» names the Annunciation of the Mother of God. Psalm cues precede Proverbs.</p>
+                        <p>f. 229vA–B: Proverbs 11:30–12:4a.</p>
+                        <p>ff. 229vB–230rA: Zechariah 2:10–13.</p>
+                        <p>f. 230rA–B: Isaiah 52:7–10.</p>
+                        <p>f. 230rB–230vA: 2 Corinthians 6:16b–7:1.</p>
+                        <p>ff. 230vA–231rA: Luke 1:26–38.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 231rA: Apparition of the Holy Cross</p>
+                        <p>Follows the Annunciation Gospel.</p>
+                        <p>f. 231rB: Galatians 6:14–18.</p>
+                        <p>ff. 231vA–234vA: <persName key="person_174">Cyril of Jerusalem</persName>, <title key="work_942">Letter on the Cross</title>.</p>
+                        <p>f. 234vA–B: Matthew 24:30–35.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 235rA: Jeremiah the prophet</p>
+                        <p>The rubric assigns the commemoration to a Sabbath.</p>
+                        <p>f. 235rA–235vA: Jeremiah 1:1–10.</p>
+                        <p>ff. 235vA–236vA: Jeremiah 38:1–13.</p>
+                        <p>ff. 236vA–237vA: Hebrews 11:32–12:13.</p>
+                        <p>f. 237vA–B: Matthew 2:16–18.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 237vB: <persName key="person_181">John the Baptist</persName> and <persName key="person_182">Athanogenes</persName></p>
+                        <p>The rubric assigns the commemoration to Sunday.</p>
+                        <p>ff. 237vB–238rA: Isaiah 22:20–24.</p>
+                        <p>f. 238rA–B: 1 Peter 5:1–7.</p>
+                        <p>ff. 238vA–239rA: Matthew 11:2–15.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 239rA: Zechariah after the fast of Saint Gregory</p>
+                        <p>The rubric assigns Zechariah the prophet to the Sabbath following the fast of St Gregory. Psalm cue and Zechariah heading follow.</p>
+                        <p>f. 239rA–239vB: Zechariah 3:7–4:9.</p>
+                        <p>ff. 239vB–240vA: 1 Corinthians 12:26–13:13.</p>
+                        <p>ff. 240vA–241rA: Matthew 23:29–24:1a.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 241rA: Ark and Temple lesson sequence</p>
+                        <p>f. 241rA–B: 1 Kings 8:11–21 (3 Kingdoms 8:11–21).</p>
+                        <p>ff. 241vA–242rA: 1 Kings 8:22–30 (3 Kingdoms 8:22–31a).</p>
+                        <p>f. 242rA–242vA: Hebrews 9:1–10.</p>
+                        <p>f. 242vA–B: Matthew 5:17–20.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 242vB: Transfiguration (Vardavar)</p>
+                        <p>ff. 242vB–243rB: Ecclesiastes 11:9–12:7.</p>
+                        <p>f. 243vA: Isaiah 33:20–22.</p>
+                        <p>ff. 243vB–244rA: 2 Peter 1:16–19.</p>
+                        <p>f. 244rA–244vA: Matthew 17:1–9.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 244vA: Monday after the Transfiguration, commemoration of the prophet Isaiah</p>
+                        <p>The small rubric «Երկուշաբթի» introduces the Monday sequence.</p>
+                        <p>ff. 244vA–245rA: Isaiah 6:1–10.</p>
+                        <p>f. 245rA–245vA: Ephesians 4:7–16.</p>
+                        <p>f. 245vA–B: Luke 4:14–22.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 245vB foot: Rubric on the interval after Vardavar</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 246rA: Maccabees</p>
+                        <p>The rubric assigns the commemoration to Thursday.</p>
+                        <p>f. 246rA–B: Wisdom 6:11–17 (ends within v. 17).</p>
+                        <p>f. 246rB: Isaiah 51:7–8.</p>
+                        <p>ff. 246rB–247vA: Hebrews 11:32–12:13.</p>
+                        <p>f. 247vA–B: Matthew 5:17–20 (rubric names Luke).</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 247vB: Shoghakat (foundation of the church of Etchmiadzin)</p>
+                        <p>Vardavar fast and Sabbath wording precede the Shoghakat notice and Psalm directions.</p>
+                        <p>ff. 247vB–248rB: Proverbs 3:19–26.</p>
+                        <p>f. 248rB–248vA: 1 Peter 2:4–10.</p>
+                        <p>f. 248vA–B: Matthew 16:13–18 (incomplete).</p>
+                        <p>Reading after the lacuna: f. 249rA: Matthew 19:24 (partial)–28.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 249rA: Bartholomew and Jude the apostles.</p>
+                        <p>f. 249rA–249vA: Jeremiah 16:16–21.</p>
+                        <p>f. 249vA–B: Isaiah 52:7–10.</p>
+                        <p>ff. 249vB–250rA: Acts 1:12–14.</p>
+                        <p>ff. 250rA–251rA: Matthew 9:35–10:15.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 251rA: <persName key="person_190">James of Nisibis</persName></p>
+                        <p>Explicit commemoration of <persName key="person_190">St James, patriarch of Nisibis</persName>, before the decorated Proverbs opening.</p>
+                        <p>f. 251rA–251vB: Proverbs 2:1–3:8.</p>
+                        <p>ff. 251vB–252rB: Isaiah 41:13–20.</p>
+                        <p>f. 252rB–252vA: Hebrews 13:17–21.</p>
+                        <p>ff. 252vB–253rB: John 9:39–10:10.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 253rB: David and James</p>
+                        <p>David and James, with Psalm 132 cue before the decorated Second Kingdoms heading..</p>
+                        <p>f. 253rB–253vB: 2 Kingdoms 5:1–10 (2 Samuel 5:1–10).</p>
+                        <p>ff. 254rA–255vA: Acts 15:1–33.</p>
+                        <p>f. 255vA–B: Matthew 22:41–46.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 255vB: St Stephen</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 255vB: Peter and Paul</p>
+                        <p>ff. 255vB–256rB: 2 Peter 1:12–19.</p>
+                        <p>f. 256rB–256vB: 2 Timothy 4:1–8.</p>
+                        <p>ff. 256vB–257rB: John 21:15–19.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>f. 257rB: James the Apostle and John the Evangelist</p>
+                        <p>f. 257rB–257vB: James 1:1–12.</p>
+                        <p>ff. 257vB–258rB: 1 John 1:1–9.</p>
+                        <p>f. 258rB–258vA: John 21:20–25.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>ff. 259r–267vB: Lenten Sunday Morning Gospel Cycle</p>
+                        <p>First Sunday morning</p>
+                        <p>ff. 259rA–260vB: Matthew 6:22–7:27.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>Second Sunday morning</p>
+                        <p>ff. 260vB–261vA: Luke 4:43–5:11. Grabar numbering, corresponding to Luke 4:42–5:11 in common English numbering.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>Third Sunday morning</p>
+                        <p>ff. 261vA–263vA: Luke 6:12–49.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>Fourth Sunday morning</p>
+                        <p>ff. 263vA–264vA: Luke 12:32–48.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>Fifth Sunday morning</p>
+                        <p>ff. 264vA–266rB: Mark 13:1–37.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>Sixth Sunday morning</p>
+                        <p>ff. 266rB–267vB: Luke 21:5–38.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>ff. 267vB–284vA: Vigil of Good Friday</p>
+                        <p>ff. 267vB–274rA: John 13:16–18:1.</p>
+                        <p>ff. 274rA–276vB: Luke 22:1–65.</p>
+                        <p>ff. 276vB–279rA: Mark 14:27–72.</p>
+                        <p>ff. 279rB–280vB: Matthew 26:31–56.</p>
+                        <p>ff. 280vB–281vB: Matthew 26:57–75.</p>
+                        <p>ff. 281vB–283rA: John 18:2–27.</p>
+                        <p>ff. 283rA–284vA: John 18:28–19:16a.</p>
+                     </note>
+                     <note type="contents-detail">
+                        <p>ff. 284vA–291r: Passion Week Matins</p>
+                        <p>Ornamented division on 284v separates these readings from the Good Friday vigil.</p>
+                        <p>ff. 284vA–286vA: Matthew 21:18–22:14.</p>
+                        <p>ff. 286vB–288rB: Mark 12:13–44.</p>
+                        <p>ff. 288vA–289rA: Mark 14:1–11.</p>
+                        <p>ff. 289rA–290rB: John 12:27–50.</p>
+                        <p>ff. 290rB–291r single column: Luke 23:50–24:12.</p>
+                     </note>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_2-item2">
+                     <locus from="258v">f. 258vB</locus>
+                     <title xml:lang="en">Original copyist’s colophon (incomplete)</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <colophon xml:lang="hy">Փառք սուրբ երրորդութեանն հաւր եւ որդւոյ եւ հոգւոյն սրբոյ, այժմ եւ միշտ եւ յաւիտեանս յաւիտենից։ Ամէն։ Գրեցաւ կտակս այս հոգեւոր, փառաւոր, դիմաւոր, անձնաւոր, երկնաւոր, լուսաւոր, խնգաւոր եւ խորհրդաւոր, ի կայից կողմանց, ի հարուստ դարաց, ի բարձրագոյն լերանց, ի հեռաւոր ազգաց եւ ազանց, յերփնապայլուն, շքեղափայլ, գունագեղ, բազմերանգ, ծիածան եւ ծիրանագոյն ծաղկանց, յականց պատուականաց եւ ընդ դէմ ոսկեանց: Գեղեցիկ սաթաց, ծովածին մարգարտաց, ժողովեալ, կուտակեալ, բարդեալ, դիզեալ, հաւաքեալ, տստակեալ, ի փունճ մի կապեալ։ Որով բարգաւ…</colophon>
+                     <note type="transcription-status">Normalised Armenian transcription.</note>
+                     <note type="contents-detail">Column B: The incomplete colophon opens with the Trinitarian doxology «Փառք սուրբ երրորդութեանն …», followed by «Գրեցաւ կտակս այս հոգեւոր …». It breaks off mid-word at «Որով բարգաւ». The surviving text is undated.</note>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_2-item3">
+                     <locus from="258v">f. 258vA, foot of column</locus>
+                     <title xml:lang="en">Memorial for the priest <persName key="person_191">Margar</persName> and his parents</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note xml:lang="hy" type="transcription">Ի նստել քո յատենի, յիշեայ, Տէր, զ<persName key="person_191">Մար[գա]րայ</persName> քահ[ան]այ ու զուր ծնաւղսն։ Ամէն։ Ով որ մեզ յիշեայ, նայ Տէրն ամենեցուն զմեզ ու զձեզ յիշեայ յատենին։ Թվ. ՊԸ։</note>
+                     <note type="transcription-status">Normalised Armenian transcription.</note>
+                     <note type="contents-detail">Foot of column A: A separate memorial asks the Lord to remember the priest <persName key="person_191">Margar</persName> and his parents. «Ի նստել քո յատենի, յիշեայ, Տէր, զ<persName key="person_191">Մար[գա]րայ</persName> քահ[ան]այ ու զուր ծնաւղսն։ Ամէն։ Ով որ մեզ յիշեայ, նայ Տէրն ամենեցուն զմեզ ու զձեզ յիշեայ յատենին։ Թվ. ՊԸ։» The date ՊԸ belongs to the memorial. If the note was entered in the year it records, Armenian year 808 (1359 CE), it provides a terminus ante quem for the copying of the original manuscript.</note>
+                     <note type="dating">The date recorded in the memorial is Armenian year 808 (ՊԸ), corresponding to <date calendar="#Gregorian" when="1359">1359 CE</date>; it is not a copying date stated by the original scribe.</note>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_2-item4">
+                     <locus from="291v">f. 291v, main column</locus>
+                     <title xml:lang="en">Restoration colophon</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <colophon xml:lang="hy">Փառք անպարագիծ էին, այնմ որ ոչ են հետազաւտելի, եւ ոչ զինչէն եւ ոչ զինչ պիտին: Եւ ոչ քանակին, համբարձելոյն յամենայն մտաց սլացման։ Գոհութիւն անզննին գոյին, որ է բան, կնիք եւ սահման։ Նմա փառք յամենայն եղականացս յաւիտեանս։ Ամէն։ Արդ, գրեցաւ քրիստոսահիմն եւ մարգարէաշէն այս տառ ձեռամբ անարժան քահանայի սակաւագիրս եւ կապեցաւ ծախիւք եւ ստացուածովք հալալ արդեանց: Յիշատակ <persName key="person_192">Ամիրբէկի</persName> եւ ծնողացն իւրոց <persName key="person_193">Թումաի</persName> եւ <persName key="person_194">Խելոքի</persName>, եւ կենակցի իւրոյ <persName key="person_195">Արղուն Մելեքի</persName>, եւ ծնողաց նորա <persName key="person_196">Շնոհուորի</persName> եւ <persName key="person_197">Պարնլուսի</persName>, եւ <persName key="person_198">Դիլշատին</persName>, ծնողաց իւրոց, որ աւգնական եղէն ի գիրքս։ Գրեցաւ ի վայելումն <persName key="person_199">Յոհաննէսի</persName> նորընծ։</colophon>
+                     <note type="transcription-status">Normalised Armenian transcription.</note>
+                     <note type="contents-detail">f. 291v, main column: Restoration colophon, opening «Փառք անպարագիծ …». It records copying by an unnamed priest and the binding of the volume at the expense of <persName key="person_192">Amir Beg</persName> and other contributors. The colophon commemorates <persName key="person_192">Amir Beg</persName>, his parents <persName key="person_193">Thomas</persName> and <persName key="person_194">Khelok</persName>, his wife <persName key="person_195">Arghun Melek</persName>, and her parents, whose names appear as <persName key="person_196">Շնոհուորի</persName> and <persName key="person_197">Պարնլուսի</persName>. The passage naming <persName key="person_198">Dilshat</persName> also refers to parents who helped with the book. The book was copied for the use of <persName key="person_199">Iohannes</persName> the novice. Baronian and Conybeare assign the restoration hand to the sixteenth century (C, col. 27).</note>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_2-item5">
+                     <locus from="291v">f. 291v, right column</locus>
+                     <title xml:lang="en">Documentary note concerning a bequest of fields</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note type="contents-detail">f. 291v, right column: A documentary note in a later hand. According to Baronian and Conybeare, it records the bequest of fields at Goshters to the church of the Holy Theotokos and St Paul, with contributions from six householders (C, col. 27).</note>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_2-item6">
+                     <locus from="290v">f. 290v, to the right of the Gospel text</locus>
+                     <title xml:lang="en"><persName key="person_200">Galoust</persName>’s binding notice</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note xml:lang="hy" type="transcription">Կազմեցաւ թվ ՌՃԻԳ, ձեռամբ անարժան <persName key="person_200">Գալուստի</persName>։</note>
+                     <note type="transcription-status">Normalised Armenian transcription.</note>
+                     <note type="contents-detail">f. 290v, to the right of the Gospel text: Binding notice recording that <persName key="person_200">Galoust</persName> bound the volume in Armenian year 1123 (ՌՃԻԳ), corresponding to 1674 CE (C, col. 27).</note>
+                     <note type="dating">The notice records the binding in Armenian year 1123 (ՌՃԻԳ), corresponding to <date calendar="#Gregorian" when="1674">1674 CE</date>.</note>
+                  </msItem>
+
+                  <msItem xml:id="MS_Arm_d_2-item7">
+                     <locus from="5">f. 5</locus>
+                     <title xml:lang="en">Incomplete inventory of church chattels</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note type="contents-detail">f. 5: Incomplete inventory of the chattels of an unspecified church, written in eighteenth-century notrgir (C, col. 27).</note>
+                  </msItem>
                </msContents>
+
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="cotton_paper">
-                        <extent>
-                           <dimensions type="leaf" unit="in">
-                              <height>9"</height>
-                              <width>6.5"</width>
+                     <supportDesc material="chart">
+                        <support>Oriental cotton paper.</support>
+                        <extent>292 folios<dimensions type="leaf" unit="in">
+                              <height>9</height>
+                              <width>6.5</width>
                            </dimensions>
+                           <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare (1918, col. 26): leaf size 9 × 6.5 inches; written area 7.5 × 4.75 inches.</note>
                         </extent>
+                        <collation>
+                           <p>22 quires, with Armenian quire numerals at the foot of each quire’s opening recto and closing verso. Most of the numerals had already been cropped by the time of original cataloguing. Textual breaks at ff. 99v–100r, 142v–143r, 166v–167r and 248v–249r corroborate four of the losses reported by Conybeare and Baronian. They also report a loss after f. 200.  The original colophon breaks off mid-word on f. 258vB. Conybeare and Baronian attribute this to the loss of the following leaf of the original copy (1918, cols. 26–27). The sixteenth-century repairs supplied the opening leaves (ff. 6–27) and the supplement now at the end (ff. 259–291). Conybeare and Baronian report that the supplement was first inserted after f. 169 and had been moved to the end by the time of cataloguing (1918, col. 26). In the present order, Amos 8:9 continues across ff. 169v–170r in the Good Friday office.  The two former vellum flyleaves were transferred to MS. Arm. b. 1.</p>
+                           <p>A textual break at ff. 132v–133r, between incomplete Zechariah 9:9–10a and Ezekiel 37:10b–14.</p>
+                           <p>For the catalogue-reported loss after f. 200, the present contents sequence records Ezekiel 37:1–14 across ff. 200rB–201rA.</p>
+                           <p>The former vellum flyleaves which belonged to this manuscript are now ff. 3 and 16 of MS. Arm. b. 1.</p>
+                        </collation>
+                        <condition>The folios show wear and discolouration along the edges, with small perforations near the top of the space between the columns. Paper repairs are visible along the inner margin of f. 237r. Some headings have faded, including the red rubric on f. 235r. The main text is generally legible. The original section has textual breaks after ff. 99v, 142v, 166v and 248v. Trimming of the lower margins has removed most of the Armenian quire numerals.</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="2">
-                           <dimensions type="line-height" unit="mm"/>
+                        <layout columns="2" writtenLines="24 25">Two columns of 24 or 25 lines each.<dimensions type="written" unit="in">
+                              <height>7.5</height>
+                              <width>4.75</width>
+                           </dimensions>
                         </layout>
+                        <layout columns="1">The final reading continues from f. 290rB to f. 291r, where the text is in a single column.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref> script</handNote>
+                     <handNote scope="major" script="bolorgir">The main copy is written in large, elegant bolorgir, tentatively dated to the thirteenth century by Conybeare and Baronian. Words are generally separated. Alongside contractions of sacred words, the catalogue notes contractions of վասն and the ending -թիւն (1918, col. 26).</handNote>
+                     <handNote scope="minor">A smaller hand entered the memorial dated Armenian year 808 (1359 CE) at the foot of f. 258vA.</handNote>
+                     <handNote scope="minor">The supplied leaves (ff. 6–27 and 259–291) belong to the sixteenth-century restoration. On f. 291v the restoration colophon and the subsequent documentary note occupy separate columns and are written in distinct hands.</handNote>
+                     <handNote scope="minor">The notice beside the Gospel text on f. 290v records <persName key="person_200">Galoust</persName>’s binding in 1674.</handNote>
+                     <handNote scope="minor" script="notrgir">Conybeare and Baronian describe the church inventory on f. 5 as written in eighteenth-century notrgir (1918, cols. 26–27).</handNote>
                   </handDesc>
+                  <decoDesc>
+                     <decoNote>Initials and first lines of chapters are rubricated. The headpiece on f. 6v was roughly ornamented by the same hand responsible for the marginal arabesques and other ornaments of the later supplied leaves.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Oriental binding with a flap, formerly fastened with three thongs and three studs. The restoration colophon on f. 291v records that the volume was rebound at the expense of <persName key="person_192">Amir Beg</persName> and other contributors. A later notice on f. 290v records that <persName key="person_200">Galoust</persName> bound the volume in Armenian year 1123 (ՌՃԻԳ, 1674 CE).</p>
+                  </bindingDesc>
                </physDesc>
+
                <history>
-                  <origin>
-                     <origDate calendar="#Gregorian" notBefore="1200" notAfter="1300">13th (?) cent.</origDate>
-                     
-                  </origin>
-                  <acquisition>This MS. was bought from Mr. Joseph Bayan on Nov. 13, 1882.</acquisition>
+                  <origin>Main copy <origDate calendar="#Gregorian" notBefore="1201" notAfter="1300" cert="low">tentatively dated to the thirteenth century</origDate>. Its place of production and scribe are unidentified. The original colophon breaks off on f. 258vB.</origin>
+                  <provenance>A separate memorial for the priest <persName key="person_191">Margar</persName> and his parents at the foot of f. 258vA records Armenian year 808 (1359 CE). If the note was entered in the year it records, it provides a terminus ante quem for the copying of the original manuscript.</provenance>
+                  <provenance>The sixteenth-century restoration colophon on f. 291v records copying by an unnamed priest and rebinding at the expense of <persName key="person_192">Amir Beg</persName> and other contributors. It names <persName key="person_199">Iohannes</persName> the novice as the intended user. Baronian and Conybeare assign the restoration hand to the sixteenth century (1918, col. 27).</provenance>
+                  <provenance when="1674">A separate notice on f. 290v records a later binding by <persName key="person_200">Galoust</persName> in Armenian year 1123 (ՌՃԻԳ, 1674 CE).</provenance>
+                  <acquisition when="1882-11-13">The Bodleian purchased the manuscript from Joseph Bayan on 13 November 1882 (Baronian and Conybeare, 1918, col. 27).</acquisition>
                </history>
+
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Description revised by Lewis Read. The earlier description is Baronian and Conybeare (1918), Catalogue of the Armenian Manuscripts in the Bodleian Library, no. 26, cols. 26–27.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
+                        <p>
+                           Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).
+                        </p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/c8035dfe-4f7b-4fdb-b917-b6e7b47f09eb/"><title>Digital Bodleian</title></ref> <note>(2 selected images only)</note></bibl><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/061ce8b7-c13a-49b0-b892-6da1220f5dba/"><title>Digital Bodleian</title></ref> <note>(single sample image)</note></bibl></surrogates></additional>
+                  <!--Add a <surrogates> entry when the verified Digital Bodleian facsimile URL is available.-->
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <classDecl>
-            <taxonomy xml:id="LCSH">
-               <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
-               </bibl>
-            </taxonomy>
-            <taxonomy xml:id="local_class">
-               <category xml:id="commentary">
-                  <catDesc>Commentary</catDesc>
-               </category>
-               <category xml:id="supercommentary">
-                  <catDesc>Supercommentary</catDesc>
-               </category>
-               <category xml:id="indices">
-                  <catDesc>Indices</catDesc>
-               </category>
-               <category xml:id="translation">
-                  <catDesc>Translation</catDesc>
-               </category>
-               <category xml:id="multipleWorks">
-                  <catDesc>multipleWorks</catDesc>
-               </category>
-               <category xml:id="abridgement">
-                  <catDesc>Abridgement</catDesc>
-               </category>
-               <category xml:id="supplement">
-                  <catDesc>Supplement</catDesc>
-               </category>
-               <category xml:id="papers">
-                  <catDesc>Papers</catDesc>
-               </category>
-               <category xml:id="documents">
-                  <catDesc>Documents</catDesc>
-               </category>
-               <category xml:id="extract">
-                  <catDesc>Extract</catDesc>
-               </category>
-               <category xml:id="gloss">
-                  <catDesc>Gloss</catDesc>
-               </category>
-               <category xml:id="selection">
-                  <catDesc>Selection</catDesc>
-               </category>
-               <category xml:id="diagrams">
-                  <catDesc>Diagrams</catDesc>
-               </category>
-               <category xml:id="notes">
-                  <catDesc>Notes</catDesc>
-               </category>
-               <category xml:id="letters">
-                  <catDesc>Letters</catDesc>
-               </category>
-               <category xml:id="versification">
-                  <catDesc>Versification</catDesc>
-               </category>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh92000686#concept " key="subject_sh92000686">Lectionary Preaching</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh2002011417#concept " key="subject_sh2002011417">Liturgy</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
       <revisionDesc>
-         <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
-         </change>
-         <change when="2012-01-30">
-            <persName>Robin Meyer</persName>
-         </change>
+         <change when="2026-11-06">
+            <persName>Lewis Read</persName>Record complete</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic url="cat_pdf/p25.pdf"/>
-      <graphic url="cat_pdf/p27.pdf"/>
-   </facsimile>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>
+            <!--Body paragraph provided for validation and future transcription-->
+         </p>
       </body>
    </text>
 </TEI>

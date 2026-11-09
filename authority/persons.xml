@@ -425,9 +425,11 @@
                 </person>
 
                 <person xml:id="person_75">
-                    <persName type="display">Ter Araqel Bałishetzi</persName>
-                    <!-- ../collections/armenian/MS_Arm_f3.xml#MS_Arm_f3%2Ditem7 -->
-                </person>
+                   <persName type="display">Ter Araqel Bałishetzi</persName>
+                    <persName type="variant">Aṙakʿel Bałišecʿi</persName>
+   <!-- ../collections/armenian/MS_Arm_f3.xml#MS_Arm_f3%2Ditem7 -->
+   <!-- ../collections/armenian/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem9 -->
+                    </person>
 
                 <person xml:id="person_76">
                     <persName type="display">Nilus, of Ancyra, Saint, d. ca. 430</persName>
@@ -1053,6 +1055,465 @@
                     <persName type="display">Prince tarxan-Mouravi, E.,</persName>
                     <!-- ../collections/georgian/MS_Wardr_c_30%2D.xml#MS_Wardr_c_30%2D -->
                 <!--old_id: georgian/person_104--></person>
+
+                <person xml:id="person_170">
+                   <persName type="display">Philoxenus of Mabbug</persName>
+                   <persName type="variant">Philoxenus of Hierapolis</persName>
+                   <persName type="variant" xml:lang="hy">Փիղիքսիանոսի</persName>
+                   <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q973954">
+                   <title>Wikidata</title>
+                        </ref>
+                     </item>
+                 <item>
+                    <ref target="https://viaf.org/viaf/256760175">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118594060">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_171">
+   <persName type="display">Nestorius, Patriarch of Constantinople</persName>
+   <persName type="variant">Nestorius of Constantinople</persName>
+   <persName type="variant" xml:lang="hy">Նստորիոս</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q185073">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/79098438">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118943170">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_172">
+   <persName type="display">Theodosius II, Eastern Roman emperor, 401–450</persName>
+   <persName type="variant">Theodosius the Younger</persName>
+   <persName type="variant" xml:lang="hy">Թեոդոս</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q160353">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/46929243">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118756885">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_173">
+   <persName type="display">Theodotus of Ancyra, Bishop of Ancyra</persName>
+   <persName type="variant">Theodotus Ancyranus</persName>
+   <persName type="variant" xml:lang="hy">Թեոդոտոսի</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q4891141">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/79410663">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/11909570X">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+                
+                <person xml:id="person_174">
+   <persName type="display">Cyril of Jerusalem</persName>
+   <persName type="variant">Cyril, Bishop of Jerusalem</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q298654">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/2437490">
+               <title>VIAF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_175">
+   <persName type="display">Eusebius of Caesarea</persName>
+   <persName type="variant">Eusebius</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q142999">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/4929593">
+               <title>VIAF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_176">
+   <persName type="display">Carpianus</persName>
+   <note>Recipient of the Epistle of Eusebius to Carpianus.</note>
+</person>
+
+<person xml:id="person_177">
+   <persName type="display">Joseph von Hammer-Purgstall</persName>
+   <persName type="variant">Joseph von Hammer</persName>
+   <persName type="variant">Hammer-Purgstall</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q89546">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/95183401">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://catalogue.bnf.fr/ark:/12148/cb12568890g">
+               <title>BnF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_178">
+   <persName type="display">Francis Beaufort</persName>
+   <persName type="variant">Captain Francis Beaufort</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q21186">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/42580519">
+               <title>VIAF</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_179">
+   <persName type="display">Hripʿsimē, Saint</persName>
+   <persName type="variant">Hripsime</persName>
+   <persName type="variant">Rhipsime</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q465993">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/77127569">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/119529483">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_180">
+   <persName type="display">Gayanē, Saint</persName>
+   <persName type="variant">Gayane</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.armenianchurch.org/en/news/the-feast-of-st-gayane-and-her-companions/4110">
+               <title>Mother See of Holy Etchmiadzin: commemoration</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_181">
+   <persName type="display">John the Baptist</persName>
+   <persName type="variant">John the Forerunner</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q40662">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/27863229">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118557858">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_182">
+   <persName type="display">Athenogenes, Saint</persName>
+   <persName type="variant">Athanogenes</persName>
+   <note>The saint commemorated with John the Baptist in the Armenian liturgical calendar.</note>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.armenianchurch.org/en/news/araratian-week/11848">
+               <title>Mother See of Holy Etchmiadzin: commemoration</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+<person xml:id="person_183">
+   <persName type="display">Varus, Saint</persName>
+   <persName type="variant">St Varus</persName>
+   <persName type="variant" xml:lang="hy">Վարոսի</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q2372199">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+</person>
+
+     <person xml:id="person_184">
+       <persName type="display">Mkhitar, Bishop of Etchmiadzin, scribe of MS. Arm. d. 8</persName>
+       <persName type="variant">Mkhithar, Bishop of Etchmiadzin</persName>
+       <persName type="variant" xml:lang="hy">Մխիթար եպիսկոպոս Էջմիածեցի</persName>
+       <persName type="variant" xml:lang="hy">Մխիթար եպիսկոպոս Էջմիածնեցի</persName>
+       <note>Scribe of MS. Arm. d. 8, completed at the convent of St James in Jerusalem on 24 May 1570. Distinct from his namesake, Archbishop Mkhithar of Urfa, mentioned in the same colophon.</note>
+       <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+    </person>
+
+<person xml:id="person_185">
+   <persName type="display">Mkhithar, Archbishop of Urfa</persName>
+   <persName type="variant">Mkhitar, Archbishop of Urfa</persName>
+   <persName type="variant" xml:lang="hy">Մխիթար արհիեպիսկոպոսին Ուրհայու</persName>
+   <note>Named in the colophon of MS. Arm. d. 8 as the scribe's host in Urfa and an intermediary in the presentation of the manuscript to the monastery of St Sargis. Distinct from Mkhitar, Bishop of Etchmiadzin, the scribe.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</person>
+
+<person xml:id="person_186">
+   <persName type="display">Anton Sebastatsi, Archbishop</persName>
+   <persName type="variant" xml:lang="hy">Անտոն արհիեպիսկոպոսն Սեբաստացի</persName>
+   <persName type="variant" xml:lang="hy">Անտոն եպիսկոպոսին</persName>
+   <note>Named in the colophon of MS. Arm. d. 8 as the companion of the scribe Mkhitar on the journey from Jerusalem to Urfa.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</person>
+
+<person xml:id="person_187">
+   <persName type="display">Astuacatur, Bishop</persName>
+   <persName type="variant" xml:lang="hy">Աստուածատուր եպիսկոպոսին</persName>
+   <note>Named with Archbishop Mkhithar of Urfa in the presentation of MS. Arm. d. 8 to the monastery of St Sargis. The colophon does not specify his episcopal see.</note>
+   <!-- ../collections/armenian/MS_Arm_d_8.xml#MS_Arm_d_8%2Ditem2 -->
+</person>
+
+<person xml:id="person_188">
+   <persName type="display">Anthony the Great</persName>
+   <persName type="variant">Anthony the hermit</persName>
+   <persName type="variant">Antony of Egypt</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q170547">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/107024917">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/118649728">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</person>
+
+<person xml:id="person_189">
+   <persName type="display">Theodore Stratelates</persName>
+   <persName type="variant">Theodorus Stratelates</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q2363350">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://viaf.org/viaf/254059482">
+               <title>VIAF</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://id.loc.gov/authorities/names/n2021005317">
+               <title>Library of Congress</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</person>
+
+<person xml:id="person_190">
+   <persName type="display">James of Nisibis</persName>
+   <persName type="variant">Jacob of Nisibis</persName>
+   <note type="links">
+      <list type="links">
+         <item>
+            <ref target="https://www.wikidata.org/wiki/Q220017">
+               <title>Wikidata</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="http://syriaca.org/person/811">
+               <title>Syriaca.org</title>
+            </ref>
+         </item>
+         <item>
+            <ref target="https://d-nb.info/gnd/1021403261">
+               <title>GND</title>
+            </ref>
+         </item>
+      </list>
+   </note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem1 -->
+</person>
+
+<person xml:id="person_191">
+   <persName type="display">Margar, priest commemorated in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Մար[գա]րայ</persName>
+   <note>Named with his parents in the memorial at the foot of f. 258vA of MS. Arm. d. 2. The memorial records Armenian year 808 (1359 CE). The bracketed letters in the Armenian name follow the examination transcription.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem3 -->
+</person>
+
+<person xml:id="person_192">
+   <persName type="display">Amir Beg, patron named in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Ամիրբէկի</persName>
+   <note>Named in the restoration colophon on f. 291v of MS. Arm. d. 2 as a contributor to the binding. The same passage commemorates his parents Thomas and Khelok and his wife Arghun Melek.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_193">
+   <persName type="display">Thomas, parent of Amir Beg in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Թումաի</persName>
+   <note>Named as one of Amir Beg's parents in the restoration colophon on f. 291v of MS. Arm. d. 2. No identification with another person named Thomas is asserted.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_194">
+   <persName type="display">Khelok, parent of Amir Beg in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Խելոքի</persName>
+   <note>Named as one of Amir Beg's parents in the restoration colophon on f. 291v of MS. Arm. d. 2.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_195">
+   <persName type="display">Arghun Melek, wife of Amir Beg in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Արղուն Մելեքի</persName>
+   <note>Named as Amir Beg's wife in the restoration colophon on f. 291v of MS. Arm. d. 2.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_196">
+   <persName type="display">Person named Շնոհուորի in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Շնոհուորի</persName>
+   <note>Named as one of Arghun Melek's parents in the restoration colophon on f. 291v of MS. Arm. d. 2. The Armenian form is retained as transcribed; no reconstructed nominative is supplied.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_197">
+   <persName type="display">Person named Պարնլուսի in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Պարնլուսի</persName>
+   <note>Named as one of Arghun Melek's parents in the restoration colophon on f. 291v of MS. Arm. d. 2. The Armenian form is retained as transcribed; no reconstructed nominative is supplied.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_198">
+   <persName type="display">Dilshat, named in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Դիլշատին</persName>
+   <note>Named in the restoration colophon on f. 291v of MS. Arm. d. 2, in a passage also referring to parents who helped with the book. No more specific family relationship is assigned.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_199">
+   <persName type="display">Iohannes, novice named in MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Յոհաննէսի</persName>
+   <note>Named as the intended user of the manuscript in the restoration colophon on f. 291v of MS. Arm. d. 2.</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem4 -->
+</person>
+
+<person xml:id="person_200">
+   <persName type="display">Galoust, binder of MS. Arm. d. 2</persName>
+   <persName type="variant" xml:lang="hy">Գալուստի</persName>
+   <note>Named in the binding notice on f. 290v of MS. Arm. d. 2. The notice records Armenian year 1123 (1674 CE).</note>
+   <!-- ../collections/armenian/MS_Arm_d_2.xml#MS_Arm_d_2%2Ditem6 -->
+</person>
+                
             <person xml:id="person_9963139">
                <persName type="variant" subtype="surenameFirst" source="LC">
                   <name type="marc-a">Petrie, W. M. Flinders</name>

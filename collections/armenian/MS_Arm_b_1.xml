@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
-            <funder>JISC-??-</funder>
-            <principal>Gillian Evison</principal>
+            <title>MS. Arm. b. 1</title>
+            <funder>[Agreed Bodleian funding statement still to be supplied]</funder>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>Sukias Baronian</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Original cataloguing (published 1918)</resp>
+               <persName>F. C. Conybeare</persName>
+            </respStmt>
+            <respStmt>
+               <resp when="2026">Cataloguer</resp>
+               <resp when="2026">Encoding</resp>
+               <persName>Lewis Read</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="#Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date of first online publication to be confirmed]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -20,17 +32,20 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                   </addrLine>
                </address>
             </pubPlace>
-            <idno>OCIMCO</idno>
             <idno type="msID">MS_Arm_b_1</idno>
-            <idno type="catalogue">Armenian</idno>
+            <idno type="catalogue">
+               Armenian
+            </idno>
          </publicationStmt>
+
          <sourceDesc>
             <msDesc xml:id="MS_Arm_b_1" xml:lang="en">
                <msIdentifier>
@@ -40,354 +55,1712 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">MSS. Arm. b.</collection>
-                  <idno type="shelfmark">MS. Arm. b. 1</idno><idno type="ieArk">ark:29072/x0cf95jb93c2</idno><idno type="crArk">ark:29072/x0cc08hg102s</idno>
+                  <idno type="shelfmark">MS. Arm. b. 1</idno>
+                  <idno type="ieArk">ark:29072/x0cf95jb93c2</idno>
+                  <idno type="crArk">ark:29072/x0cc08hg102s</idno>
                </msIdentifier>
-               <msContents>
-                  <summary>Old fly-leaves</summary>
-                  <msItem xml:id="MS_Arm_b_1-item1" n="1">
-                     <locus>f. 1</locus>
-                     <title xml:lang="en" key="work_385">Contains Matt XV.14-31, with marginal Eusebian section-numbers</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment. Size 10.125" by 5.625". Text originally 10.25" by 8.25", in two colums of 21 lines each. Written on both sides in Erkat'agir. Not later than the 11th cent. Taken from MS. Arm. e. 3.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item2" n="2">
-                     <locus>f. 2</locus>
-                     <title xml:lang="en" key="work_386">Contains Matt. XXV. 45 - XXVI. 17, with marginal Eusebian section-numbers.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. Size 11.875" by 8.375". Text originally 10.5" by 9", in two columns of 19 lines each. Written on both sides in Erkat'agir, with capitals on the verso written in yellow ink. Not later than the 11th cent. Taken from MS. Marsh 467.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item3" n="3">
-                     <locus>f. 3</locus>
-                     <title xml:lang="en" key="work_387">Contains Matt. XXVI. 34-45, with marignal Eusebian section-numbers.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. Size 12.75" by 9". Text originally 11" by 7.5", in two columns of 19 lines each. Written on both sides in large elegant Erkat'agir. Not later than the 11th cent. Taken from MS. Arm. d. 2.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item4" n="4">
-                     <locus>f. 4</locus>
-                     <title xml:lang="en" key="work_388">Contains parts ot Mark VIII. 38 - IX. 6, with marginal Eusebian section-numbers.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment. A leaf cut across into halves, between which about 1.5" has been lost: the left-hand side of the upper half is also wanting. Size, including the interval of paper between the halves, 15.875" by 10.75". Text originally 11.25" by 7.25", in two clumns of 16 lines each. Written on both sides in large Erkat'agir. Not later than the 11th cent. Taken from MS. Arm. e. 5.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item5" n="5">
-                     <locus>f. 5</locus>
-                     <title xml:lang="en" key="work_389">Contains Luke VII. 19-29, with marginal Eusebian section-numbers.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. Size 14.75" by 9.5". Text 11.625" by 8.25" in two columns of 19 lines each. Written on both sides in large and very neat Erkat'agir. Apparently not later than the 10th cent. Taken from MS. Marsh 128.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item6" n="6">
-                     <locus>f. 6</locus>
-                     <title xml:lang="en" key="work_390">The lower part of a leaf, containin on the recto Luke VIII. 16, 18, 19, and on the verso Luke VIII. 21, 22, 24.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum, much stained. Size 6.75" by 10.625". Text originally 10.5" by 7.75", in two columns of 7 lines each (originally 17), with large margins. Not later than the 10th cent. Taken from the cover of MS. Arm. e. 3.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item7" n="7">
-                     <locus>f. 7</locus>
-                     <title xml:lang="en" key="work_392">Two fragments of different MSS. The first fragment contains Luke VIII. 51, 54-56; the second Luke XXI. 4, 6, 7, 9, 12, with marginal Eusebian section-numbers.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. The upper part of one leaf, and the lower part of another. Size 5.625" by 5.625", and 5.625" by 8". TExt, in two columns, the first fragment having 8 lines left, the second 6. Written on both sides in large Erkat'agir. Not later than the 11th cent. Taken from MS. Marsh 17.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item8" n="9">
-                     <locus>f. 8</locus>
-                     <title xml:lang="en" key="work_392">The fragments formed part of the same copy of the Gispels: they contain, of course with some deficiencies, the passages Luke IX. 1-12, with marginal Eusebian section-numbers, and 42-57.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment very much stained. Two leaves. Size, 10" by 7" and 10.375" by 7". TExt originally 10.375" by 7", in two columns, originally of 20 lines each, but now of 18 lines in the first fragment and 17 in the second. Written on boths sides in large Erkat'agir. Not later than the 11th cent. Taken from MS. Arm. e. 7.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item9" n="11">
-                     <locus>f. 10</locus>
-                     <title xml:lang="en" key="work_393">Contains part of the Ritual, viz. a portion of the Canon of the third day of the Burial of a priest; parts of these lessons and prayers are not in the printed editions.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum. A sheet of two leaves, each with the top, bottom, and outer side mutilated. Size, 6.875" by 9.75" (breadth of second leaf 5.25"). Text in two columns of 18 lines each. Written in neat Erkat'agir, with occasional rubrication. Content cf. ed, Venice, 1831, pp. 476 - 477. Apparently of the 13th cent. Taken from MS. Arm. e. 6.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item10" n="12">
-                     <locus>f. 12</locus>
-                     <title xml:lang="en" key="work_394">Contains the latter part of the Canon of the Benediction of cereals, harvest, and vintage, and nearly all the Prayer in time of drought (Վասն Երաշտութեան).</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment, soiled. Size, 10.5" by 6.75". Text (partly cut off down each side) in two columns: those on the recto contain parts of 26 lines, with possible traces of a 27th; those on the verso parts or traces of 25 lines. Written on both sides in Erkat'agir. Content cf. ed. Ven. pp. 700-701, 706. Apparently of the 12th century. Taken from MS. Marsh 646.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item11" n="13">
-                     <locus>f. 13</locus>
-                     <title xml:lang="en" key="work_395">Belonging to a lectionary for festivals (Տօնական), it contains on the recto the latter part of Matt. XXIII.37-39, followed by the heading of the day of commemoration of the council of Ephesus on the 30th of Arats (=Feb. 18) followed ny the historical discourse of Philoxenus, bishop of Mabug (Membij in Syria), on the same council, in framgents.</title>
-                     <title xml:lang="hy" key="work_395">Երանելւոյն Փիղիքսիանոսի Նաբուքայ եպիսկապոսի (sic) Պատճառք ժողովոյն …յ եւ Եփեսոսի քակտոիմն Նստորի (sic) …</title>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment. Size, 7" by 10.375". Text in two columns (mutilated at top and bottom): those on th recto contain respectively 20 lines (with a possible trace of another) and 26 lines; those on the verso 25 and 24. Written on both sides in Erkat'agir, with 7 lines in small Bolorgir-uncials. Content cf. Zarbhanalian's "Catal. des anciennes traductions Arméniennes, Venice, 1889, p. 734. Apparently of the 12th century. Taken from MS. Arm. e. 9.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item12" n="14">
-                     <locus>f. 14</locus>
-                     <title xml:lang="en" key="work_397">Belonged to a Lectionary for festivals (Տօնական), and contains the last lines of the 42nd lesson and the beginning of the homily of Theodotus, bishop of Ancyra, on the Nativity of Christ.</title>
-                     <title xml:lang="xcl-Latn-x-hmb" key="work_397">ԽԲ. Թեոդոտոսի եպիսկոպոսի Անկիւրա [խաւսք ի] ծնունդն տ՟ն մերոյ յ՟ի ք՟ի …</title>
-                     <incipit>Պայ]ծար եւ հրաշափառ է մերձա[կայ] տաւնիս խորհուրդ …</incipit>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. A leaf cut acriss into halves, between which 0.75" or so has been lost. Size (including the interval of paper between the halves), 21.25" by 13.5". Text (a few letters of each line cut off down the inner side of the inner column), in two columns of (at present) 42 lines each. Written on both sides in Erkat'agir, with a large rose-coloured and light-green arabesque, and occasional red and black striped ornamentation occupying an entire line. According to Zarbhanalian (p. 470), the homily is ascribed to Theodoros or Theodosius in MSS. preserved in the library of San Lazaro, VEnice, but the reading of Gallandus (Bibl. Patr. ix. p. 440) agrees with our fragment. Apparently of the 11th or 12th cent. Taken from MS. Arm. d. 1.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item13" n="15">
-                     <locus>f. 15</locus>
-                     <title xml:lang="en" key="work_399">Contains a portion of the XVIth (according to the Greek text, XXth) of the Lesser Monastic Rules (called in the Armenian Հարցողաց գիրք) of St. Basil, but part of the second page is almost or quite illegible.</title>
-                     
-                     <incipit>ընդունին. եւ ոչ զգ[ուշա]նասն ասդի փափ[կու]թեան. պատրաստ լեր …</incipit>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment. Size, 9.375" by 6.875". Text in two columns of 15 lines each, the top and inner side of the inner column being cut off. Written on both sides in Erkat'agir. Apparently from the 12th cent. Taken from MS. Arm. e. 9.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item14" n="16">
-                     <locus>f. 16</locus>
-                     <title xml:lang="en" key="work_400">The lower part of a leaf: on the first page, after these words of the end of some ascetic treatise, հանդերձեալքս, եւ բազում փութոյ արժանաւորք այժմուքս, follows the garbled title: Վասն եղբայրսիրու - On brotherly love. On the verso: առաքինութեամբ: ԻԲ. Աղաւթք առա՟ծ վասն յառաքինութեան յառաջադիմութեան - XXII. Prayer to God for progress in virtue.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment. Size, 6.875" by 9.25". Text in two columns of (at present) t lines each, with large margins, but with the inner half of the inner columns cut off. Written on both sides in Erkat'agir. Apparently 13th cent. Taken from MS. Arm. d. 2.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item15" n="17">
-                     <locus>f.</locus>
-                     <author key="person_40">Evagrius, Ponticus, <date calendar="#Gregorian" from="0345" to="0399">345?-399</date></author>
-                     <title xml:lang="en" key="work_401">Contains 4 fragments of the works of Evagrius of Pontus.</title>
-                     <title xml:lang="hy" key="work_401">a) Եւագրեայ Բան խրատու. Զերախայրին կալոյ իմոյ …; b) Եւագրեայ Առ մարտիրոսն.; c) Նորին Եւագրեայ .Եթէ ունիցիս ընդ քեւ եղբարս …; d) Հաւատք որ ի Նիկիայ</title>
-                     <incipit>a) … գաւազանք հեզոց բղխեսցեն ընկոյզ …; b) … ք՟ս տուր ինձ համարձակութիւն ընդ սուրբսն քո … Վասն Յարութեան. Յարութեանն ք՟ի երկրպագեսցուք …; c) … սցի ի խուողէ անտի, կամ ի սպանողէ անտի … Ես Պաւղին այսպէս փառաւորեալ որպէս ընկալայ ի հարցն, հաւատամ …; d) … սուրբ կատարեալ. պբարեխաւս առանց առնելոյ …</incipit>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. Four leaves. Size, about 7.125" by 5.625". Text, about 5" by 3.5", of 18 lines to the page. Written on both sides in small and neat Erkat'agir, with large initials in gold over rose-colour. Apparently of the 13th cent. Taken from MS. Arm. e. 4.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item16" n="21">
-                     <locus>f. 21</locus>
-                     <title xml:lang="en" key="work_403">[Unidentified content]</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment. Size, 3.625" square. Text, in two columns (most of the inner colum being cut away) of (at present) 8 lines each, and with apparent traces of a 9th lines. Written on one side in Erkat'agir, with rubriatcion. The bottom of a leaf, only partially legible. Apparently of the 12th cent. Taken from MSS. Arm. g. 1. Across it is written in a late hand: ես տ՟ր մաթիոս֊տվի այս տըրտ՟ն. բարսեղ աբեղին. ժամուց - "I Sir Mathios gave this hour's book to Barseł the monk".</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item17" n="22">
-                     <locus>f. 22</locus>
-                     <title xml:lang="en" key="work_404">A leaf of the Gospels containt Marl X. 15-38, with marginal Eusebian section-numbers, and with corresponding harmonies at the bottom of the page.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum. Size, 14.5" by 11". Text, 11.625" by 8.25", in two columns o 28 lines each. Written on both sides in Erkat'agir. Probably of the 10th cent. Taken from MS. Arm. d. 8.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item18" n="23">
-                     <locus>f. 23</locus>
-                     <title xml:lang="en" key="work_405">A leaf of a Ritual, containt part of the service for the Burial of a priest.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment. Size, 12.875" by 9.5". Text, mutilated at top, nearly the same, in two columns of 26 or 27 lines. Written on both sides in large Erkat'agir. for the text, and small or square Erkat'agir for the titles or rubrics. Probably of the 13th cent. Taken from MS. Arm. d. 8.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item19" n="24">
-                     <locus>f. 24</locus>
-                     <title xml:lang="en" key="work_406">Contains portions of miral treatises.</title>
-                     
-                     <incipit>… նամանելի. այղ ոչ բերել առաքինաբար … ութեանն. յիշայ զտ՟րն. զի ի ճոխութե [անաղ] քատացաւ վասն մեր. եթե անզգամ զքեզ …</incipit>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum. Size, about 8.25" by 6" each. Text (originally about 9.25" by 6"), about 7.25" by 5.25", in from 14 to 15 lines (wth apparent trace of a 16th), but every page has lost on or more lines. Written on both sides in medum-sized Erkat'agir. Two folios. Probably of the 12th cent. Taken from MS. Marsh 85.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item20" n="26">
-                     <locus>f. 26</locus>
-                     <title xml:lang="en" key="work_407">a) Fragment of a commentary on Is.XL.8, discoursing the superior excellence of the soul as compared to the body; b) Two extracts from Lives of Fathers; c) Fragment of some unknwon commentary, in which the Temptation of Jesus in the wilderness is spoken of.</title>
-                     <incipit>a) և տես զլոիծեալսն և ահ[ա ոչ] խոտ միայն այլ և մոխիր տեսանես … ; b) … յայլ թգ՟ր հը[րեշտակ ի քաղաքն] ի մի յաւուրց …; c) … այնոքիկ իցեն. ոչ միայն այն զոր խօսեցաւ ըբդ մվ՟ի և ընդ այլս ….</incipit>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Two oalimpsest sheets of two folios each. Size of each leaf, about 7" by 4.875". The under text us only in very slight part decipherable, but was written in very small square Erkat'agir of about the 11th or 12th cent., and belonged to a liturgical book. The upper text measures about 6.375" by 4.375", in from 20 to 26 lines - the top line or two in the second sheet being partly or entirely cut away. It is written in cursive bolorgir of about the 14th cent., with many abbreviations and monograms and with traces of rubrication. Taken from MS. Arm. e. 2.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item21" n="28">
-                     <locus>f. 30</locus>
-                     <title xml:lang="en" key="work_408">Fragments of a lectionary.</title>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Parchment, much browned abd stained. Size, 6.25" by 8.75". Text, in two columns, but curtailed on all sides, each at present containing only four lines. Writing, in large square Erkat'agir of 10the or 11th cent. Contains: the Lessons of Wednesday of the second week of Lent, i.e. on recto 1st col., Exod.II.22, and Joel II.1; 2nd col., Joel II.2-4l on verso, 1st col., Joel II.6-7; 2nd col., Joel II.9-11. Before this folio was mutilated and used as a fly-leaf, a good hand, perhaps of the 15th cent., wrote out on the recto a list of saints whose days are kept from the 15th to the 19th of some month. One discerns the names of SS. Leontios, Nerses, Polycarp, Hilary the wonder worker, Kirakos, Eugenia, and others. Later hans have also covered th verso with rude writing. Taken from MS. Arm .f. 6.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item22" n="29">
-                     <locus>f. 30</locus>
-                     <author key="person_41">John Chrysostom, Saint, <date calendar="#Gregorian" from="0407">d. 407</date></author>
-                     <title xml:lang="en" key="work_409">(Verso:) End of a homily; (Recto:) Beginning of the Homily of John Chrysostom on the Incomprehensible</title>
-                     <incipit>Աշխատայսեր մշակք յորժամ տեսանեն ծառ անպտուղ …</incipit>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Thin vellum, discoloured and creased. Size, 9" by 6". Text in two columns, each 3" wide, containing at present 25 lines of 9" in length, but cut away at the top and bottom, as well as over most of the outer column. Writing, in small square Erkat'agir, and rubrics in half uncial after the manner of 12th cent. codices. A note is written across the recto in a hand of the 15th cent., for which see under MS. Arm. f. 6., from which it was taken.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item23" n="30">
-                     <locus>f. 31</locus>
-                     <title xml:lang="en" key="work_410">Hosea V.7-13</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum yellowed and stained. Size, 9.125" by 6.5". The fragment consists of a complete leaf. The text, surrounded by ample margins, measure 6" by 5", of 15 lines, written in elegant square Erkat'agir. Appartenly of the 12th cent. At foot of recto a peacock is drawn in brown ink. Guien by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item24" n="31">
-                     <locus>f. 32</locus>
-                     <title xml:lang="en" key="work_411">Luke XIV.16-32</title>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum. Size 9.625" by 6.25". TExt in two columns (half the outer one cut away, as well as one line at top). It originally measured 9.75" by 7", of 21 lines each column. Written in Erkat'agir. Text partly mutilated. Perhaps of the 11th cent. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item25" n="32">
-                     <locus>f. 33</locus>
-                     <title xml:lang="en" key="work_412">Matt. XIVII.12 - XIX. 12, in fragments.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum, two mutilated leaves. Size, 7" by 6.75". Text in two columns, originally 21" by 7.5", of 21 lines, but now of 14 only. Written in Erkat'agir of middle size. Perhaps as early as the 11th cent. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item26" n="33">
-                     <locus>f. 35</locus>
-                     <title xml:lang="en" key="work_413">(Recto:) Last verse of Matthew; (Verso:) Mark I.12-13 in seven lines.</title>
-                     
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Wellum, much stained, 2.75" by 3.875". Text originally in two columns. Probably not later than the 11th cent. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item27" n="34">
-                     <locus>f. 36</locus>
-                     <title xml:lang="en" key="work_414">Luke XII. 19-40, XIII.22 - XIV.7, with marginal section-numbers or Ammonian canons.</title>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Vellum; two conjugate leaves. Size, 9.25" by 7". Text, 6.125" by 7.75", in two columns, of 24 lines each, with the outer margins cut away. Written in elegant square Erkat'agir of the 11th or 12 cent. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item28" n="35">
-                     <locus>f. 38</locus>
-                     <title xml:lang="en" key="work_415">Matt. III.13 - IV.8</title>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Glazed paper, much yellowed, Outer margin torn off obliquely. Size, 6" by 9.5". Text, 7.25" by 4.5", in two columns of 19 lines each. Written in a large bolorgir, of the kind current in N.W. Armenia in the 12th cent. with intermixture of uncial forms. Has red stress accents for reading aloud or intoning. Given by Dr. Baronian.</note>
-                  </msItem>
-                  <msItem xml:id="MS_Arm_b_1-item29" n="36">
-                     <locus>f. 39</locus>
-                     <title xml:lang="en" key="work_416">Mark V.13-33, VII.24-28, IX.17-33, X.43-45, XIII. 2-3, XIII.8-9,11-12.</title>
-                     <textLang mainLang="hy">Armenian</textLang>
-                     <note>Glazed paper of brownish hue. Fove leaves, the forst three giving full pages, but cut across into halves, the fourth a fragment only, and the fifth the upper half of a leaf. Size, full pages, 12.5" by 8". Text, 9.25" by 6.75", in two columns, of 20 lines each. Written in bold bolorgir if the 14th cent. Given by Dr. Baronian.</note>
-                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n57/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
-                        Bodleian Library, no. 45, pp. 93-99.</ref></bibl></listBibl></msItem>
-                  </msItem>
-               </msContents>
+
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <extent>
-                           <dimensions type="leaf" unit="in">
-                              <height>19.75"</height>
-                              <width>13.5"</width>
+                        <support>Modern bound volume bringing together Armenian manuscript fragments on parchment and paper.</support>
+                        <extent>One cover page and 43 folios, containing 36 numbered manuscript fragments.<dimensions type="binding" unit="in">
+                              <height>19.75</height>
+                              <width>13.5</width>
                            </dimensions>
                         </extent>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1">
-                           <dimensions type="line-height" unit="mm"/>
-                        </layout>
-                     </layoutDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote scope="major" script="unknown">Unknown script</handNote>
-                  </handDesc>
+                  <bindingDesc>
+                     <p>Modern binding.</p>
+                  </bindingDesc>
                </physDesc>
+
                <history>
-                  <origin>
-                     
-                     
-                  </origin>
-                  <acquisition>A number of the leaves contained within this MS. were taken from other MSS. in the Bodleian collection; others were given by Dr. Baronian.</acquisition>
+                  <acquisition>The fragments were assembled by the Bodleian Library from former flyleaves of other manuscripts in the Armenian collection and material given directly by Dr Baronian.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Description revised by Lewis Read. The earlier description is Baronian and Conybeare (1918), Catalogue of the Armenian Manuscripts in the Bodleian Library, no. 45, pp. 93–99.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
+                        <p>
+                           In order to protect and preserve this artefact, access to it is restricted, and readers are asked to work from reproductions and published descriptions as far as possible. If you require access to the original, please submit your request through the Bodleian Archives and Manuscript Request service. When your request is received, you will be asked to provide further information outlining the subject of your research, the importance of this item to that research, and the resources you have already consulted. Your application will then be considered by our curatorial staff. Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact Bodleian Admissions).
+                        </p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/4936e225-a019-41a8-bb78-82d5144a4a52/"><title>Digital Bodleian</title></ref> <note>(8 selected images only)</note></bibl></surrogates></additional>
+                  <!--Add a <surrogates> entry when the verified Digital Bodleian facsimile URL is available.-->
+               </additional>
+               
+               <msPart xml:id="MS_Arm_b_1-part1">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 1 (Folio. 1r-1v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment of Gospel of Matthew 15: 14-31. Formerly a fly leaf taken from MS. Arm. e. 3.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item1">
+                        <locus>Folio. 1r-1v</locus>
+                        <title xml:lang="en" key="work_847">Fragment of the Gospel of Matthew 15:14-31</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 1r: Gospel of Matthew 15: 14-23</note>
+                        <incipit xml:lang="hy">Թոյլ տուք զնոսա կոյրք են կուրաց...</incipit>
+                        <explicit xml:lang="hy">Եւ նա ոչ ետ նմա...</explicit>
+                        <note type="contents-detail">Folio 1v: Gospel of Matthew 15: 23-31
+                        First line is heavily cropped, but second line is legible.</note>
+                        <incipit xml:lang="hy">զնա զի աղ...</incipit>
+                        <explicit xml:lang="hy">մինչեւ զարմանալ...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>10.125</height>
+                                 <width>6.625</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 10.125" by 6.625" inches</note>
+                           </extent>
+                           <collation>Initial lines, line beginnings, and line ends are partially cropped.</collation>
+                           <condition>Fragment is creased horizontally in the middle with three binding holes reflecting its role as a fly leaf for MS. Arm. e. 3. Folio shows significant weathering, various ink stains which only minorly interrupt readability, and a single hole in the upper portion of the folio which obscures a single letter on both sides of the folio.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 20 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present between columns on both recto and verso of folio.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. e. 3.</provenance>
+                  </history>
+
+               </msPart>
+               <msPart xml:id="MS_Arm_b_1-part2">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 2 (Folio. 2r-2v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 2; folio 2r-v; Fragment of Gospel of Matthew 25:45 – 26:17. Formerly a fly leaf taken from MS. Marsh. 467.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item2">
+                        <locus>Folio. 2r-2v</locus>
+                        <title xml:lang="en" key="work_847">Fragment of the Gospel of Matthew 25:45-26:17</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 2r: Gospel of Matthew 25:45 – 26:8
+                        First line is heavily cropped, but second line is legible.</note>
+                        <incipit xml:lang="hy">ամէն ասեմ ձեզ. որովհետեւ...</incipit>
+                        <explicit xml:lang="hy">Իբրեւ տեսին (cropped) բարկացան...</explicit>
+                        <note type="contents-detail">Folio 2v: Gospel of Matthew 26:9 - 26:17
+                        First line is heavily cropped, but second line is legible.</note>
+                        <incipit xml:lang="hy">էր վաճառել զդա...</incipit>
+                        <explicit xml:lang="hy">Ուր կամիս զի պատրաստեսցուք քեզ ուտել զզատիկն:</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>11.875</height>
+                                 <width>8.375</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Thin Vellum, 11.875" by 8.375" inches</note>
+                           </extent>
+                           <collation>Initial lines, line beginnings, and line ends are partially cropped.</collation>
+                           <condition>Fragment is creased horizontally in the middle with four pairs of binding holes reflecting its role as a fly leaf for MS. Marsh. 467. There are two further binding holes between the columns which reflect the folio’s original binding. The folio shows some weathering, two red lines which cut across the folio but do not affect legibility, and a single hole in the upper portion of the folio which does not affect legibility.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 19 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present between columns on both recto and verso of folio. Capitals on verso written in yellow ink.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Marsh. 467.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part3">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 3 (Folio. 3r-3v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 3; folio 3r-v; Fragment of Gospel of Matthew 26:34-45. Formerly a fly leaf taken from MS. Arm. d. 2.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item3">
+                        <locus>Folio. 3r-3v</locus>
+                        <title xml:lang="en" key="work_847">Fragment of the Gospel of Matthew 26:34-45</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 3r: Gospel of Matthew 26:34-39</note>
+                        <incipit xml:lang="hy">...սեալ իցէ, երիցս ուրասցիս զիս:</incipit>
+                        <explicit xml:lang="hy">Բայց ոչ որպէս ես կամիմ, այլ...</explicit>
+                        <note type="contents-detail">Folio 3v: Gospel of Matthew 26: 39-45</note>
+                        <incipit xml:lang="hy">որպէս դու: Գայ առ աշակերտսն...</incipit>
+                        <explicit xml:lang="hy">Ննջեցէք այսու...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>12.75</height>
+                                 <width>9</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Thin Vellum, 12.75" by 9" inches</note>
+                           </extent>
+                           <collation>Initial lines are partially cropped.</collation>
+                           <condition>Fragment is creased horizontally in the middle with two binding holes reflecting its role as a fly leaf for MS. Arm. d. 2. The folio shows some weathering, but is in a good state of legibility and preservation.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 19 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present between columns and at bottom of folio.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. d. 2.</provenance>
+                  </history>
+
+               </msPart>
+               <msPart xml:id="MS_Arm_b_1-part4">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 4(ab) (Folio. 4(a)r- folio 4(b)v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 4(ab); folio 4(a)r-4(b)v; Fragment of Gospel of Mark 8:39-9:7. Formerly a fly leaf taken from MS. Arm. e. 5.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item4">
+                        <locus>Folio. 4(a)r- folio 4(b)v</locus>
+                        <title xml:lang="en" key="work_846">Fragment of the Gospel of Mark 8:39-9:7</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 4(a)r: Gospel of Mark 8:39</note>
+                        <incipit xml:lang="hy">(Cropped) ասէ ցնոսա. Ամէն...</incipit>
+                        <explicit xml:lang="hy">եկեալ զաւրութեամբ:</explicit>
+                        <note type="contents-detail">Folio 4(a)v: Gospel of Mark 9:1-2</note>
+                        <incipit xml:lang="hy">առանձինն...</incipit>
+                        <explicit xml:lang="hy">ոչ կարեն սպիտակեց (cropped)</explicit>
+                        <note type="contents-detail">Folio 4(b)r: Gospel of Mark 8:38 - 9:1
+                        Incipit (cropped) յամաւթ արասցէ զնա, յորժամ...</note>
+                        <explicit xml:lang="hy">եւ հանէ զնոսա ի լեառն մի բարձր...</explicit>
+                        <note type="contents-detail">Folio 4(b)v: Gospel of Mark 9:3-7</note>
+                        <incipit xml:lang="hy">...հանդերձ, եւ խօսէին</incipit>
+                        <explicit xml:lang="hy">Եւ յանկարծակի...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>15.875</height>
+                                 <width>10.75</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 15.875" by 10.75" inches</note>
+                           </extent>
+                           <collation>Folio 4a and 4b formerly constituted a single leaf which was cut horizontally into two halves, between which about 1.5" has been lost in the process. The left-hand side of the upper half is also entirely missing.</collation>
+                           <condition>Fragment folio 4(a)r-v has been cut horizontally and vertically. It preserves three binding holes reflecting its role as a fly leaf for MS. Arm. e. 5. Fragment folio 4(b)r-v has been cut horizontally. It preserves one binding hole reflecting its role as a fly leaf for MS. Arm. e. 5. There are two further patched holes at the bottom of the folio. The folio shows weathering and water damage around the borders but is in a reasonably good state of legibility and preservation.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 16 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A later hand in Bolorgir is present at the bottom of folio 4(b)v, repeating the phrase: Բանք սաղմոսիս է պատվական լցեալ հոգով Աստուծական որք ի յասելն...</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. e. 5.</provenance>
+                  </history>
+
+               </msPart>
+               <msPart xml:id="MS_Arm_b_1-part5">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 5 (Folio. 5r-5v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 5; folio 5r-v; Fragment of Gospel of Luke 7:19-29. Formerly a fly leaf taken from MS. Marsh. 128</summary>
+                     <msItem xml:id="MS_Arm_b_1-item5">
+                        <locus>Folio. 5r-5v</locus>
+                        <title xml:lang="en" key="work_845">Fragment of the Gospel of Luke 7:19-29</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 5r-v: Gospel of Luke 7:19-29</note>
+                        <incipit xml:lang="hy">(cropped)...ակերտացն իւրոց Յովհաննէս...</incipit>
+                        <explicit xml:lang="hy">...արդարացուցին զԱստուած, զի մկրտեցան ի մկրտութ...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>14.75</height>
+                                 <width>9.5</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Thin Vellum, 14.75" by 9.5" inches</note>
+                           </extent>
+                           <collation>Line beginnings and Line endings are partially cropped.</collation>
+                           <condition>Adhesive runs horizontally across the middle of the folio which affects legibility in this region. The folio otherwise is in an excellent state of legibility and preservation.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 19 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present between columns.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Marsh. 128.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part6">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 6 (Folio. 6r-6v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 6; folio 6r-v; Fragment of Gospel of Luke 8: 16, 18, 19, 21, 22, 24. Formerly a fly leaf taken from MS. Arm. e. 3.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item6">
+                        <locus>Folio. 6r-6v</locus>
+                        <title xml:lang="en" key="work_845">Fragments of the Gospel of Luke 8:16, 18, 19, 21, 22, 24</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 6r: Gospel of Luke 8: 16, 18, 19</note>
+                        <incipit xml:lang="hy">(cropped) ճրագ, եւ թաքուցանէ ընդ կարասեա...</incipit>
+                        <explicit xml:lang="hy">...եւ ոչ կարէին հասանել ի նա վասն...</explicit>
+                        <note type="contents-detail">Folio 6v Gospel of Luke 8: 21, 22, 24</note>
+                        <incipit xml:lang="hy">եւ առնեն: Եւ եղեւ ի...</incipit>
+                        <explicit xml:lang="hy">...եւ խռովութեան ջրոցն...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>6.75</height>
+                                 <width>10.625</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 6.75" by 10.625" inches</note>
+                           </extent>
+                           <collation>Folio has been significantly cropped meaning portions of text, including line beginnings, and line ends are incomplete.</collation>
+                           <condition>Fragment is creased vertically in the middle with three binding holes reflecting its role as a fly leaf for MS. Arm. e. 3. The folio is stained heavily on the verso which affects legibility in places.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 7 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present between columns</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. e. 3.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part7">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 7/8 (Folio. 7(a)r-7(b)v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 7/8; Folio. 7(a)r-7(b)v; Fragments of Gospel of Luke 8: 50-51, 54-56 and 21: 4, 6, 7, 9, 12. Formerly fly leaves taken from MS. Marsh. 17.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item7">
+                        <locus>Folio. 7(a)r-7(b)v</locus>
+                        <title xml:lang="en" key="work_845">Fragments of the Gospel of Luke 8:50-51, 54-56 and 21:4, 6, 7, 9, 12</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 7(a)r: Gospel of Luke 8: 50-51</note>
+                        <incipit xml:lang="hy">եւ կեցցէ: Եւ մտեալ ի տունն...</incipit>
+                        <explicit xml:lang="hy">...եւ զհայր մանկանն եւ</explicit>
+                        <note type="contents-detail">Folio 7(a)v: Gospel of Luke 8: 54-56</note>
+                        <incipit xml:lang="hy">...սեան կալաւ զձեռանէ</incipit>
+                        <explicit xml:lang="hy">...եւ կանգնեցաւ վաղվաղ (cropped)</explicit>
+                        <note type="contents-detail">Folio 7(b)r: Gospel of Luke 21: 4, 6, 7</note>
+                        <incipit xml:lang="hy">(cropped)ին նոքա ի մըթ(cropped)...</incipit>
+                        <explicit xml:lang="hy">...այդ, եւ զինչ նը(cropped).</explicit>
+                        <note type="contents-detail">Folio 7(b)r: Gospel of Luke 21: 9, 12</note>
+                        <incipit xml:lang="hy">եւ խռովութիւնս, մի...</incipit>
+                        <explicit xml:lang="hy">...եւ հալածեսցե(cropped)</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>5.625</height>
+                                 <width>6.625</width>
+                              </dimensions>
+                              <dimensions type="leaf" unit="in">
+                                 <height>5.625</height>
+                                 <width>8</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Thin vellum, folio 7(a): 5.625" by 6.625" inches, folio 7(b) 5.625" by 8" inches.</note>
+                           </extent>
+                           <collation>Folio 7(a) has been cropped horizontally leaving only upper right portion of folio. Folio 7(b) has been cropped horizontally leaving only bottom half of folio.</collation>
+                           <condition>Folios are creased vertically in the middle. Folio 7(a) has two binding holes, 7(b) one, reflecting their role as a fly leaf for MS. Marsh. 17. Folio 7(a) is partially stained at the bottom on the recto. The folio is otherwise in good condition for legibility, particularly on the verso. The verso of folio 7(b) is heavily weathered which affects legibility in places.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folio 7(a): Two columns of 8 lines; Folio 7 (b): Two columns of 6 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. On the verso of 7(a) is a later hand in Notrgir in black ink, it reads: Ես Մինասս գիրս տվի Դաւիթ պարոն տիրին թէ որ գնամք սուրբ Էջմիածին, ղոստով դաստուր առնումք հոգեւոր տիրէն, գնամք մէկ անապատ կամ կարդամ կամ ապաշխարիմ։</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present between columns.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragments formerly fly leaves taken from MS. Marsh. 17.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part8">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 9/10 (Folios 8r-9v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 9/10; folios 8r-9v; Fragments of Gospel of Luke 9: 1-12, 42-57. Formerly a fly leaf taken from MS. Arm. e. 7.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item8">
+                        <locus>Folios 8r-9v</locus>
+                        <title xml:lang="en" key="work_845">Fragments of the Gospel of Luke 9:1-12, 42-57</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 8r: Gospel of Luke 9: 1-7</note>
+                        <incipit xml:lang="hy">զերկոտասան առաքեալսն, ետ նոցա...</incipit>
+                        <explicit xml:lang="hy">...Լուաւ Հերովդէս</explicit>
+                        <note type="contents-detail">Folio 8v: Gospel of Luke 9: 8-12</note>
+                        <incipit xml:lang="hy">եթէ Յովհաննէս յարեաւ...</incipit>
+                        <explicit xml:lang="hy">շուրջ ի գեղսն եւ յագարակս</explicit>
+                        <note type="contents-detail">Folio 9r: Gospel of Luke 9: 42-48</note>
+                        <incipit xml:lang="hy">եւ շարժլեաց...</incipit>
+                        <explicit xml:lang="hy">ձեզ նա եղիցի մեծ:</explicit>
+                        <note type="contents-detail">Folio 9v: Gospel of Luke 9: 49-57</note>
+                        <incipit xml:lang="hy">Եւ արգելաք զնա, զի ոչ շրջի...</incipit>
+                        <explicit xml:lang="hy">ասէ ոմն ցնա. Եկի(cropped)</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>10</height>
+                                 <width>7</width>
+                              </dimensions>
+                              <dimensions type="leaf" unit="in">
+                                 <height>10.375</height>
+                                 <width>7</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, folio 8: 10" by 7" inches. Folio 9: 10.375" by 7".</note>
+                           </extent>
+                           <collation>Folios have been cropped closely around border of text leaving the upper lines incomplete.</collation>
+                           <condition>Folios are creased horizontally across the middle with four binding holes reflecting their role as fly leaves for MS. Arm. e. 7. Alongside the creasing of the text, folio 8 is partially stained at various points on the recto and torn in the upper right corner, which all affect legibility.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folio 8: Two columns of 18 lines; Folio 9: Two columns of 17 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers present between columns.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. e. 7.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part9">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 11 (Folios. 10r-11v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 11; folios 10r-11v; Fragments of a Maštoc‘: Canon of the Third Day of the Burial of a Priest. Formerly a fly leaf taken from MS. Arm. e. 6.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item9">
+                        <locus>Folios. 10r-11v</locus>
+                        <title xml:lang="en" key="work_393">Maštoc‘: Office for the third day of the burial of a priest (fragment)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 10r-11v: Maštoc‘: Fragment of the office for the third day of a priest’s burial, preserving portions of readings and prayers, including an Alleluia rubric with a psalm incipit (10r), a Gospel rubric (10r)  followed by readings from John 17:11 (10r) and parts of John 17:8 (10v), and a deacon’s rubric (11r) followed by the deacon’s petition concerning the Lord’s calling through the angel and the reception of the deceased’s soul (11r).</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>6.875</height>
+                                 <width>9.75</width>
+                              </dimensions>
+                              <dimensions type="leaf" unit="in">
+                                 <height>6.875</height>
+                                 <width>5.25</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 6.875" by 9.75" inches and 6.875" by 5.25" inches</note>
+                           </extent>
+                           <collation>Folios have been cropped significantly around all borders of the text.</collation>
+                           <condition>Folios are torn in multiple places which affect legibility. Significant hole on folio 11r which also affects legibility. Four original binding holes run vertically between folios 10v and 11r.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 18 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Red rubrication on folios 10r and 11r.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragments formerly fly leaves taken from MS. Arm. e. 6.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part10">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 12 (Folio. 12r-12v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 12; folio 12r-12v; Fragment of a Maštoc‘: Canon of the Benediction of cereals, harvest, and vintage and the Prayer in time of drought. Formerly a fly leaf taken from MS. Marsh. 646.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item10">
+                        <locus>Folio 12r-12v</locus>
+                        <title xml:lang="en" key="work_394">Maštoc‘: Canon of the Benediction of cereals, harvest, and vintage (fragment)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 12r-12v: 
+                        Maštoc‘: Portions of Canon of the Benediction of cereals, harvest, and vintage</note>
+                        <incipit xml:lang="hy">Տեր աստուած ամենակալ որ վերածես...</incipit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item10-2">
+                        <locus>Folio 12v</locus>
+                        <title xml:lang="en" key="work_932">Maštoc‘: Prayer in time of drought (fragment)</title>
+                        <title xml:lang="hy" key="work_932">Աղօթք վասն երաշտութեան</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 12v
+                        Maštoc‘: Prayer in time of drought
+                        Title: Աղօթք վասն երաշտութեան</note>
+                        <incipit xml:lang="hy">Տեր Աստուած մեր...</incipit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>10.5</height>
+                                 <width>6.75</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 10.5" by 6.75" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped around all borders of the text.</collation>
+                           <condition>Folio is creased horizontally across the middle with four binding holes reflecting its role as a fly leaf for MS. Marsh. 646. Alongside the creasing of the text, folio 12 is partially stained at various points on the recto and considerably weathered on the verso, which all affect legibility. On the lower half of the folio there are four holes of varying size which exhibit scribal circumscription.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>12r: Two columns  of 26 lines; 12v: Two columns  of 25 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly fly leaf taken from MS. Marsh. 646.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part11">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 13 (Folio. 13r-13v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 13; folio 13r-13v; Fragment of a Tawnakan: Reading from Matthew 23: 37-39, Commemoration of the Council of <placeName key="place_7002499">Ephesus</placeName> (30th Arac‘), Discourse attributed to <persName key="person_170">Philoxenus of Mabug</persName> on the council of <placeName key="place_7002499">Ephesus</placeName> and the condemnation of <persName key="person_171">Nestorius</persName>. Formerly a fly leaf taken from MS. Arm. e. 9.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item11">
+                        <locus>Folio 13r</locus>
+                        <title xml:lang="en" key="work_847">Tawnakan: Reading from Matthew 23:37-39</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 13r: 
+                        Tawnakan: Reading from Matthew 23: 37-39</note>
+                        <incipit xml:lang="hy">որ կոտորէր զմարգարէսն եւ քարկոծ...</incipit>
+                        <explicit xml:lang="hy">...եկեալ յանուն Տեառն:</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item11-2">
+                        <locus>Folio 13r-v</locus>
+                        <author key="person_170">Attributed to Philoxenus of Mabug</author>
+                        <title xml:lang="en" key="work_395">Tawnakan: Commemoration of the Council of <placeName key="place_7002499">Ephesus</placeName> (30th Arac‘) and discourse attributed to <persName key="person_170">Philoxenus of Mabug</persName></title>
+                        <title xml:lang="hy" key="work_395">Արանց ամսոյ ի Լ. <placeName key="place_7002499">Եփեսոսի</placeName> սուրբ ժողովոյն որ յաղագս ամբերշտին <persName key="person_171">Նստորի</persName> եղեւ յաւուրս <persName key="person_172">Թեոդոսի</persName> թագաւորին, որ փոքրն կոչեցաւ <persName key="person_172">Թեոդոս</persName>. Երանելոյն <persName key="person_170">Փիղիքսիանոսի</persName> նաբուքայ եպիսկապոսի Պատճարք ժողովոյն […] <placeName key="place_7002499">յԵփեսոս</placeName> ի քակտումն <persName key="person_171">Նստորի</persName>[…]:</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 13r-v 
+                        Tawnakan: Commemoration of the Council of <placeName key="place_7002499">Ephesus</placeName> (30th Arac‘), Discourse attributed to <persName key="person_170">Philoxenus of Mabug</persName> on the council of <placeName key="place_7002499">Ephesus</placeName> and the condemnation of <persName key="person_171">Nestorius</persName>.</note>
+                        <note type="contents-detail">Title: Արանց ամսոյ ի Լ. <placeName key="place_7002499">Եփեսոսի</placeName> սուրբ ժողովոյն որ յաղագս ամբերշտին <persName key="person_171">Նստորի</persName> եղեւ յաւուրս <persName key="person_172">Թեոդոսի</persName> թագաւորին, որ փոքրն կոչեցաւ <persName key="person_172">Թեոդոս</persName>. Երանելոյն <persName key="person_170">Փիղիքսիանոսի</persName> նաբուքայ եպիսկապոսի Պատճարք ժողովոյն […] <placeName key="place_7002499">յԵփեսոս</placeName> ի քակտումն <persName key="person_171">Նստորի</persName>[…]:</note>
+                        <incipit xml:lang="hy">Արդ այլ ինչ է զոր հանդերձեալ եմք պատմել <persName key="person_171">Նստորիոս</persName> ոմն մեծանուն եղեալ եպիսկապոս քաղաքին <placeName key="place_7002473">Կոստանդինուպաւղսի</placeName>...</incipit>
+                        <explicit xml:lang="hy">Ապա ոչ կարացեալ համբերեալ...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>7</height>
+                                 <width>10.375</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 7" by 10.375" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped around top and bottom of the text.</collation>
+                           <condition>Folio is creased vertically across the middle with four binding holes reflecting its role as a fly leaf for MS. Arm. e. 9. Alongside the creasing of the text, folio 13 is torn in places which affects legibility. The script is also partially faded in places on both the recto and verso.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>13r: Two columns of 20 and 26 lines; 13v: Two columns  of 25 and 24 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A smaller Erkat'agir is used on folio 13r to indicate the Commemoration of the Council of Ephesus (30th Arac‘) and the Discourse attributed to Philoxenus of Mabug on the council of Ephesus and the condemnation of Nestorius.</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly fly leaf taken from MS. Arm. e. 9.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part12">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 14(ab) (Folio. 14(a)r-14(b)v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 14; folio 14(a)r-14(b)v; Fragment of a Tawnakan: 14(a)v contains the end of an unidentified text, followed by the beginning of a homily by <persName key="person_173">Theodotus</persName> of Ancyra on the Nativity which runs across 14(a)r-14(b)v. The marginal numeral ԽԲ (42) designates the <persName key="person_173">Theodotus</persName> homily as the 42nd lection of the original Tawnakan. Formerly a fly leaf taken from MS. Arm. d. 1.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item12">
+                        <locus>Folio 14(a)v</locus>
+                        <title xml:lang="en">End of an unidentified reading</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 14(a)v
+                        End of unidentified reading</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item12-2">
+                        <locus>Folios_14(a) and 14(b)</locus>
+                        <author key="person_173">Theodotus of Ancyra</author>
+                        <title xml:lang="en" key="work_397">Tawnakan: Homily of <persName key="person_173">Theodotus</persName>, Bishop of Ancyra, on the Nativity of Christ</title>
+                        <title xml:lang="hy" key="work_397"><persName key="person_173">Թեոդոտոսի</persName> եպիսկոպոսի Անկիւրա [խաւսք ի] ծնունդն տեառն մերոյ Յիսուսի Քրիստոսի, եթե Աստուած է [...]լն ի կուսէն մարդ էղեալ սքանչել[աւք] եւ ոչ փոխադրութեամբ էութեանն [եւ եթե] մի եւ նոյն է եւ այն եւ այս ասացեալ [եւ ոչ մտ]ածութեամբ եւ ոչ խորհրդով անջատեալ</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folios_14(a) and 14(b)
+                        Tawnakan: Homily of <persName key="person_173">Theodotus</persName>, Bishop of Ancyra, on the Nativity of Christ
+                        Title: <persName key="person_173">Թեոդոտոսի</persName> եպիսկոպոսի Անկիւրա [խաւսք ի] ծնունդն տեառն մերոյ Յիսուսի Քրիստոսի, եթե Աստուած է [...]լն ի կուսէն մարդ էղեալ սքանչել[աւք] եւ ոչ փոխադրութեամբ էութեանն [եւ եթե] մի եւ նոյն է եւ այն եւ այս ասացեալ [եւ ոչ մտ]ածութեամբ եւ ոչ խորհրդով անջատեալ</note>
+                        <incipit xml:lang="hy">[Պայ]ծառ եւ հրաշափառ է մերձա[կայ] տաւնիս...</incipit>
+                        <explicit xml:lang="hy">...անմարթ համարի գոլ զասացեալն բնութեան փոխադրութիւն եւ աստանաւր</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>21.25</height>
+                                 <width>13.5</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Thin Vellum, 21.25" by 13.5" inches</note>
+                           </extent>
+                           <collation>Two parts of a single folio which has been cut horizontally. The left columns of both 14(a)r and 14(b)v are partially cropped</collation>
+                           <condition>Folio 14(a) is heavily stained on both recto and verso which affects legibility in places.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>14(a)r: Two columns of 23 lines; 14(a)v: Two columns of 23 and 24 lines; 14(b)r: Two columns of 19 lines; 14(b)v: Two columns of 18 and 19 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A smaller Erkat'agir is used to indicate the Homily of <persName key="person_173">Theodotus</persName>, Bishop of Ancyra, on the Nativity of Christ on folio 14(a)v.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>A large red and green ornamentation in margin of folio 14(a)v below large lection number. Red and black striped ornamentation running horizontally across the column is present on folio 14(a)v  to indicate the Homily of <persName key="person_173">Theodotus</persName>, Bishop of Ancyra, on the Nativity of Christ.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. d. 1.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part13">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 15 (Folio. 15r-15v.)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 15; folio 15r-15v; Portion of the 16th (in Greek, 20th) question of the Monastic rules of <persName key="person_159">St Basil</persName>. In Armenian: Հարցողաց Գիրք. Formerly a fly leaf taken from MS. Arm. e. 9.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item13">
+                        <locus>Folio. 15r-15v.</locus>
+                        <author key="person_159">Basil of Caesarea</author>
+                        <title xml:lang="en" key="work_399"><persName key="person_159">Basil of Caesarea</persName>: Monastic rules, question 16 (Greek question 20), fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 15r-15v
+                        Portion of the 16th (in Greek, 20th) question of the Monastic rules of <persName key="person_159">St Basil</persName>. In Armenian: Հարցողաց Գիրք.</note>
+                        <incipit xml:lang="hy">ընդունին եւ ոչ զգ[ուշա]նասն աստի փափ[կու]թեան պատրաստ...</incipit>
+                        <explicit xml:lang="hy">...զի ունայնութե[…] ամենայն զկեն...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>9.375</height>
+                                 <width>6.875</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 9.375" by 6.875" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped around inner and upper edges, leaving initial lines of the inner column cut off.</collation>
+                           <condition>Folio is creased horizontally across the middle with four binding holes reflecting its role as a fly leaf for MS. Arm. e. 9. Alongside this, there is a small circular tear in the upper left portion of the fragment. Folio 15v is heavily faded which substantially  affects legibility.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 15 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A later hand in Bolorgir is present at the bottom of the verso: ծառայ տեր Թումի</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. e. 9.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part14">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 16 (Folio. 16r-16v.)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 16; folio 16r-16v; unidentified ascetic treatise. Formerly a fly leaf taken from MS. Arm. d. 2.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item14">
+                        <locus>Folio. 16r-16v.</locus>
+                        <title xml:lang="en">Unidentified ascetic treatise, fragment</title>
+                        <title xml:lang="hy">Ի: Վասն եղբայրսիրութեան</title>
+                        <title xml:lang="hy">ԻԲ: Աղաւթք առ աստուած վասն յառաքինութեան յառաջադիմութեան</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 16r
+                        End of unidentified chapter
+                        Excipit...հանդերձեալքս եւ բազում փութոյ արժանաւորք այժմուք:</note>
+                        <note type="contents-detail">Folio 16r
+                        Title: Ի: Վասն եղբայրսիրութեան</note>
+                        <note type="contents-detail">Folio 16v
+                        Title: ԻԲ: Աղաւթք առ աստուած վասն յառաքինութեան յառաջադիմութեան</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>6.875</height>
+                                 <width>9.25</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 6.875" by 9.25" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped significantly around upper and outer portions, leaving the entire upper half of the text and most of the inner column cut off.</collation>
+                           <condition>Folio has four binding holes horizontally across the upper portion reflecting its role as a fly leaf for MS. Arm. d. 2. One of these holes has torn. Folio 16v is heavily faded which substantially  affects legibility.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 5 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir.</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. d. 2.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part15">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 17-20 (Folios. 17r-20v.)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 17-20; folios 17r-20v; Fragments of the works of <persName key="person_40">Evagrius of Pontus</persName>. Formerly a fly leaf taken from MS. Arm. e. 4.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item15">
+                        <locus>Folio 17r-17v</locus>
+                        <author key="person_40">Evagrius of Pontus</author>
+                        <title xml:lang="en" key="work_401"><persName key="person_40">Evagrius</persName>: <persName key="person_40">Եւագրեայ</persName> բան խրատու</title>
+                        <title xml:lang="hy" key="work_401"><persName key="person_40">Եւագրեայ</persName> բան խրատու</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 17r-17v
+                        Title: <persName key="person_40">Եւագրեայ</persName> բան խրատու</note>
+                        <incipit xml:lang="hy">...գաւազանք հեզոց բղխեսցեն ընկոյզ...</incipit>
+                        <explicit xml:lang="hy">...Ոչ առնին ճանապարհք նեղ անզգամաց, զի</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item15-2">
+                        <locus>Folio 18r</locus>
+                        <author key="person_40">Evagrius of Pontus</author>
+                        <title xml:lang="en" key="work_933"><persName key="person_40">Evagrius</persName>: <persName key="person_40">Եւագրեայ</persName> առ մարտիրոսսն</title>
+                        <title xml:lang="hy" key="work_933"><persName key="person_40">Եւագրեայ</persName> առ մարտիրոսսն</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 18r
+                        Title: <persName key="person_40">Եւագրեայ</persName> առ մարտիրոսսն</note>
+                        <incipit xml:lang="hy">...տուր ինձ համարձակութիւն ընդ սուրբս քո...</incipit>
+                        <explicit xml:lang="hy">...բանակեցայց եւ ի յարկս քո, յաւիտեան. Ամեն:</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item15-3">
+                        <locus>Folio 18v</locus>
+                        <title xml:lang="en" key="work_934">Evagrius of Pontus: On the Resurrection</title>
+                        <title xml:lang="hy" key="work_934">Վասն յարութեան</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 18v
+                        Title: Վասն յարութեան</note>
+                        <incipit xml:lang="hy">Յարութեանն Քրիստոսի երկրպագեսցուք...</incipit>
+                        <explicit xml:lang="hy">...աւրհնութեամբ քո լի եղեւ երկիր...</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item15-4">
+                        <locus>Folio 19r-19v</locus>
+                        <author key="person_40">Evagrius of Pontus</author>
+                        <title xml:lang="en"><persName key="person_40">Evagrius</persName>: Նորին <persName key="person_40">Եւագրեայ</persName></title>
+                        <title xml:lang="hy">Նորին <persName key="person_40">Եւագրեայ</persName></title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 19r-19v
+                        Title: Նորին <persName key="person_40">Եւագրեայ</persName></note>
+                        <incipit xml:lang="hy">...ի խուսղէ անտի, կամ ի սպանողէ անտի...</incipit>
+                        <explicit xml:lang="hy">...զի բարեպաշտութիւն է խորհուրդ երրորդութեանն ի միւմ աստուածութեան. Այլ</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item15-5">
+                        <locus>Folio 20r-20v</locus>
+                        <title xml:lang="en" key="work_935">Evagrius of Pontus: The Faith of Nicaea</title>
+                        <title xml:lang="hy" key="work_935">Հաւատք որ ի Նիկիայ</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 20r-20v
+                        Title:  Հաւատք որ ի Նիկիայ</note>
+                        <incipit xml:lang="hy">...սուրբ կատարեալ. Բարեխաւս առանց առնելոյ...</incipit>
+                        <explicit xml:lang="hy">Այղ որ միանգամ գիրք ասեն կամ աչս տեառն կամ ականնջս, կամ այնպիսի ինչ, մեք ի ճշմարտութիւնն...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>7.125</height>
+                                 <width>5.625</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Thin Vellum, 7.125" by 5.625" inches</note>
+                           </extent>
+                           <collation>Inner border of folios have been cropped.</collation>
+                           <condition>Folios are in generally good state of preservation. Small holes present on folios 17 and 20. Staining present on folios 17 and 19. The text of folio 18 is partially faded.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Single column of 18 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Large initials in red on all folios apart from folio 19r (where line openings have been cropped). Large initial in gold and red on folio 18v</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1300">No later than 13th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. e. 4</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part16">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 21 (Folio. 21r-21v.)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 21; folio 21r-21v; unidentified text. Formerly a fly leaf taken from MS. Arm. g. 1.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item16">
+                        <locus>Folio. 21r-21v.</locus>
+                        <title xml:lang="en">Unidentified text</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 21r-21v
+                        Unidentified text</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>3.625</height>
+                                 <width>3.625</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 3.625" by 3.625" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped significantly with most of the inner column cut away and only half the outer column remaining.</collation>
+                           <condition>Folio has three binding holes running horizontally across the upper portion reflecting its role as a fly leaf for MS. Arm. g. 1. One of these holes has torn. The text on both the recto and verso is heavily faded which substantially affects legibility.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 8 lines, with traces of a 9th line.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A later hand in Bolorgir is present on the verso: Ես տէր Մաթիոս տվի այս տըրտն Բարսեղ աբեղին ժամուց</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. g. 1.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part17">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 22 (Folio. 22r-22v.)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 22; folio 22r-22v; Gospel of Mark 10: 15-38. Formerly a fly leaf taken from MS. Arm. d. 8.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item17">
+                        <locus>Folio. 22r-22v.</locus>
+                        <title xml:lang="en" key="work_846">Gospel of Mark 10:15-38</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 22r-22v Gospel of Mark 10: 15-38.</note>
+                        <incipit xml:lang="hy">...Որ ոչ ընկալցի զարքայութիւն</incipit>
+                        <explicit xml:lang="hy">...ըմպելոց եմ, կամ զմկրտութիւնն մկրտել...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>14.5</height>
+                                 <width>11</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Thin Vellum, 14.5" by 11" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped around all edges but text remains mostly intact.</collation>
+                           <condition>Folio is creased horizontally across the middle with four binding holes reflecting its role as a fly leaf for MS. Arm. d. 8. The text is faded and stained in places, but legibility remains good.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 28 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Eusebian numbers between columns and corresponding Gospel harmonies at the foot of the page present</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. d. 8.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part18">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 23 (Folio. 23r-23v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 23; folio 23r-23v; Fragments of a Maštoc‘: Service for the Burial of a Priest. Formerly a fly leaf taken from MS. Arm. d.8.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item18">
+                        <locus>Folio. 23r-23v</locus>
+                        <title xml:lang="en" key="work_405">Maštoc‘: Service for the burial of a priest (fragment)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 23r
+                        End of the preceding section of the priest’s burial service; Rubric for lowering the body into its resting place: Incipit: Եւ տեառնագրեն զդին ամենայն քահանայքն եւ իջուցանեն...; Psalm; Rubric introducing a reading from the Second Epistle to Timothy.</note>
+                        <note type="contents-detail">Folio 23r-23v
+                        Reading from 2 Timothy, 4:1-8</note>
+                        <incipit xml:lang="hy">Զայս վկայութիւն դնեմ առաջի Աստուծոյ...</incipit>
+                        <explicit xml:lang="hy">...սիրեցին զյայտնութիւն նորա:</explicit>
+                        <note type="contents-detail">Folio 23v
+                        Alleluia and rubric for a reading from the Gospel of Matthew</note>
+                        <note type="contents-detail">Folio 23v
+                        Reading from Mat 19:27 continuing to the end of the surviving folio.</note>
+                        <incipit xml:lang="hy">Յայնժամ պատասխանի ետ Պետրոս եւ ասէ...</incipit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>12.875</height>
+                                 <width>9.5</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 12.875" by 9.5" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped around all borders of the text, column beginnings and parts of the inner column have been cut away.</collation>
+                           <condition>Folio is creased horizontally across the middle with three binding holes reflecting its role as a fly leaf for MS. Arm. d.8. The text is faded and stained in places, but legibility remains good throughout.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 26 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. A smaller Erkat'agir is used for rubrics.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Large initial letters.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1300">No later than 13th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. d.8.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part19">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 24-25 (Folios. 24r-25v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragments 24-25; folios 24r-25v; Fragments of <persName key="person_159">Basil of Caesarea</persName>, Against Those Who Are Angry (Զբարկացողաց) and On the Beginning of Proverbs. Formerly a fly leaf taken from MS. Marsh. 85.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item19">
+                        <locus>Folio 24r</locus>
+                        <author key="person_159">Basil of Caesarea</author>
+                        <title xml:lang="en" key="work_406"><persName key="person_159">Basil of Caesarea</persName>: Against Those Who Are Angry (Զբարկացողաց), fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 24r
+                        Fragment of <persName key="person_159">Basil of Caesarea</persName>, Against Those Who Are Angry (Զբարկացողաց). Homily X, §4; PG 31.</note>
+                        <incipit xml:lang="hy">...թշնամանելի, այղ ոչ բերեալ առաքինաբար...</incipit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item19-2">
+                        <locus>Folio 25r</locus>
+                        <author key="person_159">Basil of Caesarea</author>
+                        <title xml:lang="en" key="work_936"><persName key="person_159">Basil of Caesarea</persName>: On the Beginning of Proverbs, fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 25r
+                        Fragment of <persName key="person_159">Basil of Caesarea</persName>, On the Beginning of Proverbs. Homily XII, §3; PG 31.</note>
+                        <incipit xml:lang="hy">...Զի զոր աւրինակ [հիւ]անդացն պիտանացուք են բժիշք...</incipit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>8.25</height>
+                                 <width>6</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 8.25" by 6" inches</note>
+                           </extent>
+                           <collation>Folios have been significantly cropped and large portions of text have been cut away.</collation>
+                           <condition>Folios are creased horizontally across the middle reflecting their role as fly leaves for MS. Marsh. 85. Small holes are present across both folios and the text is faded and stained in places, but legibility remains good throughout.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Single column of 15 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment formerly fly leaf taken from MS. Marsh. 85.</provenance>
+                  </history>
+               </msPart>
+               
+               <msPart xml:id="MS_Arm_b_1-part20">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 26-27 (Folios. 26r-29v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 26-27; folios 26r-29v; (Upper text) Fragments of a homiletic and ascetic miscellany (Possibly an Ոսկեփորիկ): Commentary on Isaiah 40: 8; Extracts from Apophthegmata Patrum; Unidentified discourse in which the Temptation of Jesus in the Wilderness is covered; small scribal note. Formerly a fly leaf taken from MS. Arm. e. 2.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item20">
+                        <locus>Folios 26r-27r: Commentary on Isaiah 40: 8</locus>
+                        <title xml:lang="en">Commentary on Isaiah 40:8 (upper text)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folios 26r-27r: Commentary on Isaiah 40: 8
+                        Incipit ...եւ տես զլուծեալսն  եւ ահա ոչ խոտ միայն այլ եւ մոխիր տեսանես...</note>
+                        <explicit xml:lang="hy">...հոգովն առափ կենդանի:</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item20-2">
+                        <locus>Folio 27r-27v: Յորդորակ</locus>
+                        <title xml:lang="en">Յորդորակ (upper text)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 27r-27v: Յորդորակ</note>
+                        <incipit xml:lang="hy">Իսկ ապա դարձեալ ի յաւարտման բանիս...</incipit>
+                        <explicit xml:lang="hy">...որոց վարձահատոյցն քրիստոս անսասանելի աթոռոցն եւ անթառամ պսակացն արժան...</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item20-3">
+                        <locus>Folio 28r-28v: Apophthegmata Patrum</locus>
+                        <title xml:lang="en" key="work_937">Apophthegmata Patrum, extracts (upper text)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 28r-28v: Apophthegmata Patrum
+                        Ch 13: On the necessity of being joyfully compassionate and hospitable. (Venice, 1855), II. ch. 13.</note>
+                        <incipit xml:lang="hy">յայլ թագաւոր հրեշտակ ի քաղաքն ի մի յաւուրց...</incipit>
+                        <note type="contents-detail">Ch 10: Concerning divine and right judgment. (Venice, 1855), II. ch. 10.</note>
+                        <explicit xml:lang="hy">...պատասխանի ետ ծերն. Ասաց Եսայի մարգարէ թէ կոր...</explicit>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item20-4">
+                        <locus>Folio 29r-29v: Unidentified discourse in which the Temptation of Jesus in the Wilderness is covered</locus>
+                        <title xml:lang="en">Unidentified discourse concerning the Temptation of Jesus in the Wilderness (upper text)</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 29r-29v: Unidentified discourse in which the Temptation of Jesus in the Wilderness is covered</note>
+                        <incipit xml:lang="hy">...այնոքիկ իցեն. ոչ միայն այն զոր խաւսեցաւ ընդ մովսեսի եւ ընդ այլս....</incipit>
+                        <explicit xml:lang="hy">...որ եւ միտք բանի բաւական են ըմբերանել զնայ։</explicit>
+                        <note type="contents-detail">Folio 29v: Scribal note 
+                        Յետին սպասաւոր Յ(ո)վ(հանն)ես յիշեցեք: խիստ տրտումէի ի ժ(ա)մս այս</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>7</height>
+                                 <width>4.875</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 7 " by 4.875" inches</note>
+                           </extent>
+                           <collation>Folios have been significantly cropped around the outer and upper edges, portions of text have been cut away.</collation>
+                           <condition>Folios are palimpsests. Lower text is more discernable on folios 28v and 29r. Folios preserve binding holes, visible between folios 26v and 27r. Staining is present on folios 26r and 29v, and the upper text is faded in places,  but legibility remains reasonably good throughout.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Single column of 20-26 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="bolorgir">Upper text Bolorgir. Lower text Erkat'agir</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <p>Unknown original provenance, lower text date no later than 12th century, upper text date no later than 16th century</p>
+                     </origin>
+                     <provenance>Fragments formerly fly leaves taken from MS. Arm. e. 2.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part21">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 28 (Folio. 30r-30v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 28; folio 30r-30v; Fragments of a Lectionary (Čašoc‘): Lections for Wednesday of the Second week of Lent. Formerly a fly leaf taken from MS. Arm. f. 6.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item21">
+                        <locus>Folio. 30r-30v</locus>
+                        <title xml:lang="en" key="work_408">Lectionary (Čašoc‘): Wednesday of the second week of Lent, fragments</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 30r
+                        Exodus 2: 22; Joel 2: 1-4</note>
+                        <note type="contents-detail">Folio 30v
+                        Joel 2: 6-7, Joel 2: 9-11.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>6.25</height>
+                                 <width>8.75</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 6.25" by 8.75" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped around all sides, significant portions of text are lost.</collation>
+                           <condition>Folio is creased vertically across the middle with three binding holes reflecting its role as a fly leaf for MS. Arm. f. 6. The text is faded and folio heavily stained.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 11 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. Various later hands in Bolorgir have written over the Erkat'agir in multiple directions, including a hand in brown ink of ca. 15th century which runs across the recto and comprises a list of saints by date, including Leontios, Nerses, Polycarp, Hilary the wonderworker, Kirakos, and Eugenia.</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <p>Unknown original provenance, early hand no later than 11th  century, later hands 15th-17th century</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. f. 6.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part22">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 29 (Folio. 31r-31v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 29; folio 31r-31v; Fragments of Homily of <persName key="person_41">John Chrysostom</persName> on the Incomprehensible (Discourse II in the Armenian, III of the Greek). Formerly a fly leaf taken from MS. Arm. f. 6.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item22">
+                        <locus>Folio. 31r-31v</locus>
+                        <author key="person_41">John Chrysostom</author>
+                        <title xml:lang="en" key="work_409"><persName key="person_41">John Chrysostom</persName>: Homily on the Incomprehensible (Armenian discourse II, Greek discourse III), fragment</title>
+                        <title xml:lang="hy" key="work_409"><persName key="person_41">Յոհաննու Ոսկեբերանի</persName> յանհասից գրոց առ աննմանսն յաղագս անհասանելոյն :Բ: Յաղագս անհասանելոյն եւ թէ ոչ նուաստանալն Աստուածոյ բերելի է Սերովբէիցն։</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 31v: Homily of <persName key="person_41">John Chrysostom</persName> on the Incomprehensible (Discourse II in the Armenian, III of the Greek).
+                        Title <persName key="person_41">Յոհաննու Ոսկեբերանի</persName> յանհասից գրոց առ աննմանսն յաղագս անհասանելոյն :Բ: Յաղագս անհասանելոյն եւ թէ ոչ նուաստանալն Աստուածոյ բերելի է Սերովբէիցն։</note>
+                        <incipit xml:lang="hy">Աշխատայսեր մշակք յորժամ տեսանեն ծար անպտուղ...</incipit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>9</height>
+                                 <width>6</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Parchment, 9" by 6" inches</note>
+                           </extent>
+                           <collation>Folio has been cropped around all sides; significant portions of text are lost.</collation>
+                           <condition>Folio is creased horizontally across the middle with two binding holes reflecting its role as a fly leaf for MS. Arm. f. 6. Text on the recto is heavily faded and folio is  heavily stained</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 11 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir. Various later hands in Bolorgir have written over the Erkat'agir in multiple directions, including a hand in brown ink of ca. 15th century on 31r: Յանուն այ յամի տն ՌՆԼԷ. Յունիս ԺԹ: Ես Ֆր Յօսէպ վարդապետ եւ Վրխն մղս, գնեցի զարտաքինքս ի մեր հալալ ընչից: Ի տր Յոհանէս եպսէն ԺԱ թկաց միջնորդութեամբ Ֆր Գրիգորիմ եւ Ֆր Ջուանին Ճահկեցոյ եւ Մկրտչի եւ Մանուկ աղոցն: Եւ թիւ ամաց մեր... ի սոյն ամի ԽԹ ամ եւ Ջհանչսն. (In the name of God, on the 19th June 1437, I, friar Yosep vardapet and Varkhan the pilgrim purchased this Book of Philosophy with our halal resources. [It was purchased] from the Bishop Ter Yohannes for 11 denier through the mediation of Friar Grigor, Friar ǰouan of Čahouk, and Mkrtič̔ and Manouk...)</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <p>Unknown original provenance, early hand no later than 12th century, later hands 14th-17thC</p>
+                     </origin>
+                     <provenance>Fragment formerly a fly leaf taken from MS. Arm. f. 6</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part23">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 30 (Folio. 32r-32v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 30; folio 32r-32v; Fragment of Hosea 5: 7-13. Fragment given by Dr. Baronian.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item23">
+                        <locus>Folio. 32r-32v</locus>
+                        <title xml:lang="en" key="work_410">Hosea 5:7-13, fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 32r-32v: Hosea 5: 7-13.</note>
+                        <incipit xml:lang="hy">որդիք աւտարք ծնան նոցա: Արդ այժմ կերիցէ...</incipit>
+                        <explicit xml:lang="hy">...ասորեստանեայս, եւ առաքեաց...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>9.125</height>
+                                 <width>6.5</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 9.125" by 6.5" inches</note>
+                           </extent>
+                           <collation>Complete leaf.</collation>
+                           <condition>Fragment is heavily yellowed and stained.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Single column of 14 lines</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>A later decorative peacock is present at the bottom of folio 32r.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr. Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part24">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 31 (Folio. 33r-33v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 31; folio 33r-33v; Fragment of Gospel of Luke 14: 16-32. Fragment given by Dr. Baronian.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item24">
+                        <locus>Folio. 33r-33v</locus>
+                        <title xml:lang="en" key="work_845">Gospel of Luke 14:16-32, fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 33r-33v: Luke 14: 16-32</note>
+                        <incipit xml:lang="hy">...Եւ նա ասէ ցնա. Այր ոմն գործեաց...</incipit>
+                        <explicit xml:lang="hy">...Ապա թէ ոչ, մինչդեռ...</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>9.625</height>
+                                 <width>6.25</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 9.625" by 6.25" inches</note>
+                           </extent>
+                           <collation>Folio has been significantly cropped, particularly along the outer column.</collation>
+                           <condition>Folio is creased vertically across the middle with three binding holes reflecting its role as a fly leaf. The text is faded and stained in places but legibility remains good.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 20 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragment given by Dr. Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part25">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 32 (Folios. 34r-35v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 32; folios 34r-35v; Fragment of Gospel of Matthew 17: 12-19:12. Fragment given by Dr. Baronian.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item25">
+                        <locus>Folios. 34r-35v</locus>
+                        <title xml:lang="en" key="work_847">Gospel of Matthew 17:12-19:12, fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 34r: Matthew 17: 12-14</note>
+                        <note type="contents-detail">Folio 34v: Matthew 17: 24-26</note>
+                        <note type="contents-detail">Folio 35r: Matthew 18: 33-19:1</note>
+                        <incipit xml:lang="hy">...քում, որպէս եւ ես քեզ ողորմեցայ...</incipit>
+                        <explicit xml:lang="hy">...փոխեցաւ ի Գաղիղէէ...</explicit>
+                        <note type="contents-detail">Folio 35r: Matthew 19: 3-5</note>
+                        <note type="contents-detail">Folio 35v: Matthew 19: 7-9</note>
+                        <note type="contents-detail">Folio 35v: Matthew 19: 11-12</note>
+                        <incipit xml:lang="hy">...այղ որոց տուեալ է:</incipit>
+                        <explicit xml:lang="hy">...որ կարողն է տանել` տարցի:</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>7</height>
+                                 <width>6.75</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 7" by 6.75" inches</note>
+                           </extent>
+                           <collation>Heavily mutilated.</collation>
+                           <condition>Folio 34r comprises only a single thin strip of parchment with the first few words of the inner column preserved. Folio 34v comprises small cut out portions of words of the outer column reconstructed. The text on folios 34-35 is faded and stained.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 14 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragments given by Dr. Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part26">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 33 (Folio. 36r-36v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 33; folio 36r-36v; Fragment of Gospel of Matthew 28:20 and Gospel of Mark 1: 12-13. Fragment given by Dr. Baronian.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item26">
+                        <locus>Folio 36r: Matthew 28:20</locus>
+                        <title xml:lang="en" key="work_847">Gospel of Matthew 28:20, fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 36r: Matthew 28:20
+                        ...եւ ահաւասիկ ես ընդ ձեզ եմ զամենայն աւուրս կենաց, մինչեւ ցկատարած աշխարհի:</note>
+                     </msItem>
+                     <msItem xml:id="MS_Arm_b_1-item26-2">
+                        <locus>Folio 36v: Mark 1: 12-13</locus>
+                        <title xml:lang="en" key="work_846">Gospel of Mark 1:12-13, fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 36v: Mark 1: 12-13
+                        ...Եւ նոյնժամայն Հոգին հանէ զնա յանապատ: Եւ էր նա անդ զաւուրս քառասուն փորձեալ ի Սատանայէ, եւ էր ընդ գազանս. Եւ...</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>2.75</height>
+                                 <width>3.875</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 2.75" by 3.875" inches</note>
+                           </extent>
+                           <collation>Heavily cropped, only a small portion of text remains.</collation>
+                           <condition>Heavily faded and stained.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folio 36r: Single column (originally two), of 5 lines; Folio 36v Single column (originally two), of 7 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1100">No later than 11th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragments given by Dr. Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part27">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 34 (folio 37 (a-c))</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 34; folio 37 (a-c); Fragment of Gospel of Luke 12: 19-40; Luke 13:22-14:7. Fragment given by Dr. Baronian.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item27">
+                        <locus>folio 37 (a-c)</locus>
+                        <title xml:lang="en" key="work_845">Gospel of Luke 12:19-40 and 13:22-14:7, fragments</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 37(a-b): Luke 12: 19-40;</note>
+                        <incipit xml:lang="hy">...բարութիւնս համբարեալ ամաց բազմաց...</incipit>
+                        <explicit xml:lang="hy">...զի յորում ժամու ոչ կարծիցէք, գայ Որդի մարդոյ:</explicit>
+                        <note type="contents-detail">Folio 37(b-c): Luke 13:22-14:7</note>
+                        <incipit xml:lang="hy">...Եւ շրջէր ընդ քաղաքս եւ ընդ...</incipit>
+                        <explicit xml:lang="hy">...Ասաց եւ առ կոչնականսն առակ մի:</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="perg">
+                           <support>Parchment (vellum).</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>9.25</height>
+                                 <width>7</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Vellum, 9.25" by 7" inches</note>
+                           </extent>
+                           <collation>Cropped around outer margins.</collation>
+                           <condition>Folios are stained around margins but otherwise in a very good state of preservation. Four original binding holes are visible on folio 37(b).</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 24 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="erkatagir">Erkat'agir</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Ammonian section markers.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1200">No later than 12th century</origDate>
+                        <p>Unknown original provenance, date.</p>
+                     </origin>
+                     <provenance>Fragments given by Dr. Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part28">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 35 (Folio. 38r-38v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 35; folio 38r-38v; Fragment of Gospel of Matthew 3: 13-4:8; Fragment given by Dr. Baronian.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item28">
+                        <locus>Folio. 38r-38v</locus>
+                        <title xml:lang="en" key="work_847">Gospel of Matthew 3:13-4:8, fragment</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 38r-38v Matthew 3: 13-4:8;</note>
+                        <incipit xml:lang="hy">Յայնժամ գայ Յիսուս ի Գալելէէ...</incipit>
+                        <explicit xml:lang="hy">...Դարձեալ առնու ածէ զնա Սատանայ ի լեառն մի բարձր, եւ ցուցանէ</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Glazed paper.</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>6</height>
+                                 <width>9.5</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Glazed paper, 6" by 9.5" inches</note>
+                           </extent>
+                           <condition>Outer margin of folio is torn.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Two columns of 19 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="bolorgir">Bolorgir with Erkat'agir capitals.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Red stress markers present for reading.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1300">No later than 13th century</origDate>
+                        <p>Unknown original provenance.</p>
+                     </origin>
+                     <provenance>Fragments given by Dr. Baronian.</provenance>
+                  </history>
+               </msPart>
+
+               <msPart xml:id="MS_Arm_b_1-part29">
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno type="shelfmark">MS. Arm. b. 1, fragment 36 (Folios. 39r-43v)</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary>Fragment 36; folios 39r-43v; Fragment of Gospel of Mark 5:13-33; 7:24-8:6; 9:17-33; 10:43-45; 10:48-49; 13:8-9, 11-12; 13:2-3, 5-7. Fragment given by Dr. Baronian.</summary>
+                     <msItem xml:id="MS_Arm_b_1-item29">
+                        <locus>Folios. 39r-43v</locus>
+                        <title xml:lang="en" key="work_846">Gospel of Mark 5:13-33; 7:24-8:6; 9:17-33; 10:43-45; 10:48-49; 13:8-9, 11-12; 13:2-3, 5-7, fragments</title>
+                        <textLang mainLang="hy">Armenian</textLang>
+                        <note type="contents-detail">Folio 39r-v Mark 5:13-33</note>
+                        <incipit xml:lang="hy">...երամակն ի դարէ անտի ի ծովն:...</incipit>
+                        <explicit xml:lang="hy">...գիտէր զի՛նչ եղեւ նմա, եկն անկաւ...</explicit>
+                        <note type="contents-detail">Folio 40r-v: Mark 7:24-8:6</note>
+                        <incipit xml:lang="hy">...ի սահմանս Տիւրոսի եւ Սիդովնի:...</incipit>
+                        <explicit xml:lang="hy">...Եւ հրամայեաց ժողովրդեանն բազմել ի վերայ երկրի.</explicit>
+                        <note type="contents-detail">Folio 41r-v: Mark 9:17-33</note>
+                        <incipit xml:lang="hy">...զի հանցեն, եւ ոչ կարացին հանել զնա:</incipit>
+                        <explicit xml:lang="hy">...վիճէին ի ճանապարհին թէ ո՛վ մեծ իցէ:</explicit>
+                        <note type="contents-detail">Folio 42r: Mark 10:43-45</note>
+                        <note type="contents-detail">Folio 42v: Mark 10:48-49</note>
+                        <note type="contents-detail">Folio 43r: Mark 13: 8-9, 11-12</note>
+                        <incipit xml:lang="hy">...սովք: եւ սրածութիւնք: եւ խռովութիւնք:...</incipit>
+                        <explicit xml:lang="hy">...Մատնեսցէ եղբայր զեղբայր ի մահ: եւ հայր զորդի:</explicit>
+                        <note type="contents-detail">Folio 43v: Mark 13:2-3, 5-7</note>
+                        <incipit xml:lang="hy">...ամենայն շինուածս:...</incipit>
+                        <explicit xml:lang="hy">...մի՛ խռովիցիք, զի</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="sheet">
+                        <supportDesc material="chart">
+                           <support>Glazed paper.</support>
+                           <extent>
+                              <dimensions type="leaf" unit="in">
+                                 <height>12.5</height>
+                                 <width>8</width>
+                              </dimensions>
+                              <note type="measurement-source">Dimensions as supplied by Baronian and Conybeare: Glazed paper, 12.5" by 8" inches</note>
+                           </extent>
+                           <condition>Folios 39-41 constitute reconstructed full leaves, formerly cut in half to function as fly leaves. eight binding holes running horizontally across the folio are present per folio which reflects their use as fly leaves. Folios are stained in places but otherwise in good condition. Folio 42 is only a small fragment, heavily torn. Folio 43 is the upper half of a leaf with four binding holes running horizontally across the upper portion, reflecting its former role as a fly leaf.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout>Folios 39r-41v: Two columns of 20 lines.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="major" script="bolorgir">Bolorgir with Erkat'agir capitals.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>Red capitals.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="#Gregorian" notAfter="1400">No later than 14th century</origDate>
+                        <p>Unknown original provenance, date.</p>
+                     </origin>
+                     <provenance>Fragments given by Dr. Baronian.</provenance>
+                  </history>
+               </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <classDecl>
-            <taxonomy xml:id="LCSH">
-               <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
-               </bibl>
-            </taxonomy>
-            <taxonomy xml:id="local_class">
-               <category xml:id="commentary">
-                  <catDesc>Commentary</catDesc>
-               </category>
-               <category xml:id="supercommentary">
-                  <catDesc>Supercommentary</catDesc>
-               </category>
-               <category xml:id="indices">
-                  <catDesc>Indices</catDesc>
-               </category>
-               <category xml:id="translation">
-                  <catDesc>Translation</catDesc>
-               </category>
-               <category xml:id="multipleWorks">
-                  <catDesc>multipleWorks</catDesc>
-               </category>
-               <category xml:id="abridgement">
-                  <catDesc>Abridgement</catDesc>
-               </category>
-               <category xml:id="supplement">
-                  <catDesc>Supplement</catDesc>
-               </category>
-               <category xml:id="papers">
-                  <catDesc>Papers</catDesc>
-               </category>
-               <category xml:id="documents">
-                  <catDesc>Documents</catDesc>
-               </category>
-               <category xml:id="extract">
-                  <catDesc>Extract</catDesc>
-               </category>
-               <category xml:id="gloss">
-                  <catDesc>Gloss</catDesc>
-               </category>
-               <category xml:id="selection">
-                  <catDesc>Selection</catDesc>
-               </category>
-               <category xml:id="diagrams">
-                  <catDesc>Diagrams</catDesc>
-               </category>
-               <category xml:id="notes">
-                  <catDesc>Notes</catDesc>
-               </category>
-               <category xml:id="letters">
-                  <catDesc>Letters</catDesc>
-               </category>
-               <category xml:id="versification">
-                  <catDesc>Versification</catDesc>
-               </category>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh85098523#concept" key="subject_sh85098523">Passion Narratives (Gospels)</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh85007281#concept" key="subject_sh85007281">Armenian Church -- Liturgy</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh92000686#concept" key="subject_sh92000686">Lectionary preaching</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/names/n80001460" key="subject_n80001460">John Chrysostom, Saint, d. 407</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
+
       <revisionDesc>
-         <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
-         </change>
-         <change when="2011-05-12">
-            <persName>Robin Meyer</persName>
-         </change>
+         <change when="2026-11-02">
+            <persName>Lewis Read</persName>Record complete</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic url="cat_pdf/p93.pdf"/>
-      <graphic url="cat_pdf/p95.pdf"/>
-      <graphic url="cat_pdf/p97.pdf"/>
-      <graphic url="cat_pdf/p99.pdf"/>
-   </facsimile>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>
+            <!--Body paragraph provided for validation and future transcription-->
+         </p>
       </body>
    </text>
 </TEI>
